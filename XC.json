@@ -4,7 +4,7 @@
 
 
 {
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0915.jar",
+    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC0915.jar;md5;5BD7786D7EE685C746870B3B163B5D27",
 	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
