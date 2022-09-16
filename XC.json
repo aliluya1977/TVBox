@@ -38,7 +38,6 @@
 {"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMzk2MSwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0xNVQwOTo1NjozOC41MzErMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTE1VDA5OjU2OjM4LjUzMSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6Ijg2NzMzNzkzNUBxcS5jb20iLCJ1c2VyX25hbWUiOiIiLCJ1c2VyX3B3ZCI6IiIsInVzZXJfaWQiOiI2NWFlZDQ0My02ZmFhLTQyMTYtYTU2Mi04Y2YyZjlmZjk1ZGIiLCJ1c2VyX2Fuc3dlciI6IiIsImxvY2tfaXMiOiJGYWxzZSIsImlzX3R2IjoiIiwiaXNfYWRtaW4iOiJGYWxzZSIsInJlZ190aW1lIjpudWxsLCJyZWdfa2V5IjoiIiwidHZfdGltZSI6bnVsbCwidHZfa2V5IjoiIn0sImV4cCI6MTY2MzgxMTgwNCwiaXNzIjoiQWxmcmVkbyBNZW5kb3phIn0.t0xl2Grj9CzjcbzL7538Q0Kb7rDTvB90qz7A0I24KLs"},
-//{"key":"293视频","name":"2️⃣293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_Wmkk","name":"💯完美看看","api":"csp_Wmkk","type":3,"searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"spider_IKan","name":"❤️爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
