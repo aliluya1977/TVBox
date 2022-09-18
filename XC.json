@@ -249,18 +249,14 @@
 		"name": "GGTV自用",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
-          }, {
-		"name": "aiku",
-		"type": 1,
-		"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
 	}, {
 		"name": "云you解析",
 		"type": 1,
 		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="
-          }, {
+    }, {
 		"name": "未知",
 		"type": 1,
-		"url": "http://120.53.102.254/jx1/jx75.php?url="
+		"url": "http://150.230.216.174/tvjx.php?url="
 	}, {
 		"name": "未知2",
 		"type": 0,
