@@ -35,6 +35,7 @@
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"bdys","name":"☀️哔嘀(磁力测试)","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bdys.json"},
 {"key":"csp_AppTT","name":"🆗TT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Yj1211","name": "📽️在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Anime1","name": "🌸动漫","type": 3,"api": "csp_Anime1","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Alist","name":"🅰Alist网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园$https://alist.52qy.repl.co#菊花盘$https://pan.142856.xyz#小江$https://dyj.me#触光$https://pan.ichuguang.com#好汉吧$https://8023.haohanba.cn#轻弹浅唱$https://g.xiang.lol#神器云$https://quanzi.laoxianghuijia.cn"},
@@ -254,6 +255,20 @@
 		"name": "云you解析",
 		"type": 1,
 		"url": "http://chaloli.cn/home/api?type=ys&uid=1&key=dklsuzIKNPRVW14568&url="
+	}, {
+		"name": "神1",
+		"type": 0,
+		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}    
+	}, {
+		"name": "神2",
+		"type": 0,
+		"url": "https://h5.freejson.xyz/player/?url=",
+		"ext": {
+			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
+		}   
     }, {
 		"name": "未知",
 		"type": 1,
