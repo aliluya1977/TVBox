@@ -55,6 +55,7 @@
 {"key": "Gitcafe","name": "📜小纸条","type": 3,"api": "csp_Gitcafe","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"csp_Yiso","name":"🆎易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"81461f2e9d0b4ffb86612db403824b8a"},
+{"key":"csp_Upyunso","name":"☁️Up云搜","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":1,"ext":"81461f2e9d0b4ffb86612db403824b8a"},
 {"key": "push_agent","name":"🍭推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext": "81461f2e9d0b4ffb86612db403824b8a"},
 {"key":"csp_xpath_yinfans","name":"🌀音范丝(磁力链)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/yinfans.json"},
 {"key": "csp_XYQBiu_聚合短视频","name":"☘️聚合短视频","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/dsp.json"},
