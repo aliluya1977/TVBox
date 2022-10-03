@@ -271,6 +271,10 @@
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
 	}, {
+		"name": "云you",
+		"type": 1,
+		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=klmnqADJQRUV024678&url="
+	}, {
 		"name": "未知",
 		"type": 1,
 		"url": "http://api.ckflv.cn/?url="
