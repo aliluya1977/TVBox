@@ -1232,7 +1232,6 @@ TVB J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 RTHK32,http://120.132.122.244:59845/hls/90/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8?zgangd
 HTV3,https://livecdn.fptplay.net/sdb/htv3_hls.smil/chunklist_b2500000.m3u8
-ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8
 HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 TVB翡翠,http://120.132.122.244:59845/hls/80/index.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
@@ -1271,7 +1270,6 @@ viutv,http://120.132.122.244:59845/hls/86/index.m3u8
 无线财经,http://120.132.122.244:59845/hls/83/index.m3u8
 TVB明珠,http://120.132.122.244:59845/hls/84/index.m3u8
 viutv6,http://120.132.122.244:59845/hls/85/index.m3u8
-ViuTV6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 
 🏝丨直播中国,#genre#
 广西玉林大容山莲花山顶,http://gcbsc.v.live.baishancdnx.cn/gc/drs01_1/index.m3u8
