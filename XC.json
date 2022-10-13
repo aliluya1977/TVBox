@@ -209,13 +209,9 @@
 		"type": 2,
 		"url": "Sequence"
 	}, {
-		"name": "GGTV搜集",
+		"name": "GGTV聚合",
 		"type": 1,
 		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
-	}, {
-		"name": "GGTV自用",
-		"type": 1,
-		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=ixiaobai&url="
 	}, {
 		"name": "云you",
 		"type": 1,
