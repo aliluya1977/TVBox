@@ -218,14 +218,14 @@
 		"type": 1,
 		"url": "http://api.ckflv.cn/?url="
 	}, {
-		"name": "神1",
+		"name": "可与",
 		"type": 1,
 		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	}, {
-		"name": "神2",
+		"name": "未知2",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
@@ -233,7 +233,7 @@
 		}    
 	}, {
 		"name": "OKjx嗅探",
-		"type": 1,
+		"type": 0,
 		"url": "https://okjx.cc/?url="
 	}],
 	"flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
