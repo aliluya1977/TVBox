@@ -30,7 +30,7 @@
 {"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_XBiu_快看","name":"👀快看（XBiu）","type":3,"api":"csp_XBiu","searchable":1,"quickSearch":1,"filterable":0,"ext": "http://www.kuaikanys.net/s/{cateId}/page/{catePg}.html"},
 {"key":"csp_Bttoo","name":"✌两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"bdys","name":"☀️哔嘀(磁力测试)","type": 3,"api":"csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Bdys.json"},
 {"key":"csp_AppTT","name":"🆗TT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
