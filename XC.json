@@ -31,7 +31,6 @@
 {"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_Cokemv","name":"🚗Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/XC.txt"},
-{"key":"3EDY","name":"3️⃣3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/XC.txt"},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🆗TT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
