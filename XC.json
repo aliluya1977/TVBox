@@ -4,7 +4,7 @@
 
 
 {
-    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;4C86BF256E5FB6E3754B921F87FB47BF",
+    "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;BE90FDC7290AE1A22EBEDE807AD9E959",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		"group": "redirect",
@@ -25,11 +25,11 @@
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""}, 
 {"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
+{"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐎神马影院","type":3,"api":"csp_Smdyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"IKan","name":"💖爱看","type":3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
-{"key":"csp_LibVio","name":"🔷LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_Cokemv","name":"🚗Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/Yoursmile.txt"},
 {"key":"csp_DiDuan","name":"📺低端影视","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/XC.txt"},
 {"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
