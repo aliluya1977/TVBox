@@ -74,6 +74,7 @@
 {"key":"快播资源","name":"🐝快播资源","type":1,"api":"http://www.kuaibozy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"200121","name":"🐝200121","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
+{"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/88%E7%9C%8B%E7%90%83.js"},
 {"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRKAN%E7%9B%B4%E6%92%AD.js"},
 {"key": "dr_JJRS看比赛","name": "JRS看比赛(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E7%9C%8B%E6%AF%94%E8%B5%9B.js"},
 {"key": "dr_JRS看球网","name": "JRS看球网(drpy)","type": 3,"api": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gitea.com/Yoursmile99/Yoursmile/raw/branch/main/js/JRS%E7%9C%8B%E7%90%83%E7%BD%91.js"},
