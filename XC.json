@@ -32,7 +32,6 @@
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/custom_spider.txt"},
 {"key":"csp_Cokemv","name":"🚗可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/custom_spider.txt"},
 {"key":"csp_Ddys","name":"📺低端影视","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/custom_spider.txt"},
-{"key":"mjxq_spider","name":"🌏美剧星球","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_Auete","name":"🐼奥特","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppTT","name":"🆗TT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Bd","name":"💥bidi","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
