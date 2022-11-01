@@ -40,6 +40,7 @@
 {"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
+{"key":"Hei","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile999/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"csp_Lgyy","name":"💧蓝光影院","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_剧荒","name":"👿剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"追剧喵","name":"🐯追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
