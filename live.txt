@@ -1465,7 +1465,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-中國電影[1280*720],http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 中視經典[1280*720],http://50.7.220.74:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亞洲旅遊[1280*720],http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d
@@ -1485,7 +1484,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
 番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-美亞電影[1280*720],http://50.7.220.74:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&ct=17874&tsum=164baeda6ab6c4160f2775128cfc6f4e
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
@@ -1564,7 +1562,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
 淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
-淳安电视台,https://wtmtylive.yunshicloud.com/tbziu1/ad592j.m3u8?zzhed
 桐庐综合频道,http://livetongl.chinamcache.com/live/tlzb01.m3u8?txSecret=2ee28a051ebfb1b0771869a7d652d4a9&txTime=639a8391?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
@@ -1576,8 +1573,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 上虞新闻综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
 上虞文化影院,http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 上虞新商都,http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-海宁新闻综合,http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
-海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
 
@@ -1597,8 +1592,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 盐城新闻综合,http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd
 盐城法制生活,http://stream.0515yc.cn/yctv2/playlist.m3u8?zjiangsd
 盐城城市公共,http://stream.0515yc.cn/yctv3/playlist.m3u8?zjiangsd
-徐州文艺影院,http://stream1.huaihai.tv/wyys/sd/live.m3u8?zjiangsd
-徐州公共频道,http://stream1.huaihai.tv/ggpd/sd/live.m3u8?zjiangsd
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
@@ -1620,8 +1613,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 盐都综合频道,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
 如东新闻综合,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8?zjiangsd
 江宁新闻频道,https://jiangning-tv-hls.cm.jstv.com/jiangning-tv/jnxwzh.m3u8?zjiangsd
-六合新闻综合,https://p6.vzan.com/720020/626981218629939023/live.m3u8?zjiangsd
-六合影院生活,https://p6.vzan.com/720020/517762918718461566/live.m3u8?zjiangsd
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 溧水影院娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
 铜山综合频道,http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
