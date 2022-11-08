@@ -86,7 +86,6 @@ CCTV-17,http://111.13.42.238/PLTV/88888888/224/3221226459/1.m3u8?blog.ntnas.top
 
 
 ⚛️欢乐剧场,#genre#
-电视剧频道,http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 中国教育-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
@@ -94,7 +93,6 @@ CCTV-17,http://111.13.42.238/PLTV/88888888/224/3221226459/1.m3u8?blog.ntnas.top
 炫动卡通,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-第一财经,http://183.207.255.188/live/program/live/dycjhd/4000000/mnf.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
