@@ -121,10 +121,6 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	}, {
-		"name": "云you",
-		"type": 1,
-		"url": "http://chaloli.cn/home/api?type=ys&uid=1942949&key=adeikprtvwyCEJSXY2&url="
-	}, {
 		"name": "酷享影视",
 		"type": 1,
 		"url": "http://pandown.pro/app/kxjx.php?url=",
