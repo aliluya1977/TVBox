@@ -91,7 +91,6 @@
 
 {"key": "dr_88看球","name": "88看球(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88%e7%9c%8b%e7%90%83.js"},
 {"key": "dr_JRKAN直播","name": "JRKAN直播(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN%e7%9b%b4%e6%92%ad.js"},
-{"key": "dr_哔哩直播","name": "哔哩直播(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e5%93%94%e5%93%a9%e7%9b%b4%e6%92%ad.js"},
 {"key": "dr_兔小贝","name": "兔小贝(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e5%85%94%e5%b0%8f%e8%b4%9d.js"},
 {"key": "dr_蜻蜓FM","name": "蜻蜓FM(drpy)","type": 3,"api": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%9c%bb%e8%9c%93FM.js"},
 
