@@ -1,7 +1,6 @@
 ⚛️央视综合,#genre#
 抖音世界杯,http://mmmitv.top/test/douyin-x.php?id=rand
 抖音4K世界杯,http://www.mmitv.top/test/douyin-x.php?id=rand
-抖音4K世界杯,http://pull-hls-spe-l11.douyincdn.com/fantasy/stream-7168813858243971870_uhd.m3u8?_neptune_token=MIGZBAygCYCKGEhLp3IdP7MEd3EehYhGiQh5Kox6A8S6AKevvbf7WZwt98DlKdu7UixVvYXxT9y-bnvSFlohBvU-bM44H1os9SUZpqFTaz4sGGmg87bldh3_I7ALUO1mYuRG-Hm7kgPuPWXB1wnwUGBMNhv37d-tBxOAMZYmobX9JBrXBqq87ZKfBBB0LGuzRZCb8-8VC0752Jm0&expire=1669209751&sign=ac9ebfad5d7632439935918693ff7b22
 CCTV1,http://39.135.6.132:6610/000000001001/6000000001000029752/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000001000029752
 CCTV1,http://117.169.120.242:8080/wh7f454c46tw1490432856_1716888660/hwrr.jx.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8?icpid=88888888&RTS=1663085841&from=79102&ocs=2_117.169.120.136_8080&hms_devid=1403&online=1663085841&vqe=3
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
