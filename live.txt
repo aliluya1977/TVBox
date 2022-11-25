@@ -293,7 +293,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 兵团十四师昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8
 
 
-
 iHOT剧场,#genre#
 爱动漫,http://111.11.123.28:6610/000000001000/6000000006000280630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1958320221014141102306762&channel-id=wasusyt&Contentid=6000000006000280630
 爱奇谈,http://111.11.123.28:6610/000000001000/6000000006000270630/1.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT1961120221014133013296225&channel-id=wasusyt&Contentid=6000000006000270630
@@ -457,76 +456,6 @@ NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.m3u8
 
-
-🏀抖音世界杯,#genre#
-抖音世界杯,http://mmmitv.top/test/douyin-x.php?id=rand
-抖音4K世界杯,http://www.mmitv.top/test/douyin-x.php?id=rand
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168393137541846023
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168402140623426596
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168402140623442980
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168376863554933774
-第1轮-阿根廷VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7079013118885625870&eid=7168393137541731335
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7168805931990436622
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7167736208087337741
-第1轮-丹麦VS突尼斯,http://mmmitv.top/test/douyin-x.php?id=7078144013555073031&rid=7167736208087370509
-第1轮-墨西哥VS波兰,http://mmmitv.top/test/douyin-x.php?id=7078337909270708232
-第1轮-法国VS澳大利亚,http://mmmitv.top/test/douyin-x.php?id=7077955888174235685
-第1轮-摩洛哥VS克罗地亚,http://mmmitv.top/test/douyin-x.php?id=7081590255274623012
-第1轮-德国VS日本,http://mmmitv.top/test/douyin-x.php?id=7078144088528273422
-第1轮-西班牙VS哥斯达黎加,http://mmmitv.top/test/douyin-x.php?id=7079010933158330381
-第1轮-比利时VS加拿大,http://mmmitv.top/test/douyin-x.php?id=7077940426422091812
-第1轮-瑞士VS喀麦隆,http://mmmitv.top/test/douyin-x.php?id=7078143971100557326
-第1轮-乌拉圭VS韩国,http://mmmitv.top/test/douyin-x.php?id=7079013104176267295
-第1轮-葡萄牙VS加纳,http://mmmitv.top/test/douyin-x.php?id=7079010819186540580
-第1轮-巴西VS塞尔维亚,http://mmmitv.top/test/douyin-x.php?id=7078635905942716447
-第2轮-威尔士VS伊朗,http://mmmitv.top/test/douyin-x.php?id=7079010811733213214
-第2轮-卡塔尔VS塞内加尔,http://mmmitv.top/test/douyin-x.php?id=7078589836172640270
-第2轮-荷兰VS厄瓜多尔,http://mmmitv.top/test/douyin-x.php?id=7079010811330560014
-第2轮-英格兰VS美国,http://mmmitv.top/test/douyin-x.php?id=7077940427055546376
-第2轮-突尼斯VS澳大利亚,http://mmmitv.top/test/douyin-x.php?id=7078331218126897189
-第2轮-波兰VS沙特阿拉伯,http://mmmitv.top/test/douyin-x.php?id=7080405269557067784
-第2轮-法国VS丹麦,http://mmmitv.top/test/douyin-x.php?id=7078144019922534414
-第2轮-阿根廷VS墨西哥,http://mmmitv.top/test/douyin-x.php?id=7079010796210110477
-第2轮-日本VS哥斯达黎加,http://mmmitv.top/test/douyin-x.php?id=7078589839569993765
-第2轮-比利时VS摩洛哥,http://mmmitv.top/test/douyin-x.php?id=7079013124971610126
-第2轮-克罗地亚VS加拿大,http://mmmitv.top/test/douyin-x.php?id=7078807877045075975
-第2轮-西班牙VS德国,http://mmmitv.top/test/douyin-x.php?id=7078336803182411789
-第2轮-喀麦隆VS塞尔维亚,http://mmmitv.top/test/douyin-x.php?id=7077955893035450381
-第2轮-韩国VS加纳,http://mmmitv.top/test/douyin-x.php?id=7078143983855288350
-第2轮-巴西VS瑞士,http://mmmitv.top/test/douyin-x.php?id=7079013130189783070
-第2轮-葡萄牙VS乌拉圭,http://mmmitv.top/test/douyin-x.php?id=7081310526357159973
-第3轮-荷兰VS卡塔尔,http://mmmitv.top/test/douyin-x.php?id=7078589827138551844
-第3轮-厄瓜多尔VS塞内加尔,http://mmmitv.top/test/douyin-x.php?id=7078143983855271966
-第3轮-威尔士VS英格兰,http://mmmitv.top/test/douyin-x.php?id=7078589838949253150
-第3轮-伊朗VS美国,http://mmmitv.top/test/douyin-x.php?id=7079013129451077640
-第3轮-突尼斯VS法国,http://mmmitv.top/test/douyin-x.php?id=7079013128293482526
-第3轮-澳大利亚VS丹麦,http://mmmitv.top/test/douyin-x.php?id=7078144285257908231
-第3轮-波兰VS阿根廷,http://mmmitv.top/test/douyin-x.php?id=7078589830745161742
-第3轮-沙特阿拉伯VS墨西哥,http://mmmitv.top/test/douyin-x.php?id=7078144114449039397
-第3轮-克罗地亚VS比利时,http://mmmitv.top/test/douyin-x.php?id=7077940428493996068
-第3轮-加拿大VS摩洛哥,http://mmmitv.top/test/douyin-x.php?id=7080568360999829518
-第3轮-日本VS西班牙,http://mmmitv.top/test/douyin-x.php?id=7078589828526391332
-第3轮-哥斯达黎加VS德国,http://mmmitv.top/test/douyin-x.php?id=7078700246515236894
-第3轮-韩国VS葡萄牙,http://mmmitv.top/test/douyin-x.php?id=7078337911585947679
-第3轮-加纳VS乌拉圭,http://mmmitv.top/test/douyin-x.php?id=7078143972866162696
-第3轮-塞尔维亚VS瑞士,http://mmmitv.top/test/douyin-x.php?id=7079010811330576398
-第3轮-喀麦隆VS巴西,http://mmmitv.top/test/douyin-x.php?id=7077955887771615262
-世界杯1/8决赛---A组第1VSB组第2,http://mmmitv.top/test/douyin-x.php?id=7079010933158313997
-世界杯1/8决赛---C组第1VSD组第2,http://mmmitv.top/test/douyin-x.php?id=7079013134140276772
-世界杯1/8决赛---D组第1VSC组第2,http://mmmitv.top/test/douyin-x.php?id=7079826172300820493
-世界杯1/8决赛---B组第1VSA组第2,http://mmmitv.top/test/douyin-x.php?id=7081310526357143589
-世界杯1/8决赛---E组第1VSF组第2,http://mmmitv.top/test/douyin-x.php?id=7080568360999813134
-世界杯1/8决赛---G组第1VSH组第2,http://mmmitv.top/test/douyin-x.php?id=7077955887771598878
-世界杯1/8决赛---F组第1VSE组第2,http://mmmitv.top/test/douyin-x.php?id=7078337909270691848
-世界杯1/8决赛---H组第1VSG组第2,http://mmmitv.top/test/douyin-x.php?id=7078336803182395405
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7079013124971593742
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078143972866146312
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077940428493979684
-世界杯1/4决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078589836172623886
-世界杯半决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077940427055529992
-世界杯半决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7077955893035433997
-世界杯季军赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078807877045059591
-世界杯决赛---待定VS待定,http://mmmitv.top/test/douyin-x.php?id=7078589838949236766
 
 欢乐剧场,#genre#
 中国教育-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
