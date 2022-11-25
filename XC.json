@@ -22,6 +22,7 @@
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name":"🦉乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable":1,"ext": ""}, 
 {"key":"csp_AppTT","name":"🆗图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},	
+{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 {"key":"csp_Nkdy","name":"⏺南柯","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🎥影视工厂","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
@@ -62,7 +63,6 @@
 
 {"key":"YQK_spider","name":"一起看TV","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/qj.txt"},
 {"key":"csp_Gitcafe","name":"纸条（ts）","type":"3","api":"csp_Gitcafe","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
-{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 {"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
 {"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile8/Yoursmile/raw/branch/main/ts.txt"},
