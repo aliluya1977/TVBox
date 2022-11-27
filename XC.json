@@ -107,7 +107,7 @@
 {"key":"csp_xBPQ_素白白","name":"🍀素白白（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/素白白.json"}
 ],
 
- "parses": [{
+"parses": [{
 		"name": "解析聚合",
 		"type": 3,
 		"url": "Demo"
@@ -116,13 +116,6 @@
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
 	}, {
-		"name": "可与",
-		"type": 1,
-		"url": "http://newjiexi.gotka.top/keyu3.php?url=",
-		"ext": {
-			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-		}    
-	}, {
 		"name": "未知",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
@@ -130,9 +123,9 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	}, {
-		"name": "bozrc",
+		"name": "未知2",
 		"type": 0,
-		"url": "https://jx.bozrc.com:4433/player/?url=",
+		"url": "https://player.maqq.cn/?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":""}
 		}    
