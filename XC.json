@@ -113,6 +113,14 @@
 		"type": 3,
 		"url": "Demo"
 	}, {
+		"name": "Json轮询",
+		"type": 2,
+		"url": "Sequence"
+	}, {
+		"name": "Json并发",
+		"type": 2,
+		"url": "Parallel"
+	}, {
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
