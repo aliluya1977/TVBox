@@ -150,13 +150,6 @@
 			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
 		}    
 	}, {
-		"name": "十三",
-		"type": 0,
-		"url": "http://www.13tv.top/label/v.html?url=",
-		"ext": {
-			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
-		}  
-	}, {
 		"name": "OKjx嗅探",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
