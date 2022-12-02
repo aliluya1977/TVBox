@@ -1,7 +1,5 @@
 央视频道,#genre#
-SuperSport 4k世界杯,http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 CCTV1,http://hls.ye23.vip/hls/cctv1hd.m3u8
-CCTV1,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=cctv1
 CCTV1,http://1.195.111.251:11190/tsfile/live/0001_1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
@@ -12,13 +10,11 @@ CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
 CCTV1,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV2,http://hls.ye23.vip/hls/cctv2hd.m3u8
-CCTV2,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=cctv2
 CCTV2,http://1.195.111.251:11190/tsfile/live/0002_1.m3u8
 CCTV2,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
 CCTV2,http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 CCTV3,http://hls.ye23.vip/hls/cctv3hd.m3u8
-CCTV3,http://wtv.weetai.cn/iptv/2022/tyzb16.php?id=cctv3
 CCTV3,http://1.195.111.251:11190/tsfile/live/0003_1.m3u8
 CCTV3,http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 CCTV3,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
@@ -33,7 +29,6 @@ CCTV5,http://111.29.9.37:6610/000000001000/1000000005000025222/index.m3u8?stbId=
 CCTV5,http://111.29.9.42:6610/000000001000/1000000005000025222/index.m3u8?stbId=3&livemode=1&IASHttpSessionId=OTT2197120221119175523009763&channel-id=ystenlive&Contentid=1000000005000025222
 CCTV5,http://hls.ye23.vip/hls/cctv5hd.m3u8
 CCTV5,http://1.195.111.251:11190/tsfile/live/0005_1.m3u8
-CCTV5+,http://lu1.cc/c/tv/sjtv/p/migu.php?id=cctv5p
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV6,http://hls.ye23.vip/hls/cctv6hd.m3u8
 CCTV6,http://1.195.111.251:11190/tsfile/live/0006_1.m3u8
@@ -366,7 +361,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 星星影院,http://epg.112114.xyz/douyu/315131
-华语动作电影,http://epg.112114.xyz/douyu/1504768
 虎牙2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
@@ -2782,7 +2776,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 霍格影片,http://epg.112114.xyz/douyu/8814650
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
 星星影院,http://epg.112114.xyz/douyu/315131
-华语动作电影,http://epg.112114.xyz/douyu/1504768
 虎牙2,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
 喜剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
@@ -3040,7 +3033,6 @@ CHC高清电影,http://111.20.33.93/PLTV/88888893/224/3221226463/index.m3u8
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
 怀旧90,http://epg.112114.xyz/douyu/9275635
 国产影片,http://epg.112114.xyz/douyu/5423
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
@@ -3649,7 +3641,6 @@ Newtv精品萌宠,http://111.13.42.234/PLTV/88888888/224/3221226976/1.m3u8
 漫威电影,http://epg.112114.xyz/douyu/4282654
 恐怖经典,http://epg.112114.xyz/douyu/1165374
 华语电影,http://epg.112114.xyz/douyu/3928
-华语动作电影,http://epg.112114.xyz/douyu/1504768
 怀旧90,http://epg.112114.xyz/douyu/9275635
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 高帧影片,http://epg.112114.xyz/douyu/6763930
