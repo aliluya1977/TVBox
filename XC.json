@@ -131,10 +131,6 @@
 		"type": 1,
 		"url": "http://45.248.10.163:4433/json.php?wap=0&url="
 	}, {
-		"name": "bt5v",
-		"type": 1,
-		"url": "https://rx.bt5v.com/json/jsonindex.php/?url="
-	}, {
 		"name": "bozrc",
 		"type": 0,
 		"url": "https://jx.bozrc.com:4433/player/?url=",
