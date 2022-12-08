@@ -4,7 +4,7 @@
 
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CCD134AEBC15E69DD95773832813675A",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;ECF2E843CABF55695952AD584A73D629",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "group": "redirect",
@@ -53,7 +53,7 @@
 {"key":"csp_Anime1","name":"🌸动漫","type": 3,"api": "csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Anfuns","name":"🎀Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Alist","name":"🅰Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"丫仙女$http://alist.xiaoya.pro/#米奇妙妙屋$https://anime.mqmmw.ga#小兵$https://6vv.app#杜比$https://dubi.tk#帅鹏$https://hi.shuaipeng.wang#星梦$https://pan.bashroot.top#晴园$https://alist.52qy.repl.co#梓澪$https://zi0.cc#秋雨$https://share.laowang.me#米奇$https://anime.mqmmw.ga#触光$https://pan.ichuguang.com#一只鱼$https://alist.youte.ml#七米蓝$https://al.chirmyram.com#浩瀚吧$https://8023.haohanba.cn#云播放$https://quanzi.laoxianghuijia.cn#姬路白雪$https://pan.jlbx.xyz#神族九帝$https://alist.shenzjd.com#资源小站$https://960303.xyz#Disk$http://124.222.140.243:8080#神器云$https://quanzi.laoxianghuijia.cn"},
+{"key":"csp_Alist","name":"🅰Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Alist.json","jumpDetail":0,"reversePlay":0,"enable":1},
 {"key":"AliPS","name":"😻盘搜","type":3,"api":"csp_AliPS","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"Gitcafe","name":"📜小纸条","type": 3,"api":"csp_Gitcafe","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
 {"key":"FindZY","name":"🦊找资源","type":3,"api":"csp_Zhaozy","searchable":1,"playerType":1,"quickSearch":1,"filterable":1,"ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"},
