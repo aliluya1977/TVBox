@@ -127,7 +127,7 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}    
 	}, {
-		"name": "未知2",
+		"name": "未知",
 		"type": 1,
 		"url": "http://45.248.10.163:4433/json.php?wap=0&url="
 	}, {
@@ -138,7 +138,7 @@
 			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
 		}    
 	}, {
-		"name": "未知3",
+		"name": "未知2",
 		"type": 0,
 		"url": "https://h5.freejson.xyz/player/?url=",
 		"ext": {
