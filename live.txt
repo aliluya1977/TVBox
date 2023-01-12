@@ -97,7 +97,6 @@ CCTV16,http://39.135.138.58:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-CCTV电视指南,http://218.17.216.102:9901/tsfile/live/1064_1.m3u8
 CCTV风云足球,http://218.17.216.102:9901/tsfile/live/1065_1.m3u8
 CCTV怀旧剧场,http://218.17.216.102:9901/tsfile/live/1069_1.m3u8
 CCTV风云剧场,http://218.17.216.102:9901/tsfile/live/1070_1.m3u8
