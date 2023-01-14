@@ -415,102 +415,6 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 青海卫视,http://221.2.36.34:8888/newlive/live/hls/39/live.m3u8
 
 
-百视通,#genre#
-CCTV-16,http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd4k/15000000/mnf.m3u8
-CCTV-4K,http://tt-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
-欢笑剧场4k,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc4k/15000000/mnf.m3u8
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-CCTV1 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv1hd8m/8000000/mnf.m3u8
-CCTV2 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv2hd8m/8000000/mnf.m3u8
-CCTV3 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv3hd8m/8000000/mnf.m3u8
-CCTV4 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv4hd8m/8000000/mnf.m3u8
-CCTV5 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv58m/8000000/mnf.m3u8
-CCTV5+ 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv5phd8m/8000000/mnf.m3u8
-CCTV6 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv6hd8m/8000000/mnf.m3u8
-CCTV7 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv7hd8m/8000000/mnf.m3u8
-CCTV8 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv8hd8m/8000000/mnf.m3u8
-CCTV9 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv9hd8m/8000000/mnf.m3u8
-CCTV10 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv10hd8m/8000000/mnf.m3u8
-CCTV11 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv11hd8m/8000000/mnf.m3u8
-CCTV12 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv12hd8m/8000000/mnf.m3u8
-CCTV13 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv13xwhd8m/8000000/mnf.m3u8
-CCTV14 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctvsehd8m/8000000/mnf.m3u8
-CCTV15 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv15hd8m/8000000/mnf.m3u8
-CCTV16 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv16hd8m/8000000/mnf.m3u8
-CCTV17 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cctv17hd8m/8000000/mnf.m3u8
-江苏卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jswshd8m/8000000/mnf.m3u8
-广西卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/gxwshd8m/8000000/mnf.m3u8
-四川卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/scwshd/8000000/mnf.m3u8
-上海卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
-湖南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hunanwshd8m/8000000/mnf.m3u8
-浙江卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zjwshd8m/8000000/mnf.m3u8
-北京卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/bjwshd8m/8000000/mnf.m3u8
-天津卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/tjwshd8m/8000000/mnf.m3u8
-辽宁卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/lnwshd8m/8000000/mnf.m3u8
-安徽卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/ahwshd8m/8000000/mnf.m3u8
-黑龙江卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hljwshd8m/8000000/mnf.m3u8
-广东卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/gdwshd8m/8000000/mnf.m3u8
-深圳卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/szwshd8m/8000000/mnf.m3u8
-湖北卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hubeiws8m/8000000/mnf.m3u8
-劲爆体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
-吉林卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jlwshd8m/8000000/mnf.m3u8
-山东卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/sdws8m/8000000/mnf.m3u8
-江西卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jxws8m/8000000/mnf.m3u8
-东南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dnwshd8m/8000000/mnf.m3u8
-云南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/ynwshd8m/8000000/mnf.m3u8
-贵州卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/gzwshd8m/8000000/mnf.m3u8
-海南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hainanwshd8m/8000000/mnf.m3u8
-欢笑剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
-快乐垂钓 8M,http://tt-live.bestvcdn.com.cn/live/program/live/klcd8m/8000000/mnf.m3u8
-金鹰纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jyjs8m/8000000/mnf.m3u8
-戏曲精选 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
-河南卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hnwshd8m/8000000/mnf.m3u8
-河北卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hbwshd8m/8000000/mnf.m3u8
-甘肃卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/gswshd8m/8000000/mnf.m3u8
-重庆卫视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cqws8m/8000000/mnf.m3u8
-第一财* 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
-上视新闻 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-上海都市 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
-上海纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jspdhd/4000000/mnf.m3u8
-东方影视 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
-五星体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
-上视外语 8M,http://tt-live.bestvcdn.com.cn/live/program/live/icshd8m/8000000/mnf.m3u8
-七彩戏剧 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qcxjhd8m/8000000/mnf.m3u8
-上海教育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
-全纪实 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
-生活时尚 8M,http://tt-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
-新视觉 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xsjhd8m/8000000/mnf.m3u8
-游戏风云 8M,http://tt-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
-热门综艺 8M,http://tt-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
-超级体育 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qcsj8m/8000000/mnf.m3u8
-健康养生 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
-百变课堂 8M,http://tt-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
-看天下精选 8M,http://tt-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
-华语影院 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
-电竞天堂 8M,http://tt-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
-青春动漫 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
-宝宝动画 8M,http://tt-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
-星光影院 8M,http://tt-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
-谍战剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
-全球大片 8M,http://tt-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
-热门剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
-陶瓷高清 8M,http://tt-live.bestvcdn.com.cn/live/program/live/taocihd/8000000/mnf.m3u8
-中国教育-1 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy1t8m/8000000/mnf.m3u8
-中国教育-4 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
-卡酷少儿 8M,http://tt-live.bestvcdn.com.cn/live/program/live/kkse8m/8000000/mnf.m3u8
-纪实科教 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dajs8m/8000000/mnf.m3u8
-茶频道 8M,http://tt-live.bestvcdn.com.cn/live/program/live/cpdhdavs8m/8000000/mnf.m3u8
-足球高清 8M,http://tt-live.bestvcdn.com.cn/live/program/live/zqpd8m/8000000/mnf.m3u8
-炫动卡通 8M,http://tt-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
-东方财经 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
-都市剧场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
-动漫秀场 8M,http://tt-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
-法治天地 8M,http://tt-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
-金色学堂 8M,http://tt-live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
-魅力足球 8M,http://tt-live.bestvcdn.com.cn/live/program/live/mlyyhd8m/8000000/mnf.m3u8
-
-
 8K综合,#genre#
 欢笑剧场4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
@@ -752,7 +656,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 万人影院,https://txtest-xp2p.p2p.huya.com/src/1199512041525-1199512041525-5223392943104065536-2399024206506-10057-A-0-1.xs
 探索频道,http://50.7.220.74:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
 星卫电影,http://50.7.220.74:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&ct=17874&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb
-中国电影,http://50.7.220.74:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&ct=18393&tsum=c098f25f9c140478d2a814b22a7ccbd3
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
 影院4k,http://epg.112114.xyz/douyu/9249162
@@ -760,7 +663,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8
 CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
-每日影院,http://beifeng.site:4000/udp/239.3.1.111:8001
 龙祥电影,http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&ct=18335&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 古墓系列,https://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
 战争电影,https://txtest-xp2p.p2p.huya.com/src/1099531752768-1099531752768-86436182472261632-2199063628992-10057-A-0-1.xs
@@ -879,9 +781,7 @@ CHC高清電影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 国家地理,http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787
 国家地理野生,http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8
-爱尔达体育1台,http://198.16.64.10:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 美食星球,http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353
-星卫HD电影,http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
 
 
 体育频道,#genre#
@@ -1018,7 +918,6 @@ NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 香港文旅,http://hw-play.lezhibo.com/live/bd2d26fd492b403d8ec69de1859bdb31.m3u8
-翡翠台,http://r.jdshipin.com/62WM7
 翡翠台,http://r.jdshipin.com/n90gt
 华丽翡翠台,http://r.jdshipin.com/thuYX
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
@@ -1027,7 +926,6 @@ NewTV超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225767/index.
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-TVB翡翠,http://23.237.10.66:16106
 TVB翡翠华丽,http://23.237.10.66:16410
 TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 TVB功夫,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
@@ -1278,7 +1176,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
 仪征生活频道,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
-贾汪旅游频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
 沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
@@ -1497,7 +1394,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 衡阳新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_ImycEv.m3u8?zhund
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 衡阳公共频道,http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-宁乡综合频道,http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8?zhund
 湘潭县综合,http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8?zhund
 汨罗新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_TE4c1Q.m3u8?zhund
 云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
@@ -1807,7 +1703,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 沙湾综合,http://tvfile.sw.lsrm.org.cn/nmip-media/channellive/channel100064/playlist.m3u8?zsicd
 金口河综合,http://live.sctvcloud.com/live/jinkouhe.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
-纳溪新闻,https://bl.ainaxi.cn/live/d1b85c45e7b74e96bdd950e047c7fd94.m3u8?zsicd
 叙永综合,http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8?zsicd
 蓬溪新闻综合,http://live.sctvcloud.com/live/pengxilive.m3u8?zsicd
 邻水新闻综合,http://live.sctvcloud.com/live/linshui.m3u8?zsicd
@@ -2262,7 +2157,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
 仪征生活频道,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
-贾汪旅游频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
 沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
@@ -2306,7 +2200,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 衡阳新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_ImycEv.m3u8?zhund
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 衡阳公共频道,http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-宁乡综合频道,http://b.ds.ch.dingtoo.com/AppName/StreamName.m3u8?zhund
 湘潭县综合,http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8?zhund
 云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
 茶陵新闻综合,http://liveplay.rednet.cn/live/chaling_tv.m3u8?zhund
@@ -2954,14 +2847,12 @@ CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 爱奇艺亲子,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_213_600_t10/c57_lb_213_600_t10.m3u8?key
 爱奇艺宝宝课堂,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
 爱奇艺宝宝课堂,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c57_lb_225_600_t10/c57_lb_225_600_t10.m3u8?key
-爱奇艺宝宝课堂,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=3800685
 爱奇艺贝瓦儿歌,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
 爱奇艺贝瓦儿歌,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c56_lb_188_600_t10/c56_lb_188_600_t10.m3u8?key
 爱奇艺宝宝巴士,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
 爱奇艺宝宝巴士,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c55_lb_153_720P_t10/c55_lb_153_720P_t10.m3u8?key
 爱奇艺宝宝巴士,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=1800641
 爱奇艺儿歌大全,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_242_600_t10/c57_lb_242_600_t10.m3u8?key
-爱奇艺儿歌大全,http://wtv.weetai.cn/iptv/2022/tyzb04.php?id=3800694
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片1,http://epg.112114.xyz/douyu/122402
 神乐影片2,http://epg.112114.xyz/douyu/85894
@@ -3076,10 +2967,6 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 医馆笑传*陈赫,http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
 杨光快乐生活,http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
 鬼吹灯,http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
-月球陨落,https://vip.lz-cdn1.com/20220402/737_cff81c22/index.m3u8
-南北少林,https://vip.lz-cdn1.com/20220506/4537_1b71c6e1/1200k/hls/index.m3u8
-少林俗家弟子,https://vip.lz-cdn1.com/20220413/1843_60e469b4/1200k/hls/index.m3u8
-少林寺,https://vip.lz-cdn2.com/20220416/3540_e6dca841/index.m3u8
 地雷战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/a90c788a458e40508615d711b8aae1af/850.m3u8
 地道战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/312e39c68cc441feb79d1c2d7e16cbbd/850.m3u8
 跟踪追击,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/059096230b4e46c0b5d4929ff98435d0/850.m3u8
@@ -3265,7 +3152,6 @@ CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.
 河南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 贵州卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 浙江卫视[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-4k超高清,https://p.ggiptv.com/v/4k.m3u8
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
@@ -3344,7 +3230,6 @@ CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
 仪征生活频道,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
-贾汪旅游频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8?zjiangsd
 沛县新闻综合,http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8?zjiangsd
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
@@ -4324,7 +4209,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
 盈江综合,http://live.ynurl.com/video/s10016-YJTV-2/index.m3u8?zyund
 峨山电视,http://live.ynurl.com/video/s10034-ESTV/index.m3u8?zyund
-泸水综合,http://livebroadcast.ccwb.cn/live/w1596164431584927.m3u8?zyund
 个旧综合,http://tv.drs.hhtv.cc:8100/channellive/gjdst.flv?zyund
 开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
