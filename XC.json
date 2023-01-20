@@ -108,10 +108,6 @@
 		"type": 1,
 		"url": "https://parse.ikunfk.cc/parse/sign/74e860ee6889f03cae108d6c228aa725?url="
 	}, {
-		"name": "Q1官解",
-		"type": 1,
-		"url": "https://parse.ikunfk.cc/parse/sign/20230117?url="
-	}, {
 		"name": "刚刚走过",
 		"type": 1,
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
@@ -119,6 +115,10 @@
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
+	}, {
+		"name": "lgzy",
+		"type": 1,
+		"url": "https://www.1920lgzy.top/json.php?url="
 	}, {
 		"name": "bozrc",
 		"type": 0,
