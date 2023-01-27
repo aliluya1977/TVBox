@@ -1281,8 +1281,6 @@ CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.
 凤凰中文,https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv2.m3u8 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8 
-纬来日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8
-ViuTV,http://baidu.douyincdn.freetvtv.com/vius/m2.m3u8
 镜新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=19
 CNN,https://cnn-cnninternational-1-eu.rakuten.wurl.tv/206849c7acd1570962df1ad525fa8688.m3u8?blog.ntnas.top
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8 
@@ -2100,7 +2098,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 北海新闻综合,http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8?zguangxd
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-崇左综合,https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8?zguangxd
 来宾综合,https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8?zguangxd
 灌阳新闻综合,https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8?zguangxd
 灵川综合,https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8?zguangxd
@@ -2111,7 +2108,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 龙州综合,https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8?zguangxd
 天等综合,https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8?zguangxd
 融水综合,https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8?zguangxd
-都安综合,https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8?zguangxd
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 靖西综合,https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8?zguangxd
 乐业综合,https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8?zguangxd
@@ -2143,7 +2139,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 宁武综合,https://fvsln5ps.live.sxmty.com/live/hls/7922d2cdc4734bb3921826418cfa992d/cd7756e2135a48758e73017d502d8ec1-1.m3u8?zshanxd
 原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
 重庆汽摩,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
@@ -2389,8 +2384,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 苏州文化生活,https://liveshowbak2.kan0512.com/norecord/ncsztv3_sd/playlist.m3u8?zjiangsd
 苏州生活资讯,https://liveshowbak2.kan0512.com/norecord/ncsztv5_sd/playlist.m3u8?zjiangsd
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-南通崇川综合,http://cm.wshls.homecdn.com/live/7cc1.m3u8?zjiangsd
-南通崇川综合,http://cm.wshls.homecdn.com/live/7cc1.flv?zjiangsd
 盐城新闻综合,http://stream.0515yc.cn/yctv1/playlist.m3u8?zjiangsd
 盐城法制生活,http://stream.0515yc.cn/yctv2/playlist.m3u8?zjiangsd
 盐城城市公共,http://stream.0515yc.cn/yctv3/playlist.m3u8?zjiangsd
@@ -2685,7 +2678,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 南宁公共,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8?zguangxd
 北海新闻综合,http://njgdmm-wshls.homecdn.com/live/4e8a2.m3u8?zguangxd
 贺州综合,http://zhz.gxhzxw.com:2935/live/HZXW-HD/playlist.m3u8
-崇左综合,https://cdn.gdlive.gdmain.com/live/lxzydpo5.m3u8?zguangxd
 来宾综合,https://cdn.gdlive.gdmain.com/live/0myxra90.m3u8?zguangxd
 灌阳新闻综合,https://cdn.gdlive.gdmain.com/live/02kzyoy0.m3u8?zguangxd
 灵川综合,https://cdn.gdlive.gdmain.com/live/lbzx2a8l.m3u8?zguangxd
@@ -2696,7 +2688,6 @@ CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
 龙州综合,https://cdn.gdlive.gdmain.com/live/5pyxdeb5.m3u8?zguangxd
 天等综合,https://cdn.gdlive.gdmain.com/live/51g1ap75.m3u8?zguangxd
 融水综合,https://cdn.gdlive.gdmain.com/live/lnyxza95.m3u8?zguangxd
-都安综合,https://cdn.gdlive.gdmain.com/live/lo2xza25.m3u8?zguangxd
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
 靖西综合,https://cdn.gdlive.gdmain.com/live/53xzybv5.m3u8?zguangxd
 乐业综合,https://cdn.gdlive.gdmain.com/live/lg36za25.m3u8?zguangxd
@@ -2823,7 +2814,6 @@ No1常在心 搞笑的一家人,http://txtest-xp2p.p2p.huya.com/src/1394565211-1
 茱麗葉 葛二蛋成长之路,http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
 HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事,http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
 阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首,http://txtest-xp2p.p2p.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.xs
-DD-解说 新七龙珠动画，武林大会,http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
 全优少年 【经典】桃园结义三兄弟	,http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
 荒野达人 芈月和她的三个爱人,http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
 大鱼爱路飞 动画7四战快看系列【21-24】,http://txtest-xp2p.p2p.huya.com/src/1199590495159-1199590495159-5560348735386419200-2399181113774-10057-A-0-1.xs
@@ -2847,7 +2837,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 【柯南】外表看似小孩，智慧却过于常人,http://epg.112114.xyz/douyu/6484910
 江户川柯南，是一个蒸蛋。,http://epg.112114.xyz/douyu/5377297
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-【超级赛亚人】悟吉塔,http://epg.112114.xyz/douyu/7190773
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
 【Hunter】动漫热血老贼冒险,http://epg.112114.xyz/douyu/6610883
 少女与半妖,http://epg.112114.xyz/douyu/7422897
@@ -3384,7 +3373,6 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 最佳拍档开心鬼系列,http://txtest-xp2p.p2p.huya.com/src/1394575546-1394575546-5989656361871343616-2789274548-10057-A-0-1.xs
 古墓系列,http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
 葛二蛋成长之路,http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
-丧尸鬼片恐怖惊悚,http://epg.112114.xyz/douyu/96577
 经典片,http://epg.112114.xyz/huya/11279251
 水浒,http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
 古装剧,http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
@@ -4708,7 +4696,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 原平综合,http://xkmspyxn.live.sxmty.com/live/hls/65072fcc05414062bf02088d2a2a77b2/9da977614b044ef59d11779e997a12f8-1.m3u8?zshanxd
 高平综合,http://live.gprmt.cn/gpnews/hd/live.m3u8?zshanxd
 阳城电视台,https://liveout.ycxrmt.cn/i9i45p/en7atk.m3u8?zshanxd
-璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 大足综合,http://218.201.85.71:3170/m3u8?zzhongqd
 重庆汽摩,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225506/2/index.m3u8?fmt=ts2hls?zzhongqd
 铜梁综合,http://183.64.174.171:40123/ch1.m3u8?zzhongqd
