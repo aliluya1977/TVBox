@@ -58,6 +58,7 @@
 {"key":"If101","name":"💿If101(墙外)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name":"🛫唐人街(墙外)","type":3,"api":"csp_Tangrenjie","searchable":1,"quickSearch":1,"filterable":1},
 
+{"key":"Czsapp","name":"厂长","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8ee655f702d0d21f3643504783babbc3","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
 {"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
@@ -87,8 +88,7 @@
 {"key":"csp_xBPQ_ 热播库","name":"🍀热播库（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/热播库.json"},
 {"key":"csp_xBPQ_ 零零七","name":"🍀零零七（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/零零七影视.json"},
 {"key":"csp_xBPQ_ 六度","name":"🍀六度（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/六度.json"},
-{"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"},
-{"key":"csp_xBPQ_素白白","name":"🍀素白白（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/素白白.json"}
+{"key":"csp_xBPQ_爱看","name":"🍀爱看（xBPQ）","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/爱看.json"}
 ],
 "parses": [{
 		"name": "Json聚合",
