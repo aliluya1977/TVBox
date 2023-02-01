@@ -108,6 +108,13 @@
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
 	}, {
+		"name": "星辰云",
+		"type": 0,
+		"url": "http://svip.xn--9kq078cdn3a.cc/api/?key=X1k0ePfQloi7b4S37w&url=",
+		"header": {
+			"User-Agent": "Mozilla/5.0"
+		}   
+	}, {
 		"name": "万年魂环",
 		"type": 1,
 		"url": "https://jiexi.parses.repl.co/api.php?url="
