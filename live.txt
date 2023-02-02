@@ -2582,7 +2582,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 黑莓电竞[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225653/index.m3u8
 
 
-虎牙,#genre#
 斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
