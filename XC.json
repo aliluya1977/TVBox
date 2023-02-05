@@ -106,7 +106,7 @@
 	}, {
 		"name": "星辰云",
 		"type": 1,
-		"url": "https://json.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
+		"url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
 		"header": {
 			"User-Agent": "Mozilla/5.0"
 		}   
@@ -125,13 +125,6 @@
 		"ext": {
 			"flag": ["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","mgtv","MangGuo","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]
 		}    
-	}, {
-		"name": "bulei",
-		"type": 0,
-		"url": "https://bf.bulei.cc/player/?url=",
-		"header": {
-			"User-Agent": "Mozilla/5.0"
-		} 
 	}, {
 		"name": "未知",
 		"type": 0,
