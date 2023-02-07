@@ -98,13 +98,6 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "星辰云",
-		"type": 1,
-		"url": "http://jiexi.xn--9kq078cdn3a.cc/api/?key=GMp1H9mKRKVriBulRT&url=",
-		"header": {
-			"User-Agent": "Mozilla/5.0"
-		}   
-	}, {
 		"name": "rx2",
 		"type": 1,
 		"url": "http://rxjx.kuanjv.com/allm3u8.php?url="
