@@ -1,0 +1,15 @@
+[{
+  "name" : "丫仙女",
+  "server" : "http://alistxy.ganggang.live:5678",
+  "startPage" : "/",
+  "showAll" : false,
+  "search" : true,
+  "params" : {
+    "/abc" : {
+      "password" : "123"
+    },
+    "/abc/abc" : {
+      "password" : "123"
+    }
+  }
+}]
