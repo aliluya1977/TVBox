@@ -1245,7 +1245,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 有线新闻,http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
 TVBRICS,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 TVB翡翠华丽,http://23.237.10.66:16410
-TVB星河,http://gxfrg007.8800.org:8282/tsfile/live/1062_1.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 澳门莲花,http://nettvpro.live/hls/lotustv.php
 澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
@@ -1297,7 +1296,6 @@ CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8#http://59.49.4
 CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1.m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231799/index.m3u8
-CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 足球频道,https://nmglive.imfc.cn/5n1r1c/182396.m3u8
@@ -1347,7 +1345,6 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 耀才财经新闻,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
 香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
-天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
@@ -1899,7 +1896,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
-良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
 永善综合,http://livebroadcastys.ccwb.cn/live/w1640068184635996.m3u8?zyund
 镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8?zyund
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
@@ -3559,7 +3555,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
-良综合,http://livebroadcast.ccwb.cn/live/w1606370492402991.m3u8?zyund
 镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8?zyund
 福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
