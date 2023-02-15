@@ -6,10 +6,11 @@
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;335B578E74AB545C9AC3CE560D5F35F7",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
-		    "name": "live",
-		    "type": 0,
-		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+		    "group": "redirect",
+		    "channels": [{
+			    "name": "live",
+			    "urls": ["proxy://do=live&type=txt&ext=https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt"]
+		    }]
 	    }],
 
 	"sites":[
