@@ -493,8 +493,6 @@ CCTV兵器科技高清,http://bytedance.live.cqccn.com/__cl/cg:live/__c/bqkjHD/_
 欢笑剧场4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV-1 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3 高清,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -1094,7 +1092,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
 ✨✨✨计划！五一节の快乐✨✨✨,http://epg.112114.xyz/douyu/7528160
-【回首往事】仨房间画面同步显示,http://epg.112114.xyz/douyu/1569773
 大星与海绵方块,http://epg.112114.xyz/douyu/3949681
 美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
@@ -1103,13 +1100,11 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 江户川柯南，是一个蒸蛋。,http://epg.112114.xyz/douyu/5377297
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
-【Hunter】动漫热血老贼冒险,http://epg.112114.xyz/douyu/6610883
 少女与半妖,http://epg.112114.xyz/douyu/7422897
 宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
 星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
 松开的手0.0,http://epg.112114.xyz/douyu/10210568
 浦饭幽游藏马飞影桑原,http://epg.112114.xyz/douyu/9938431
-【童年往事】仨房间画面同步显示点播,http://epg.112114.xyz/douyu/7256376
 ✨妖精的直播间✨,http://epg.112114.xyz/douyu/5960746
 【天使点播】动漫直播间,http://epg.112114.xyz/douyu/1487654
 【动漫】超燃怀旧经典,http://epg.112114.xyz/douyu/1174353
@@ -1496,8 +1491,6 @@ TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
 沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
-扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
@@ -1687,7 +1680,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 衡阳新闻综合,http://59.51.68.40:1936/live/2.stream/playlist.m3u8?zhund
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 衡阳公共频道,http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-湘潭县综合,http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8?zhund
 汨罗新闻综合,http://play-dgv-xhncloud.voc.com.cn/live/5243_TE4c1Q.m3u8?zhund
 云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
 汝城综合频道,http://play-dgv-xhncloud.voc.com.cn/live/5243_j69HSm.m3u8?zhund
@@ -1740,7 +1732,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
@@ -1893,7 +1884,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 通海电视台,http://live.ynurl.com/video/s10038-thtv/index.m3u8?zyund
-新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 永善综合,http://livebroadcastys.ccwb.cn/live/w1640068184635996.m3u8?zyund
@@ -1921,7 +1911,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
 攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
@@ -1973,7 +1962,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 井研综合,http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8?zsicd
 马边电视台,http://tvfile.mb.lsrm.org.cn/nmip-media/channellive/channel104860/playlist.m3u8?zsicd
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
-沙湾综合,http://tvfile.sw.lsrm.org.cn/nmip-media/channellive/channel100064/playlist.m3u8?zsicd
 金口河综合,http://live.sctvcloud.com/live/jinkouhe.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 蓬溪新闻综合,http://live.sctvcloud.com/live/pengxilive.m3u8?zsicd
@@ -2098,7 +2086,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
-襄汾综合,http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
 万荣综合,http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8?zshanxd
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
 定襄综合,http://lbyzztfe.live.sxmty.com/live/hls/645ff4c60e0a49f0a203abbd73dd8be9/0720e665f10f48e98c9639f4f492fb4a-1.m3u8?zshanxd
@@ -2473,8 +2460,6 @@ CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.
 睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
 睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
 沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
-扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
@@ -2687,7 +2672,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 平湖民生休闲,http://l.cztvcloud.com/channels/lantian/SXpinghu2/720p.m3u8?zzhed
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 萧山生活频道,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed
-淳安电视台,https://wtmtyoutlive.watonemt.com/f2p7vq/lf76v9.m3u8?zzhed
 余杭综合频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E频道,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
@@ -2754,8 +2738,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
 姜堰新闻综合,https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8?zjiangsd
 沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
-扬中新闻频道,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/xwzh.m3u8?zjiangsd
-扬中党建民生,http://yangzhong-tv-hls.cm.jstv.com/yangzhong-tv/yzdj.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 高邮综合频道,http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8?zjiangsd
 仪征新闻综合,http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8?zjiangsd
@@ -2802,7 +2784,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 衡阳新闻综合,http://59.51.68.40:1936/live/2.stream/playlist.m3u8?zhund
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 衡阳公共频道,http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-湘潭县综合,http://21084.liveplay.myqcloud.com/live/21084_13241b8296ee11e892905cb9018cf0d4.m3u8?zhund
 云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
 茶陵新闻综合,http://liveplay.rednet.cn/live/chaling_tv.m3u8?zhund
 洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
@@ -2827,7 +2808,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 自贡综合,http://110.189.153.160:1001/zhpd.flv?zsicd
 自贡公共,http://110.189.153.160:1002/ggpd.flv?zsicd
 德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8?zsicd
-德阳公共,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 攀枝花新闻综合,http://zb.pzhgd.com:9095/live/xwzh.m3u8?zsicd
 攀枝花公共,http://zb.pzhgd.com:9095/live/ggpd.m3u8?zsicd
 眉山综合,http://live1.scmstv.cn/gqpd/sd/live.m3u8?zsicd
@@ -2873,7 +2853,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 井研综合,http://tvfile.jy.lsrm.org.cn/cms/videos/nmip-media-jy/channellive/channel3/playlist.m3u8?zsicd
 马边电视台,http://tvfile.mb.lsrm.org.cn/nmip-media/channellive/channel104860/playlist.m3u8?zsicd
 沐川综合,http://tvfile.mcrm.org.cn/nmip-media/channellive/channel103064/playlist.m3u8?zsicd
-沙湾综合,http://tvfile.sw.lsrm.org.cn/nmip-media/channellive/channel100064/playlist.m3u8?zsicd
 泸县新闻综合,http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
 武胜综合,http://live2.gatv.com.cn:86/live/WS.m3u8?zsicd
 
@@ -3552,7 +3531,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 石屏综合,http://live.ynurl.com/video/s10059-SPTV/index.m3u8?zyund
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 通海电视台,http://live.ynurl.com/video/s10038-thtv/index.m3u8?zyund
-新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
 镇雄电视台,http://livebroadcast.ccwb.cn/live/w1606722098119972.m3u8?zyund
@@ -3574,7 +3552,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 大宁综合,http://live.daningtv.com/channel1/sd/live.m3u8?zshanxd
 汾西综合,https://qmmqvzoz.live.sxmty.com/live/hls/f24f8a390c084386a564074c9260100c/be3fdf07606145739ab2c4b80fe0136a.m3u8?zshanxd
 吉县新闻综合,http://jxlive.jxrmtzx.com:8091/live/xwzh.m3u8?zshanxd
-襄汾综合,http://7sycrzf7.live.sxmty.com/live/hls/da9222d15ce7491d85fe3519e5201df5/af161dfd2a434b22b3b75fdd72fb9038-1.m3u8?zshanxd
 灵石新闻综合,https://live-stream.lsxrmtzx.com/live/video.m3u8?zshanxd
 万荣综合,http://pili-live-hls.217.i2863.com/i2863-217/live_217_867556.m3u8?zshanxd
 闻喜综合,https://www.wxhcgbds.com:8081/channelTv/WXTV_1.m3u8?zshanxd
