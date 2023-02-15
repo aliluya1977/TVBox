@@ -5,7 +5,7 @@
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9ABC9A70D7F1FCE9537D06F4C8FD82EC",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
-		    "name": "直播",
+		    "name": "live",
 		    "type": 0,
 		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 		    "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
