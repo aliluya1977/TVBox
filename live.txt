@@ -756,6 +756,97 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
+百视,#genre#
+CCTV-1 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv1hd8m/8000000
+CCTV-2 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv2hd8m/8000000
+CCTV-3 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv38m/8000000
+CCTV-4 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv4hd8m/8000000
+CCTV-5 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv58m/8000000
+CCTV-5+高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv5phd8m/8000000
+CCTV-6 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv6hd8m/8000000
+CCTV-7 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv7hd8m/8000000
+CCTV-8 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv8hd8m/8000000
+CCTV-9 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv9hd8m/8000000
+CCTV-10高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv10hd8m/8000000
+CCTV-11高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv11hd8m/8000000
+CCTV-12高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv12hd8m/8000000
+CCTV-13高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv13xwhd8m/8000000
+CCTV-14高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctvsehd8m/8000000
+CCTV-15高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv15hd8m/8000000
+CCTV-16高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv16hd8m/8000000
+CCTV-17高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv17hd8m/8000000
+北京卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=bjwshd8m/8000000
+东方卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=dfwshd8m/8000000
+江苏卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jswshd8m/8000000
+浙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=zjwshd8m/8000000
+安徽卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=ahwshd8m/8000000
+河南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hnwshd8m/8000000
+河北卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hbwshd8m/8000000
+广东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gdwshd8m/8000000
+深圳卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=szwshd8m/8000000
+广西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gxwshd8m/8000000
+四川卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=scwshd/8000000
+湖南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hunanwshd8m/8000000
+甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gswshd8m/8000000
+山东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=sdws8m/8000000
+天津卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=tjwshd8m/8000000
+辽宁卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=lnwshd8m/8000000
+吉林卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jlwshd8m/8000000
+江西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jxws8m/8000000
+东南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=dnwshd8m/8000000
+重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cqws8m/8000000
+云南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=ynwshd8m/8000000
+贵州卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gzwshd8m/8000000
+海南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hainanwshd8m/8000000
+甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gswshd8m/8000000
+重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cqws8m/8000000
+黑龙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hljwshd8m/8000000
+CCTV-1 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv1hd8m/8000000
+CCTV-2 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv2hd8m/8000000
+CCTV-3 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv38m/8000000
+CCTV-4 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv4hd8m/8000000
+CCTV-5 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv58m/8000000
+CCTV-5+,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv5phd8m/8000000
+CCTV-6 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv6hd8m/8000000
+CCTV-7 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv7hd8m/8000000
+CCTV-8 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv8hd8m/8000000
+CCTV-9 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv9hd8m/8000000
+CCTV-10高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv10hd8m/8000000
+CCTV-11高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv11hd8m/8000000
+CCTV-12高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv12hd8m/8000000
+CCTV-13高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv13xwhd8m/8000000
+CCTV-14高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctvsehd8m/8000000
+CCTV-15高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv15hd8m/8000000
+CCTV-16高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv16hd8m/8000000
+CCTV-17高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv17hd8m/8000000
+北京卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bjwshd8m/8000000
+东方卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dfwshd8m/8000000
+江苏卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jswshd8m/8000000
+浙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=zjwshd8m/8000000
+安徽卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ahwshd8m/8000000
+河南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hnwshd8m/8000000
+河北卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hbwshd8m/8000000
+广东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gdwshd8m/8000000
+深圳卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=szwshd8m/8000000
+广西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gxwshd8m/8000000
+四川卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=scwshd/8000000
+湖南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hunanwshd8m/8000000
+甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gswshd8m/8000000
+山东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=sdws8m/8000000
+天津卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=tjwshd8m/8000000
+辽宁卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=lnwshd8m/8000000
+吉林卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jlwshd8m/8000000
+江西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jxws8m/8000000
+东南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dnwshd8m/8000000
+重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cqws8m/8000000
+云南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ynwshd8m/8000000
+贵州卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gzwshd8m/8000000
+海南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hainanwshd8m/8000000
+甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gswshd8m/8000000
+重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cqws8m/8000000
+黑龙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hljwshd8m/8000000
+
+
 百视通,#genre#
 欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
@@ -2944,6 +3035,220 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 马山新闻综合,http://hls.nntv.cn/nnlive/MSTV_A.m3u8?zguangxd
 上林电视台,http://hls.nntv.cn/nnlive/SLTV_A.m3u8?zguangxd
 罗城综合,http://111.12.75.177:9100/lctvlive/lch.m3u8?zguangxd
+
+
+数字,#genre#
+IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
+IPTV淘剧场,http://lay6.3322.org:4022/udp/239.3.1.95:8001
+IPTV淘剧场,http://router.tonyliangli.cn:4022/udp/239.3.1.95:8001
+IPTV淘剧场,http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.95:8001
+IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
+IPTV淘电影,http://lay6.3322.org:4022/udp/239.3.1.250:8001
+IPTV淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
+IPTV淘电影,http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.250:8001
+IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
+IPTV淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
+IPTV淘娱乐,http://router.tonyliangli.cn:4022/udp/239.3.1.100:8001
+IPTV淘娱乐,http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.100:8001
+IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
+IPTV淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
+IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
+IPTV淘BABY,http://adidaswkkchenrann.asuscomm.com:8012/rtp/239.3.1.238:8001
+IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
+IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
+IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
+IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
+CCTV第一剧场,http://home.111818.xyz:8888/udp/239.76.254.49:9000
+CCTV风云剧场,http://home.111818.xyz:8888/udp/239.76.254.50:9000
+CCTV风云音乐,http://home.111818.xyz:8888/udp/239.76.254.51:9000
+CCTV风云足球,http://home.111818.xyz:8888/udp/239.76.254.52:9000
+CCTV怀旧剧场,http://home.111818.xyz:8888/udp/239.76.254.53:9000
+CCTV女性时尚,http://home.111818.xyz:8888/udp/239.76.254.55:9000
+CCTV文化精品,http://home.111818.xyz:8888/udp/239.76.254.56:9000
+CCTV世界地理,http://home.111818.xyz:8888/udp/239.76.254.57:9000
+CCTV央视台球,http://home.111818.xyz:8888/udp/239.76.254.58:9000
+CCTV兵器科技,http://home.111818.xyz:8888/udp/239.76.254.59:9000
+CCTV高尔夫网球,http://home.111818.xyz:8888/udp/239.76.254.62:9000
+CCTV兵器科技,http://www.kitcc.cn:8888/udp/239.253.43.18:5146
+CCTV兵器科技,http://www.kitcc.cn:8888/udp/239.253.43.9:5146
+CCTV电视指南,http://www.kitcc.cn:8888/udp/239.253.43.19:5146
+CCTV电视指南,http://www.kitcc.cn:8888/udp/239.253.43.10:5146
+CCTV风云足球,http://www.kitcc.cn:8888/udp/239.253.43.20:5146
+CCTV风云足球,http://www.kitcc.cn:8888/udp/239.253.43.14:5146
+CCTV央视台球,http://www.kitcc.cn:8888/udp/239.253.43.21:5146
+CCTV央视台球,http://www.kitcc.cn:8888/udp/239.253.43.11:5146
+CCTV女性时尚,http://www.kitcc.cn:8888/udp/239.253.43.23:5146
+CCTV女性时尚,http://www.kitcc.cn:8888/udp/239.253.43.8:5146
+CCTV世界地理,http://www.kitcc.cn:8888/udp/239.253.43.24:5146
+CCTV世界地理,http://www.kitcc.cn:8888/udp/239.253.43.7:5146
+CCTV怀旧剧场,http://www.kitcc.cn:8888/udp/239.253.43.25:5146
+CCTV怀旧剧场,http://www.kitcc.cn:8888/udp/239.253.43.5:5146
+CCTV风云剧场,http://www.kitcc.cn:8888/udp/239.253.43.26:5146
+CCTV风云剧场,http://www.kitcc.cn:8888/udp/239.253.43.16:5146
+CCTV文化精品,http://www.kitcc.cn:8888/udp/239.253.43.27:5146
+CCTV文化精品,http://www.kitcc.cn:8888/udp/239.253.43.13:5146
+CCTV第一剧场,http://www.kitcc.cn:8888/udp/239.253.43.28:5146
+CCTV第一剧场,http://www.kitcc.cn:8888/udp/239.253.43.15:5146
+CCTV风云音乐,http://www.kitcc.cn:8888/udp/239.253.43.29:5146
+CCTV风云音乐,http://www.kitcc.cn:8888/udp/239.253.43.6:5146
+CCTV高尔夫网球,http://www.kitcc.cn:8888/udp/239.253.43.22:5146
+CCTV高尔夫网球,http://www.kitcc.cn:8888/udp/239.253.43.12:5146
+CCTV第一剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
+CCTV风云剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
+CCTV风云音乐,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f//index.m3u8
+CCTV风云足球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f//index.m3u8
+CCTV怀旧剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
+CCTV兵器科技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+CCTV央视台球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/ystqHD/__op/default/__f//index.m3u8
+CCTV女性时尚,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
+CCTV文化精品,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f//index.m3u8
+CCTV高尔夫网球,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/golfHD/__op/default/__f//index.m3u8
+CNC 中文,http://117.169.121.162:6610/PLTV/88888910/224/3221225694/index.m3u8
+CNC 英文,http://117.169.121.162:6610/PLTV/88888910/224/3221225693/index.m3u8
+CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+茶,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225781/index.m3u8?fmt=ts2hls
+茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
+靓妆,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/liang/__op/default/__f//index.m3u8
+靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
+书画,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
+时尚,http://player2.juyun.tv/camera/80238159.m3u8
+乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
+乐游,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qjshd8m/8000000
+乐游,http://zb.ldlive.xyz/zbtv/bestv.php?id=qjshd8m/8000000
+连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
+新视觉,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xsjhd8m/8000000
+第一财经,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dycjhd8m/8000000
+上视新闻,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xwzhhd8m/8000000
+上海都市,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dshd8m/8000000
+上海纪实,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jspdhd/4000000
+东方影视,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dfyshd8m/8000000
+五星体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=wxtyhd8m/8000000
+上视外语,http://zb.ldlive.xyz/zbtv/bestv2.php?id=icshd8m/8000000
+七彩戏剧,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcxjhd8m/8000000
+上海教育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=setvhd/8000000
+生活时尚,http://zb.ldlive.xyz/zbtv/bestv2.php?id=shss8m/8000000
+金色学堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jingsepd8m/8000000
+劲爆体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jbtyhd8m/8000000
+游戏风云,http://zb.ldlive.xyz/zbtv/bestv2.php?id=yxfy8m/8000000
+热门综艺,http://zb.ldlive.xyz/zbtv/bestv2.php?id=rmzy8m/8000000
+超级体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcsj8m/8000000
+健康养生,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jkys8m/8000000
+百变课堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bbkt8m/8000000
+历史精选,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ktxjx8m/8000000
+戏曲精选,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xqjx8m/8000000
+华语影院,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hyyy8m/8000000
+电竞天堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=djtt8m/8000000
+青春动漫,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcdm8m/8000000
+宝宝动画,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bbdh8m/8000000
+星光影院,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xgyy8m/8000000
+谍战剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dzjc8m/8000000
+全球大片,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qqdp8m/8000000
+热门剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=rmjc8m/8000000
+欢笑剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hxjc8m/8000000
+快乐垂钓,http://zb.ldlive.xyz/zbtv/bestv2.php?id=klcd8m/8000000
+新视觉,http://zb.ldlive.xyz/zbtv/bestv.php?id=xsjhd8m/8000000
+第一财经,http://zb.ldlive.xyz/zbtv/bestv.php?id=dycjhd8m/8000000
+上视新闻,http://zb.ldlive.xyz/zbtv/bestv.php?id=xwzhhd8m/8000000
+上海都市,http://zb.ldlive.xyz/zbtv/bestv.php?id=dshd8m/8000000
+上海纪实,http://zb.ldlive.xyz/zbtv/bestv.php?id=jspdhd/4000000
+东方影视,http://zb.ldlive.xyz/zbtv/bestv.php?id=dfyshd8m/8000000
+五星体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=wxtyhd8m/8000000
+上视外语,http://zb.ldlive.xyz/zbtv/bestv.php?id=icshd8m/8000000
+七彩戏剧,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcxjhd8m/8000000
+上海教育,http://zb.ldlive.xyz/zbtv/bestv.php?id=setvhd/8000000
+生活时尚,http://zb.ldlive.xyz/zbtv/bestv.php?id=shss8m/8000000
+金色学堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=jingsepd8m/8000000
+劲爆体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=jbtyhd8m/8000000
+游戏风云,http://zb.ldlive.xyz/zbtv/bestv.php?id=yxfy8m/8000000
+热门综艺,http://zb.ldlive.xyz/zbtv/bestv.php?id=rmzy8m/8000000
+超级体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcsj8m/8000000
+健康养生,http://zb.ldlive.xyz/zbtv/bestv.php?id=jkys8m/8000000
+百变课堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=bbkt8m/8000000
+历史精选,http://zb.ldlive.xyz/zbtv/bestv.php?id=ktxjx8m/8000000
+戏曲精选,http://zb.ldlive.xyz/zbtv/bestv.php?id=xqjx8m/8000000
+华语影院,http://zb.ldlive.xyz/zbtv/bestv.php?id=hyyy8m/8000000
+电竞天堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=djtt8m/8000000
+青春动漫,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcdm8m/8000000
+宝宝动画,http://zb.ldlive.xyz/zbtv/bestv.php?id=bbdh8m/8000000
+星光影院,http://zb.ldlive.xyz/zbtv/bestv.php?id=xgyy8m/8000000
+谍战剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=dzjc8m/8000000
+全球大片,http://zb.ldlive.xyz/zbtv/bestv.php?id=qqdp8m/8000000
+热门剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=rmjc8m/8000000
+欢笑剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=hxjc8m/8000000
+快乐垂钓,http://zb.ldlive.xyz/zbtv/bestv.php?id=klcd8m/8000000
+新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
+法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
+金色学堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
+东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
+生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
+都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
+女性时尚,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
+游戏竞技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/youxi/__op/default/__f//index.m3u8
+星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+极速汽车,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/car/__op/default/__f//index.m3u8
+生态环境,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shengtai/__op/default/__f//index.m3u8
+发现之旅,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
+四海钓鱼,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
+快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
+中华特产,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8
+中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
+百视独播1 高清,http://tvmvip110.club/bs.php?id=124
+百视独播2 高清,http://tvmvip110.club/bs.php?id=126
+百视独播3 高清,http://tvmvip110.club/bs.php?id=128
+百视独播4 高清,http://tvmvip110.club/bs.php?id=247
+百视独播5 高清,http://tvmvip110.club/bs.php?id=144
+百视自制1 高清,http://tvmvip110.club/bs.php?id=213
+百视自制2 高清,http://tvmvip110.club/bs.php?id=216
+百视直播,http://tvmvip110.club/bs.php?id=146
+北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
+金鹰纪实,http://zb.ldlive.xyz/zbtv/astv.php?id=jyjs
+金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
+CHC动作电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=wqCHCdzdyH265_4000
+CHC高清电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=lnwsCHC-HDH265_4000
+CHC家庭影院,http://zb.ldlive.xyz/zbtv/sxg.php?id=jbtygqCHCjtyyH265_4000
+CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
+CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
+CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
+CHC动作电影,http://zb.ldlive.xyz/zbtv/astv.php?id=chcdzdy
+CHC高清电影,http://zb.ldlive.xyz/zbtv/astv.php?id=chcgqdy
+CHC家庭影院,http://zb.ldlive.xyz/zbtv/astv.php?id=chcjtyy
+CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
+CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
+CHC家庭电影,http://www.51nas.top:4022/udp/239.81.0.238:4056
+CHC动作电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.85:5140
+CHC动作电影,http://www.xuweihome.vip:2222/udp/239.253.248.153:8000
+CHC高清电影,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC高清电影,http://yuwentao114.f3322.net:4022/udp/239.252.219.83:5140
+CHC高清电影,http://wh.re168.com:8089/udp/239.69.1.241:11088
+CHC高清电影,http://www.xuweihome.vip:2222/udp/239.253.248.154:8000
+CHC家庭影院,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CHC家庭影院,http://yuwentao114.f3322.net:4022/udp/239.252.219.84:5140
+CHC家庭影院,http://www.xuweihome.vip:2222/udp/239.253.248.152:8000
+CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
+CHC动作电影,http://111.20.40.170/PLTV/88888893/224/3221226465/index.m3u8
+CHC家庭电影,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
+1905电影,http://111.177.34.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.68/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.67/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.69/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://111.177.34.66/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.80/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://115.231.128.73/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.16/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.29/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://120.220.38.27/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+1905电影,http://124.132.156.25/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
+黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
+黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225769/index.m3u8
+峨眉电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=emdygqH265_4000
+峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
+峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 
 
 综合,#genre#
