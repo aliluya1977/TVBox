@@ -756,97 +756,6 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 重庆卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240397_1/playlist.m3u8?CONTENTID=00000110240397_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 
 
-百视,#genre#
-CCTV-1 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv1hd8m/8000000
-CCTV-2 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv2hd8m/8000000
-CCTV-3 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv38m/8000000
-CCTV-4 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv4hd8m/8000000
-CCTV-5 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv58m/8000000
-CCTV-5+高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv5phd8m/8000000
-CCTV-6 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv6hd8m/8000000
-CCTV-7 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv7hd8m/8000000
-CCTV-8 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv8hd8m/8000000
-CCTV-9 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv9hd8m/8000000
-CCTV-10高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv10hd8m/8000000
-CCTV-11高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv11hd8m/8000000
-CCTV-12高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv12hd8m/8000000
-CCTV-13高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv13xwhd8m/8000000
-CCTV-14高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctvsehd8m/8000000
-CCTV-15高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv15hd8m/8000000
-CCTV-16高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv16hd8m/8000000
-CCTV-17高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cctv17hd8m/8000000
-北京卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=bjwshd8m/8000000
-东方卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=dfwshd8m/8000000
-江苏卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jswshd8m/8000000
-浙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=zjwshd8m/8000000
-安徽卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=ahwshd8m/8000000
-河南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hnwshd8m/8000000
-河北卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hbwshd8m/8000000
-广东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gdwshd8m/8000000
-深圳卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=szwshd8m/8000000
-广西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gxwshd8m/8000000
-四川卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=scwshd/8000000
-湖南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hunanwshd8m/8000000
-甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gswshd8m/8000000
-山东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=sdws8m/8000000
-天津卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=tjwshd8m/8000000
-辽宁卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=lnwshd8m/8000000
-吉林卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jlwshd8m/8000000
-江西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=jxws8m/8000000
-东南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=dnwshd8m/8000000
-重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cqws8m/8000000
-云南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=ynwshd8m/8000000
-贵州卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gzwshd8m/8000000
-海南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hainanwshd8m/8000000
-甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=gswshd8m/8000000
-重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=cqws8m/8000000
-黑龙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv.php?id=hljwshd8m/8000000
-CCTV-1 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv1hd8m/8000000
-CCTV-2 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv2hd8m/8000000
-CCTV-3 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv38m/8000000
-CCTV-4 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv4hd8m/8000000
-CCTV-5 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv58m/8000000
-CCTV-5+,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv5phd8m/8000000
-CCTV-6 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv6hd8m/8000000
-CCTV-7 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv7hd8m/8000000
-CCTV-8 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv8hd8m/8000000
-CCTV-9 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv9hd8m/8000000
-CCTV-10高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv10hd8m/8000000
-CCTV-11高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv11hd8m/8000000
-CCTV-12高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv12hd8m/8000000
-CCTV-13高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv13xwhd8m/8000000
-CCTV-14高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctvsehd8m/8000000
-CCTV-15高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv15hd8m/8000000
-CCTV-16高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv16hd8m/8000000
-CCTV-17高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cctv17hd8m/8000000
-北京卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bjwshd8m/8000000
-东方卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dfwshd8m/8000000
-江苏卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jswshd8m/8000000
-浙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=zjwshd8m/8000000
-安徽卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ahwshd8m/8000000
-河南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hnwshd8m/8000000
-河北卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hbwshd8m/8000000
-广东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gdwshd8m/8000000
-深圳卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=szwshd8m/8000000
-广西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gxwshd8m/8000000
-四川卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=scwshd/8000000
-湖南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hunanwshd8m/8000000
-甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gswshd8m/8000000
-山东卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=sdws8m/8000000
-天津卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=tjwshd8m/8000000
-辽宁卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=lnwshd8m/8000000
-吉林卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jlwshd8m/8000000
-江西卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jxws8m/8000000
-东南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dnwshd8m/8000000
-重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cqws8m/8000000
-云南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ynwshd8m/8000000
-贵州卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gzwshd8m/8000000
-海南卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hainanwshd8m/8000000
-甘肃卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=gswshd8m/8000000
-重庆卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=cqws8m/8000000
-黑龙江卫视 高清,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hljwshd8m/8000000
-
-
 百视通,#genre#
 欢笑剧场4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://bytedance.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
@@ -1545,114 +1454,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 
 
 虎牙,#genre#
-电影_星爷,http://zb.ldlive.xyz/aslb/hy.php?id=11342412
-电影_英叔,http://zb.ldlive.xyz/aslb/hy.php?id=11342421
-电影_达叔,http://zb.ldlive.xyz/aslb/hy.php?id=11336592
-电影_发哥,http://zb.ldlive.xyz/aslb/hy.php?id=11342387
-电影_成龙,http://zb.ldlive.xyz/aslb/hy.php?id=11342386
-电影_王晶,http://zb.ldlive.xyz/aslb/hy.php?id=11602058
-电影_沈腾,http://zb.ldlive.xyz/aslb/hy.php?id=11601968
-电影_黄渤,http://zb.ldlive.xyz/aslb/hy.php?id=11352876
-电影_强森,http://zb.ldlive.xyz/aslb/hy.php?id=21059581
-电影_漫威,http://zb.ldlive.xyz/aslb/hy.php?id=11602034
-电影_宇宙,http://zb.ldlive.xyz/aslb/hy.php?id=11342428
-电影_怪兽,http://zb.ldlive.xyz/aslb/hy.php?id=21059577
-电影_武侠,http://zb.ldlive.xyz/aslb/hy.php?id=11342427
-电影_警匪,http://zb.ldlive.xyz/aslb/hy.php?id=11352886
-电影_罪犯,http://zb.ldlive.xyz/aslb/hy.php?id=11352962
-电影_枪战,http://zb.ldlive.xyz/aslb/hy.php?id=21059579
-电影_海盗,http://zb.ldlive.xyz/aslb/hy.php?id=21059595
-电影_赛车,http://zb.ldlive.xyz/aslb/hy.php?id=11279247
-电影_推荐,http://zb.ldlive.xyz/aslb/hy.php?id=11602041
-电影_救援,http://zb.ldlive.xyz/aslb/hy.php?id=21059594
-电影_热血,http://zb.ldlive.xyz/aslb/hy.php?id=11352934
-电影_盗墓,http://zb.ldlive.xyz/aslb/hy.php?id=21059552
-电影_贺岁,http://zb.ldlive.xyz/aslb/hy.php?id=11601971
-电影_玄幻,http://zb.ldlive.xyz/aslb/hy.php?id=11342414
-电影_谍战,http://zb.ldlive.xyz/aslb/hy.php?id=21059585
-电影_战争,http://zb.ldlive.xyz/aslb/hy.php?id=21059592
-电影_喜剧,http://zb.ldlive.xyz/aslb/hy.php?id=11352877
-电影_港片,http://zb.ldlive.xyz/aslb/hy.php?id=11602043
-电影_国产,http://zb.ldlive.xyz/aslb/hy.php?id=11352973
-电影_周星星,http://zb.ldlive.xyz/aslb/hy.php?id=11336587
-电影_李连杰,http://zb.ldlive.xyz/aslb/hy.php?id=11342390
-电影_洪金宝,http://zb.ldlive.xyz/aslb/hy.php?id=11279251
-电影_梁家辉,http://zb.ldlive.xyz/aslb/hy.php?id=11342429
-电影_许冠英,http://zb.ldlive.xyz/aslb/hy.php?id=11601972
-电影_刘德华,http://zb.ldlive.xyz/aslb/hy.php?id=11342424
-电影_斯坦森,http://zb.ldlive.xyz/aslb/hy.php?id=21059588
-电影_小鬼头,http://zb.ldlive.xyz/aslb/hy.php?id=11352963
-电影_八点档,http://zb.ldlive.xyz/aslb/hy.php?id=880261
-电影_蜘蛛侠,http://zb.ldlive.xyz/aslb/hy.php?id=21059599
-电影_贺岁片,http://zb.ldlive.xyz/aslb/hy.php?id=11601986
-电影_功夫片,http://zb.ldlive.xyz/aslb/hy.php?id=11352941
-电影_黑帮片,http://zb.ldlive.xyz/aslb/hy.php?id=11336719
-电影_灾难片,http://zb.ldlive.xyz/aslb/hy.php?id=11602075
-电影_谍战片,http://zb.ldlive.xyz/aslb/hy.php?id=21059587
-电影_战争片,http://zb.ldlive.xyz/aslb/hy.php?id=21059574
-电影_犯罪片,http://zb.ldlive.xyz/aslb/hy.php?id=11352974
-电影_古装片,http://zb.ldlive.xyz/aslb/hy.php?id=11336590
-电影_高分动作,http://zb.ldlive.xyz/aslb/hy.php?id=11352884
-电影_动作电影,http://zb.ldlive.xyz/aslb/hy.php?id=11602077
-电影_搞笑喜剧,http://zb.ldlive.xyz/aslb/hy.php?id=11342423
-电影_喜剧专场,http://zb.ldlive.xyz/aslb/hy.php?id=11602044
-电影_欢笑影院,http://zb.ldlive.xyz/aslb/hy.php?id=11352894
-电影_不挤影院,http://zb.ldlive.xyz/aslb/hy.php?id=11352897
-电影_国产悬疑,http://zb.ldlive.xyz/aslb/hy.php?id=11342395
-电影_快意江湖,http://zb.ldlive.xyz/aslb/hy.php?id=11342435
-电影_黑帮斗争,http://zb.ldlive.xyz/aslb/hy.php?id=11342419
-电影_古墓系列,http://zb.ldlive.xyz/aslb/hy.php?id=11352913
-电影_嫣然影厅,http://zb.ldlive.xyz/aslb/hy.php?id=11601977
-电影_女神系列,http://zb.ldlive.xyz/aslb/hy.php?id=11336571
-电影_经典女神,http://zb.ldlive.xyz/aslb/hy.php?id=11352909
-电影_许氏三杰,http://zb.ldlive.xyz/aslb/hy.php?id=11602033
-电影_经典港片,http://zb.ldlive.xyz/aslb/hy.php?id=11352965
-电影_镖行天下,http://zb.ldlive.xyz/aslb/hy.php?id=11352969
-电影_高能反转,http://zb.ldlive.xyz/aslb/hy.php?id=11352887
-电影_喜乐影院,http://zb.ldlive.xyz/aslb/hy.php?id=21059580
-电影_蘑菇影厅,http://zb.ldlive.xyz/aslb/hy.php?id=11601981
-电影_搞笑恐怖,http://zb.ldlive.xyz/aslb/hy.php?id=11601960
-电影_死神来了,http://zb.ldlive.xyz/aslb/hy.php?id=11352903
-电影_变形金刚,http://zb.ldlive.xyz/aslb/hy.php?id=21059596
-电影_怪兽系列,http://zb.ldlive.xyz/aslb/hy.php?id=21059554
-剧集_老三国,http://zb.ldlive.xyz/aslb/hy.php?id=11602081
-剧集_新三国,http://zb.ldlive.xyz/aslb/hy.php?id=11352944
-剧集_新水浒,http://zb.ldlive.xyz/aslb/hy.php?id=11342384
-剧集_纪晓岚,http://zb.ldlive.xyz/aslb/hy.php?id=11342396
-剧集_庆余年,http://zb.ldlive.xyz/aslb/hy.php?id=11352960
-剧集_雍正王朝,http://zb.ldlive.xyz/aslb/hy.php?id=11342439
-剧集_士兵突击,http://zb.ldlive.xyz/aslb/hy.php?id=11342430
-剧集_爱情公寓,http://zb.ldlive.xyz/aslb/hy.php?id=11336726
-剧集_家有儿女,http://zb.ldlive.xyz/aslb/hy.php?id=11352872
-剧集_地下交通站,http://zb.ldlive.xyz/aslb/hy.php?id=11342433
-剧集_邻里一家亲,http://zb.ldlive.xyz/aslb/hy.php?id=11342426
-搞笑_陈翔六点半,http://zb.ldlive.xyz/aslb/hy.php?id=11274154
-解说_电影狂人,http://zb.ldlive.xyz/aslb/hy.php?id=18715610
-解说_鹿哥电影,http://zb.ldlive.xyz/aslb/hy.php?id=24396360
-解说_斌哥漫说,http://zb.ldlive.xyz/aslb/hy.php?id=18632116
-解说_续哥说电影,http://zb.ldlive.xyz/aslb/hy.php?id=24396472
-解说_小川侃电影,http://zb.ldlive.xyz/aslb/hy.php?id=15870999
-解说_阿钙扒瞎,http://zb.ldlive.xyz/aslb/hy.php?id=15978172
-解说_阿良说剧,http://zb.ldlive.xyz/aslb/hy.php?id=20488841
-解说_鱼丸电影,http://zb.ldlive.xyz/aslb/hy.php?id=16615910
-解说_阿斗说电影,http://zb.ldlive.xyz/aslb/hy.php?id=13303478
-解说_扁豆看电影,http://zb.ldlive.xyz/aslb/hy.php?id=16028551
-解说_乌贼说电影,http://zb.ldlive.xyz/aslb/hy.php?id=16604522
-解说_大象放映室,http://zb.ldlive.xyz/aslb/hy.php?id=21277391
-解说_科幻梦工场,http://zb.ldlive.xyz/aslb/hy.php?id=15152155
-解说_亮哥讲电影,http://zb.ldlive.xyz/aslb/hy.php?id=16144175
-解说_越哥说电影,http://zb.ldlive.xyz/aslb/hy.php?id=15894162
-解说_小冉看电影,http://zb.ldlive.xyz/aslb/hy.php?id=17341907
-解说_阿翔说电影,http://zb.ldlive.xyz/aslb/hy.php?id=16868935
-解说_疯狂解说家,http://zb.ldlive.xyz/aslb/hy.php?id=18366196
-解说_虎妞说电影,http://zb.ldlive.xyz/aslb/hy.php?id=20343144
-解说_顾久撩电影,http://zb.ldlive.xyz/aslb/hy.php?id=16422212
-解说_涵哥评电影,http://zb.ldlive.xyz/aslb/hy.php?id=16865726
-解说_老皮讲电影,http://zb.ldlive.xyz/aslb/hy.php?id=16968572
-解说_默爷侃电影,http://zb.ldlive.xyz/aslb/hy.php?id=17204307
-解说_冷君说电影,http://zb.ldlive.xyz/aslb/hy.php?id=16739452
-解说_刘老师说电影,http://zb.ldlive.xyz/aslb/hy.php?id=20289754
-解说_恐怖电影解说,http://zb.ldlive.xyz/aslb/hy.php?id=16741179
 周星驰-粤语,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 周星驰,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
 吴孟达,http://121.51.249.6/txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
@@ -1804,95 +1605,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 华语动作电影,http://epg.112114.xyz/douyu/1504768
 麓山迷踪,http://epg.112114.xyz/douyu/4505431
 高帧影片,http://epg.112114.xyz/douyu/6763930
-周星驰,http://zb.ldlive.xyz/aslb/dy.php?id=122402
-刘德华,http://zb.ldlive.xyz/aslb/dy.php?id=2516864
-好先生,http://zb.ldlive.xyz/aslb/dy.php?id=9650792
-庆余年,http://zb.ldlive.xyz/aslb/dy.php?id=5908256
-欢乐综艺,http://zb.ldlive.xyz/aslb/dy.php?id=131977
-万合出品,http://zb.ldlive.xyz/aslb/dy.php?id=9220456
-邵氏影院,http://zb.ldlive.xyz/aslb/dy.php?id=4246519
-吃米滴虫,http://zb.ldlive.xyz/aslb/dy.php?id=315457
-高分电影,http://zb.ldlive.xyz/aslb/dy.php?id=7254536
-豆瓣高分,http://zb.ldlive.xyz/aslb/dy.php?id=8770422
-漫威影院,http://zb.ldlive.xyz/aslb/dy.php?id=6140589
-粤语电影,http://zb.ldlive.xyz/aslb/dy.php?id=1226741
-国产电影,http://zb.ldlive.xyz/aslb/dy.php?id=5423
-精彩电影,http://zb.ldlive.xyz/aslb/dy.php?id=9650887
-喜剧电影,http://zb.ldlive.xyz/aslb/dy.php?id=323876
-恐怖电影,http://zb.ldlive.xyz/aslb/dy.php?id=218859
-恐怖鬼怪,http://zb.ldlive.xyz/aslb/dy.php?id=1165374
-童年阴影,http://zb.ldlive.xyz/aslb/dy.php?id=2935323
-惊悚电影,http://zb.ldlive.xyz/aslb/dy.php?id=96577
-粤语电影,http://zb.ldlive.xyz/aslb/dy.php?id=6566671
-华语影视,http://zb.ldlive.xyz/aslb/dy.php?id=3928
-神乐影视,http://zb.ldlive.xyz/aslb/dy.php?id=85894
-周末影院,http://zb.ldlive.xyz/aslb/dy.php?id=3637765
-周末电影,http://zb.ldlive.xyz/aslb/dy.php?id=3637726
-兔子影厅,http://zb.ldlive.xyz/aslb/dy.php?id=8985415
-冰冰影厅,http://zb.ldlive.xyz/aslb/dy.php?id=74374
-刀刀影院,http://zb.ldlive.xyz/aslb/dy.php?id=747764
-奶虫影院,http://zb.ldlive.xyz/aslb/dy.php?id=263824
-贝爷壹厅,http://zb.ldlive.xyz/aslb/dy.php?id=252802
-贝爷贰厅,http://zb.ldlive.xyz/aslb/dy.php?id=4332
-贝爷叁厅,http://zb.ldlive.xyz/aslb/dy.php?id=36337
-凌儿影院,http://zb.ldlive.xyz/aslb/dy.php?id=1377142
-云宝影院,http://zb.ldlive.xyz/aslb/dy.php?id=7305938
-花卷影院,http://zb.ldlive.xyz/aslb/dy.php?id=52787
-菜园小饼,http://zb.ldlive.xyz/aslb/dy.php?id=1735337
-橙記港剧,http://zb.ldlive.xyz/aslb/dy.php?id=4549169
-蚂蚱影视,http://zb.ldlive.xyz/aslb/dy.php?id=6079455
-怡寶影视,http://zb.ldlive.xyz/aslb/dy.php?id=434971
-圆子影视,http://zb.ldlive.xyz/aslb/dy.php?id=6566658
-贝贝影视,http://zb.ldlive.xyz/aslb/dy.php?id=431460
-可乐影视,http://zb.ldlive.xyz/aslb/dy.php?id=20415
-下饭神剧,http://zb.ldlive.xyz/aslb/dy.php?id=276200
-古装神剧,http://zb.ldlive.xyz/aslb/dy.php?id=338759
-酒染影视,http://zb.ldlive.xyz/aslb/dy.php?id=7550220
-芊珏影视,http://zb.ldlive.xyz/aslb/dy.php?id=8814650
-热门港剧,http://zb.ldlive.xyz/aslb/dy.php?id=5522351
-盗墓剧集,http://zb.ldlive.xyz/aslb/dy.php?id=9292503
-国产剧集,http://zb.ldlive.xyz/aslb/dy.php?id=8157860
-国产剧场,http://zb.ldlive.xyz/aslb/dy.php?id=308752
-爱情公寓,http://zb.ldlive.xyz/aslb/dy.php?id=2838296
-经典剧集,http://zb.ldlive.xyz/aslb/dy.php?id=6863367
-李卫当官,http://zb.ldlive.xyz/aslb/dy.php?id=7473576
-龙门镖局,http://zb.ldlive.xyz/aslb/dy.php?id=9650860
-雍正帝王,http://zb.ldlive.xyz/aslb/dy.php?id=9650836
-隋唐演义,http://zb.ldlive.xyz/aslb/dy.php?id=7552568
-音乐欣赏,http://zb.ldlive.xyz/aslb/dy.php?id=3186217
-舌尖美食,http://zb.ldlive.xyz/aslb/dy.php?id=9650849
-篮球人物,http://zb.ldlive.xyz/aslb/dy.php?id=8434598
-史君说剧,http://zb.ldlive.xyz/aslb/dy.php?id=9419771
-史剧解说,http://zb.ldlive.xyz/aslb/dy.php?id=297689
-老秦说剧,http://zb.ldlive.xyz/aslb/dy.php?id=9650131
-老蔡解说,http://zb.ldlive.xyz/aslb/dy.php?id=8869614
-长片短解,http://zb.ldlive.xyz/aslb/dy.php?id=9410946
-宇哥解说,http://zb.ldlive.xyz/aslb/dy.php?id=8651489
-夜魔人老王,http://zb.ldlive.xyz/aslb/dy.php?id=610972
-皮皮看动漫,http://zb.ldlive.xyz/aslb/dy.php?id=9837291
-开心锤动漫,http://zb.ldlive.xyz/aslb/dy.php?id=9018297
-拳叔二次元,http://zb.ldlive.xyz/aslb/dy.php?id=9484105
-老邪说电影,http://zb.ldlive.xyz/aslb/dy.php?id=9222870
-洗碗君解说,http://zb.ldlive.xyz/aslb/dy.php?id=9446706
-百晓生说剧,http://zb.ldlive.xyz/aslb/dy.php?id=9649681
-百晓生解说,http://zb.ldlive.xyz/aslb/dy.php?id=9653063
-小司马说剧,http://zb.ldlive.xyz/aslb/dy.php?id=4808115
-小司马解说,http://zb.ldlive.xyz/aslb/dy.php?id=9660127
-星君说电影,http://zb.ldlive.xyz/aslb/dy.php?id=8014467
-刘哔讲电影,http://zb.ldlive.xyz/aslb/dy.php?id=2632223
-老王说电影,http://zb.ldlive.xyz/aslb/dy.php?id=9687733
-贤于说电影,http://zb.ldlive.xyz/aslb/dy.php?id=9461990
-牛叔说电影,http://zb.ldlive.xyz/aslb/dy.php?id=2758565
-侃片大师兄,http://zb.ldlive.xyz/aslb/dy.php?id=9338839
-虫哥说电影,http://zb.ldlive.xyz/aslb/dy.php?id=8915074
-电影迷小雅,http://zb.ldlive.xyz/aslb/dy.php?id=9639225
-1900影剧室,http://zb.ldlive.xyz/aslb/dy.php?id=7796193
-刘老师说电影,http://zb.ldlive.xyz/aslb/dy.php?id=8317926
-来呀官人解说,http://zb.ldlive.xyz/aslb/dy.php?id=9986305
-科幻Fans布玛,http://zb.ldlive.xyz/aslb/dy.php?id=3508304
-小片片说大片,http://zb.ldlive.xyz/aslb/dy.php?id=4258555
-大片片说小片,http://zb.ldlive.xyz/aslb/dy.php?id=7489563
-火龙果说电影,http://zb.ldlive.xyz/aslb/dy.php?id=9559158
 
 
 埋堆堆,#genre#
@@ -2548,7 +2260,6 @@ CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 纯享4K[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225762/index.m3u8
 CCTV1[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225618/index.m3u8
@@ -2816,7 +2527,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
 泗阳综合频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8?zjiangsd
 泗阳资讯频道,http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8?zjiangsd
-赣榆新闻综合,http://ganyu-tv-hls.cm.jstv.com/ganyu-tv/ganyutv.m3u8?zjiangsd
 
 
 山东综合,#genre#
@@ -3109,108 +2819,8 @@ CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 书画,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shuhua/__op/default/__f//index.m3u8
 时尚,http://player2.juyun.tv/camera/80238159.m3u8
 乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-乐游,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qjshd8m/8000000
-乐游,http://zb.ldlive.xyz/zbtv/bestv.php?id=qjshd8m/8000000
 连续剧,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
-新视觉,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xsjhd8m/8000000
-第一财经,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dycjhd8m/8000000
-上视新闻,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xwzhhd8m/8000000
-上海都市,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dshd8m/8000000
-上海纪实,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jspdhd/4000000
-东方影视,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dfyshd8m/8000000
-五星体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=wxtyhd8m/8000000
-上视外语,http://zb.ldlive.xyz/zbtv/bestv2.php?id=icshd8m/8000000
-七彩戏剧,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcxjhd8m/8000000
-上海教育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=setvhd/8000000
-生活时尚,http://zb.ldlive.xyz/zbtv/bestv2.php?id=shss8m/8000000
-金色学堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jingsepd8m/8000000
-劲爆体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jbtyhd8m/8000000
-游戏风云,http://zb.ldlive.xyz/zbtv/bestv2.php?id=yxfy8m/8000000
-热门综艺,http://zb.ldlive.xyz/zbtv/bestv2.php?id=rmzy8m/8000000
-超级体育,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcsj8m/8000000
-健康养生,http://zb.ldlive.xyz/zbtv/bestv2.php?id=jkys8m/8000000
-百变课堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bbkt8m/8000000
-历史精选,http://zb.ldlive.xyz/zbtv/bestv2.php?id=ktxjx8m/8000000
-戏曲精选,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xqjx8m/8000000
-华语影院,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hyyy8m/8000000
-电竞天堂,http://zb.ldlive.xyz/zbtv/bestv2.php?id=djtt8m/8000000
-青春动漫,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qcdm8m/8000000
-宝宝动画,http://zb.ldlive.xyz/zbtv/bestv2.php?id=bbdh8m/8000000
-星光影院,http://zb.ldlive.xyz/zbtv/bestv2.php?id=xgyy8m/8000000
-谍战剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=dzjc8m/8000000
-全球大片,http://zb.ldlive.xyz/zbtv/bestv2.php?id=qqdp8m/8000000
-热门剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=rmjc8m/8000000
-欢笑剧场,http://zb.ldlive.xyz/zbtv/bestv2.php?id=hxjc8m/8000000
-快乐垂钓,http://zb.ldlive.xyz/zbtv/bestv2.php?id=klcd8m/8000000
-新视觉,http://zb.ldlive.xyz/zbtv/bestv.php?id=xsjhd8m/8000000
-第一财经,http://zb.ldlive.xyz/zbtv/bestv.php?id=dycjhd8m/8000000
-上视新闻,http://zb.ldlive.xyz/zbtv/bestv.php?id=xwzhhd8m/8000000
-上海都市,http://zb.ldlive.xyz/zbtv/bestv.php?id=dshd8m/8000000
-上海纪实,http://zb.ldlive.xyz/zbtv/bestv.php?id=jspdhd/4000000
-东方影视,http://zb.ldlive.xyz/zbtv/bestv.php?id=dfyshd8m/8000000
-五星体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=wxtyhd8m/8000000
-上视外语,http://zb.ldlive.xyz/zbtv/bestv.php?id=icshd8m/8000000
-七彩戏剧,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcxjhd8m/8000000
-上海教育,http://zb.ldlive.xyz/zbtv/bestv.php?id=setvhd/8000000
-生活时尚,http://zb.ldlive.xyz/zbtv/bestv.php?id=shss8m/8000000
-金色学堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=jingsepd8m/8000000
-劲爆体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=jbtyhd8m/8000000
-游戏风云,http://zb.ldlive.xyz/zbtv/bestv.php?id=yxfy8m/8000000
-热门综艺,http://zb.ldlive.xyz/zbtv/bestv.php?id=rmzy8m/8000000
-超级体育,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcsj8m/8000000
-健康养生,http://zb.ldlive.xyz/zbtv/bestv.php?id=jkys8m/8000000
-百变课堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=bbkt8m/8000000
-历史精选,http://zb.ldlive.xyz/zbtv/bestv.php?id=ktxjx8m/8000000
-戏曲精选,http://zb.ldlive.xyz/zbtv/bestv.php?id=xqjx8m/8000000
-华语影院,http://zb.ldlive.xyz/zbtv/bestv.php?id=hyyy8m/8000000
-电竞天堂,http://zb.ldlive.xyz/zbtv/bestv.php?id=djtt8m/8000000
-青春动漫,http://zb.ldlive.xyz/zbtv/bestv.php?id=qcdm8m/8000000
-宝宝动画,http://zb.ldlive.xyz/zbtv/bestv.php?id=bbdh8m/8000000
-星光影院,http://zb.ldlive.xyz/zbtv/bestv.php?id=xgyy8m/8000000
-谍战剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=dzjc8m/8000000
-全球大片,http://zb.ldlive.xyz/zbtv/bestv.php?id=qqdp8m/8000000
-热门剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=rmjc8m/8000000
-欢笑剧场,http://zb.ldlive.xyz/zbtv/bestv.php?id=hxjc8m/8000000
-快乐垂钓,http://zb.ldlive.xyz/zbtv/bestv.php?id=klcd8m/8000000
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-金色学堂,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-女性时尚,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/nvxing/__op/default/__f//index.m3u8
-游戏竞技,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/youxi/__op/default/__f//index.m3u8
-星光影视,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-极速汽车,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/car/__op/default/__f//index.m3u8
-生态环境,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/shengtai/__op/default/__f//index.m3u8
-发现之旅,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/faxian/__op/default/__f//index.m3u8
-四海钓鱼,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8
-快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls
-中华特产,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8
-中华美食,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8
-百视独播1 高清,http://tvmvip110.club/bs.php?id=124
-百视独播2 高清,http://tvmvip110.club/bs.php?id=126
-百视独播3 高清,http://tvmvip110.club/bs.php?id=128
-百视独播4 高清,http://tvmvip110.club/bs.php?id=247
-百视独播5 高清,http://tvmvip110.club/bs.php?id=144
-百视自制1 高清,http://tvmvip110.club/bs.php?id=213
-百视自制2 高清,http://tvmvip110.club/bs.php?id=216
-百视直播,http://tvmvip110.club/bs.php?id=146
-北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225675/index.m3u8
-金鹰纪实,http://zb.ldlive.xyz/zbtv/astv.php?id=jyjs
-金鹰纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225595/index.m3u8?fmt=ts2hls
-CHC动作电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=wqCHCdzdyH265_4000
-CHC高清电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=lnwsCHC-HDH265_4000
-CHC家庭影院,http://zb.ldlive.xyz/zbtv/sxg.php?id=jbtygqCHCjtyyH265_4000
-CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f//index.m3u8
-CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyHD/__op/default/__f//index.m3u8
-CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f//index.m3u8
-CHC动作电影,http://zb.ldlive.xyz/zbtv/astv.php?id=chcdzdy
-CHC高清电影,http://zb.ldlive.xyz/zbtv/astv.php?id=chcgqdy
-CHC家庭影院,http://zb.ldlive.xyz/zbtv/astv.php?id=chcjtyy
 CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC家庭电影,http://www.51nas.top:4022/udp/239.81.0.238:4056
@@ -3242,7 +2852,6 @@ CHC家庭电影,http://111.20.40.170/PLTV/88888893/224/3221226462/index.m3u8
 黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225718/index.m3u8
 黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225764/index.m3u8
 黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225769/index.m3u8
-峨眉电影,http://zb.ldlive.xyz/zbtv/sxg.php?id=emdygqH265_4000
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
 峨眉电影,http://vl15191373.imwork.net:8880/udp/239.93.0.252:5140
 
@@ -3748,8 +3357,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 昆明经济生活,http://devlivepull.migucloud.com/live/JT9JEQ54_C0_2.flv?zyund
 昆明科学教育,http://wshls.live.migucloud.com/live/ZBXWIMTD_C0_2/playlist.m3u8?zyund
 昆明科学教育,http://devlivepull.migucloud.com/live/ZBXWIMTD_C0_2.flv?zyund
-昆明影综艺,http://wshls.live.migucloud.com/live/KYLNJWFD_C0_2/playlist.m3u8?zyund
-昆明影综艺,http://devlivepull.migucloud.com/live/KYLNJWFD_C0_2.flv?zyund
 昆明公共,http://wshls.live.migucloud.com/live/UD0YLY2G_C0_3/playlist.m3u8?zyund
 昆明公共,http://devlivepull.migucloud.com/live/UD0YLY2G_C0_3.flv?zyund
 红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
