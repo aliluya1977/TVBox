@@ -2390,8 +2390,6 @@ NewTV金牌综艺[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 衡阳新闻综合,http://59.51.68.40:1936/live/2.stream/playlist.m3u8?zhund
 衡阳新闻综合,http://hnhs.chinashadt.com:1936/hnhs/tv5.stream/playlist.m3u8?zhund
 衡阳公共频道,http://59.51.68.40:1936/live/3.stream/playlist.m3u8?zhund
-云溪新闻综合,http://liveplay.rednet.cn/live/yunxi_tv.m3u8?zhund
-洪江市综合,http://liveplay.rednet.cn/live/hongjiang_tv_ced5a7.m3u8?zhund
 
 
 四川综合,#genre#
