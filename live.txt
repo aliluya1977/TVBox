@@ -1531,6 +1531,20 @@ TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
+港台電視31,http://223.17.179.164:9981/stream/channelid/1279216010?ticket=56552930c110c7b9f9cdff919d7c38c5ba04840b&profile=pass
+港台電視32,http://223.17.179.164:9981/stream/channelid/2116392595?ticket=94902673aedd346c8ba975f6a6fcdf681185abb5&profile=pass
+港台電視33,http://223.17.179.164:9981/stream/channelid/1916176381?ticket=a7f00a513fc299f4844d5d15ecb5b441b83a8957&profile=pass
+港台電視34,http://223.17.179.164:9981/stream/channelid/1528800577?ticket=71df70b46ae10e734b4908474b9640cba4f908eb&profile=pass
+香港國際財經台,http://223.17.179.164:9981/stream/channelid/957024148?ticket=f731cdf547a105159ec69e6df4ac597189a5b8f8&profile=pass
+HOYTV,http://223.17.179.164:9981/stream/channelid/682288796?ticket=fb8d170dc96e807229bfa1dd5d00db5ae25d1051&profile=pass
+HOY資訊台,http://223.17.179.164:9981/stream/channelid/680896391?ticket=e80efc6a1fd55c8ac1f98fee422487a43457b18c&profile=pass
+翡翠台,http://223.17.179.164:9981/stream/channelid/1602268840?ticket=2faed09650b2f1936ed62a360de93443cb591209&profile=pass
+J2台,http://223.17.179.164:9981/stream/channelid/1927294031?ticket=aa38b2eff9c8fc832b5ee682c57dffa77f526c51&profile=pass
+無線新聞台,http://223.17.179.164:9981/stream/channelid/432449332?ticket=ce1be8ca1952bf71a81f403051a6a9055d52f721&profile=pass
+明珠台,http://223.17.179.164:9981/stream/channelid/1561226923?ticket=c75b00fe23ca2593e12698dae4b4102d2414d1df&profile=pass
+無線財經體育資訊台,http://223.17.179.164:9981/stream/channelid/1599054265?ticket=846657d2e2d1506379f5c188d929210b64fb2d50&profile=pass
+ViuTVsix,http://223.17.179.164:9981/stream/channelid/1860017538?ticket=3fb0877e60324b775c3def235193b9d218b33ffa&profile=pass
+ViuTV,http://223.17.179.164:9981/stream/channelid/1970232380?ticket=7d4e22647a569a48055d25ed8cb4b640abdb077b&profile=pass
 
 
 江西移动,#genre#
