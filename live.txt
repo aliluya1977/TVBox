@@ -710,32 +710,9 @@ CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 CCTV-移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
-江苏卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.126:5146
-广西卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.139:5146
-四川卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.159:5146
-湖南卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.88:5146
-浙江卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.89:5146
-东方卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.98:5146
-北京卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.91:5146
-天津卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.97:5146
-辽宁卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.123:5146
-安徽卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.183:5146
-黑龙江卫视,http://ct.whosayssowhat.top:4022/udp/239.77.1.179:5146
-河北卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.148:5146
-江西卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.149:5146
-重庆卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.182:5146
-吉林卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.150:5146
-海南卫视,http://ct.whosayssowhat.top:4022/udp/239.253.43.35:5146
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
-湖北卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.95:5146
-山东卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.94:5146
-河南卫视,http://ct.whosayssowhat.top:4022/udp/239.77.1.229:5146
-甘肃卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.189:5146
-东南卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.146:5146
-云南卫视,http://ct.whosayssowhat.top:4022/udp/239.253.43.37:5146
-贵州卫视,http://ct.whosayssowhat.top:4022/udp/239.77.0.230:5146
 
 
 大杂烩,#genre#
@@ -884,7 +861,6 @@ M1905电影网,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI
 炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 潮妈辣婆,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225708/index.m3u8
 精品体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
-精品纪录,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
 金牌综艺,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225711/index.m3u8
 家庭剧场,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225713/index.m3u8
 精品大剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
@@ -905,7 +881,6 @@ IPTV2,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225716/index.m3u
 足球频道,http://183.207.255.188/live/program/live/zqpd8m/8000000/mnf.m3u8
 七彩戏剧,http://183.207.255.188/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 卫生健康,http://111.31.26.166/tlivecloud-ipv6.ysp.cctv.cn/001/2012513502.m3u8
-中国交通,https://tv.lanjingfm.com/cctbn/hainan.m3u8
 无线财经,http://iptv.cooltv.top/tv/tvb.php?id=2
 翡翠台,http://r.jdshipin.com/qClQf
 翡翠台,http://r.jdshipin.com/qrfbg
@@ -1530,7 +1505,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 我的祖国,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key
 高清综艺,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
 爱奇艺兔小贝,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
-爱奇艺兔小贝,http://aliyuncocsouth.inter.iqiyi.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8
 爱奇艺兔小贝,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
 爱奇艺兔小贝,http://lvbaiducdncmn.inter.ptqy.gitv.tv/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
 爱奇艺兔小贝,http://ib302.zjcdn.com/baiducdncmn3.inter.iqiyi.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
@@ -1538,7 +1512,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 爱奇艺兔小贝,http://bdcdncmn3.inter.71edge.com/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8?key
 爱奇艺兔小贝,http://118.26.120.33:55336/tslive/c54_lb_136_720P_t10/c54_lb_136_720P_t10.m3u8
 爱奇艺小猪佩奇,http://aliyuncdnct.inter.ptqy.gitv.tv/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8?key=08b3f8f3a31f12001f96a0f53163b0596
-爱奇艺小猪佩奇,http://aliyuncocsouth.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 爱奇艺小猪佩奇,http://baiducdncmn3.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
 爱奇艺小猪佩奇,http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8?key
 爱奇艺小猪佩奇,http://118.26.120.33:55336/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
@@ -1694,20 +1667,6 @@ TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 有線財經資訊台,http://2022.stream-link.org/playlist/cable_finance
 無綫新聞台,http://2022.stream-link.org/playlist/tvb_news
-港台電視31,http://223.17.179.164:9981/stream/channelid/1279216010?ticket=56552930c110c7b9f9cdff919d7c38c5ba04840b&profile=pass
-港台電視32,http://223.17.179.164:9981/stream/channelid/2116392595?ticket=94902673aedd346c8ba975f6a6fcdf681185abb5&profile=pass
-港台電視33,http://223.17.179.164:9981/stream/channelid/1916176381?ticket=a7f00a513fc299f4844d5d15ecb5b441b83a8957&profile=pass
-港台電視34,http://223.17.179.164:9981/stream/channelid/1528800577?ticket=71df70b46ae10e734b4908474b9640cba4f908eb&profile=pass
-香港國際財經台,http://223.17.179.164:9981/stream/channelid/957024148?ticket=f731cdf547a105159ec69e6df4ac597189a5b8f8&profile=pass
-HOYTV,http://223.17.179.164:9981/stream/channelid/682288796?ticket=fb8d170dc96e807229bfa1dd5d00db5ae25d1051&profile=pass
-HOY資訊台,http://223.17.179.164:9981/stream/channelid/680896391?ticket=e80efc6a1fd55c8ac1f98fee422487a43457b18c&profile=pass
-翡翠台,http://223.17.179.164:9981/stream/channelid/1602268840?ticket=2faed09650b2f1936ed62a360de93443cb591209&profile=pass
-J2台,http://223.17.179.164:9981/stream/channelid/1927294031?ticket=aa38b2eff9c8fc832b5ee682c57dffa77f526c51&profile=pass
-無線新聞台,http://223.17.179.164:9981/stream/channelid/432449332?ticket=ce1be8ca1952bf71a81f403051a6a9055d52f721&profile=pass
-明珠台,http://223.17.179.164:9981/stream/channelid/1561226923?ticket=c75b00fe23ca2593e12698dae4b4102d2414d1df&profile=pass
-無線財經體育資訊台,http://223.17.179.164:9981/stream/channelid/1599054265?ticket=846657d2e2d1506379f5c188d929210b64fb2d50&profile=pass
-ViuTVsix,http://223.17.179.164:9981/stream/channelid/1860017538?ticket=3fb0877e60324b775c3def235193b9d218b33ffa&profile=pass
-ViuTV,http://223.17.179.164:9981/stream/channelid/1970232380?ticket=7d4e22647a569a48055d25ed8cb4b640abdb077b&profile=pass
 
 
 江西移动,#genre#
@@ -1828,7 +1787,6 @@ NewTV潮妈辣婆[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/2
 NewTV炫舞未来[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 NewTV精品体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225709/index.m3u8
 NewTV精品大剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225714/index.m3u8
-NewTV精品纪录[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225710/index.m3u8
 NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225622/index.m3u8
 NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225648/index.m3u8
 NewTV超级体育[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
