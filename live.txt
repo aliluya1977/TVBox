@@ -565,7 +565,6 @@ CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
 大杂烩,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-CCTV4K,http://r.jdshipin.com/krMB5
 CCTV4K,http://111.31.26.166/tlivecloud-ipv6.ysp.cctv.cn/001/2000266303.m3u8
 北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -672,7 +671,6 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 东方影视,http://223.109.33.33/liveplay-kk.rtxapp.com/live/program/live/dfyshd8m/8000000/mnf.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
-4K超高清电影,http://r.jdshipin.com/5DWJk
 4K超高清电影,http://r.jdshipin.com/B7sfp
 M1905电影网,http://120.220.38.26/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 广东珠江,http://fyld.eatuo.com:9901/tsfile/live/1009_1.m3u8
@@ -739,7 +737,6 @@ J2,http://r.jdshipin.com/Nr5jq
 J2,http://r.jdshipin.com/ndGgS
 VIUTV,http://r.jdshipin.com/vSJvl
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 澳门莲花,http://epg.112114.xyz/lotus
 澳门莲花,http://jylt.jdshipin.com:808/hls/24/index.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
@@ -1242,7 +1239,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
 【猫和老鼠】汤姆和杰瑞童年回忆,http://epg.112114.xyz/douyu/7888428
 【柯南】外表看似小孩，智慧却过于常人,http://epg.112114.xyz/douyu/6484910
-江户川柯南，是一个蒸蛋。,http://epg.112114.xyz/douyu/5377297
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
 少女与半妖,http://epg.112114.xyz/douyu/7422897
@@ -2343,7 +2339,6 @@ IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
 IPTV淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
 IPTV淘娱乐,http://router.tonyliangli.cn:4022/udp/239.3.1.100:8001
 IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
-IPTV淘BABY,http://lay6.3322.org:4022/udp/239.3.1.238:8001
 IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
 IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
@@ -2931,7 +2926,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 蒙自综合,http://live.ynurl.com/video/s10019-mzdst/index.m3u8?zyund
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
-元阳综合,http://tv.drs.hhtv.cc:8100/channellive/yydst.flv?zyund
 广南电视台,http://live.ynurl.com/video/s10031-gnxgbds/index.m3u8?zyund
 马关电视台,http://live.ynurl.com/video/s10046-001/index.m3u8?zyund
 砚山电视台,http://live.ynurl.com/video/s10020-ystv/index.m3u8?zyund
