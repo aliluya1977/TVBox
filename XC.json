@@ -9,8 +9,8 @@
 		    "type": 0,
 		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 		    "logo": "https://epg.112114.xyz/logo/{name}.png"
-	        },
-	        {
+	         },
+	         {
 		    "name": "Json",
 		    "type": 1,
 		    "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
