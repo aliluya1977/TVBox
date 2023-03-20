@@ -4,6 +4,13 @@
 {
 	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;573BE8213FA597C2E473C0ADF14B3A82",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+	"lives": [{
+		    "name": "live",
+		    "type": 0,
+		    "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
+		    "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+		    "logo": "https://epg.112114.xyz/logo/{name}.png"
+	    }],
 
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七┃本接口免费,花钱买就是铁憨憨🈲","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
