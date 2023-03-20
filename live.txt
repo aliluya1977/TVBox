@@ -136,7 +136,6 @@ CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8?
 厦门卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226199/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-兵团卫视,http://222.175.159.226:808/hls/76/index.m3u8
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 三沙卫视,https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
@@ -498,8 +497,6 @@ GTV网络棋牌,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240319_1/pl
 欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
 CCTV-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
 CCTV16-4K,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
-4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
-4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
 CCTV-1 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3 高清,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -635,7 +632,6 @@ CNC中文,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225694/index
 北京纪实,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225676/index.m3u8
 卡酷少儿,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225677/index.m3u8
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
-山东教育卫视,http://222.175.159.226:808/hls/32/index.m3u8
 山东教育卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225719/index.m3u8
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225737/index.m3u8
 重庆卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225734/index.m3u8
@@ -883,7 +879,6 @@ YY影视,http://106.53.212.251/daili/yy.php?id=1382702247
 鬼片500部,http://106.53.212.251/daili/yy.php?id=1353059120
 燕双鹰专场,http://106.53.212.251:80/daili/yy.php?id=1352227153
 隋唐英雄传,http://106.53.212.251/daili/yy.php?id=1352475619
-林正英系列,http://106.53.212.251/daili/yy.php?id=1353685311
 康熙私访①,http://106.53.212.251:80/daili/yy.php?id=1352811698
 陪你看电影,http://106.53.212.251:80/daili/yy.php?id=24407222
 24小时大片,http://106.53.212.251:80/daili/yy.php?id=24066336
@@ -895,7 +890,6 @@ YY影视,http://106.53.212.251/daili/yy.php?id=1382702247
 天龙倚天笑傲,http://106.53.212.251/daili/yy.php?id=1351814644
 林正英僵尸鬼片,http://106.53.212.251/daili/yy.php?id=34229877
 林正英搞笑僵尸,http://106.53.212.251/daili/yy.php?id=1351505899
-经典电影24小时,http://106.53.212.251:80/daili/yy.php?id=1351496216
 
 
 体育频道,#genre#
@@ -3524,7 +3518,6 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 林翠萍《麦搁來这套》HD,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
 韩宝仪经典歌曲十首HD,https://vdse.bdstatic.com//87eec5e3259af99025ce76d06357dab8.mp4
 龙飘飘经典歌曲联唱HD,https://vdse.bdstatic.com//ce49716e7087985c189df09abc5face7.mp4
-台湾女歌手龙飘飘珍藏版HD,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
 刀郎经典歌曲《敖包相会》《西海情歌》等专辑金典老歌HD,https://vdse.bdstatic.com//36ea0ffcf8156a44b9d524d999eb088a.mp4
 刀郎经典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚HD,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
 刀郎经典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》HD,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
@@ -3534,7 +3527,6 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 宇宁《千里江山（大型纪录片《紫禁城》主题歌HD,https://vdse.bdstatic.com//688046e42c39cf6585106f945e2798e7.mov
 2021最佳伤感情歌HD,https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
 2021伤感洗脑神曲HD,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
-2021催泪情歌DJHD,https://vdse.bdstatic.com//b3a011133da73776af09309a9ee4d4c9.mp4
 2021最好听情歌HD,https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
 精选邓丽君经典歌曲8首HD,https://vdse.bdstatic.com//6fdc7d09e2f04a19745752bb60fbcc76.mp4
 经典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
