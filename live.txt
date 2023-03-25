@@ -1139,8 +1139,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 盐都综合频道,http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8?zjiangsd
 溧水新闻综合,http://live.lsrmw.cn/zhpd/sd/live.m3u8?zjiangsd
 溧水影院娱乐,http://live.lsrmw.cn/ysyl/sd/live.m3u8?zjiangsd
-铜山综合频道,http://stream.tstvxmt.com/tstv1/sd/live.m3u8?zjiangsd
-铜山三农频道,http://stream.tstvxmt.com/ts3/sd/live.m3u8?zjiangsd
 宜兴新闻频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8?zjiangsd
 宜兴紫砂频道,http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8?zjiangsd
 淮阴综合频道,http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8?zjiangsd
@@ -2534,9 +2532,7 @@ DJ情歌,https://vd2.bdstatic.com/mda-mm67ychk60q5n0d1/sc/cae_h264/1638893384360
 劲爆舞曲DJ,https://vd2.bdstatic.com/mda-mkjdym3r2h7y5a58/sc/cae_h264/1637440648941328664/mda-mkjdym3r2h7y5a58.mp4
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
 dj网影音,https://vd4.bdstatic.com/mda-mkp41i7243z4s711/sc/cae_h264/1637726363425109965/mda-mkp41i7243z4s711.mp4
-网格最火的dj舞曲,https://vd4.bdstatic.com/mda-mkqdkp1bsmu0nnq1/sc/cae_h264/1637842141459496778/mda-mkqdkp1bsmu0nnq1.mp4
 酒吧舞曲热舞,https://vd2.bdstatic.com/mda-mkkpvc5501bcm47e/sc/cae_h264/1637515367168984775/mda-mkkpvc5501bcm47e.mp4
-韩国舞团dj,https://vd2.bdstatic.com/mda-mkipbq21ifs557b8/720p/h264/1637339353128030403/mda-mkipbq21ifs557b8.mp4
 男神dj舞曲,https://vd4.bdstatic.com/mda-mkpbcp1thzqg8vju/sc/cae_h264/1637772142027994508/mda-mkpbcp1thzqg8vju.mp4
 韩国女团dj,https://vd3.bdstatic.com/mda-mknba5i60je0d2dn/sc/cae_h264/1637654844357830568/mda-mknba5i60je0d2dn.mp4
 伤心的劲爆酒吧舞,https://vd2.bdstatic.com/mda-mkq3vaiket7dw631/sc/cae_h264/1637828162236376108/mda-mkq3vaiket7dw631.mp4
@@ -2548,14 +2544,12 @@ dj舞曲女人版,https://vd3.bdstatic.com/mda-mkp88kxv6r8y73k9/sc/cae_h264/1637
 情歌DJ合集,https://vd4.bdstatic.com/mda-mkp3tpu9ghk2ufev/sc/cae_h264/1637733480141753790/mda-mkp3tpu9ghk2ufev.mp4
 好听的歌dj,https://vd2.bdstatic.com/mda-mkqacs86gs4cgqa6/sc/cae_h264/1637829541379011938/mda-mkqacs86gs4cgqa6.mp4
 情歌DJ版合集,https://vd2.bdstatic.com/mda-mkm2cjiykx3uagzb/sc/cae_h264/1637552930160578510/mda-mkm2cjiykx3uagzb.mp4
-8首伤感情歌DJ舞曲,https://vd4.bdstatic.com/mda-mkp1kg1ufe1qk9t5/sc/cae_h264/1637774263822358912/mda-mkp1kg1ufe1qk9t5.mp4
 四海舞曲dj,https://vd2.bdstatic.com/mda-mkp6w1tjw8mz9kpx/sc/cae_h264/1637731815454834601/mda-mkp6w1tjw8mz9kpx.mp4
 新世纪舞曲,https://vd4.bdstatic.com/mda-mkq704rtr59i9jtj/sc/cae_h264/1637823373696903055/mda-mkq704rtr59i9jtj.mp4
 dj舞曲交流,https://vd2.bdstatic.com/mda-majhhns1q3ggkdi6/v1-cae/sc/mda-majhhns1q3ggkdi6.mp4
 干就完了,https://vd3.bdstatic.com/mda-mkpd6xzxe91etw8c/sc/cae_h264/1637766099902911413/mda-mkpd6xzxe91etw8c.mp4
 斗音dj舞曲,https://vd3.bdstatic.com/mda-mkn4pytp5id88k1n/sc/cae_h264/1637638917472162775/mda-mkn4pytp5id88k1n.mp4
 金典老歌合集dj,https://vd3.bdstatic.com/mda-mkq6zqsvfa164i4i/sc/cae_h264/1637829051855604521/mda-mkq6zqsvfa164i4i.mp4
-红尘dj,https://vd3.bdstatic.com/mda-mkq1waqgnxpid21e/sc/cae_h264/1637832913083482350/mda-mkq1waqgnxpid21e.mp4
 学生dj舞曲,https://vd2.bdstatic.com/mda-mkncvdu8w51mdbqw/sc/cae_h264/1637659554429325643/mda-mkncvdu8w51mdbqw.mp4
 日韩舞曲DJ,https://vd4.bdstatic.com/mda-mknatf58h2evy18i/sc/cae_h264/1637653930525484478/mda-mknatf58h2evy18i.mp4
 国际舞曲,https://vd4.bdstatic.com/mda-mkpde77et4yvqx7e/sc/cae_h264/1637766610977026004/mda-mkpde77et4yvqx7e.mp4
@@ -2618,7 +2612,6 @@ dj舞曲金典,https://vd2.bdstatic.com/mda-mkk0g8x89nnx62tm/sc/cae_h264/1637456
 一点泪水dj,https://vd2.bdstatic.com/mda-mm52zzkus5fqm4xh/sc/cae_h264/1638783595083455661/mda-mm52zzkus5fqm4xh.mp4
 dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638069225501294830/mda-mkt45tnypacz3smk.mp4
 敢问路在何方dj,https://vd4.bdstatic.com/mda-mjbc5jr1y4bpqjma/sc/cae_h264_nowatermark/1634028115028515183/mda-mjbc5jr1y4bpqjma.mp4
-海底世界,https://vd2.bdstatic.com/mda-mm59a95esc9wz5ss/sc/cae_h264/1638774360901145752/mda-mm59a95esc9wz5ss.mp4
 爱江山更爱美人金典,https://vd4.bdstatic.com/mda-mm2a18n5jdh6d8bs/sc/cae_h264/1638516147610932793/mda-mm2a18n5jdh6d8bs.mp4
 舞曲视频,https://vd2.bdstatic.com/mda-mm25g3080p08di8w/sc/cae_h264/1638529553032232968/mda-mm25g3080p08di8w.mp4
 伤心的酒吧dj,https://vd4.bdstatic.com/mda-mkr3bv82ne6hdtw2/720p/h264/1637893480876329676/mda-mkr3bv82ne6hdtw2.mp4
