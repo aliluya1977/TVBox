@@ -332,7 +332,6 @@ CCTV14,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3
 CCTV15,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240329_1/playlist.m3u8?CONTENTID=00000110240329_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV16,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240389_1/playlist.m3u8?CONTENTID=00000110240389_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV16,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240388_1/playlist.m3u8?CONTENTID=00000110240388_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV16,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240349_1/playlist.m3u8?CONTENTID=00000110240349_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV17,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240326_1/playlist.m3u8?CONTENTID=00000110240326_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240282_1/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 4K,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -552,19 +551,16 @@ CCTV兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/d
 中国教育3台,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
 内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
 康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-西藏藏语卫视,https://tv.vtibet.cn/live/de3mrRaaCTBtvchannel1.m3u8
 峨眉电影,http://r.jdshipin.com/XIjta
 峨眉电影,http://r.jdshipin.com/vFgDS
 4K超高清电影,http://r.jdshipin.com/B7sfp
 广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
 宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
-西藏影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 西部电影,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
 百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
 古装剧场,http://117.169.124.149:8080/live/guzhuangjc/1.m3u8
@@ -852,7 +848,6 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 
 虎牙,#genre#
 周星驰,http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.m3u8??
-吴孟达,http://aldirect.corp-hls.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.m3u8??
 林正英,http://aldirect.corp-hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8??
 沈腾,http://aldirect.corp-hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.m3u8??
 甄子丹,http://aldirect.corp-hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8??
@@ -1024,8 +1019,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 活佛济公,http://diyp.112114.xyz/douyu/8595134
 吃米滴虫,http://diyp.112114.xyz/douyu/315457
 周末狂欢,http://diyp.112114.xyz/douyu/7476264
-最佳体验,http://diyp.112114.xyz/douyu/326852
-武侠古装,http://diyp.112114.xyz/douyu/6710537
 童年阴影,http://diyp.112114.xyz/douyu/2935323
 恐怖影厅,http://diyp.112114.xyz/douyu/3637726
 恐怖经典,http://diyp.112114.xyz/douyu/1165374
@@ -1333,7 +1326,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 山东综合,#genre#
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
 济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
-济南鲁中,https://quehuamtyoutlive.ijntv.cn/j8pukt/452907.m3u8
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
@@ -1447,7 +1439,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 黟县综合,http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8?zanhd
 黟县综合,http://114.104.147.15:1935/live/yixian/playlist.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-凤台综合,http://111.39.175.241:8088/live/fengtai1.m3u8?zanhd
 霍邱新闻综合,http://120.210.216.73:8080/ysten-business/live/SD12-576P-huoqiu/1.m3u8?zanhd
 金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
 肥东经济生活,http://120.210.216.73:8080/ysten-business/live/SD12-576P-fdjjsh/1.m3u8?zanhd
@@ -2791,8 +2782,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 车震一小时,http://gcw.bdcdn.shoujiduoduo.com/201805/0748-641.mp4
 车载DJ视频6,https://vdse.bdstatic.com//7e9d2da860d4ac39c0ea86502360d6fe.mp4
 车载DJ视频7,https://vdse.bdstatic.com//9f5e75775cfd2e45f70fcc528ee8040e.mp4
-车载DJ视频8,https://vd3.bdstatic.com/mda-mma2eqqhiz6s3rg3/480p/h264/1639187329216305069/mda-mma2eqqhiz6s3rg3.mp4
-车载DJ视频9,https://vd3.bdstatic.com/mda-mma2eqqug8shcf44/480p/h264/1639187331279357822/mda-mma2eqqug8shcf44.mp4
 车载DJ视频10,https://vd3.bdstatic.com/mda-mm42xrhp6tneefjh/480p/h264/1638670325372091423/mda-mm42xrhp6tneefjh.mp4
 林翠萍经典歌曲联唱,https://vdse.bdstatic.com//a5f8fb2b65eb2c8100487f0daf8e520d.mp4
 高胜美经典歌曲专辑,https://vdse.bdstatic.com//ff9ca37b153c35642888b38d07b039a5.mp4
@@ -2810,7 +2799,6 @@ DJ伤感好听《红颜知己》《事与愿违》《缘分相遇》《知情念
 DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,https://vdse.bdstatic.com//09b76fc9762763350288fb96047ec820.mp4
 《给我一把爱情火》《无情风雨无情的你》《昨夜的我又梦到了你》HD,https://vdse.bdstatic.com//63a770491e7bae0ebe661452c27eaf33.mp4
 林翠萍/林玉英经典歌曲联唱HD,https://vdse.bdstatic.com//7db965a410019e9021f6c6aa33057d25.mp4
-林翠萍经典歌曲精选HD,https://vdse.bdstatic.com//d18ce7521b67a9d0b50cf805034f2e21.mp4
 林翠萍《麦搁來这套》HD,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
 韩宝仪经典歌曲十首HD,https://vdse.bdstatic.com//87eec5e3259af99025ce76d06357dab8.mp4
 龙飘飘经典歌曲联唱HD,https://vdse.bdstatic.com//ce49716e7087985c189df09abc5face7.mp4
@@ -2824,7 +2812,6 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 2021最佳伤感情歌HD,https://vdse.bdstatic.com//59c5abc138bf1da5585bb765c530137e.mp4
 2021伤感洗脑神曲HD,https://vdse.bdstatic.com//8ad29ca92a901b9992431cf0c5266101.mp4
 2021最好听情歌HD,https://vdse.bdstatic.com//e668900af1d683c1f8762c1184d516d3.mp4
-精选邓丽君经典歌曲8首HD,https://vdse.bdstatic.com//6fdc7d09e2f04a19745752bb60fbcc76.mp4
 经典粤语歌曲《上海滩》《铁血丹心》《神情神话》《沧海一声笑》HD,https://vdse.bdstatic.com//f9cda7e70273c267b61a3d0c969d2033.mp4
 2021爆红伤感DJ情歌,https://vdse.bdstatic.com//92fae64ee11e2684faa61924be62c8ef.mp4
 邓丽君歌曲精选九首经典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
