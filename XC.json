@@ -1,9 +1,8 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;F0CBE346A2D22F8C05ECCFD4F8B2593E",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3FF662D44D19110691030E502FA92833",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
 
 	"sites":[
 {"key":"csp_77","name":"👒酷云七七┃本接口免费,花钱买就是铁憨憨🈲","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
