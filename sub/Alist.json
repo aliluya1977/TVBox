@@ -6,7 +6,11 @@
     },
     {
       "name": "小雅",
-      "server": "http://alist.xiaoya.pro/测试（不限速）/"
+      "server": "http://alist.xiaoya.pro/测试（不限速）"
+    },
+    {
+      "name": "云星",
+      "server": "http://alist.itvbox.cc/云星Open（不限速）"
     },
     {
       "name": "触光",
