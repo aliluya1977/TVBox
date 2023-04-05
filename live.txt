@@ -73,7 +73,6 @@ CCTV16,http://39.135.138.58:18890/TVOD/88888910/224/3221226230/index.m3u8
 CCTV17,http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
 CETV1,http://txycsbl.centv.cn/zb/0628cetv1.m3u8
-CETV1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
 CETV2,http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
@@ -544,32 +543,6 @@ CCTV第一剧场高清,http://113.207.84.197:8090/__cl/cg:live/__c/diyijuchangHD
 CCTV兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 
-大杂烩,#genre#
-直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
-苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-中国教育3台,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
-新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
-康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
-安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
-延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
-峨眉电影,http://r.jdshipin.com/XIjta
-峨眉电影,http://r.jdshipin.com/vFgDS
-4K超高清电影,http://r.jdshipin.com/B7sfp
-广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
-宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
-西部电影,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
-百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-古装剧场,http://117.169.124.149:8080/live/guzhuangjc/1.m3u8
-超级电视剧,http://39.134.136.205:6610/200000001898/460000089800010065/1.m3u8?IAS=
-超级电影,http://39.134.136.205:6610/200000001898/460000089800010064/1.m3u8?IAS=
-爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
-爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
-
-
 少儿频道,#genre#
 CCTV-14 高清,http://60.167.226.213/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CCTV-14 高清,http://222.79.112.157/live.aishang.ctlcdn.com/00000110240253_1/playlist.m3u8?CONTENTID=00000110240253_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -586,7 +559,6 @@ CCTV-14 高清,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 空中课堂_高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 空中课堂_高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 哈哈炫动,http://117.169.121.162:6610/PLTV/88888910/224/3221225720/index.m3u8
-哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 哈哈炫动,http://39.135.138.59:18890/PLTV/88888910/224/3221225720/index.m3u8
 金鹰卡通,http://39.134.115.163:8080/PLTV/88888910/224/3221225721/index.m3u8
 嘉佳卡通,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226193/index.m3u8
@@ -678,7 +650,6 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 薛刚反唐,http://106.53.212.251/daili/yy.php?id=31313785
 神雕侠侣,http://106.53.212.251/daili/yy.php?id=1351762426
 高清亮剑,http://106.53.212.251:80/daili/yy.php?id=1353392400
-好看电影,http://106.53.212.251:80/daili/yy.php?id=1353312849
 萌儿陪看,http://106.53.212.251/daili/yy.php?id=29216766
 武侠玄幻,http://106.53.212.251:80/daili/yy.php?id=28099939
 国产玄幻,http://106.53.212.251:80/daili/yy.php?id=1354143978
@@ -709,11 +680,6 @@ MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 斗鱼4K,http://epg.112114.xyz/douyu/9249162
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-新视觉HD,http://112.25.48.69/live/program/live/xsjhd/4000000/mnf.m3u8?blog.ntnas.top
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
 超级体育,http://39.135.138.59:18890/PLTV/88888910/224/3221225622/index.m3u8
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8
 超级体育,http://39.135.138.60:18890/PLTV/88888888/224/3221225622/index.m3u8
@@ -743,28 +709,14 @@ ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 智林體育,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 
 
 欢乐剧场,#genre#
-中国教育-1,http://183.207.255.188/live/program/live/zgjy1ott/1300000/mnf.m3u8
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-炫动卡通,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
 游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-娱乐频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-外语频道,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
 生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-魅力音乐,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-纪实频道,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
 超级电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225625/index.m3u8?blog.ntnas.top
 超级体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225622/index.m3u8?blog.ntnas.top
 超级体育,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225767/index.m3u8?blog.ntnas.top
@@ -1189,35 +1141,13 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
 古装剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225678/index.m3u8
 古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 家庭剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
 精品大剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225714/index.m3u8
 精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
 军旅剧场,http://39.134.115.163:8080/PLTV/88888910/224/3221225669/index.m3u8
 军旅剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 精品纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225710/index.m3u8
 精品纪录,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
-
-
-上海综合,#genre#
-新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8?zshangd
-魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8?zshangd
-欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8?zshangd
-都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8?zshangd
-法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8?zshangd
-上海都市,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8?zshangd
-上海教育,http://183.207.255.188/live/program/live/setv/1300000/mnf.m3u8?zshangd
-游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8?zshangd
-极速汽车体育,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8?zshangd
-生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8?zshangd
-全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8?zshangd
-幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8?zshangd
-动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8?zshangd
-七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8?zshangd
-东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8?zshangd
-上视外语,http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8?zshangd
-金山电视台,http://live.mudu.tv/watch/4zbn2f.m3u8?zshangd
 
 
 浙江综合,#genre#
@@ -1252,7 +1182,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 舟山新闻综合,http://live1.plus.wifizs.cn/xwzh/sd/live.m3u8?zzhed
 舟山公共生活,http://live1.plus.wifizs.cn/ggsh/sd/live.m3u8?zzhed
 舟山群岛旅游,http://live1.plus.wifizs.cn/qdly/sd/live.m3u8?zzhed
-嘉兴新闻综合,http://pluslive.jiaxingren.com/xwzh/sd/live.m3u8?zzhed
 武义新闻综合,http://l.cztvcloud.com/channels/lantian/SXwuyi1/720p.m3u8?zzhed
 永康新闻综合,http://hlsv2.quklive.com/live/1625061424267104/index.m3u8?zzhed
 平湖新闻综合,http://l.cztvcloud.com/channels/lantian/SXpinghu1/720p.m3u8?zzhed
@@ -1324,7 +1253,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 
 山东综合,#genre#
 中华美食,http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8?shandd
-济南教育,http://livejnedu.chinamcache.com/live/jneduzb01.m3u8?shandd
 青岛城阳,http://pili-live-rtmp.56.i2863.com/i2863-56/live_56_307317.m3u8?shandd
 日照新闻综合,http://live.rzw.com.cn/xwzh/sd/live.m3u8?shandd
 日照公共,http://live.rzw.com.cn/kzpd/sd/live.m3u8?shandd
@@ -1420,8 +1348,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 南陵新闻综合,http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
-黟县综合,http://app.yixianfabu.com:1935/live/yixian/playlist.m3u8?zanhd
-黟县综合,http://114.104.147.15:1935/live/yixian/playlist.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
 
@@ -1478,7 +1404,6 @@ Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白
 仙桃生活文体,http://221.233.242.239:280/live/72/playlist.m3u8
 保康文化旅游,http://bktvplay.gdnewmedia.cc/live/bk_whly.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
-江夏经济生活,http://59.175.226.142:280/gb28181/jjsh.m3u8?zhubd
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8?zhubd
 
 
@@ -1535,21 +1460,34 @@ CHC家庭影院,http://222.79.112.138/live.aishang.ctlcdn.com/00000110240323_1/p
 黑莓电影,http://117.169.121.162:6610/PLTV/88888910/224/3221225769/index.m3u8
 
 
-综合,#genre#
+大杂烩,#genre#
 SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
-SiTV极速汽车,http://183.207.255.188/live/program/live/jsqchd/4000000/mnf.m3u8
-SiTV欢笑剧场,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8
 SiTV游戏风云,http://183.207.255.188/live/program/live/yxfyhd/4000000/mnf.m3u8
 SiTV生活时尚,http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 SiTV都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-SiTV新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
-SiTV幸福彩,http://183.207.255.188/live/program/live/xfchd/4000000/mnf.m3u8
-SiTV魅力足球,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
-SiTV法治天地,http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
-SiTV金色频道,http://183.207.255.188/live/program/live/jingsepd/1300000/mnf.m3u8
-SiTV七彩戏剧,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
-SiTV东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
+北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+中国教育3台,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
+内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
+新疆卫视,http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+康巴卫视,http://v2.91kds.cn/b9/sctv.m3u8?id=kbws&auth=rinimabi
+安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+峨眉电影,http://r.jdshipin.com/XIjta
+4K超高清电影,http://r.jdshipin.com/B7sfp
+广州南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
+宁夏公共,http://livepgc.cmc.ningxiahuangheyun.com/pgc/041867befe3dde090202f620ade5b87c.m3u8?txSecret=39373ebcf0d57da2477968efb258e2b7&txTime=6235C9B6
+宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
+西部电影,http://61.164.158.161:80/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
+百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
+古装剧场,http://117.169.124.149:8080/live/guzhuangjc/1.m3u8
+超级电视剧,http://39.134.136.205:6610/200000001898/460000089800010065/1.m3u8?IAS=
+超级电影,http://39.134.136.205:6610/200000001898/460000089800010064/1.m3u8?IAS=
+爱喜剧,http://39.184.224.99:9080/newlive/live/hls/55/live.m3u8
+爱科幻,http://39.184.224.99:9080/newlive/live/hls/56/live.m3u8
+
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 中国党员教育,http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8
@@ -2187,6 +2125,7 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 
 
 直播中国,#genre#
+直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国精编直播,http://gcksc.v.kcdnvip.com/gc/wgw05_1/index.m3u8
 直播中国精编直播,http://gcbsc.v.live.baishancdnx.cn/gc/wgw05_1/index.m3u8
 湖南张家界水绕四门,http://gcksc.v.kcdnvip.com/gc/zjjsrsm_1/index.m3u8
@@ -2627,7 +2566,6 @@ DJ最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_
 DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
 车载DJ《多年以后》,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
 红尘只是个过客,https://vd2.bdstatic.com/mda-mhq68s6g444n437t/hd/cae_h264/1629865742325435508/mda-mhq68s6g444n437t.mp4
-百花香(抖音DJ版),https://vd4.bdstatic.com/mda-mdsd1z3wbqeeyumq/fhd/cae_h264_nowatermark/1620021906658368673/mda-mdsd1z3wbqeeyumq.mp4
 经典老歌DJ舞曲七首,https://vd2.bdstatic.com/mda-mhwbtsnrmm6v6x5r/sc/cae_h264/1630403250895754314/mda-mhwbtsnrmm6v6x5r.mp4
 精选五首DJ男声串烧,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
 韩可可《错位时空》DJ版,https://vd3.bdstatic.com/mda-mgciytzb45z6z8yj/1080p/cae_h264/1626183756603775947/mda-mgciytzb45z6z8yj.mp4
@@ -2660,7 +2598,6 @@ DJ情歌,https://vd2.bdstatic.com/mda-mm67ychk60q5n0d1/sc/cae_h264/1638893384360
 酒吧舞女,https://vd2.bdstatic.com/mda-mkpe42g9za18xetn/sc/cae_h264/1637798968815645031/mda-mkpe42g9za18xetn.mp4
 劲爆舞曲DJ,https://vd2.bdstatic.com/mda-mkjdym3r2h7y5a58/sc/cae_h264/1637440648941328664/mda-mkjdym3r2h7y5a58.mp4
 慢摇dj舞曲,https://vd2.bdstatic.com/mda-mkpi5r0xe92ja446/sc/cae_h264/1637775035132431598/mda-mkpi5r0xe92ja446.mp4
-dj网影音,https://vd4.bdstatic.com/mda-mkp41i7243z4s711/sc/cae_h264/1637726363425109965/mda-mkp41i7243z4s711.mp4
 男神dj舞曲,https://vd4.bdstatic.com/mda-mkpbcp1thzqg8vju/sc/cae_h264/1637772142027994508/mda-mkpbcp1thzqg8vju.mp4
 韩国女团dj,https://vd3.bdstatic.com/mda-mknba5i60je0d2dn/sc/cae_h264/1637654844357830568/mda-mknba5i60je0d2dn.mp4
 伤心的劲爆酒吧舞,https://vd2.bdstatic.com/mda-mkq3vaiket7dw631/sc/cae_h264/1637828162236376108/mda-mkq3vaiket7dw631.mp4
@@ -2776,13 +2713,8 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 邓丽君歌曲精选九首经典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
 怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
 苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
-和你一起,https://ks-xpc5.xpccdn.com/71161a1c-4a92-4139-b1ed-f88c60ca1fcb.mp4
-Bye请慢走,https://ks-xpc4.xpccdn.com/ce9d22cb-0780-4549-8faa-7f67dee03eda.mp4
-SummerHaze,https://ks-xpc4.xpccdn.com/779d4658-40ba-4d51-a0c0-e53385ec2482.mp4
-白色的冬季,https://ks-xpc4.xpccdn.com/c7141fa1-37b2-4c85-909c-ecb5ad732a50.mp4
 我和我的祖国,https://ks-xpc4.xpccdn.com/5d8c248a2a2b4.mp4
 野狼Disco官方版2k,https://tencent-xpc16.xpccdn.com/5e1a43c1cca10.mp4
-过去完成时2k,https://ks-xpc5.xpccdn.com/abf561a5-67af-455f-b5ff-dff98b42aa4f.mp4
 BobGirls-Noway,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
 艾娃·麦克斯-我也是,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
 2NE1-（失踪的你）,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
@@ -2832,7 +2764,6 @@ dj新歌句句在理,https://vd4.bdstatic.com/mda-ncmb65kfdfysdq4g/sc/cae_h264_d
 陕北民间,https://vd4.bdstatic.com/mda-ncfk4vpkpbuhnu0s/720p_frame30/h264_cae_delogo/1647440102957240321/mda-ncfk4vpkpbuhnu0s.mp4
 情歌DJ舞曲,https://vd2.bdstatic.com/mda-nag6y4ryfy5a0hjb/720p/h264_delogo/1642396108696963578/mda-nag6y4ryfy5a0hjb.mp4
 9首醉人的情歌,https://vd2.bdstatic.com/mda-nca3btr4bdxce5wj/sc/cae_h264_delogo/1647136483442128566/mda-nca3btr4bdxce5wj.mp4
-敖包相会,https://vd4.bdstatic.com/mda-mk5jeydhnp9gd01t/sc/cae_h264/1636206436600780716/mda-mk5jeydhnp9gd01t.mp4
 韩宝仪《情人桥》,https://vd4.bdstatic.com/mda-jehka6exkt6va8id/sc/mda-jehka6exkt6va8id.mp4
 韩宝仪无聊的游戏,https://vd2.bdstatic.com/mda-nb8j3b6sz77bdvk8/sc/cae_h264_delogo/1644413904258506067/mda-nb8j3b6sz77bdvk8.mp4
 高清舞曲,https://txmov2.a.kwimgs.com/upic/2022/03/25/20/BMjAyMjAzMjUyMDUyNTZfMjM0NDc1MTE5N183MDQ0NzkzMTQxOV8wXzM=_b_B383b34c7a7c97f97b5350f622d8da0a6.mp4?tag=1-1648554367-std-1-puqq96jiry-1167f7fd60758f88&clientCacheKey=3x3qtumzyu5rh6w_b.mp4&tt=b&di=79c43beb&bp=12681
