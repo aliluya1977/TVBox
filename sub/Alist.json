@@ -1,10 +1,6 @@
 {
   "drives": [
     {
-      "name": "Lan同学",
-      "server": "https://cirbkv-5244.csb.app"
-    },    
-    {
       "name": "小雅",
       "server": "http://alist.xiaoya.pro/测试（不限速）"
     },
