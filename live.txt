@@ -886,7 +886,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 刑侦破案,http://diyp.112114.xyz/douyu/8323493
 人气港剧,http://diyp.112114.xyz/douyu/5261342
 港剧天地,http://diyp.112114.xyz/douyu/4290711
-热门港剧,http://diyp.112114.xyz/douyu/5522351
 经典搞笑,http://diyp.112114.xyz/douyu/5429211
 华语经典①,http://diyp.112114.xyz/douyu/434971
 经典港剧①,http://diyp.112114.xyz/douyu/4549169
@@ -926,7 +925,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 斗鱼電影169,http://epg.112114.xyz/douyu/7528160
 斗鱼电影90,http://epg.112114.xyz/douyu/6785471
 斗鱼电影110,http://epg.112114.xyz/douyu/8415464
-斗鱼电影113,http://epg.112114.xyz/douyu/5522351
 斗鱼电影114,http://epg.112114.xyz/douyu/562225
 斗鱼电影115,http://epg.112114.xyz/douyu/223521
 斗鱼电影118,http://epg.112114.xyz/douyu/4631599
