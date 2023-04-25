@@ -73,13 +73,13 @@
 {"key": "戏 曲" ,"name": "🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/Blixq.json"}
 ],
 "parses": [{
-		"name": "Web聚合",
-		"type": 3,
-		"url": "Web"
-	}, {
 		"name": "Json聚合",
 		"type": 3,
 		"url": "Demo"
+	}, {
+		"name": "Web聚合",
+		"type": 3,
+		"url": "Web"
 	}, {
 		"name": "猫影视",
 		"type": 1,
