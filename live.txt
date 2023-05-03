@@ -599,19 +599,13 @@ CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-鹿鼎记,http://106.53.212.251/daili/yy.php?id=28265277
 周星驰②,http://106.53.212.251:80/daili/yy.php?id=1353881242
 周星驰③,http://106.53.212.251:80/daili/yy.php?id=1352227227
 射雕英雄,http://106.53.212.251:80/daili/yy.php?id=1354210357
 薛刚反唐,http://106.53.212.251/daili/yy.php?id=31313785
 神雕侠侣,http://106.53.212.251/daili/yy.php?id=1351762426
 高清亮剑,http://106.53.212.251:80/daili/yy.php?id=1353392400
-萌儿陪看,http://106.53.212.251/daili/yy.php?id=29216766
 一起看电影,http://106.53.212.251:80/daili/yy.php?id=1354210357
-鹿鼎记高清,http://106.53.212.251:80/daili/yy.php?id=28265277
-神探狄仁杰,http://106.53.212.251:80/daili/yy.php?id=38338029
-狄仁杰1-4部,http://106.53.212.251:80/daili/yy.php?id=1351755386
-天龙倚天笑傲,http://106.53.212.251/daili/yy.php?id=1351814644
 林正英僵尸鬼片,http://106.53.212.251/daili/yy.php?id=34229877
 林正英搞笑僵尸,http://106.53.212.251/daili/yy.php?id=1351505899
 
@@ -737,7 +731,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
 最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
 【动漫】记录你的王者峡谷生活~,http://epg.112114.xyz/douyu/9360149
-【小叮当】童年经典动画片,http://epg.112114.xyz/douyu/9445279
 中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
 动漫推荐官方直播间,http://epg.112114.xyz/douyu/5187099
 【经典动漫】9455567,http://epg.112114.xyz/douyu/9455567
@@ -808,7 +801,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 刑侦破案,http://diyp.112114.xyz/douyu/8323493
 人气港剧,http://diyp.112114.xyz/douyu/5261342
 港剧天地,http://diyp.112114.xyz/douyu/4290711
-经典搞笑,http://diyp.112114.xyz/douyu/5429211
 华语经典①,http://diyp.112114.xyz/douyu/434971
 经典港剧①,http://diyp.112114.xyz/douyu/4549169
 武侠电视剧,http://diyp.112114.xyz/douyu/7338853
@@ -1047,11 +1039,9 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 金湖新闻综合,http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 金坛新闻频道,http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 海安新闻综合,http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8?zjiangsd
-泗洪新闻综合,http://sihong-tv-hls.cm.jstv.com/sihong-tv/sihongxinwenzonghe.m3u8?zjiangsd
 睢宁综合频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8?zjiangsd
 睢宁生活教育,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8?zjiangsd
 睢宁三农频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8?zjiangsd
-睢宁资讯频道,http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8?zjiangsd
 沭阳综合频道,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8?zjiangsd
 东海新闻频道,http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8?zjiangsd
 贾汪新闻频道,http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8?zjiangsd
@@ -2335,7 +2325,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 凤凰传奇-光芒,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_24042019&response=res&format=mp4&type=convert_url
 凤凰传奇-御龙归字谣,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_1164118&response=res&format=mp4&type=convert_url
 凤凰传奇-月亮之上,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_7084968&response=res&format=mp4&type=convert_url
-巨星珍藏系列：邓丽君經典歌曲精选（3),https://vdse.bdstatic.com//a43cab220b1ac8f879a1b5e29592c9f3.mp4
 巨星珍藏系列:邓丽君經典歌曲精选(4),https://vdse.bdstatic.com//286f53c579b11eecd2d70f985a685ae9.mp4
 邓丽君 歌曲精选九首 經典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
 邓丽君經典歌曲联唱,https://vdse.bdstatic.com//e4ef0d3bbf543b6ad61553680052a800.mp4
@@ -2371,10 +2360,8 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 龙飘飘經典歌曲4首F,https://vdse.bdstatic.com//d34849bc0342bf0dbf1d94a97c99175e.mp4
 龙飘飘經典歌曲6首联唱F,https://vdse.bdstatic.com//abae155e6b9e79872a313aa47d75cdf4.mp4
 关正杰的十首粤语老歌F,https://vdse.bdstatic.com//d95bf4719f9e5b7bf1f2ef3679f1fdb2.mp4
-卓依婷《杜十娘/萍聚/真的好想你/好人一生平安/雾里看花》F,https://vdse.bdstatic.com//bf6409d65b8cb920467836753adf89d1.mp4
 林翠萍/林玉英經典歌曲联唱,https://vdse.bdstatic.com//7db965a410019e9021f6c6aa33057d25.mp4
 林翠萍《麦搁來这套》,https://vdse.bdstatic.com//5b388a47b1233105831e09b8cadc1edd.mp4
-韓宝仪經典歌曲十首,https://vdse.bdstatic.com//87eec5e3259af99025ce76d06357dab8.mp4
 龙飘飘經典老歌《后悔爱上你》,https://vdse.bdstatic.com//bde5b937e292c240a4322d9719deb98b.mp4
 龙飘飘經典歌曲联唱,https://vdse.bdstatic.com//ce49716e7087985c189df09abc5face7.mp4
 臺灣女歌手龙飘飘珍藏版,https://vdse.bdstatic.com//539b4c0c2a7fad0ed1ddaff68773171b.mp4
