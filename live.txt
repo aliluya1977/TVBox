@@ -1,21 +1,4 @@
 央视频道,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-CCTV4,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-CCTV5,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-CCTV6,http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-CCTV7,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-CCTV8,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-CCTV9,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-CCTV10,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-CCTV11,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-CCTV12,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-CCTV13,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-CCTV14,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-CCTV15,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-CCTV16,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
@@ -588,7 +571,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 喜剧经典,http://epg.112114.xyz/douyu/9650887
 北京大蜜,http://epg.112114.xyz/douyu/805235
 奶虫恐怖电影,http://epg.112114.xyz/douyu/263824
-星星影院,http://epg.112114.xyz/douyu/315131
 精品电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8?blog.ntnas.top
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8?blog.ntnas.top
@@ -599,12 +581,6 @@ CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
-周星驰②,http://106.53.212.251:80/daili/yy.php?id=1353881242
-周星驰③,http://106.53.212.251:80/daili/yy.php?id=1352227227
-射雕英雄,http://106.53.212.251:80/daili/yy.php?id=1354210357
-薛刚反唐,http://106.53.212.251/daili/yy.php?id=31313785
-神雕侠侣,http://106.53.212.251/daili/yy.php?id=1351762426
-高清亮剑,http://106.53.212.251:80/daili/yy.php?id=1353392400
 一起看电影,http://106.53.212.251:80/daili/yy.php?id=1354210357
 林正英僵尸鬼片,http://106.53.212.251/daili/yy.php?id=34229877
 林正英搞笑僵尸,http://106.53.212.251/daili/yy.php?id=1351505899
@@ -713,7 +689,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 【柯南】外表看似小孩，智慧却过于常人,http://epg.112114.xyz/douyu/6484910
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
 草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
-少女与半妖,http://epg.112114.xyz/douyu/7422897
 宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
 星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
 松开的手0.0,http://epg.112114.xyz/douyu/10210568
@@ -744,7 +719,6 @@ NewTV热播精选,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.
 狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
 【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
 【科幻Fans】精彩科幻影视，解说连连看,http://epg.112114.xyz/douyu/3508304
-最新奇幻电影解说-宇宙无敌韩三金,http://epg.112114.xyz/douyu/3194372
 吃米滴虫,http://epg.112114.xyz/douyu/315457
 神乐影片2,http://epg.112114.xyz/douyu/85894
 刘德华电影1,http://epg.112114.xyz/douyu/2516864
@@ -1201,17 +1175,6 @@ IPTV高清院线,http://119.39.128.18:88/hls/34/index.m3u8
 IPTV抗战剧场,http://119.39.128.18:88/hls/35/index.m3u8
 IPTV古装剧场,http://119.39.128.18:88/hls/36/index.m3u8
 IPTV经典剧场,http://119.39.128.18:88/hls/37/index.m3u8
-CCTV第一剧场,http://home.111818.xyz:8888/udp/239.76.254.49:9000
-CCTV风云剧场,http://home.111818.xyz:8888/udp/239.76.254.50:9000
-CCTV风云音乐,http://home.111818.xyz:8888/udp/239.76.254.51:9000
-CCTV风云足球,http://home.111818.xyz:8888/udp/239.76.254.52:9000
-CCTV怀旧剧场,http://home.111818.xyz:8888/udp/239.76.254.53:9000
-CCTV女性时尚,http://home.111818.xyz:8888/udp/239.76.254.55:9000
-CCTV文化精品,http://home.111818.xyz:8888/udp/239.76.254.56:9000
-CCTV世界地理,http://home.111818.xyz:8888/udp/239.76.254.57:9000
-CCTV央视台球,http://home.111818.xyz:8888/udp/239.76.254.58:9000
-CCTV兵器科技,http://home.111818.xyz:8888/udp/239.76.254.59:9000
-CCTV高尔夫网球,http://home.111818.xyz:8888/udp/239.76.254.62:9000
 CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
@@ -1721,8 +1684,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 舟曲新闻,http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand
 崆峒综合,http://125.74.200.110:10080/hls/001/001_live.m3u8?gansu
 西峰综合,http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand
-昆明新闻综合,http://devlivepull.migucloud.com/live/01YCQY7M_C0.flv?zyund
-昆明新闻综合,http://wshls.live.migucloud.com/live/01YCQY7M_C0/playlist.m3u8
 红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
 文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
 文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
@@ -1769,8 +1730,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 哈尔滨娱乐,http://stream.hrbtv.net/ylpd/sd/live.m3u8?zheild
 伊春综合,http://live.yichuntv.com/e5d7b4b95cf849d79fa3964431dca1f3/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
 伊春公共,http://live.yichuntv.com/1501fae792774811b2cd1366a078e666/h264_800k_ts/index.m3u8?type=flv2hls_m3u8?zheild
-朝阳新闻综合,https://play.cytv01.cygbdst.com/live/cyxwtv.m3u8?zliaond
-朝阳教育,https://play.cytv01.cygbdst.com/live/jypdtv.m3u8?zliaond
 鄂尔多斯新闻综合,http://live.erdszs.org.cn/lsdream/h2mxgj4/1000/live.m3u8?zneimd
 鄂尔多斯经济服务,http://live.erdszs.org.cn/lsdream/ogvfqcp/1000/live.m3u8?zneimd
 鄂尔多斯城市生活,http://live.erdszs.org.cn/lsdream/726npBZ/1000/live.m3u8?zneimd
@@ -2314,7 +2273,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 刀郎經典歌曲7首：《西海情歌》《敖包相会》《情人》冲动的惩罚,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
 刀郎經典歌曲精选,https://vdse.bdstatic.com//4fcca19a19aa4974230c5ee70ab5fa55.mp4
 刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
-經典【刀郎】歌曲精选《冲动的惩罚》《西海情歌》《驼铃》等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
 云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
 刀郎經典歌曲《情人/为什么我泪水成行/2002年的第一场雪》等,https://vdse.bdstatic.com//9b34ac60de14344db632ced1bdac9ef3.mp4
