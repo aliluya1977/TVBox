@@ -7,4 +7,4 @@
 
 ### 2. 下载地址
  - [TVbox开源版](https://wws.lanzouv.com/b03j4ulyh#999)   
- - [欢迎大家加群一起交流学习分享---点击直接加入群](https://jq.qq.com/?_wv=1027&k=KhLg7JXX)  
+ - [欢迎志同道合的朋友加入---点击直接加入🐧裙](https://jq.qq.com/?_wv=1027&k=KhLg7JXX)  
