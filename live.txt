@@ -434,9 +434,7 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 北京大蜜,http://epg.112114.xyz/douyu/805235
 4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8?blog.ntnas.top
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
-CHC家庭电影,http://www.51nas.top:4022/udp/239.81.0.238:4056
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
-CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
 新泰影视频道,http://live.xtgdw.cn:1935/live/xtys/playlist.m3u8
@@ -793,7 +791,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 叙州新闻综合,http://pili-live-hls.ybcxjd.com/jdh-live/2108111201035597.m3u8?zsicd
 大竹新闻综合,http://60.255.120.30:89/live1/live1.m3u8?zsicd
 大竹阳光政务,http://60.255.120.30:89/live2/live2.m3u8?zsicd
-开江新闻综合,http://lmt.kjzx.net:98/live1/live1.m3u8?zsicd
 万源新闻综合,http://live.wanyuannews.com/wytv/hd/live.m3u8?zsicd
 蓬安新闻综合,http://palive.patv123.com:8091/live/xwpd_800K.m3u8?zsicd
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
@@ -893,9 +890,7 @@ IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
 IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-CHC动作电影,http://www.51nas.top:4022/udp/239.81.0.239:4056
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
-CHC家庭电影,http://www.51nas.top:4022/udp/239.81.0.238:4056
 
 
 大杂烩,#genre#
