@@ -444,14 +444,12 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 禧剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 女神影院,http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 经典剧场,http://diyp.112114.xyz/douyu/8543072
-雍正专属,http://diyp.112114.xyz/douyu/9650836
 吃米滴虫,http://diyp.112114.xyz/douyu/315457
 恐怖影厅,http://diyp.112114.xyz/douyu/3637726
 恐怖经典,http://diyp.112114.xyz/douyu/1165374
 恐怖电影,http://diyp.112114.xyz/douyu/310926
 刑侦破案,http://diyp.112114.xyz/douyu/8323493
 人气港剧,http://diyp.112114.xyz/douyu/5261342
-华语经典①,http://diyp.112114.xyz/douyu/434971
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=2ccc7b4ba29208aaba62dae54cbbd68c&token=cpn-androidmpro-0-20415-b6774b3b3249db17fff84d73c7585c95e780dbccdb08e4bc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影3,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影4,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -472,27 +470,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 斗鱼电影118,http://epg.112114.xyz/douyu/4631599
 斗鱼电影130,http://epg.112114.xyz/douyu/8014467
 斗鱼电影150,http://epg.112114.xyz/douyu/3980787
-
-
-埋堆堆,#genre#
-埋堆堆1,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749096
-埋堆堆2,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23735126
-埋堆堆3,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865152
-埋堆堆4,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23903196
-埋堆堆5,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23740156
-埋堆堆6,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23728660
-埋堆堆8,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865058
-埋堆堆9,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23734183
-埋堆堆11,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23865036
-埋堆堆13,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23734246
-埋堆堆16,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23863796
-埋堆堆17,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23749083
-埋堆堆21,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23824164
-埋堆堆22,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23863804
-埋堆堆24,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23903183
-埋堆堆26,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23903130
-埋堆堆27,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23734169
-埋堆堆28,http://43.128.40.42:198/%E8%99%8E%E7%89%99%E7%9B%B4%E6%92%AD/huya.php?id=23728674
 
 
 爱奇艺,#genre#
