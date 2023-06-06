@@ -389,7 +389,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
 海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
 【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-草帽丶海贼团的直播间,http://epg.112114.xyz/douyu/997925
 宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
 星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
 松开的手0.0,http://epg.112114.xyz/douyu/10210568
@@ -699,7 +698,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 六安公共,http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
 淮南新闻综合,http://stream.0554news.com/hnds1/sd/live.m3u8?zanhd
 淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
-南陵新闻综合,http://live2018.wuhunews.cn/video/s10010-nlnews/index.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
 金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
@@ -1829,7 +1827,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 刀郎經典老歌合集《披着羊皮的狼》《西海情歌》《冲动的惩罚》,https://vdse.bdstatic.com//bfbb0871ed01eb3328497faae6a8531b.mp4
 云朵、刀郎、孙露、张雨生等經典怀旧歌曲6首,https://vdse.bdstatic.com//fa0ed7ad8657cc4d13972c3d9aa5ddbf.mp4
 怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
-刀郎經典歌曲《情人/为什么我泪水成行/2002年的第一场雪》等,https://vdse.bdstatic.com//9b34ac60de14344db632ced1bdac9ef3.mp4
 飞鸟和蝉-任然,https://vd4.bdstatic.com/mda-kmagpap54qyv855r/v1-cae/1080p/mda-kmagpap54qyv855r.mp4
 海鸥飞-龙梅子,https://vd2.bdstatic.com/mda-kgrx6ftzptj5x4i9/v1-cae/1080p/mda-kgrx6ftzptj5x4i9.mp4
 不再痴情-黄静美,https://vd2.bdstatic.com/mda-mguiyws4cia6d0rf/1080p/cae_h264/1627568961141809995/mda-mguiyws4cia6d0rf.mp4
@@ -1947,7 +1944,6 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 魏新雨 Ⅰ 恋人心,https://vdse.bdstatic.com//e179fea2ba171a7268188a055702229d.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A18%3A42Z%2F-1%2Fhost%2F84badc350a20f1dfe035e91408acfe7e4b1e69fe262f4faaa5ca3af837e1592b
 许艺娜 Ⅰ 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F105e954b546582862111230676e2cdc84b0144bf00447793daa377381b7ddb0f
 半阳 Ⅰ 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost%2Fc4e678fdb911f8524405fcf1563002f4f9c892a22e3f2033b917a39f2d01ea20
-肖战 Ⅰ 余年,https://vdse.bdstatic.com/660c78b56b33dca31497de9c6921c5a6.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fb2cec293153ef7795846f08b08f8ae00825357cd0ce4d2c2977afeb31bb70540
 李建 Ⅰ 一念一年,https://vdse.bdstatic.com/ea4ad861c3816ba29b415da2494706a1.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2Fe5580be73eed99ae2d6da05453b3d79cdba5a663c049f6367ae6ae4bc4fbb1e6
 张杰 Ⅰ 浮诛,https://vdse.bdstatic.com/1c2dc5580507bc1b0ef507c63b3fc461.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F%2F592cfc9d5b5bc41242144504ccf1f9f9df9d15b863f6f33c610e552faf629cd9
 张杰 Ⅰ 就算没有如果,https://vdse.bdstatic.com//b362a1c2ecbc60b18d3dc06cdc97f142.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A58%3A51Z%2F-1%2Fhost%2Ff5f960beaff319951e978ff3850b31434a5d64f13c03c9724e988c251426270d
@@ -1999,7 +1995,6 @@ DJ版《原谅你的谎》,https://vd4.bdstatic.com/mda-mhacxx5vhr2we882/1080p/c
 DJ《等爱》,https://vd2.bdstatic.com/mda-mfhh1e0hwq212rrt/sc/h264/1623988905898256147/mda-mfhh1e0hwq212rrt.mp4
 DJ《醉过多少回》,https://vd4.bdstatic.com/mda-megp46e98a4f2b9g/sc/h264/1621239560364992817/mda-megp46e98a4f2b9g.mp4
 DJ情歌《爱情迷了路》,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
-《忘川彼岸DJ》,https://vd2.bdstatic.com/mda-md2eyfntemujuft5/1080p/cae_h264/1617446472/mda-md2eyfntemujuft5.mp4
 DJ最美不过你的微笑,https://vd4.bdstatic.com/mda-mhs2qjdmkjz2rb7g/sc/cae_h264/1630029534870787600/mda-mhs2qjdmkjz2rb7g.mp4
 DJ流浪兄弟,https://vd2.bdstatic.com/mda-mhrdtax1km0idkc5/1080p/cae_h264/1629972852606533219/mda-mhrdtax1km0idkc5.mp4
 车载DJ《多年以后》,https://vd3.bdstatic.com/mda-mhqekuegbh6112js/1080p/cae_h264/1629891559415737083/mda-mhqekuegbh6112js.mp4
