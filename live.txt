@@ -949,7 +949,6 @@ CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 
 体育频道,#genre#
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-4K影视2,http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 MUZZIK ZZ4000 4K,http://muzzik-live.morescreens.com/mts-a6/playlist.m3u8
 CCTV5-高清(1),http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清(2),http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
@@ -1002,7 +1001,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 华语经典,http://epg.112114.xyz/douyu/434971
 特辑影院,http://epg.112114.xyz/douyu/3637778
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
-漫威影片,http://epg.112114.xyz/douyu/6140589
 周星驰电影,http://epg.112114.xyz/douyu/3990812
 女神金电影,http://epg.112114.xyz/douyu/747764
 奶瓶科幻片,http://epg.112114.xyz/douyu/6655271
@@ -1246,7 +1244,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 营山电视台,http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 松潘新闻综合,http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 汶川新闻综合,http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
-马尔康综合,http://live.zmmek.com:90/live/zhxw.m3u8?zsicd
 剑阁新闻综合,https://m3u8.channel.dzsm.com/cms/videos/nmip-media/channellive/channel10/playlist.m3u8?zsicd
 利州综合,http://tvfile.lzgbdst.com/nmip-media/channellive/channel106876/playlist.m3u8?zsicd
 利州综合,http://tv.drs.lzgbdst.com:8100/channellive/lztv2.flv?zsicd
@@ -1269,7 +1266,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 淮南公共,http://stream.0554news.com/hnds2/sd/live.m3u8?zanhd
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 灵璧综合,http://live.cms.anhuinews.com/video/s10003-lbtv/index.m3u8?zanhd
-金寨综合,http://112.26.80.214:1935/live/xinwen/playlist.m3u8?zanhd
 
 
 河南综合,#genre#
@@ -1378,10 +1374,7 @@ IPTV淘娱乐,http://router.tonyliangli.cn:4022/udp/239.3.1.100:8001
 IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
 IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
-乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
-SiTV全纪实,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-SiTV动漫秀场,http://183.207.255.188/live/program/live/dmxchd/4000000/mnf.m3u8
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 中国教育3台,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=1da074361609506578
