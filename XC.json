@@ -110,6 +110,20 @@
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
 		}   
 	}, {
+		"name": "kan",
+		"type": 0,
+		"url": "https://www.kankanju.cc/f/jxplayer.php?v=",
+		"ext": {
+			"flag": ["Feiyun-","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}  
+	}, {
+		"name": "ckmov",
+		"type": 0,
+		"url": "https://yun.ckmov.com/?url=",
+		"ext": {
+			"flag": ["Feiyun-","qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"]
+		}  
+	}, {
 		"name": "OKjx嗅探",
 		"type": 0,
 		"url": "https://okjx.cc/?url="
