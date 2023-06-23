@@ -81,16 +81,16 @@
 		"type": 3,
 		"url": "Web"
 	}, {
-		"name": "未知",
-		"type": 1,
-		"url": "http://43.143.107.57:417//api//?key=73259318e3d893e5b73fd87f20fbc2f7&url=",
-		"ext": {
-			"flag": ["qq","腾讯","youku","hulihuli","hulihuli-","优酷"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}
-		}   
-	}, {
 		"name": "小新",
 		"type": 1,
 		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhjmtxyBDFHLQRV39&url="
+	}, {
+		"name": "芒果",
+		"type": 1,
+		"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
+		"ext": {
+			"flag": ["imgo","mgtv","芒果"]
+		}   
 	}, {
 		"name": "777",
 		"type": 0,
