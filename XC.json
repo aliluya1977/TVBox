@@ -82,13 +82,6 @@
 		"type": 1,
 		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=2922388&key=afhjmtxyBDFHLQRV39&url="
 	}, {
-		"name": "芒果",
-		"type": 1,
-		"url": "https://jx.255tv.tk/api/?key=S6kQHaE1gVEY5KAv8L&url=",
-		"ext": {
-			"flag": ["imgo","mgtv","芒果"]
-		}   
-	}, {
 		"name": "777",
 		"type": 0,
 		"url": "https://jx.777jiexi.com/player/?url=",
