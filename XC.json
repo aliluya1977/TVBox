@@ -13,7 +13,7 @@
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_DuoX","name":"Ⓜ️多线","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://big.lfytyl.com/api.php/app/"},
+{"key":"影探","name":"👿影探","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lfytv.cn/api.php/app/"},
 {"key":"csp_fantuan","name":"🍙饭团","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuan3.com"},
 {"key":"csp_YQKAPP","name":"🌎一起看","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"酷影","name":"🚀酷影","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"categories":["4K电影","4K电视剧","电影","电视剧","动漫","综艺"],"ext":"http://ys.realdou.cn/api.php/app/"},
