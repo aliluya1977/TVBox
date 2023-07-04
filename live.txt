@@ -419,11 +419,9 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 安徽卫视,http://221.213.43.82:8888/newlive/live/hls/25/live.m3u8
 四川卫视,https://live.goodiptv.club/api/bestv.php?id=scwshd/8000000
 四川卫视,http://39.134.136.151:6610/000000001000/1000000002000016825/index.m3u8?channel-id=ystenlive&Contentid=1000000002000016825&livemode=1&stbId=00
-四川卫视,http://live.sctvcloud.com/live/jinkouhe/playlist.m3u8
 四川卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226659/1.m3u8
 四川卫视,http://111.59.63.32:9901/tsfile/live/1029_1.m3u8
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
-四川卫视,http://live.sctvcloud.com/live/rttv/playlist.m3u8
 山东卫视,http://39.134.136.151:6610/000000001000/1000000001000012807/index.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=00
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240254_1/encoder/0/playlist.m3u8?CONTENTID=00000110240254_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
@@ -735,7 +733,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 米娅电影,http://epg.112114.xyz/douyu/6537888
 小九电影,http://epg.112114.xyz/douyu/7136517
 古装经典,http://dx-aliyuncdncnc.inter.iqiyi.com/tslive/c54_lb_152_600_t10/c54_lb_152_600_t10.m3u8?key=007540012225a9e4fb39d113ea61819d0&dis
-禧剧电影,http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
 吃米滴虫,http://diyp.112114.xyz/douyu/315457
 恐怖经典,http://diyp.112114.xyz/douyu/1165374
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
@@ -1031,7 +1028,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1704038399-0-0-57a073b16d0dbf7182a51df714d103f9
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1704038399-0-0-d89a910ae4d57b439b4e9a11a56d25d2
-通山综合,http://tongshan-live21.cjyun.org/10134/s10134-TONGSHAN-live.m3u8?auth_key=1704038399-0-0-4591ff02ae296e89d57bfabacaf7e129
 通城综合,https://tongcheng-live21.cjyun.org/10132/s10132-tongchengtv01.m3u8?auth_key=1704038399-0-0-4340a5902757b9adebfafe14d7d1e683
 孝感生活,http://xiaogan-live21.cjyun.org/10139/s10139-shpd.m3u8?auth_key=1704038399-0-0-38258db7eb010303cb33988874a75a9f
 孝昌新闻党建,http://xiaochang-live21.cjyun.org/10128/s10128-xcxw.m3u8?auth_key=1704038399-0-0-66730340ff88177724aa0e28999d1aab
@@ -1083,14 +1079,9 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 数字,#genre#
 IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
-IPTV淘剧场,http://router.tonyliangli.cn:4022/udp/239.3.1.95:8001
 IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
-IPTV淘电影,http://router.tonyliangli.cn:4022/udp/239.3.1.250:8001
 IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
-IPTV淘娱乐,http://lay6.3322.org:4022/udp/239.3.1.100:8001
-IPTV淘娱乐,http://router.tonyliangli.cn:4022/udp/239.3.1.100:8001
 IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
-IPTV淘BABY,http://router.tonyliangli.cn:4022/udp/239.3.1.238:8001
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -1630,8 +1621,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 伊犁经济法制,http://110.153.180.106:55555/out_4/index.m3u8?zxinjd
 吉木萨尔综合,http://218.31.201.189:9000/api/material/local/mnt/shiping1/prog_index.m3u8?zxinjd
 兵团五师双河影,https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd
-奎屯汉语综合,http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 霍尔果斯综合,http://117.190.118.175:9090/stream1/m2e2000.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
