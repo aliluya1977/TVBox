@@ -100,7 +100,7 @@
 	}, {
 		"name": "夜曲",
 		"type": 1,
-		"url": "http://xhww.fun:63/小米爱肥猫.php?url=",
+		"url": "http://xhww.fun:63/小米肥猫.php?url=",
 		"ext": {
 			"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua","nongmin","CL4K","xfyun","ffm3u8","lzm3u8","netease","pgyer","qzone","FY","ppayun","Feiyun","zhibo"],"header":{"User-Agent":"Dalvik/2.1.0 (Linux; U; Android 10; PDHM00 Build/QKQ1.191222.002)"}
 		} 
