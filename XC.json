@@ -3,7 +3,7 @@
 //🐧裙：711368232
 
 {
-	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;392104347DFD299523431F8E53E98EC0",
+	"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;28C65181AA6ED80E799751C4BCA8017B",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -82,6 +82,10 @@
 		"name": "Web聚合",
 		"type": 3,
 		"url": "Web"
+	}, {
+		"name": "小新",
+		"type": 1,
+		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=1442306&key=ghjrtuACDEGMNQSX68&url="
 	}, {
 		"name": "刚佬",
 		"type": 1,
