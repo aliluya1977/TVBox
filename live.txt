@@ -169,31 +169,6 @@ CETV-4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 延边卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226220/index.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
-江苏卫视,http://wabc.ml/sxg.php?id=jswsH265_4000
-北京卫视,http://wabc.ml/sxg.php?id=bjwsH265_4000
-东方卫视,http://wabc.ml/sxg.php?id=dfwsH265_4000
-湖南卫视,http://wabc.ml/sxg.php?id=hnwsH265_4000
-浙江卫视,http://wabc.ml/sxg.php?id=zjwsH265_4000
-广东卫视,http://wabc.ml/sxg.php?id=gdwsH265_4000
-江西卫视,http://wabc.ml/sxg.php?id=jxwsH265_4000
-湖北卫视,http://wabc.ml/sxg.php?id=hbwsH265_4000
-重庆卫视,http://wabc.ml/sxg.php?id=cqwsH265_4000
-安徽卫视,http://wabc.ml/sxg.php?id=ahwsH265_4000
-东南卫视,http://wabc.ml/sxg.php?id=dnwsfjwsH265_4000
-山东卫视,http://wabc.ml/sxg.php?id=sdwsH265_4000
-深圳卫视,http://wabc.ml/sxg.php?id=szwsH265_4000
-天津卫视,http://wabc.ml/sxg.php?id=tjwsH265_4000
-贵州卫视,http://wabc.ml/sxg.php?id=gzwsH265_4000
-吉林卫视,http://wabc.ml/sxg.php?id=jlwsH265_4000
-黑龙江卫视,http://wabc.ml/sxg.php?id=hljwsH265_4000
-四川卫视,http://wabc.ml/sxg.php?id=scwsH265_4000
-甘肃卫视,http://wabc.ml/sxg.php?id=gsws_4000
-云南卫视,http://wabc.ml/sxg.php?id=ynws_4000
-广西卫视,http://wabc.ml/sxg.php?id=gxws_4000
-河南卫视,http://wabc.ml/sxg.php?id=hnws35_4000
-陕西卫视,http://wabc.ml/sxg.php?id=sxws_4000
-山西卫视,http://wabc.ml/sxg.php?id=sxws42_4000
-内蒙古卫视,http://wabc.ml/sxg.php?id=nmgws_4000
 
 
 央卫综合,#genre#
@@ -439,8 +414,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 辽宁卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226689/1.m3u8
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://221.213.43.82:8888/newlive/live/hls/43/live.m3u8
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8?
-吉林卫视,http://stream4.jlntv.cn:80/jlwshd/playlist.m3u8
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240399_1/encoder/0/playlist.m3u8?CONTENTID=00000110240399_1&AUTHINFO=FABqh274XDn8fkurD5614vXukv%2Bllu6MCULXDoxJ6upZMyB3BTGL8Fz1cBrzuGpUOEVg8724ObgLgS2tj%2FSq8xWZ1p4rvSaCId2u7KLjn%2F46Kf00Xa0UUCbNAV9EWdHyJMhivxx1S8fcvB8Encq%2Br2%2FNnfOdizLLGdg97cAjQVBrJ5ycvSCIUdxWiGJJfFI3hgreSH2tPUplkub%2BeFttIQ%3D%3D&USERTOKEN=OcdSKDHIYJi7z1i4zpgoeOB0O2BhR0KR
 吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
@@ -679,8 +652,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-ELEVEN体育,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
 CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
@@ -3757,7 +3728,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 敦化一套,http://stream8.jlntv.cn/dhtv/playlist.m3u8?zjild
 珲春新闻综合,http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild
 龙井综合,http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild
-梅河口综合,http://stream4.jlntv.cn/mhk/sd/live.m3u8?zjild
 桦甸综合,http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild
 磐石综合,http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild
 舒兰新闻综合,http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild
