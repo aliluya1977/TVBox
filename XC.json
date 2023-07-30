@@ -81,6 +81,10 @@
 		"type": 3,
 		"url": "Web"
 	}, {
+		"name": "小新",
+		"type": 1,
+		"url": "http://xiaoxin.1080p.me/home/api?type=ys&uid=13270&key=eoprsxEGHKNSUXZ149&url="
+	}, {
 		"name": "刚佬",
 		"type": 1,
 		"url": "http://json.g9.pub:66/?url=",
