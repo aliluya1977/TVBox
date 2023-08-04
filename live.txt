@@ -454,7 +454,7 @@ CCTV4美洲,http://120.234.220.107:9000/udp/239.21.0.108:3772
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 
 
-fangmingming,#genre#
+fanmingming,#genre#
 CCTV-1,https://cntv.sbs/live?auth=2307280808&id=cctv1
 CCTV-2,https://cntv.sbs/live?auth=2307280808&id=cctv2
 CCTV-3,https://cntv.sbs/live?auth=2307280808&id=cctv3
