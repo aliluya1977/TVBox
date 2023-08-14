@@ -591,7 +591,6 @@ ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 泰·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 泰·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-乌·100ws,http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
 西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
 希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
@@ -608,13 +607,11 @@ ABC新闻,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil
 NewsmaxTV,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 PBSAmerica,https://pbs-samsunguk.amagi.tv/playlist.m3u8
 moviesphere,https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
-AlarabyTV,https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 ComedyChannel,https://uksono1-samsunguk.amagi.tv/playlist.m3u8
 EdgeSport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
 CanadaOne,http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 CA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 InsightTV,https://insighttv-samsung-canada.amagi.tv/playlist.m3u8
-Inwonder,https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 Astrakhan24(Opt-2),http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 UgraTV,http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 Самара,http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
@@ -718,7 +715,6 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 特辑影院,http://epg.112114.xyz/douyu/3637778
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
 北京大蜜,http://epg.112114.xyz/douyu/805235
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?blog.ntnas.top
 CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 新泰影视频道,http://111.17.214.4:1935/live/xtys/playlist.m3u8
@@ -742,7 +738,6 @@ CHC家庭影院,http://58.34.204.67:9901/tsfile/live/1001_1.m3u8
 绍兴影视,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 溧水影视,http://live.lsrmw.cn/ysyl/sd/live.m3u8
 吉林影视,http://stream1.jlntv.cn/yspd/sd/live.m3u8
-镇海先锋影视,http://pluslive.zhxww.net/channel2/sd/live.m3u8
 滨海影视,http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8
 烟台影视,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
@@ -771,7 +766,6 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 
 
 体育频道,#genre#
-苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 咪咕体育-4K-SDR源,http://120.234.220.107:9000/udp/239.20.0.66:3136
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
@@ -970,7 +964,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 军旅剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_144_600_t10/c55_lb_144_600_t10.m3u8?key
 权谋剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_167_600_t10/c55_lb_167_600_t10.m3u8?key
 谍战剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c57_lb_216_600_t10/c57_lb_216_600_t10.m3u8?key
-青春剧场,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c55_lb_147_720P_t10/c55_lb_147_720P_t10.m3u8?key
 人文社会,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c56_lb_243_600_t10/c56_lb_243_600_t10.m3u8?key
 我的祖国,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c53_lb_72_720P_t10/c53_lb_72_720P_t10.m3u8?key
 高清综艺,http://bj.new1cloud.com/bdcdncmn3-inter-71edge-com.new1cloud.com/tslive/c52_lb_75_720P_t10/c52_lb_75_720P_t10.m3u8?key
@@ -1044,7 +1037,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 江苏综合,#genre#
-苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
 淮安新闻综合,http://live1.habctv.com/zhpdsl/sd/live.m3u8?zjiangsd
 淮安公共频道,http://live1.habctv.com/ggpdsl/sd/live.m3u8?zjiangsd
 淮安影院娱乐,http://live1.habctv.com/ysylsl/sd/live.m3u8?zjiangsd
@@ -1187,7 +1179,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
 潜江乡村,http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
-保康新闻综合,http://bktvplay.gdnewmedia.cc/live/bk_xwzh.m3u8
 江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8
 郧阳新闻综合,http://58.19.198.159:2021/hls1.m3u8
 黄冈新闻,http://huanggang-live21.cjyun.org/10120/s10120-xwzh.m3u8?auth_key=1704038399-0-0-467fc23b176dde216d3e41c725fd1b6b
