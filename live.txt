@@ -76,26 +76,6 @@ CCTV12,http://59.47.226.94:8880/sql/2603/hls.m3u8
 CCTV13,http://59.47.226.94:8880/sql/2604/hls.m3u8
 CCTV14,http://59.47.226.94:8880/sql/2605/hls.m3u8
 CCTV15,http://59.47.226.94:8880/sql/2606/hls.m3u8
-CCTV1,http://733240.com/gudou.php?id=1402_4500
-CCTV2,http://733240.com/gudou.php?id=CCTV2HD_7000
-CCTV3,http://733240.com/gudou.php?id=1603
-CCTV4,http://733240.com/gudou.php?id=1604
-CCTV5,http://733240.com/gudou.php?id=1605
-CCTV5+,http://733240.com/gudou.php?id=1403
-CCTV6,http://733240.com/gudou.php?id=1606
-CCTV7,http://733240.com/gudou.php?id=1607
-CCTV8,http://733240.com/gudou.php?id=1608
-CCTV9,http://733240.com/gudou.php?id=CCTV9HD_7000
-CCTV10,http://733240.com/gudou.php?id=1610
-CCTV11,http://733240.com/gudou.php?id=CCTV-11HD_7500
-CCTV12,http://733240.com/gudou.php?id=CCTV12HD_7000
-CCTV13,http://733240.com/gudou.php?id=1613
-CCTV14,http://733240.com/gudou.php?id=CCTV14HD_7000
-CCTV15,http://733240.com/gudou.php?id=CCTV-15HD_7500
-CCTV16,http://733240.com/gudou.php?id=1617_4500
-CCTV17,http://733240.com/gudou.php?id=CCTV17HD
-CCTV16-4K,http://733240.com/gudou.php?id=4010
-CCTV4K,http://733240.com/gudou.php?id=4005
 
 
 卫视频道,#genre#
@@ -595,10 +575,8 @@ Nostalgia,http://51.210.199.20/hls/stream.m3u8
 韩国-EBSe,http://ebsonairios.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 韩国-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 韩国-NBS Korea Agricultural Broadc,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-越南-VBSTV,http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 印尼-METROTV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 伊拉克-SharqiyaNews,http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
 日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
@@ -705,7 +683,6 @@ CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
 
 
 少儿频道,#genre#
-CCTV-14 高清,http://222.128.98.255:4000/rtp/239.3.1.65:8132
 空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂_二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
 空中课堂_三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -810,7 +787,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
 星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
 松开的手0.0,http://epg.112114.xyz/douyu/10210568
-浦饭幽游藏马飞影桑原,http://epg.112114.xyz/douyu/9938431
 妖精的直播间,http://epg.112114.xyz/douyu/5960746
 【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
 【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
@@ -1178,10 +1154,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 
 数字,#genre#
-IPTV淘剧场,http://222.128.98.255:4000/rtp/239.3.1.95:8001
-IPTV淘电影,http://222.128.98.255:4000/rtp/239.3.1.250:8001
-IPTV淘娱乐,http://222.128.98.255:4000/rtp/239.3.1.100:8001
-IPTV淘BABY,http://222.128.98.255:4000/rtp/239.3.1.238:8001
 茶,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226808/index.m3u8
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
 苏州4K频道,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -1677,7 +1649,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 宾川一套,http://live.bcrmtzx.com/tv01/sd/live.m3u8?zyund
 巧家综合,http://livebroadcast.ccwb.cn/live/w1593303918254963.m3u8?zyund
 绥江综合,http://livebroadcast.ccwb.cn/live/w1615172384810938.m3u8?zyund
-福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
 运城新闻综合,http://live.0359tv.com/lsdream/ss4Lj11/1000/live.m3u8?zshanxd
 运城公共频道,http://live.0359tv.com/lsdream/t667aTY/1000/live.m3u8?zshanxd
 运城科技教育,http://live.0359tv.com/lsdream/p5eq48m/1000/live.m3u8?zshanxd
@@ -1715,7 +1686,6 @@ Soda东南亚之旅,https://vdse.bdstatic.com//b6295e9776c2cd347716fc2447e27fac.
 霍尔果斯综合,http://117.190.118.175:9090/stream1/m2e2000.m3u8?zxinjd
 玛纳斯综合,http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd
 贵南综合,http://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8?zqinghd
-宁夏经济,http://livepgc.cmc.ningxiahuangheyun.com/pgc/10717759047cafd37fd87caa5883e9c2.m3u8?txSecret=6a3918f766d0ff625282376ffee72687&txTime=6235C9C1
 吉林都市,http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
 吉林生活,http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
 吉林影院,http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
@@ -2319,7 +2289,6 @@ DJ情歌《昨夜的我又梦到了你》《心上的人儿你在哪》等HD,htt
 邓丽君歌曲精选九首经典歌曲,https://vdse.bdstatic.com//432792ba00998e73655101c9e706e1e2.mp4
 怀旧金曲:刀郎《黄玫瑰》,https://vdse.bdstatic.com//893331fdfab5d04e5c93e2adbbf1e949.mp4
 苍天不负有情人,https://vd3.bdstatic.com/mda-jm5iqyuj8bapffdb/hd/mda-jm5iqyuj8bapffdb.mp4
-野狼Disco官方版2k,https://tencent-xpc16.xpccdn.com/5e1a43c1cca10.mp4
 BobGirls-Noway,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAg3Lqw4gUoo6LL7QU.mp4
 艾娃·麦克斯-我也是,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgwv_h7QUolM7fswM.mp4
 2NE1-（失踪的你）,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgyee74wUowp6c1gU.mp4
