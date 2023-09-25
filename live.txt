@@ -522,7 +522,6 @@ Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec9
 Channel News Asia『蓝光』,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA(1080p)[480*270],https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 NDTV 24X7[640*480],https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-THAIPBS-3,http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
 VB,http://live.tv2bornholm.dk/stream/live/chunklist.m3u8
 ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 半·新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
@@ -537,8 +536,6 @@ ZEEALWAN50,http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 美·NASA Public Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-泰·THAIPBS,http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
-泰·公共三台,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 乌·M2音乐,http://live.m2.tv/hls3/stream.m3u8
 西·加利西亚欧洲体育电视台,http://europa-crtvg.flumotion.com/playlist.m3u8
 希·FoxTV,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
@@ -1096,7 +1093,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 
 湖北综合,#genre#
 荆门新闻综合,http://stream.jmtv.com.cn/xwzh/sd/live.m3u8?zhubd
-江夏新闻综合,http://59.175.226.142:280/gb28181/xwzh.m3u8?zhubd
 潜江综合,http://hbqjdb.chinashadt.com:2035/live/3.stream/playlist.m3u8
 潜江乡村,http://hbqjdb.chinashadt.com:2035/live/4.stream/playlist.m3u8
 麻城综合,http://119.36.30.199:8888/mctv1.m3u8
@@ -1106,7 +1102,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 黄冈生活,http://huanggang-live21.cjyun.org/10120/s10120-xwgg.m3u8?auth_key=1704038399-0-0-6fa37070415efc6d085d8a432247eb4a
 红安综合,http://hongan-live21.cjyun.org/10063/s10063-HAZH.m3u8?auth_key=1704038399-0-0-636fa13407289721c04902585b40acec
 黄石新闻综合,https://huangshifb-live21.cjyun.org/10200/s10200-huangshitv01.m3u8?auth_key=1704038399-0-0-16aa429960c0d43a0f80e83bbf91698a
-阳新综合,https://yangxin-live21.cjyun.org/10104/s10104-yangxin-tv01.m3u8?auth_key=1704038399-0-0-765baba6bbd0c61a3bacffe8549d8d91
 咸宁综合,https://xianning-live21.cjyun.org/10140/s10140-XNTV-1.m3u8?auth_key=1704038399-0-0-3a430a04b001154f7360d7a213a73319
 咸宁经济生活,https://xianning-live21.cjyun.org/10140/s10140-XNGG.m3u8?auth_key=1704038399-0-0-57a073b16d0dbf7182a51df714d103f9
 嘉鱼新闻综合,http://jiayu-live21.cjyun.org/10131/s10131-jyzh.m3u8?auth_key=1704038399-0-0-d89a910ae4d57b439b4e9a11a56d25d2
