@@ -30,6 +30,16 @@
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "猫咪","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 {"key": "虎虎","name": "🐼虎虎┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/虎虎.json"},
+{
+		"key": "csp_xpath_ddg",
+		"name": "达达龟(XPF)",
+		"type": 3,
+		"api": "csp_XPathMacFilter",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"
+	}, 
 {"key":"csp_Zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Mayiys","name":"🐜蚂蚁","type":3,"api":"csp_Mayiys","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
