@@ -36,7 +36,7 @@
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key": "csp_MeijuMi","name": "🧲剧迷┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_MeijuMi"},
+{"key": "csp_MeijuMi","name": "🧲剧迷┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_MeijuMi","jar":"https://agit.ai/qi169/kankan/raw/branch/master/jar/custom_spider.jar;md5;6B478453A1A548337F9237B24DF8E2C4"},
 {"key": "csp_BLSGod","name": "🧲80S┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_BLSGod"},
 {"key": "csp_KubaCL","name": "🧲酷吧┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_KubaCL"},
 {"key":"csp_SeedHub","name": "🧲SHub┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_SeedHub"},
