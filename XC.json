@@ -113,6 +113,7 @@
 {"key":"drpy_js_优酷","name":"🏓优酷解析","type":3,"api":"https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext":"https://jihulab.com/ygbh1/box/-/raw/main/JS/js/%E4%BC%98%E9%85%B7.js"},
 {"key": "Itv","name": "🥝爱奇艺解析","type": 3,"api": "csp_Itv","quickSearch": 1,"searchable": 1,"filterable": 1,"changeable": 0},
 {"key": "Mtv","name": "🍋芒果解析","type": 3,"api": "csp_Mtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+{"key": "drpy_哔哩影视","name": "👨‍💻哔哩┃影视┃测试","type": 3,"playerType": 1,"api": "https://agit.ai/qi169/kankan/raw/branch/master/drpy2.min.js","ext": "https://agit.ai/qi169/kankan/raw/branch/master/js/哔哩影视.js"},
 {"key":"有声小说吧","name":"💢有声小说吧","type":3,"api":"csp_XYQHiker","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/有声小说吧.json"},
 {"key":"dr_88看球","name":"88看球","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/88看球.js"},
 {"key":"dr_JRKAN直播","name":"JRKAN直播","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/JRKAN直播.js"},
