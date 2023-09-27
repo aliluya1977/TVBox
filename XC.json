@@ -36,56 +36,14 @@
 {"key":"快看","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
- {
-      "key": "csp_MeijuMi",
-      "name": "🧲剧迷┃慎用┃测试",
-      "type": 3,
-	  {
-      "key": "csp_SeedHub",
-      "name": "🧲SHub┃慎用┃测试",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 0,
-      "playerType": 1,
-      "api": "csp_SeedHub"
-    },
-	
-      "changeable": 0,
-      "searchable": 0,
-      "playerType": 1,
-      "api": "csp_MeijuMi"
-    },
-	{
-      "key": "csp_KubaCL",
-      "name": "🧲酷吧┃慎用┃测试",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 0,
-      "playerType": 1,
-      "api": "csp_KubaCL"
-    },
-	{
-      "key": "csp_SeedHub",
-      "name": "🧲SHub┃慎用┃测试",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 0,
-      "playerType": 1,
-      "api": "csp_SeedHub"
-    },
-	{
-      "key": "Bili_聚合",
-      "name": "🅱️哔哩┃聚合┃Ultimate┃测试",
-      "type": 3,
-      "changeable": 0,
-      "searchable": 0,
-      "playerType": 1,
-      "api": "csp_Bili",
-      "ext": "https://agit.ai/qi169/kankan/raw/branch/master/BBUltimate.json"
-    },	
+{"key": "csp_MeijuMi","name": "🧲剧迷┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_MeijuMi"},
+{"key": "csp_BLSGod","name": "🧲80S┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_BLSGod"},
+{"key": "csp_KubaCL","name": "🧲酷吧┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_KubaCL"},
+{"key":"csp_SeedHub","name": "🧲SHub┃慎用┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_SeedHub"},
+{"key": "Bili_聚合","name": "🅱️哔哩┃聚合┃Ultimate┃测试","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_Bili","ext": "https://agit.ai/qi169/kankan/raw/branch/master/BBUltimate.json"},	
 {"key":"csp_Xunlei8","name":"🧲迅雷┃慎用┃测试","type":3,"changeable":0,"searchable":0,"playerType":1,"api":"csp_Xunlei8"},
 {"key":"csp_BLSGod","name": "🧲80S┃慎用┃测试","type":3,"changeable":0,"searchable":0,"playerType":1,"api":"csp_BLSGod"},
-{"key": "t4_俊纸条","name": "👽俊纸条┃随缘┃测试","type": 4,"playerType": 1,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","ext":"342a28053dd54cf2b0246c6b33c74013"},
+{"key": "t4_俊纸条","name": "👽俊纸条┃随缘┃测试","type":4,"playerType": 1,"api": "http://home.jundie.top:9520/spider/cli_gitCafe","ext":"342a28053dd54cf2b0246c6b33c74013"},
 {"key": "猫咪","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 {"key": "虎虎","name": "🐼虎虎┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/虎虎.json"},
 {"key": "csp_xpath_ddg","name": "达达龟(XPF)","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"}, 
