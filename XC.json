@@ -152,7 +152,7 @@
 {"name":"🌎夕夕","type": 1,"url": "http://110.42.2.247:880/analysis/json/?uid=2384&my=bcijquvxAFKMUY0579&format=json&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/3.12.13"}}},
 {"name": "影探","type": 1,"url": "http://lflong.lyyytv.cn/json.php?url=","ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "蚂蚁","type": 1,"url": "http://118.99.2.230:6688/api/?key=vAhZ67qzRdW2czQEo2&url=","ext": {"flag": ["NBY"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name": "玉米","type": 1,url": "http://42.157.128.109:2323/CH/zy/Yumi.php?url=","ext": {"flag": ["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name": "玉米","type": 1,"url": "http://42.157.128.109:2323/CH/zy/Yumi.php?url=","ext": {"flag": ["YuMi-vip"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name": "飞云","type": 1,"url": "https://daina.hk/api/?key=db18410c19c9ef6713cb5aa1408d2da4&url=","ext": { "flag": [ "FY" ] ,"header":{"User-Agent": "Lavf/58.12.100"}}},
 {"name": "车哥","type": 1,"url": "https://hd.396pay.cn/api/?key=WYfoc47cVuA6xeED4H&url=","ext": { "flag": [ "JHA", "JHB", "mmal"]}},
 {"name": "车弟","type": 1,"url": "https://xjx.tvcms.top/api/?key=a035e75110289821feec5033ffde2bec&url=","ext": { "flag": [ "TD", "JHA", "JHB", "mmal", "FY" ]}},
