@@ -684,35 +684,6 @@ CCTV高尔夫网球,http://china.733240.com/cqyx.php?id=golfHD
 CCTV央视台球,http://china.733240.com/cqyx.php?id=ystqHD
 CCTV女性时尚,http://china.733240.com/cqyx.php?id=nvxing
 
-
-少儿频道,#genre#
-空中课堂_一年级,http://liveplay-kk.rtxapp.com/live/program/live/kkyinj/1300000/mnf.m3u8
-空中课堂_二年级,http://liveplay-kk.rtxapp.com/live/program/live/kkernj/1300000/mnf.m3u8
-空中课堂_三年级,http://liveplay-kk.rtxapp.com/live/program/live/kksannj/1300000/mnf.m3u8
-空中课堂_四年级,http://liveplay-kk.rtxapp.com/live/program/live/kksinj/1300000/mnf.m3u8
-空中课堂_五年级,http://liveplay-kk.rtxapp.com/live/program/live/kkwunj/1300000/mnf.m3u8
-空中课堂_六年级,http://liveplay-kk.rtxapp.com/live/program/live/kkliunj/1300000/mnf.m3u8
-空中课堂_初一,http://liveplay-kk.rtxapp.com/live/program/live/kkqinj/1300000/mnf.m3u8
-空中课堂_初二,http://liveplay-kk.rtxapp.com/live/program/live/kkbanj/1300000/mnf.m3u8
-空中课堂_高一,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoyinj/1300000/mnf.m3u8
-空中课堂_高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
-空中课堂_高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
-哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
-南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-熊大过年,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
-倒霉特熊,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
-雲朵妈妈,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
-反转星球,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
-熊大熊二,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
-狮子王國,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
-key=0b292c335e5837e947f9409c59228f3e6
-
-
 影视综合,#genre#
 漫威电影,http://epg.112114.xyz/douyu/4282654
 神乐影片2,http://epg.112114.xyz/douyu/85894
@@ -783,28 +754,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 斗鱼,#genre#
 【RM-点播】点播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/131977
 【RM-轮播】轮播！模式-24H欢乐不断,http://epg.112114.xyz/douyu/7298973
-计划！五一节の快乐,http://epg.112114.xyz/douyu/7528160
-美味！蟹黄堡,http://epg.112114.xyz/douyu/8762358
-海绵与大星直播间,http://epg.112114.xyz/douyu/2250349
-【三笠】根本不存在解不开的迷！,http://epg.112114.xyz/douyu/7050342
-宝可梦加油。感谢大家。,http://epg.112114.xyz/douyu/9765742
-星矢-燃烧吧我的小宇宙,http://epg.112114.xyz/douyu/8458270
-松开的手0.0,http://epg.112114.xyz/douyu/10210568
-妖精的直播间,http://epg.112114.xyz/douyu/5960746
-【动画电影】童年回忆,http://epg.112114.xyz/douyu/10395973
-【星星动画】童年热血搞笑爱情,http://epg.112114.xyz/douyu/4369939
-【追忆】国语超清动画电影,http://epg.112114.xyz/douyu/6449849
-【动漫】24小时不间断动漫专场,http://epg.112114.xyz/douyu/7493575
-老爹:还有一件事,http://epg.112114.xyz/douyu/7134757
-开心锤锤，开心快乐每一天！,http://epg.112114.xyz/douyu/9018297
-舔狗波比的幸福生活,http://epg.112114.xyz/douyu/7620081
-最好看的搞笑篮球动漫,http://epg.112114.xyz/douyu/9401305
-中二日记搞笑日常更新,http://epg.112114.xyz/douyu/9505575
-铁头与橘子（每周更新一起看霸总）,http://epg.112114.xyz/douyu/9450942
-笑出腹肌动漫0,http://epg.112114.xyz/douyu/8380708
-【贝爷MAX厅】科幻动作经典喜剧,http://epg.112114.xyz/douyu/4332
-【西游】由爱故生怨，怨恨交缠，那又何苦,http://epg.112114.xyz/douyu/9518204
-狄仁杰：想听听我的故事吗,http://epg.112114.xyz/douyu/674441
 【牛叔】N分钟带你看完大片,http://epg.112114.xyz/douyu/2758565
 斗鱼电影,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 斗鱼电影2,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
@@ -1266,41 +1215,6 @@ ELEVEN2,rtmp://119.81.124.89/sat/tv741
 三立NEWS+,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
 TVBS新闻台,rtmp://119.81.124.89/sat/tv551
 纬来日本,rtmp://119.81.124.89/sat/tv771
-
-
-💯｜热舞轮播,#genre#
-小姐姐轮播直播1,http://wmsp.cc/video.php
-小姐姐轮播直播2,http://wmsp.cc/video.php
-小姐姐轮播直播3,http://wmsp.cc/video.php
-小姐姐轮播直播4,http://wmsp.cc/video.php
-小姐姐轮播直播5,http://wmsp.cc/video.php
-小姐姐轮播直播6,http://wmsp.cc/video.php
-小姐姐轮播直播7,http://wmsp.cc/video.php
-小姐姐轮播直播8,http://wmsp.cc/video.php
-小姐姐轮播直播9,http://wmsp.cc/video.php
-小姐姐轮播直播10,http://wmsp.cc/video.php
-小姐姐轮播直播11,http://wmsp.cc/video.php
-小姐姐轮播直播12,http://wmsp.cc/video.php
-小姐姐轮播直播13,http://wmsp.cc/video.php
-小姐姐轮播直播14,http://wmsp.cc/video.php
-小姐姐轮播直播15,http://wmsp.cc/video.php
-小姐姐轮播直播16,http://wmsp.cc/video.php
-小姐姐轮播直播17,http://wmsp.cc/video.php
-小姐姐轮播直播18,http://wmsp.cc/video.php
-小姐姐轮播直播19,http://wmsp.cc/video.php
-小姐姐轮播直播20,http://wmsp.cc/video.php
-小姐姐轮播直播21,http://wmsp.cc/video.php
-小姐姐轮播直播22,http://wmsp.cc/video.php
-小姐姐轮播直播23,http://wmsp.cc/video.php
-小姐姐轮播直播24,http://wmsp.cc/video.php
-小姐姐轮播直播25,http://wmsp.cc/video.php
-小姐姐轮播直播26,http://wmsp.cc/video.php
-小姐姐轮播直播27,http://wmsp.cc/video.php
-小姐姐轮播直播28,http://wmsp.cc/video.php
-小姐姐轮播直播29,http://wmsp.cc/video.php
-小姐姐轮播直播30,http://wmsp.cc/video.php
-小姐姐轮播直播31,http://wmsp.cc/video.php
-小姐姐轮播直播32,http://wmsp.cc/video.php
 
 数字,#genre#
 CHC高清电影,http://www.51nas.top:4022/udp/239.81.0.240:4056
