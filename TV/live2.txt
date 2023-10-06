@@ -1710,6 +1710,25 @@ HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?b
 HBO,https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b2500000.m3u8
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8?bycoca
 HBO,http://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+HBO HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10117
+HBO2 HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10118
+HBO Family HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10121
+HBO Signature HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10122
+HBO PLUS HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10119
+HBO POP HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10123
+HBO FHD HVEC,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10293
+HBO Mundi HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10294
+HBO Xtreme HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10295
+HBO FAMILY H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10615
+HBO H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10618
+HBO MUNDI H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10620
+HBO PLUS H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10623
+HBO POP H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
+HBO SIGNATURE H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10630
+HBO XTREME H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10633
+HBO 2 H.265,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10740
+HBO MAX 1,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10934
+HBO MAX 2 HD,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/11192
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8?zgangd
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
