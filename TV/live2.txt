@@ -10,6 +10,7 @@ CCTV1,http://angtv.cn/test/bestv.php?id=cctv1hd8m/8000000
 CCTV2,http://angtv.cn/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://angtv.cn/test/bestv.php?id=cctv38m/8000000
 CCTV4,http://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
+CCTV5,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
 CCTV5+,http://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,http://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000
 CCTV7,http://angtv.cn/test/bestv.php?id=cctv7hd8m/8000000
@@ -40,7 +41,7 @@ CCTV13,http://hls.live.cqccn.com/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/in
 CCTV14,http://hls.live.cqccn.com/__cl/cg:live/__c/cctvseHD/__op/default/__f/index.m3u8
 CCTV15,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv15HD/__op/default/__f/index.m3u8
 CCTV16,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-CCTV-17,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
+CCTV17,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f/index.m3u8
 CCTV-风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/shandongHD/__op/default/__f/index.m3u8
 CCTV-风云剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
 CCTV-风云音乐,http://hls.live.cqccn.com/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
