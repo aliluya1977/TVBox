@@ -11,6 +11,7 @@ CCTV2,http://angtv.cn/test/bestv.php?id=cctv2hd8m/8000000
 CCTV3,http://angtv.cn/test/bestv.php?id=cctv38m/8000000
 CCTV4,http://angtv.cn/test/bestv.php?id=cctv4hd8m/8000000
 CCTV5,http://hls.live.cqccn.com/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
+CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 CCTV5+,http://angtv.cn/test/bestv.php?id=cctv5hd8m/8000000
 CCTV6,http://angtv.cn/test/bestv.php?id=cctv6hd8m/8000000
 CCTV7,http://angtv.cn/test/bestv.php?id=cctv7hd8m/8000000
@@ -484,7 +485,6 @@ SiTV动漫秀场,http://hls.live.cqccn.com/__cl/cg:live/__c/dmxcHD/__op/default/
 SiTV游戏风云,http://hls.live.cqccn.com/__cl/cg:live/__c/yxfyHD/__op/default/__f/index.m3u8
 求索纪录,http://hls.live.cqccn.com/__cl/cg:live/__c/qsjlHD/__op/default/__f/index.m3u8
 欢笑剧场4K,http://hls.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
-
 
 🌙月光宝盒,#genre#
 澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -1283,7 +1283,7 @@ CCTV放映室,http://epg.112114.xyz/douyu/10011042
 特辑影院,http://epg.112114.xyz/douyu/3637778
 刘德华电影2,http://epg.112114.xyz/douyu/8985415
 北京大蜜,http://epg.112114.xyz/douyu/805235
-CHC家庭电影,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
+CHC家庭影院,http://111.20.40.171/PLTV/88888893/224/3221226462/index.m3u8
 CHC高清电影,http://111.20.40.171/PLTV/88888893/224/3221226463/index.m3u8
 CHC高清电影,http://zhuji.sdrnwl.cn:9901/tsfile/live/1058_1.m3u8
 CHC高清电影,http://111.20.40.170/PLTV/88888893/224/3221226463/index.m3u8
@@ -1336,8 +1336,6 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 广东体育,http://157.122.177.10:9901/tsfile/live/1001_1.m3u8
 浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
 安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8
-CCTV5-高清,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
 
 浙江综合,#genre#
 浙江钱江都市,http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8?zzhed
