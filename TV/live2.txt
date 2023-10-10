@@ -4,8 +4,7 @@
 QQ频道欧歌API,http://tv.nxog.top/m/404/xjj.php
 接口tv.nxog.top,http://tv.nxog.top/m/404/xjj.php
 抖音姐姐热舞,http://epg.112114.xyz/douyu/8759139
-抖音姐姐热热,http://epg.112114.xyz/douyu/8901218
-抖音姐姐舞舞,"http://epg.112114.xyz/douyu/7971641
+
 
 🛰️央视综合,#genre#
 CCTV1,http://angtv.cn/test/bestv.php?id=cctv1hd8m/8000000
@@ -1364,6 +1363,8 @@ CCTV5-高清,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 浙江国际,http://yd-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/720p.m3u8?zzhed
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/360p.m3u8?zzhed
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
