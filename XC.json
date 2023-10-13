@@ -3,8 +3,8 @@
 //🐧裙：711368232
 
 {
-	"spider": "https://notabug.org/aliluya/TVBox/raw/master/Yoursmile.jar;md5;22EF4E19E3F1FA014DD8854D12DB9CCB",
-  
+	//"spider": "https://notabug.org/aliluya/TVBox/raw/master/Yoursmile.jar;md5;22EF4E19E3F1FA014DD8854D12DB9CCB",
+    "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;FA2C893D90942545A01EE558456AE77A",
 		  	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃施华刚定制版","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
