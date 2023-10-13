@@ -12,6 +12,7 @@
 {"key":"优酷","name":"🚛优酷(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
 {"key":"腾讯","name":"🚛腾讯(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key":"芒果","name":"🚛芒果(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"csp_SP33","name": "📺三三┃解析","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 {"key":"搜狗","name":"🚛搜狗(官)","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/caigou.js"},
 {"key":"Qtv","name": "🐧腾讯解析","type": 3,"api": "csp_Qtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"./Yoursmile.jar;md5;22EF4E19E3F1FA014DD8854D12DB9CCB"},
 {"key": "drpy_哔哩影视","name": "👨‍💻哔哩┃影视┃测试","type": 3,"playerType": 1,"api": "https://agit.ai/qi169/kankan/raw/branch/master/drpy2.min.js","ext": "https://agit.ai/qi169/kankan/raw/branch/master/js/哔哩影视.js"},
