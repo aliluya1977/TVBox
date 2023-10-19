@@ -1,7 +1,7 @@
 // 地址发布页 https://subaibai.vip/
 var rule = {
     title:'素白白',
-    host:'https://www.subaibaiys.com',
+    host:'https://www.subaibaiys.com/',
     // url:'/fyclass/page/fypage',
     url:'/fyclassfyfilter',
     filterable:1,//是否启用分类筛选,
