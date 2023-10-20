@@ -1,0 +1,92 @@
+{
+  "drives": [
+    {
+      "name": "👑流年",
+      "server": "http://aruisi.fun:666"
+    },
+    {
+      "name": "👗小雅",
+      "server": "http://alist.xiaoya.pro"
+    },
+    {
+      "name": "🎬杜比",
+      "server": "https://dubi.tk"
+    },
+    {
+      "name": "🌤晴园",
+      "server": "https://alist.52qy.repl.co"
+    },
+    {
+      "name": "👁兮语",
+      "server": "https://alist1.owen10086.repl.co"
+    },    
+    {
+      "name": "🥼帅鹏",
+      "server": "https://hi.shuaipeng.wang"
+    },
+    {
+      "name": "✨星梦",
+      "server": "https://pan.bashroot.top"
+    },
+    {
+      "name": "👿紫灵",
+      "server": "https://zi0.cc"
+    },
+    {
+      "name": "🌨秋雨",
+      "server": "https://share.laowang.me",
+      "password": "s8;K^h[j<b"
+    },
+    {
+      "name": "🕴木偶",
+      "server": "https://www.kugutsu.ml"
+    },    
+    {
+      "name": "🐭米奇",
+      "server": "https://anime.mqmmw.ga"
+    },
+    {
+      "name": "💫觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "💂小兵",
+      "server": "https://6vv.app"
+    },
+    {
+      "name": "🐋一魚",
+      "server": "https://alist.youte.ml"
+    },
+    {
+      "name": "🌊米藍",
+      "server": "https://al.chirmyram.com"
+    },
+    {
+      "name": "☁️云播",
+      "server": "https://quanzi.laoxianghuijia.cn"
+    },
+    {
+      "name": "☃️姬雪",
+      "server": "https://pan.jlbx.xyz"
+    },
+    {
+      "name": "🐉神帝",
+      "server": "https://alist.shenzjd.com"
+    },
+    {
+      "name": "🚌小站",
+      "server": "https://960303.xyz"
+    },
+    {
+        "name" : "📀9T",
+        "server" : "https://drive.9t.ee",
+        "startPage" : "/",
+        "showAll" : false,
+        "search" : true
+    },
+    {
+      "name": "💾DISK",
+      "server": "http://124.222.140.243:8080"
+    }
+  ]
+}
