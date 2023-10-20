@@ -1,8 +1,8 @@
 // 地址发布页 https://www.dandanju.vip
 var rule = {
     title:'蛋蛋剧',
-    // host:'https://www.dandanju.cc',
-    host:'https://www.dandanju.vip',
+    host:'https://www.dandanju.cc',
+    //host:'https://www.dandanju.vip',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"a:eq(0)&&href");print(src);HOST=src',
     // url:'/show/fyclass--------fypage---.html',
     url:'/show/fyclassfyfilter.html',
