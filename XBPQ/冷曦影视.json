@@ -3,8 +3,8 @@
   "站名": "冷曦影视",
   "主页url": "https://www.lenxitv.cc",
   
-  "分类": "电影&电视剧&综艺&动漫",
-  "分类值": "movie&tv&zongyi&dongman",
+  "分类": "电影&电视剧&综艺&动漫&福利&直播&电影解说&明星&专题",
+  "分类值": "movie&tv&zongyi&dongman&fulit&zhibo&dianyingjieshuo&mx&zt",
   
   "分类url": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html",
   
