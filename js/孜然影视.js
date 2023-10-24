@@ -6,7 +6,7 @@ var rule={
     // host:'https://nuoin.com',
     // hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src = jsp.pd(html,".box-list,1&&a:eq(71)&&href");print(src);HOST=src',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
-    url:'/index.php/vod/type/id/fyfilter.html',
+    url:'/index.php/vod/type/id/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}{{fl.by or "/by/time"}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
     filter: {
