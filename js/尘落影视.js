@@ -1,7 +1,7 @@
 var rule={
     title:'尘落影视',
     // host:'http://v.ftixkrv.cn',
-    host:'http://v.zzdacou.cn',
+    host:'https://v.zzdacou.com',
     // url:'/whole/fyclass_______0_addtime_fypage.html',
     url:'/whole/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
