@@ -44,7 +44,7 @@
     
     "播放列表":"<a&&</a>",
     
-    "分类url":"http://tiaojiepv.com//vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
+    "分类url":"http://tiaojiepv.com//vodtype/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;ak",
     
     "分类":"电影$1#电视剧$2#动漫$3#综艺$4",
     
