@@ -17,7 +17,7 @@
 "搜索标题":"title=\"&&\"",
 "搜索链接":"href=\"&&\"",
 "播放二次截取": "<div class=\"myui-vodlist__detail\">&&</div>",
-"播放数组": "<li class=\"active\"><a href=&&</ul>",
+"播放数组": "<a class=\"myui-vodlist__thumb lazyload\"&&</div>",
 //"播放数组": "<h4 class=\"title\"&&</h4>",
 "列表二次截取": "",
 "播放列表": "<a&&/a>",
