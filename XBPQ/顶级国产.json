@@ -19,7 +19,7 @@
 "搜索副标题":"<span class=\"score\">&&</span>",
 "搜索后缀":"/playgaokk/",
 //"播放二次截取": "<span class=\"pic-text text-right\">&&</div>",
-"播放数组": "<div class=\"myui-vodlist__detail\">&&<h4",
+"播放数组": "<a class=\"myui-vodlist__thumb lazyload\">&&<h4",
 //"播放数组": "<h4 class=\"title\"&&</h4>",
 "列表二次截取": "",
 "播放列表": "<a&&/a>",
