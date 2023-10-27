@@ -3,7 +3,7 @@ muban.mxpro.二级.tabs = '#y-playList .module-tab-item';
 var rule={
     title:'金曼影视',
 	模板:'mxpro',
-    host:'jinman2.com',
+    host:'https://jinman2.com',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyclassfyfilter.html',
 	filterable:1,//是否启用分类筛选,
