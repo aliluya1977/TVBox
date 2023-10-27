@@ -13,6 +13,7 @@
 {"key": "厂长1","name": "🎦1080P站-B","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "https://tudouaa1.oss-cn-beijing.aliyuncs.com/json/cz.json" }, 
 {"key":"csp_77","name":"🎦酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"🎦👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "Ikun资源","name": "Ikun资源(切片)","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1},
 {"key": "快看影视","name": "🎦快看影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "https://drpy.cainisi.cf/js/快看.js"},
 {"key": "csp_XYQHiker_爱看影院","name": "🎦爱看影院(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://codeberg.org/aliluya/TVBox/raw/branch/master/sub/%E7%88%B1%E7%9C%8B%E5%BD%B1%E9%99%A2.json","jar":"https://codeberg.org/aliluya/TVBox/raw/branch/master/jar/XYQ.jar;md5;ccd12ddbc8857f88a6f52af005cd016e"},
 {"key":"csp_Czsapp","name":"🎦厂长影视","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://www.czzy88.com/"},
@@ -151,7 +152,6 @@
 {"key":"短剧网","name":"💢短剧网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"分类url:https://m.duanju5.com/vodshow/{cateId}--{by}------{catePg}---.html,分类:逆袭$nixi#甜宠$tianchong#虐恋$nuelian#穿越$chuanyue#重生$chongsheng"},
 {"key":"3EDY","name":"🎦3EDY(EXO)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/33500/0811.jar?sign=JaOcBVu2zahzH8NshH0BBUigMswWrSAzzxIgauI0IIs%3D%3A0;md5;4BB140374F74FC87B306F1E5A6D8BBEA"},
 
-{"key": "Ikun资源","name": "Ikun资源(切片)","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1},
 {"key":"卧龙资源","name":"❤卧龙资源(切)","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"❤闪电资源(切)","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"飞速资源","name":"❤飞速资源(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
