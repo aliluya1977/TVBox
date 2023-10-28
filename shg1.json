@@ -2,8 +2,8 @@
 {
 	//"spider": "https://notabug.org/aliluya/TVBox/raw/master/Yoursmile.jar;md5;22EF4E19E3F1FA014DD8854D12DB9CCB",
   //"spider": "https://codeberg.org/aliluya/TVBox/raw/branch/master/Yoursmile2.jar;md5;FA2C893D90942545A01EE558456AE77A",
-  //"spider":"https://codeberg.org/aliluya/TVBox/raw/branch/master/Yoursmile3.jar;md5;9F26A5E36FA0C8F2457F0EBE84EBD6E0",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42E106834D021E659D484AEF5E0DF83E",
+  "spider":"https://codeberg.org/aliluya/TVBox/raw/branch/master/Yoursmile3.jar;md5;9F26A5E36FA0C8F2457F0EBE84EBD6E0",
+  //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;42E106834D021E659D484AEF5E0DF83E",
 		  	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"sites":[
 {"key":"csp_DouDou","name":"🔍豆瓣┃施华刚专用","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
