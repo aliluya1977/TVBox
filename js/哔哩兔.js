@@ -1,7 +1,7 @@
 muban.mxone5.二级.title = 'h1&&Text;.video-info-aux&&Text';
 muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq(1)&&Text;.video-info-actor:eq(0)&&Text';
 var rule = {
-    title:'哔哩兔',
+    title:'胖虎免费svip影视-全网免费影视大全',
     模板:'mxone5',
     host:'https://www.physkan.com/',
     url:'/vodshow/fyclassfyfilter.html',
