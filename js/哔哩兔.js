@@ -3,7 +3,7 @@ muban.mxone5.二级.desc = '.video-info-items:eq(4)&&Text;;;.video-info-actor:eq
 var rule = {
     title:'哔哩兔',
     模板:'mxone5',
-    host:'https://www.bilituys.com',
+    host:'https://www.physkan.com/',
     url:'/vodshow/fyclassfyfilter.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.area}}{{fl.by or "/by/time"}}{{fl.class}}{{fl.lang}}{{fl.letter}}/page/fypage{{fl.year}}',
