@@ -8,7 +8,8 @@ var rule={
     homeUrl:'/index.php/label/rb.html',
     //url: '/index.php/api/vod#type=fyfilter&page=fypage',
     url: '/index.php/api/vod#vodshow=fyfilter&page=fypage',
-    detailUrl:'/voddetail/fyid.html',
+    //detailUrl:'/voddetail/fyid.html',
+    detailUrl:'/vodshow/fyid.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}',
     filter:{
