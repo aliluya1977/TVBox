@@ -8,8 +8,7 @@ var rule={
     homeUrl:'/index.php/label/rb.html',
     //url: '/index.php/api/vod#type=fyfilter&page=fypage',
     url: '/index.php/api/vod#vodshow=fyfilter&page=fypage',
-    //detailUrl:'/voddetail/fyid.html',
-    detailUrl:'/vodshow/fyid.html',
+    detailUrl:'/voddetail/fyid.html',
     filterable:1,//是否启用分类筛选,
     filter_url:'{{fl.cateId}}',
     filter:{
@@ -25,8 +24,8 @@ var rule={
         4:{cateId:'4'},
         5:{cateId:'5'}
     },
-    // class_name:'电影&电视剧&综艺&动漫&竞技体育',
-    // class_url:'1&2&3&4&5',
+    class_name:'电影&电视剧&综艺&动漫&竞技体育',
+    class_url:'1&2&3&4&5',
     class_parse:'.swiper-wrapper&&li.swiper-slide;a--em&&Text;a&&href;/(\\d+).html',
 	class_name:'',
     class_url:'',
