@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Bootstrap CSS -->
+    <link crossorigin="anonymous" integrity="sha512-oc9+XSs1H243/FRN9Rw62Fn8EtxjEYWHXRvjS43YtueEewbS6ObfXcJNyohjHqVKFPoXXUxwc+q1K7Dee6vv9g==" href="//lib.baomitu.com/twitter-bootstrap/4.5.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
+    <link href="https://cdn.bootcdn.net/ajax/libs/nprogress/0.2.0/nprogress.min.css" rel="stylesheet">
+    <!-- 文章 CSS -->
+    <link rel="stylesheet" href="https://fuck.dog/usr/themes/onecircle/assets/css/post.min.css">
+    <link rel="stylesheet" href="https://fuck.dog/usr/themes/onecircle/assets/owo/owo.min.css">
+    <link rel="stylesheet" href="https://fuck.dog/usr/themes/onecircle/assets/css/onecircle.min.css">
+    <link crossorigin="anonymous" integrity="sha384-Q8BgkilbsFGYNNiDqJm69hvDS7NCJWOodvfK/cwTyQD4VQA0qKzuPpvqNER1UC0F"
+          href="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.css" rel="stylesheet">
+            <link rel="shortcut icon" href="https://we.dog/assets/images/favicon/1.jpg">    <title>舔狗之家</title>
+    <!-- 通过自有函数输出HTML头部信息 -->
+    <meta itemprop="image"
+          content=""/>
+    <meta name="description" itemprop="description" content="啪啪啪，舔狗之家">
+    <meta name="keywords" content="typecho,php,blog" />
+<link rel="pingback" href="https://fuck.dog/action/xmlrpc" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://fuck.dog/action/xmlrpc?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://fuck.dog/action/xmlrpc?wlw" />
+<link rel="alternate" type="application/rss+xml" title="舔狗之家 &raquo; RSS 2.0" href="https://fuck.dog/feed/" />
+<link rel="alternate" type="application/rdf+xml" title="舔狗之家 &raquo; RSS 1.0" href="https://fuck.dog/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="舔狗之家 &raquo; ATOM 1.0" href="https://fuck.dog/feed/atom/" />
+    <style rel="stylesheet">
+body::before {
+opacity:.1;
+background-size: 400px;
+background-repeat: repeat;
+}
+</style>        <script>gconf={index:'https://fuck.dog',oneaction:'https://fuck.dog/oneaction'}</script>
+    <script src="https://cdn.bootcdn.net/ajax/libs/lazysizes/5.2.2/lazysizes.min.js" async=""></script>
+
+    <link rel="stylesheet" href="https://fuck.dog/usr/themes/onecircle/assets/css/responsive.min.css" />
+        <style>
+        :root {
+            --theme:#4e7cf2;
+            --element: #409eff;
+            cursor: auto;
+            --classA: #dcdfe6;
+            --classB: #e4e7ed;
+            --classC: #ebeef5;
+            --classD: #f2f6fc;
+            --routine: #606266;
+            --minor: #909399;
+            --seat: #c0c4cc;
+            --success: #67c23a;
+            --warning: #e6a23c;
+            --danger: #f56c6c;
+            --main: rgb(255,255,255,1.00);
+            --panelColor: rgb(242,245,248,1);;
+            --articleHover: rgb(248,250,251,0.5);;
+            --focusUserColor: rgb(242,245,258,0.5);;
+            --contentbg: rgb(245,248,250,0.5);;
+            --info: #909399;
+            --radius-pc: 10px;
+            --radius-wap: ;
+            --text-shadow: 0 1px 2px rgba(0, 0, 0, 0.25);
+            --box-shadow: 0px 0px 20px -5px rgba(158, 158, 158, 0.22);
+            --background: #fff;
+            --swiper-theme-color: #fff !important;
+            --indexcolor: #fff;
+        }
+        body:before{
+            background-image: url("https://s2.loli.net/2022/02/10/IbgC5rpX3ciGJF1.png");
+        }
+    </style>
+
+    <link rel="stylesheet" href="https://fuck.dog/usr/plugins/SmmsForTypecho/css/smms.diy.min.css" type="text/css"/>
+</head>
+<body class="bright" ontouchstart="">
+<div id="allayout" class="app app-aside-fix app-header-fixed">
+    <header class="app-header">
+        <div class="container-xl">
+            <div class="row navbar-expand-lg">
+                <div class="col-6 col-md-9 col-lg-8 col-xl-9 mobile-nopading">
+                    <nav class="navbar navbar-expand-lg navbar-light">
+                        <a class="navbar-brand mb-0 h1 p-2 mr-auto" href="https://fuck.dog/">
+                            <img class="site-logo" src="https://we.dog/assets/images/logo.gif" loading="lazy"
+                                 alt="舔狗之家"/>
+                            <span class="nav-title">舔狗之家</span>
+                        </a>
+                    </nav>
+                </div>
+                <div class="col-6 col-md-3 col-lg-4 col-xl-3 mobile-nopading">
+                    <div class="max-height">
+                        <ul class="navbar navbar-nav navbar-right ml-auto header__content header__content--end">
+
+                            <li class="nav-item search-block-icon" aria-expanded="false"
+                                aria-controls="search-block">
+                                <a class="nav-link">
+                                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-search" fill="currentColor"
+                                         xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd"
+                                              d="M10.442 10.442a1 1 0 0 1 1.415 0l3.85 3.85a1 1 0 0 1-1.414 1.415l-3.85-3.85a1 1 0 0 1 0-1.415z"/>
+                                        <path fill-rule="evenodd"
+                                              d="M6.5 12a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11zM13 6.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>
+                                    </svg>
+                                </a>
+                            </li>
+
+                                                            <li class="nav-item dropdown" id="easyLogin">
+                                    <a class="nav-link" href="#" id="navbarDropdown" role="button"
+                                       data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="feathericons">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="16px" height="16px" viewBox="0 0 24 24"
+                                         fill="none"
+                                         stroke="currentColor" stroke-width="2"
+                                         stroke-linecap="round" stroke-linejoin="round"
+                                         class="feather feather-key">
+                                        <path d="M21 2l-2 2m-7.61 7.61a5.5 5.5 0 1 1-7.778 7.778 5.5 5.5 0 0 1 7.777-7.777zm0 0L15.5 7.5m0 0l3 3L22 7l-3-3m-3.5 3.5L19 4"></path>
+                                    </svg>
+                                </span>
+                                        <b class="caret"></b><!--下三角符号-->
+                                    </a>
+                                    <!-- dropdown(登录) -->
+                                    <div class="dropdown-menu w-lg wrapper bg-white animated fadeIn header__dropdown-menu "
+                                         aria-labelledby="navbarDropdown">
+                                        <form id="Login_form" name="login" action="https://fuck.dog/index.php/action/login?_=57affdae54b709e789afe259a69f52de" method="post">
+                                            <div class="form-group">
+                                                <label for="navbar-login-user">用户名</label>
+                                                <input type="text" name="name" id="navbar-login-user" class="form-control"
+                                                       placeholder="用户名或电子邮箱"></div>
+                                            <div class="form-group">
+                                                <label for="navbar-login-password">密码</label>
+                                                <input autocomplete="" type="password" name="password" id="navbar-login-password"
+                                                       class="form-control" placeholder="密码"></div>
+                                            <button style="width: 100%;margin-bottom: 10px" type="submit" id="login-submit" name="submitLogin"
+                                                    class="btn-rounded box-shadow-wrap-lg btn-gd-primary padder-lg">
+                                                <span>登录</span>
+
+                                                <span class="text-active">登录中...</span>
+                                                <span class="banLogin_text">刷新页面后登录 </span>
+                                                <span id="ban-login" class="hide">
+                                            <svg  style="position: relative;top:-1px" width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-arrow-clockwise animate-spin" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                                              <path fill-rule="evenodd" d="M8 3a5 5 0 1 0 4.546 2.914.5.5 0 0 1 .908-.417A6 6 0 1 1 8 2v1z"/>
+                                              <path d="M8 4.466V.534a.25.25 0 0 1 .41-.192l2.36 1.966c.12.1.12.284 0 .384L8.41 4.658A.25.25 0 0 1 8 4.466z"/>
+                                            </svg>
+                                        </span>
+                                                <i class="animate-spin  fontello fontello-spinner hide" id="spin-login"></i>
+                                            </button>
+                                            <a no-pjax href="https://fuck.dog/admin/register.php">
+                                                <button style="width: 100%" type="button"
+                                                        class="btn-rounded box-shadow-wrap-lg btn-gd-mix padder-lg">
+                                                    <span>注册</span>
+                                                </button>
+                                            </a>
+                                            <input type="hidden" name="referer" value="https://fuck.dog/">
+                                        </form>
+                                    </div>
+
+                                </li>
+                                                        <!-- aside -->
+                            <li class="nav-item d-md-none">
+                                <a class="nav-link d-block d-md-none aside-btn">
+                                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-sliders" fill="currentColor"
+                                         xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd"
+                                              d="M14 3.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0zM11.5 5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zM7 8.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0zM4.5 10a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3zm9.5 3.5a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0zM11.5 15a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+                                        <path fill-rule="evenodd"
+                                              d="M9.5 4H0V3h9.5v1zM16 4h-2.5V3H16v1zM9.5 14H0v-1h9.5v1zm6.5 0h-2.5v-1H16v1zM6.5 9H16V8H6.5v1zM0 9h2.5V8H0v1z"/>
+                                    </svg>
+                                </a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <!--search area-->
+                <div class="search-block" style="display: none" id="search-block">
+                    <button type="button" class="close" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                    <h4>搜索</h4>
+                    <form name="search" method="post" action="https://fuck.dog/" role="search">
+                        <label for="s" class="sr-only">搜索关键字</label>
+                        <input type="text" id="s" name="s" class="text form-control"
+                               placeholder="输入关键字搜索"/>
+                        <button type="submit" class="btn btn-primary float-right search-button">搜索</button>
+                    </form>
+
+                </div>
+            </div>
+
+
+        </div>
+    </header>
+
+<div class="container-xl app-container">
+    <div id="float_action_buttons" class="float-action-buttons fabtns-unloaded">
+        <button id="fabtn_toggle_sides" class="btn btn-icon btn-neutral fabtn shadow-sm" type="button" aria-hidden="true" data-toggle="tooltip" data-placement="left" title="移至另侧">
+            <span class="btn-inner--icon fabtn-show-on-right"><svg width="5.36px" height="14px" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-left" class="svg-inline--fa fa-caret-left fa-w-6" role="img" viewBox="0 0 192 512"><path fill="currentColor" d="M192 127.338v257.324c0 17.818-21.543 26.741-34.142 14.142L29.196 270.142c-7.81-7.81-7.81-20.474 0-28.284l128.662-128.662c12.599-12.6 34.142-3.676 34.142 14.142z"/></svg></span>
+            <span class="btn-inner--icon fabtn-show-on-left"><svg width="5.36px" height="14px" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="caret-right" class="svg-inline--fa fa-caret-right fa-w-6" role="img" viewBox="0 0 192 512"><path fill="currentColor" d="M0 384.662V127.338c0-17.818 21.543-26.741 34.142-14.142l128.662 128.662c7.81 7.81 7.81 20.474 0 28.284L34.142 398.804C21.543 411.404 0 402.48 0 384.662z"/></svg></span>
+        </button>
+        <button id="fabtn_back_to_top" class="btn btn-icon btn-neutral fabtn shadow-sm" type="button" aria-label="Back To Top" data-toggle="tooltip" data-placement="left" title="回到顶部">
+            <span class="btn-inner--icon"><svg width="9.34px" height="14px" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="angle-up" class="svg-inline--fa fa-angle-up fa-w-10" role="img" viewBox="0 0 320 512"><path fill="currentColor" d="M177 159.7l136 136c9.4 9.4 9.4 24.6 0 33.9l-22.6 22.6c-9.4 9.4-24.6 9.4-33.9 0L160 255.9l-96.4 96.4c-9.4 9.4-24.6 9.4-33.9 0L7 329.7c-9.4-9.4-9.4-24.6 0-33.9l136-136c9.4-9.5 24.6-9.5 34-.1z"/></svg></span>
+        </button>
+        <button id="fabtn_go_to_comment" class="btn btn-icon btn-neutral fabtn shadow-sm d-none" type="button" aria-label="Comment" data-toggle="tooltip" data-placement="left" title="评论">
+            <span class="btn-inner--icon"><svg width="14.34px" height="14px" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" data-prefix="far" data-icon="comment" class="svg-inline--fa fa-comment fa-w-16" role="img" viewBox="0 0 512 512"><path fill="currentColor" d="M256 32C114.6 32 0 125.1 0 240c0 47.6 19.9 91.2 52.9 126.3C38 405.7 7 439.1 6.5 439.5c-6.6 7-8.4 17.2-4.6 26S14.4 480 24 480c61.5 0 110-25.7 139.1-46.3C192 442.8 223.2 448 256 448c141.4 0 256-93.1 256-208S397.4 32 256 32zm0 368c-26.7 0-53.1-4.1-78.4-12.1l-22.7-7.2-19.5 13.8c-14.3 10.1-33.9 21.4-57.5 29 7.3-12.1 14.4-25.7 19.9-40.2l10.6-28.1-20.6-21.8C69.7 314.1 48 282.2 48 240c0-88.2 93.3-160 208-160s208 71.8 208 160-93.3 160-208 160z"/></svg></span>
+        </button>
+        <button id="fabtn_reading_progress" class="btn btn-icon btn-neutral fabtn shadow-sm" type="button" aria-hidden="true" data-toggle="tooltip" data-placement="left" title="阅读进度">
+            <div id="fabtn_reading_progress_bar" style="width: 0;"></div>
+            <span id="fabtn_reading_progress_details">0%</span>
+        </button>
+    </div>
+    <aside id="aside" class="app-aside hidden-xs">
+    <div class="aside-wrap" layout="column">
+        <div class="navi-wrap scroll-y scroll-hide" flex>
+            <div class="nav-menu">
+            <nav class="nav flex-column">
+                <a class="nav-link active"                        href="https://fuck.dog/">
+                    <div class="nav-item nav-icon">
+                        <svg t="1605599903214" class="nav-icon icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="3902" width="1em" height="1em"><path d="M957.9 391.5c-1.1-7.5-5.5-14.2-12-18.5L527.4 98.9c-4.6-3.1-10.1-4.7-15.7-4.7-5.7 0-11.1 1.6-15.7 4.7L77.4 373.1c-6.2 4.1-10.4 10.3-11.6 17.4-1.2 7 0.5 14 4.8 19.7 5.2 6.9 13.7 11.1 22.6 11.1 5.6 0 11.1-1.6 15.7-4.7l40.2-26.3v435.4c0 57.8 45.8 104.7 102.2 104.7h520.8c56.3 0 102.2-47 102.2-104.7V390.2l40.4 26.5c5.7 3.5 11.1 5.2 16.4 5.2 7.9 0 15.2-3.8 21.5-11.4 4.4-5.4 6.3-12.1 5.3-19zM616.3 884.4H407V631.7c0-54 46.9-97.9 104.6-97.9 57.7 0 104.6 43.9 104.6 97.9v252.7z m202.4-58.8c0 28.6-20.9 51.9-46.6 51.9H665V631.7c0-79.4-68.8-143.9-153.3-143.9-84.5 0-153.3 64.6-153.3 143.9v245.9H251.3c-25.7 0-46.7-23.3-46.7-51.9V353.9l307.1-201.2 307.1 201.2v471.7z" fill="#6B400D" p-id="3903"></path><path d="M511.7 533.8c-57.7 0-104.6 43.9-104.6 97.9v252.7h209.3V631.7c-0.1-54-47-97.9-104.7-97.9z" fill="#FFD524" p-id="3904"></path><path d="M270.3 504.3c-17.5 0-31.7 14.7-31.7 32.8 0 18.1 14.2 32.8 31.7 32.8s31.7-14.7 31.7-32.8c-0.1-18.1-14.3-32.8-31.7-32.8zM270.3 592.9h-1.4c-13.1 0-23.8 10.7-23.8 23.8v212.5c0 13.1 10.7 23.8 23.8 23.8h1.4c13.1 0 23.8-10.7 23.8-23.8V616.7c0-13.1-10.7-23.8-23.8-23.8z" fill="#6B400D" p-id="3905"></path></svg>
+                        <span class="nav-item-text">动态</span>
+                    </div>
+                </a>
+                <a class="nav-link active"                        href="https://fuck.dog/?recommend=default">
+                    <div class="nav-item nav-icon">
+                        <svg t="1605600499130" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="8799" width="200" height="200"><path d="M287 962h530.35714248c45 0 80.35714248-35.35714248 80.35714336-80.35714248V576.28571416H158.42857168v257.14285752c0 70.71428584 57.85714248 128.57142832 128.57142832 128.57142832z" fill="#BAE7FF" p-id="8800"></path><path d="M647 962H238.78571416C193.78571416 962 158.42857168 926.64285752 158.42857168 881.64285752v-739.28571504C158.42857168 97.35714248 193.78571416 62 238.78571416 62h575.35714336C862.35714248 62 897.71428584 97.35714248 897.71428584 142.35714248v572.14285752L647 962z" fill="#69C0FF" p-id="8801"></path><path d="M650.21428584 962v-186.42857168c0-32.14285752 25.71428584-61.07142832 61.07142832-61.07142832H897.71428584L650.21428584 962z" fill="#1890FF" p-id="8802"></path><path d="M319.14285752 640.57142832h417.85714248c19.28571416 0 32.14285752-12.85714248 32.14285752-32.14285664s-12.85714248-32.14285752-32.14285752-32.14285752H319.14285752c-19.28571416 0-32.14285752 12.85714248-32.14285752 32.14285752s12.85714248 32.14285752 32.14285752 32.14285664zM576.28571416 479.85714248h160.71428584c19.28571416 0 32.14285752-12.85714248 32.14285752-32.14285664s-12.85714248-32.14285752-32.14285752-32.14285752h-160.71428584c-19.28571416 0-32.14285752 12.85714248-32.14285664 32.14285752s12.85714248 32.14285752 32.14285664 32.14285664z" fill="#BAE7FF" p-id="8803"></path><path d="M319.14285752 479.85714248h128.57142832c19.28571416 0 32.14285752-12.85714248 32.14285664-32.14285664V287c0-19.28571416-12.85714248-32.14285752-32.14285664-32.14285752H319.14285752c-19.28571416 0-32.14285752 12.85714248-32.14285752 32.14285752v160.71428584c0 19.28571416 12.85714248 32.14285752 32.14285752 32.14285664z" fill="#BAE7FF" p-id="8804"></path><path d="M576.28571416 319.14285752h160.71428584c19.28571416 0 32.14285752-12.85714248 32.14285752-32.14285752s-12.85714248-32.14285752-32.14285752-32.14285752h-160.71428584c-19.28571416 0-32.14285752 12.85714248-32.14285664 32.14285752s12.85714248 32.14285752 32.14285664 32.14285752z" fill="#BAE7FF" p-id="8805"></path></svg>
+                        <span class="nav-item-text">发现</span>
+                    </div>
+                </a>
+                <a class="nav-link" href="https://fuck.dog/myblog">
+                    <div class="nav-item nav-icon">
+                        <svg t="1606702800546" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2980" width="200" height="200"><path d="M512 1024C229.2224 1024 0 794.7776 0 512S229.2224 0 512 0s512 229.2224 512 512-229.2224 512-512 512z m-229.12-443.6224c18.176-15.6416 27.264-36.1472 27.264-61.44 0-20.352-6.016-36.864-17.9456-49.6128-11.9808-12.7232-27.9296-20.224-47.872-22.5792v-0.8192c15.9744-5.2224 28.4672-14.0032 37.5552-26.3936 9.0624-12.3648 13.5936-26.9312 13.5936-43.7248 0-20.0704-7.4752-36.352-22.4768-48.896-15.0016-12.544-35.2512-18.7648-60.8256-18.7648H128.0256V603.904h86.1952c27.648 0 50.5344-7.8336 68.6848-23.5264z m-120.2176-240.896H202.496c37.8112 0 56.704 14.3872 56.704 43.1104 0 16.64-5.4272 29.5168-16.2816 38.656-10.8544 9.1648-25.7792 13.7216-44.7488 13.7216H162.6624v-95.488z m0 126.6432H202.496c47.5648 0 71.3472 17.4848 71.3472 52.3776 0 16.7936-5.6064 29.9776-16.7936 39.6032-11.2384 9.6256-26.9824 14.4384-47.36 14.4384H162.688v-106.4192z m202.9568-158.592V603.904h33.792V307.5328h-33.792z m267.1872 266.368c19.0208-20.2752 28.5696-47.2576 28.5696-80.9216 0-34.4064-8.8576-61.2864-26.496-80.64-17.6896-19.4048-42.24-29.0816-73.728-29.0816-33.024 0-59.2128 9.984-78.592 29.9008-19.3792 19.968-29.0816 47.6416-29.0816 83.1232 0 32.5632 9.3184 58.752 27.9552 78.464 18.6112 19.712 43.5456 29.5936 74.752 29.5936 32.0256 0 57.5744-10.1632 76.6208-30.4384z m-144.6912-78.8992c0-25.984 6.3232-46.3616 18.9696-61.1328 12.6464-14.7968 29.824-22.1952 51.5584-22.1952 21.8624 0 38.6816 7.168 50.432 21.4528 11.776 14.3104 17.6384 34.6624 17.6384 61.056 0 26.112-5.888 46.2592-17.664 60.416-11.7248 14.1568-28.544 21.248-50.4064 21.248-21.4528 0-38.5792-7.1936-51.3536-21.632-12.8-14.464-19.1744-34.176-19.1744-59.2128z m407.5264 87.4496v-194.2528h-33.8176v29.2608h-0.8192c-13.7728-22.8096-34.8672-34.2272-63.3344-34.2272-29.952 0-53.5808 10.5984-70.8352 31.744-17.2544 21.1968-25.856 49.7152-25.856 85.6064 0 31.616 7.9872 56.832 24.0128 75.5968 16.0256 18.7648 37.1712 28.16 63.4112 28.16 32.3328 0 56.5248-13.4912 72.6272-40.448h0.8192v23.1168c0 21.6576-3.9936 39.0656-12.0064 52.224l-17.0752 18.0736-0.7424 0.512c-5.3504 3.3024-43.1872 24.4992-97.3824-0.4096-58.5728-26.9568-141.8752-29.184-162.4064 41.3952l24.1664 18.5856s0-33.2032 37.4272-46.4896c27.8016-9.856 58.0608 2.6112 81.9968 12.8768v0.128c6.912 3.5072 14.1824 6.3744 21.8624 8.6272l0.384 0.1024a168.448 168.448 0 0 0 46.2336 6.144c74.2144 0 111.3344-38.784 111.3344-116.3264z m-51.6608-26.8032c-11.904 13.4656-27.3408 20.224-46.3104 20.224-18.688 0-33.7152-7.0656-45.056-21.1712-11.3408-14.08-17.024-32.8704-17.024-56.3968 0-27.3664 5.888-48.64 17.7408-63.8208 11.8272-15.1808 28.16-22.784 49.0752-22.784 16.9216 0 31.0272 5.9648 42.3936 17.92a60.416 60.416 0 0 1 17.024 43.1104v31.1552c0 21.0176-5.9648 38.272-17.8432 51.7632z" fill="#62AFFE" p-id="2981"></path></svg>
+                        <span class="nav-item-text">博客</span>
+                    </div>
+                </a>
+                
+                
+                    <a class="nav-link" href="https://fuck.dog/about.html" title="关于">
+                            <div class="nav-item nav-icon">
+                                <svg t="1605600901768" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="17655" width="200" height="200"><path d="M34.816 36.864h944.128v229.376H34.816zM47.104 275.0464V970.752h933.888V275.0464H47.104z m309.248 588.5952c-47.9232 0-86.6304-38.912-86.6304-86.6304 0-47.9232 38.912-86.6304 86.6304-86.6304s86.6304 38.912 86.6304 86.6304c0 47.7184-38.7072 86.6304-86.6304 86.6304z m4.096-282.624c-47.9232 0-86.6304-38.912-86.6304-86.6304 0-47.9232 38.912-86.6304 86.6304-86.6304s86.6304 38.912 86.6304 86.6304c0 47.7184-38.7072 86.6304-86.6304 86.6304zM660.8896 407.552c47.9232 0 86.6304 38.912 86.6304 86.6304 0 47.9232-38.912 86.6304-86.6304 86.6304-47.9232 0-86.6304-38.912-86.6304-86.6304-0.2048-47.7184 38.7072-86.6304 86.6304-86.6304z m1.2288 457.3184c-47.9232 0-86.6304-38.912-86.6304-86.6304s38.912-86.6304 86.6304-86.6304c47.9232 0 86.6304 38.912 86.6304 86.6304s-38.7072 86.6304-86.6304 86.6304z" fill="#EFB4BF" p-id="17656"></path><path d="M901.12 0H122.88C55.0912 0 0 55.0912 0 122.88v778.24c0 67.7888 55.0912 122.88 122.88 122.88h778.24c67.7888 0 122.88-55.0912 122.88-122.88V122.88c0-67.7888-55.0912-122.88-122.88-122.88zM122.88 61.44h778.24c33.792 0 61.44 27.648 61.44 61.44v120.832H61.44V122.88c0-33.792 27.648-61.44 61.44-61.44z m778.24 901.12H122.88c-33.792 0-61.44-27.648-61.44-61.44V305.152h901.12v595.968c0 33.792-27.648 61.44-61.44 61.44z" fill="#C9062C" p-id="17657"></path><path d="M152.576 152.576m-30.72 0a30.72 30.72 0 1 0 61.44 0 30.72 30.72 0 1 0-61.44 0Z" fill="#C9062C" p-id="17658"></path><path d="M275.456 152.576m-30.72 0a30.72 30.72 0 1 0 61.44 0 30.72 30.72 0 1 0-61.44 0Z" fill="#C9062C" p-id="17659"></path><path d="M398.336 152.576m-30.72 0a30.72 30.72 0 1 0 61.44 0 30.72 30.72 0 1 0-61.44 0Z" fill="#C9062C" p-id="17660"></path><path d="M358.4 365.1584c-67.7888 0-122.88 55.0912-122.88 122.88s55.0912 122.88 122.88 122.88 122.88-55.0912 122.88-122.88-55.0912-122.88-122.88-122.88z m0 184.32c-33.792 0-61.44-27.648-61.44-61.44s27.648-61.44 61.44-61.44 61.44 27.648 61.44 61.44c0 33.9968-27.648 61.44-61.44 61.44zM358.4 651.8784c-67.7888 0-122.88 55.0912-122.88 122.88s55.0912 122.88 122.88 122.88 122.88-55.0912 122.88-122.88-55.0912-122.88-122.88-122.88z m0 184.32c-33.792 0-61.44-27.648-61.44-61.44s27.648-61.44 61.44-61.44 61.44 27.648 61.44 61.44-27.648 61.44-61.44 61.44zM665.6 365.1584c-67.7888 0-122.88 55.0912-122.88 122.88s55.0912 122.88 122.88 122.88 122.88-55.0912 122.88-122.88-55.0912-122.88-122.88-122.88z m0 184.32c-33.792 0-61.44-27.648-61.44-61.44s27.648-61.44 61.44-61.44 61.44 27.648 61.44 61.44c0 33.9968-27.648 61.44-61.44 61.44zM665.6 651.8784c-67.7888 0-122.88 55.0912-122.88 122.88s55.0912 122.88 122.88 122.88 122.88-55.0912 122.88-122.88-55.0912-122.88-122.88-122.88z m0 184.32c-33.792 0-61.44-27.648-61.44-61.44s27.648-61.44 61.44-61.44 61.44 27.648 61.44 61.44-27.648 61.44-61.44 61.44z" fill="#C9062C" p-id="17661"></path></svg>
+                            <span class="nav-item-text">关于</span>
+                        </div>
+                    </a>            </nav>
+        </div>
+        </div>
+        
+             <div class="support-author text-center">
+                 <button id="support_author" data-toggle="modal" data-target="#donateModal" class="btn btn-pay btn-danger btn-rounded"><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-wallet-fill" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 2A1.5 1.5 0 0 0 0 3.5v2h6a.5.5 0 0 1 .5.5c0 .253.08.644.306.958.207.288.557.542 1.194.542.637 0 .987-.254 1.194-.542.226-.314.306-.705.306-.958a.5.5 0 0 1 .5-.5h6v-2A1.5 1.5 0 0 0 14.5 2h-13z"/><path d="M16 6.5h-5.551a2.678 2.678 0 0 1-.443 1.042C9.613 8.088 8.963 8.5 8 8.5c-.963 0-1.613-.412-2.006-.958A2.679 2.679 0 0 1 5.551 6.5H0v6A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-6z"/></svg><span>&nbsp;赞赏</span></button>
+             </div>
+             <div id="donateModal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" data-backdrop="" aria-labelledby="mySmallModalLabel">
+                 <div class="modal-dialog modal-sm  modal-dialog-centered" role="document">
+                     <div class="modal-content">
+                         <div class="modal-header">
+                             <h6 class="modal-title">赞赏作者</h6>
+                             <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                         </div>
+                         <div class="modal-body">
+                             <p class="text-center article__reward"> <strong class="article__reward-text">扫一扫支付</strong> </p>
+                             <div class="tab-content"><img aria-labelledby="alipay-tab" class="lazyload pay-img tab-pane fade active show" id="alipay_author" role="tabpanel" src="https://fuck.dog/usr/themes/onecircle/assets/img/loading.svg" data-src="https://s2.loli.net/2021/12/16/CqxIm5lNJfb7Yir.png" /><img aria-labelledby="wechatpay-tab" class="lazyload pay-img tab-pane fade" id="wechatpay_author" role="tabpanel" src="https://fuck.dog/usr/themes/onecircle/assets/img/loading.svg" data-src="https://s2.loli.net/2021/12/16/19fZW2w3UloBd8i.png" /></div>
+                             <div class="article__reward-border mb20 mt10"></div><div class="text-center">
+                             <ul class="text-center nav d-block" role="tablist"><li class="pay-button nav-item" role="presentation" class="active"><button href="#alipay_author" id="alipay-tab" aria-controls="alipay_author" role="tab" data-toggle="tab" aria-selected="true" class="btn m-b-xs m-r-xs btn-blue"><svg t="1606310341446" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="2836" width="1em" height="1em"><path d="M233.6 576c-12.8 9.6-25.6 22.4-28.8 41.6-6.4 25.6 0 54.4 22.4 80 28.8 28.8 70.4 35.2 89.6 38.4 51.2 3.2 105.6-22.4 144-51.2 16-9.6 44.8-35.2 70.4-67.2-57.6-28.8-131.2-64-208-60.8-38.4 0-67.2 6.4-89.6 19.2zM976 710.4c25.6-60.8 41.6-128 41.6-198.4C1017.6 233.6 790.4 6.4 512 6.4S6.4 233.6 6.4 512s227.2 505.6 505.6 505.6c166.4 0 316.8-83.2 409.6-208-86.4-41.6-230.4-115.2-316.8-156.8-41.6 48-102.4 96-172.8 115.2-44.8 12.8-83.2 19.2-124.8 9.6s-70.4-28.8-89.6-48c-9.6-9.6-19.2-22.4-25.6-38.4v3.2s-3.2-6.4-6.4-19.2c0-6.4-3.2-12.8-3.2-19.2v-35.2c3.2-19.2 12.8-44.8 35.2-64 48-48 112-51.2 147.2-48 48 0 137.6 22.4 208 48 19.2-41.6 32-89.6 41.6-118.4H307.2v-32H464v-64H275.2v-32H464v-64c0-16 3.2-22.4 16-22.4h73.6v83.2h204.8v32H553.6v64h163.2s-16 92.8-67.2 182.4C761.6 624 921.6 688 976 710.4z" fill="#ffffff" p-id="2837" data-spm-anchor-id="a313x.7781069.0.i3" class="selected"></path></svg><span>&nbsp;支付宝支付</span></button>
+                                 </li><li class="pay-button nav-item" role="presentation"><button href="#wechatpay_author" id="wechatpay-tab" aria-controls="wechatpay_author" role="tab" data-toggle="tab" aria-selected="false" class="btn m-b-xs btn-always-success"><svg t="1606304793200" class="icon" viewBox="0 0 1024 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" p-id="4257" width="1em" height="1em"><path d="M390.4 615.5c-4.1 2.1-8.3 3.1-13.4 3.1-11.4 0-20.7-6.2-25.9-15.5L349 599l-81.7-178c-1-2.1-1-4.1-1-6.2 0-8.3 6.2-14.5 14.5-14.5 3.1 0 6.2 1 9.3 3.1l96.2 68.3c7.2 4.1 15.5 7.2 24.8 7.2 5.2 0 10.3-1 15.5-3.1l451.1-200.7C797 179.9 663.6 117.8 512.5 117.8c-246.2 0-446.9 166.6-446.9 372.4 0 111.7 60 213.1 154.1 281.4 7.2 5.2 12.4 14.5 12.4 23.8 0 3.1-1 6.2-2.1 9.3-7.2 27.9-19.7 73.5-19.7 75.5-1 3.1-2.1 7.2-2.1 11.4 0 8.3 6.2 14.5 14.5 14.5 3.1 0 6.2-1 8.3-3.1l97.2-56.9c7.2-4.1 15.5-7.2 23.8-7.2 4.1 0 9.3 1 13.4 2.1 45.5 13.4 95.2 20.7 145.9 20.7 246.2 0 446.9-166.6 446.9-372.4 0-62.1-18.6-121-50.7-172.8l-514 296.9-3.1 2.1z" fill="#ffffff" p-id="4258" data-spm-anchor-id="a313x.7781069.0.i2" class="selected"></path></svg><span>&nbsp;微信支付</span></button>
+                                 </li></ul></div>
+                         </div>
+                     </div>
+                 </div>
+             </div>
+        
+    </div><!--.aside-wrap-->
+
+</aside>
+
+
+    <div id="pjax-container" class="app-content animate__animated animate__fadeIn">
+        <a class="off-screen-toggle hide"></a>
+        <main class="app-content-body">
+    <div class="hbox hbox-auto-xs hbox-auto-sm index">
+        <div class="col center-part">
+            <div class="main-content">
+                
+                                <!-- 圈友日记 -->
+                <div class="diary-content">
+                    <a href="https://fuck.dog/metas">
+                    <div class="mycicle-title">
+                        <h2>圈友日记</h2>
+                        <a href="https://fuck.dog/metas"><h2>更多</h2></a>
+                    </div>
+                    <div class="circle-diary">
+                                                                                <a href="https://fuck.dog/archives/58/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://i.loli.net/2021/01/04/L4xik9TIWZJmzKh.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="https://i.loli.net/2020/11/25/WXB6eCpMZkwh7PD.png">
+                                        </div>
+                                        <div class="circle-diary-name">Dog</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/558/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://s2.loli.net/2022/12/08/a8UKmyfA3sdvkNZ.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="https://i.loli.net/2020/11/25/WXB6eCpMZkwh7PD.png">
+                                        </div>
+                                        <div class="circle-diary-name">Dog</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/289/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://i.loli.net/2021/08/05/a7vEBcbPMoUzuTQ.gif" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="//avatar.is.fail/avatar/53c9dcb4507de788b618bde2444f7c94?&s=100">
+                                        </div>
+                                        <div class="circle-diary-name">zhang_lao_san</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/181/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://i.loli.net/2021/06/28/XtMjm6pZecn5hWo.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="https://i.loli.net/2020/11/25/WXB6eCpMZkwh7PD.png">
+                                        </div>
+                                        <div class="circle-diary-name">Dog</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/33/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://i.loli.net/2020/12/13/5AcCzPaMpuO4DoG.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="//avatar.is.fail/avatar/4d7966e2f94087b5e1aa0f7708ba8dd6?&s=100">
+                                        </div>
+                                        <div class="circle-diary-name">晓枫</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/455/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://s2.loli.net/2022/05/06/DO82wV47WYNC3Er.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="//avatar.is.fail/avatar/14875ff87ff1d5bc2477a013efde1d33?&s=100">
+                                        </div>
+                                        <div class="circle-diary-name">刘大轩</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/28/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://ediwangstorage.blob.core.windows.net/share/2.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="//avatar.is.fail/avatar/a178ed1c9fc5c8cc72aa6d73b6ffbe04?&s=100">
+                                        </div>
+                                        <div class="circle-diary-name">ediwang</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                                <a href="https://fuck.dog/archives/23/" class="diary-item">
+                                <div class="circle-diary-bg">
+                                    <div class="diary-img">
+                                        <img src="" data-src="https://i.loli.net/2020/12/06/cwIGjPEtaNYkDqr.jpg" class="lazyload">
+                                    </div>
+                                    <div class="circle-diary-bottom">
+                                        <div class="circle-diary-avatar"><img class="img-circle img-thumbnail"
+                                                                              src="https://i.loli.net/2020/11/25/WXB6eCpMZkwh7PD.png">
+                                        </div>
+                                        <div class="circle-diary-name">Dog</div>
+                                    </div>
+                                </div>
+                            </a>
+                                                                    </div>
+                    </a>
+                </div>
+                                <div style="width:100%;overflow:hidden;max-height: 90px;"></div>
+                <div class="list">
+                                                                <!-- focus user show -->
+    <article do-pjax class="post-article" data-url="https://fuck.dog/archives/705/">
+        <div class="post-article-left">
+            <a onclick="event.stopPropagation();" href="https://fuck.dog/author/6419/">
+                <!--<img src="https://secure.gravatar.com/avatar/1fe2aa4d780851a0beb9cff8002230bc?s=40&amp;r=X&amp;d=" alt="l1677578093" width="40" height="40" />-->
+                <img class="avatar"
+                     src="//avatar.is.fail/avatar/1fe2aa4d780851a0beb9cff8002230bc?&s=100"
+                     alt="l1677578093"/>
+            </a>
+        </div>
+        <div class="post-article-right">
+            <div class="post-author">
+                                    <div class="author-name" id="post-author-705">
+                        <a onclick="event.stopPropagation();"
+                           href="https://fuck.dog/author/6419/">l1677578093</a>
+                    </div>
+                    <div class="post-addr">
+                        <a href="https://fuck.dog/neighbor/云深不知处?name=云深不知处">
+                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-geo-alt" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.166 8.94C12.696 7.867 13 6.862 13 6A5 5 0 0 0 3 6c0 .862.305 1.867.834 2.94.524 1.062 1.234 2.12 1.96 3.07A31.481 31.481 0 0 0 8 14.58l.208-.22a31.493 31.493 0 0 0 1.998-2.35c.726-.95 1.436-2.008 1.96-3.07zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path fill-rule="evenodd" d="M8 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+                            <time>云深不知处</time>
+                        </a>
+                    </div>
+                            </div>
+            <!--content-->
+            <div class="post-content">
+
+                                    <!-- default-->
+                    <div class="row">
+
+    <div class="post-content-inner col-xl-12">
+                    我从来没有绿过谁 我只是忘了说分手            </div>
+            <div class="post-cover col-xl-12">
+            <div class="post-cover-img-container" onclick="">
+                            </div>
+        </div>
+    </div>
+                
+                <!-- action-->
+<div class="content-action">
+    <!--分类-->
+    <div class="topic-container">
+        <span class="topic-container-items" onclick="event.stopPropagation()">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="container-svg"><circle cx="10" cy="10" r="10" fill="#03A9F5"></circle><circle cx="10" cy="10" r="5" fill="#A0E3FE"></circle></svg>
+        <a href="https://fuck.dog/category/daily/">舔狗日常</a>        </span>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 16 16" class="post-icon bi bi-eye"
+                         fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd"
+                                d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.134 13.134 0 0 0 1.66 2.043C4.12 11.332 5.88 12.5 8 12.5c2.12 0 3.879-1.168 5.168-2.457A13.134 13.134 0 0 0 14.828 8a13.133 13.133 0 0 0-1.66-2.043C11.879 4.668 10.119 3.5 8 3.5c-2.12 0-3.879 1.168-5.168 2.457A13.133 13.133 0 0 0 1.172 8z"/>
+                          <path fill-rule="evenodd"
+                                d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                    154                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-chat-dots" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                      <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                0                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action btn-like" data-link="https://fuck.dog/archives/705/"
+                    data-cid="705">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-heart" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                    </svg>
+                                <span class="agree-num">1</span>
+                </span>
+            </button>
+        </div>
+        <div class="p-2 post-address-container">
+            <button class="button post-address">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-clock" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm8-7A8 8 0 1 1 0 8a8 8 0 0 1 16 0z"/><path fill-rule="evenodd" d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5z"/></svg>
+                    <time>10天前</time>
+                </span>
+            </button>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+        
+    </article>
+
+                                                                    <!-- focus user show -->
+    <article do-pjax class="post-article" data-url="https://fuck.dog/archives/704/">
+        <div class="post-article-left">
+            <a onclick="event.stopPropagation();" href="https://fuck.dog/author/6419/">
+                <!--<img src="https://secure.gravatar.com/avatar/1fe2aa4d780851a0beb9cff8002230bc?s=40&amp;r=X&amp;d=" alt="l1677578093" width="40" height="40" />-->
+                <img class="avatar"
+                     src="//avatar.is.fail/avatar/1fe2aa4d780851a0beb9cff8002230bc?&s=100"
+                     alt="l1677578093"/>
+            </a>
+        </div>
+        <div class="post-article-right">
+            <div class="post-author">
+                                    <div class="author-name" id="post-author-704">
+                        <a onclick="event.stopPropagation();"
+                           href="https://fuck.dog/author/6419/">l1677578093</a>
+                    </div>
+                    <div class="post-addr">
+                        <a href="https://fuck.dog/neighbor/云深不知处?name=云深不知处">
+                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-geo-alt" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.166 8.94C12.696 7.867 13 6.862 13 6A5 5 0 0 0 3 6c0 .862.305 1.867.834 2.94.524 1.062 1.234 2.12 1.96 3.07A31.481 31.481 0 0 0 8 14.58l.208-.22a31.493 31.493 0 0 0 1.998-2.35c.726-.95 1.436-2.008 1.96-3.07zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path fill-rule="evenodd" d="M8 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+                            <time>云深不知处</time>
+                        </a>
+                    </div>
+                            </div>
+            <!--content-->
+            <div class="post-content">
+
+                                    <!-- default-->
+                    <div class="row">
+
+    <div class="post-content-inner col-xl-12">
+                    “我坚持不下去了，我想放弃了”“给我送个安全套，地址*酒店5层50”“好嘞，我马上过去”            </div>
+            <div class="post-cover col-xl-12">
+            <div class="post-cover-img-container" onclick="">
+                            </div>
+        </div>
+    </div>
+                
+                <!-- action-->
+<div class="content-action">
+    <!--分类-->
+    <div class="topic-container">
+        <span class="topic-container-items" onclick="event.stopPropagation()">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="container-svg"><circle cx="10" cy="10" r="10" fill="#03A9F5"></circle><circle cx="10" cy="10" r="5" fill="#A0E3FE"></circle></svg>
+        <a href="https://fuck.dog/category/daily/">舔狗日常</a>        </span>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 16 16" class="post-icon bi bi-eye"
+                         fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd"
+                                d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.134 13.134 0 0 0 1.66 2.043C4.12 11.332 5.88 12.5 8 12.5c2.12 0 3.879-1.168 5.168-2.457A13.134 13.134 0 0 0 14.828 8a13.133 13.133 0 0 0-1.66-2.043C11.879 4.668 10.119 3.5 8 3.5c-2.12 0-3.879 1.168-5.168 2.457A13.133 13.133 0 0 0 1.172 8z"/>
+                          <path fill-rule="evenodd"
+                                d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                    144                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-chat-dots" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                      <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                0                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action btn-like" data-link="https://fuck.dog/archives/704/"
+                    data-cid="704">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-heart" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                    </svg>
+                                <span class="agree-num">0</span>
+                </span>
+            </button>
+        </div>
+        <div class="p-2 post-address-container">
+            <button class="button post-address">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-clock" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm8-7A8 8 0 1 1 0 8a8 8 0 0 1 16 0z"/><path fill-rule="evenodd" d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5z"/></svg>
+                    <time>10天前</time>
+                </span>
+            </button>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+        
+    </article>
+
+                                                                    <!-- focus user show -->
+    <article do-pjax class="post-article" data-url="https://fuck.dog/archives/703/">
+        <div class="post-article-left">
+            <a onclick="event.stopPropagation();" href="https://fuck.dog/author/6419/">
+                <!--<img src="https://secure.gravatar.com/avatar/1fe2aa4d780851a0beb9cff8002230bc?s=40&amp;r=X&amp;d=" alt="l1677578093" width="40" height="40" />-->
+                <img class="avatar"
+                     src="//avatar.is.fail/avatar/1fe2aa4d780851a0beb9cff8002230bc?&s=100"
+                     alt="l1677578093"/>
+            </a>
+        </div>
+        <div class="post-article-right">
+            <div class="post-author">
+                                    <div class="author-name" id="post-author-703">
+                        <a onclick="event.stopPropagation();"
+                           href="https://fuck.dog/author/6419/">l1677578093</a>
+                    </div>
+                    <div class="post-addr">
+                        <a href="https://fuck.dog/neighbor/云深不知处?name=云深不知处">
+                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-geo-alt" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.166 8.94C12.696 7.867 13 6.862 13 6A5 5 0 0 0 3 6c0 .862.305 1.867.834 2.94.524 1.062 1.234 2.12 1.96 3.07A31.481 31.481 0 0 0 8 14.58l.208-.22a31.493 31.493 0 0 0 1.998-2.35c.726-.95 1.436-2.008 1.96-3.07zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path fill-rule="evenodd" d="M8 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+                            <time>云深不知处</time>
+                        </a>
+                    </div>
+                            </div>
+            <!--content-->
+            <div class="post-content">
+
+                                    <!-- repost -->
+                    <div class="row repost-row">
+    <div class="post-content-inner col-xl-12">
+                    <a href="https://fuck.dog/author/1/">@Dog</a>:舔狗王中王，李...            <!--    -->            <!--        -->            </div>
+            <div class="post-cover col-xl-12">
+            <div class="post-cover-focususer-container">
+                <p><div class="repost-container"><a class="repost-content" href="https://fuck.dog/archives/674/" target="_blank"><img src="https://s2.loli.net/2023/05/31/bFr36cYoZ5KjaJP.jpg" class="repost-banner"><div class="repost-text">Dog:舔狗王中王，李宗恒看了都摇头</div></a><div class="repost-category"><a href="https://fuck.dog/category/daily/" target="_blank">舔狗日常</a></div></div></p>            </div>
+        </div>
+    </div>
+                
+                <!-- action-->
+<div class="content-action">
+    <!--分类-->
+    <div class="topic-container">
+        <span class="topic-container-items" onclick="event.stopPropagation()">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="container-svg"><circle cx="10" cy="10" r="10" fill="#03A9F5"></circle><circle cx="10" cy="10" r="5" fill="#A0E3FE"></circle></svg>
+        <a href="https://fuck.dog/category/daily/">舔狗日常</a>        </span>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 16 16" class="post-icon bi bi-eye"
+                         fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd"
+                                d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.134 13.134 0 0 0 1.66 2.043C4.12 11.332 5.88 12.5 8 12.5c2.12 0 3.879-1.168 5.168-2.457A13.134 13.134 0 0 0 14.828 8a13.133 13.133 0 0 0-1.66-2.043C11.879 4.668 10.119 3.5 8 3.5c-2.12 0-3.879 1.168-5.168 2.457A13.133 13.133 0 0 0 1.172 8z"/>
+                          <path fill-rule="evenodd"
+                                d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                    92                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-chat-dots" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                      <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                0                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action btn-like" data-link="https://fuck.dog/archives/703/"
+                    data-cid="703">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-heart" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                    </svg>
+                                <span class="agree-num">0</span>
+                </span>
+            </button>
+        </div>
+        <div class="p-2 post-address-container">
+            <button class="button post-address">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-clock" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm8-7A8 8 0 1 1 0 8a8 8 0 0 1 16 0z"/><path fill-rule="evenodd" d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5z"/></svg>
+                    <time>10天前</time>
+                </span>
+            </button>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+        
+    </article>
+
+                                                                    <!-- focus user show -->
+    <article do-pjax class="post-article" data-url="https://fuck.dog/archives/702/">
+        <div class="post-article-left">
+            <a onclick="event.stopPropagation();" href="https://fuck.dog/author/864/">
+                <!--<img src="https://secure.gravatar.com/avatar/c329a0ef8f22283c82f0b0bcb354a168?s=40&amp;r=X&amp;d=" alt="samll dog" width="40" height="40" />-->
+                <img class="avatar"
+                     src="https://we.dog/assets/images/logo.gif"
+                     alt="samll dog"/>
+            </a>
+        </div>
+        <div class="post-article-right">
+            <div class="post-author">
+                                    <div class="author-name" id="post-author-702">
+                        <a onclick="event.stopPropagation();"
+                           href="https://fuck.dog/author/864/">samll dog</a>
+                    </div>
+                    <div class="post-addr">
+                        <a href="https://fuck.dog/neighbor/云深不知处?name=云深不知处">
+                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-geo-alt" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.166 8.94C12.696 7.867 13 6.862 13 6A5 5 0 0 0 3 6c0 .862.305 1.867.834 2.94.524 1.062 1.234 2.12 1.96 3.07A31.481 31.481 0 0 0 8 14.58l.208-.22a31.493 31.493 0 0 0 1.998-2.35c.726-.95 1.436-2.008 1.96-3.07zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path fill-rule="evenodd" d="M8 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+                            <time>云深不知处</time>
+                        </a>
+                    </div>
+                            </div>
+            <!--content-->
+            <div class="post-content">
+
+                                    <!-- default-->
+                    <div class="row">
+
+    <div class="post-content-inner col-xl-12">
+                    能不能去douyin推广一下这个网站            </div>
+            <div class="post-cover col-xl-12">
+            <div class="post-cover-img-container" onclick="">
+                            </div>
+        </div>
+    </div>
+                
+                <!-- action-->
+<div class="content-action">
+    <!--分类-->
+    <div class="topic-container">
+        <span class="topic-container-items" onclick="event.stopPropagation()">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="container-svg"><circle cx="10" cy="10" r="10" fill="#03A9F5"></circle><circle cx="10" cy="10" r="5" fill="#A0E3FE"></circle></svg>
+        <a href="https://fuck.dog/category/daily/">舔狗日常</a>        </span>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 16 16" class="post-icon bi bi-eye"
+                         fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd"
+                                d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.134 13.134 0 0 0 1.66 2.043C4.12 11.332 5.88 12.5 8 12.5c2.12 0 3.879-1.168 5.168-2.457A13.134 13.134 0 0 0 14.828 8a13.133 13.133 0 0 0-1.66-2.043C11.879 4.668 10.119 3.5 8 3.5c-2.12 0-3.879 1.168-5.168 2.457A13.133 13.133 0 0 0 1.172 8z"/>
+                          <path fill-rule="evenodd"
+                                d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                    143                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-chat-dots" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                      <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                0                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action btn-like" data-link="https://fuck.dog/archives/702/"
+                    data-cid="702">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-heart" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                    </svg>
+                                <span class="agree-num">5</span>
+                </span>
+            </button>
+        </div>
+        <div class="p-2 post-address-container">
+            <button class="button post-address">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-clock" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm8-7A8 8 0 1 1 0 8a8 8 0 0 1 16 0z"/><path fill-rule="evenodd" d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5z"/></svg>
+                    <time>15天前</time>
+                </span>
+            </button>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+        
+    </article>
+
+                                                                    <!-- focus user show -->
+    <article do-pjax class="post-article" data-url="https://fuck.dog/archives/701/">
+        <div class="post-article-left">
+            <a onclick="event.stopPropagation();" href="https://fuck.dog/author/6400/">
+                <!--<img src="https://secure.gravatar.com/avatar/d9d7c6d159bb61f3614df3f0f22975bc?s=40&amp;r=X&amp;d=" alt="pHqghUme" width="40" height="40" />-->
+                <img class="avatar"
+                     src="pHqghUme"
+                     alt="pHqghUme"/>
+            </a>
+        </div>
+        <div class="post-article-right">
+            <div class="post-author">
+                                    <div class="author-name" id="post-author-701">
+                        <a onclick="event.stopPropagation();"
+                           href="https://fuck.dog/author/6400/">pHqghUme</a>
+                    </div>
+                    <div class="post-addr">
+                        <a href="https://fuck.dog/neighbor/云深不知处?name=云深不知处">
+                            <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-geo-alt" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M12.166 8.94C12.696 7.867 13 6.862 13 6A5 5 0 0 0 3 6c0 .862.305 1.867.834 2.94.524 1.062 1.234 2.12 1.96 3.07A31.481 31.481 0 0 0 8 14.58l.208-.22a31.493 31.493 0 0 0 1.998-2.35c.726-.95 1.436-2.008 1.96-3.07zM8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10z"/><path fill-rule="evenodd" d="M8 8a2 2 0 1 0 0-4 2 2 0 0 0 0 4zm0 1a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/></svg>
+                            <time>云深不知处</time>
+                        </a>
+                    </div>
+                            </div>
+            <!--content-->
+            <div class="post-content">
+
+                                    <!-- default-->
+                    <div class="row">
+
+    <div class="post-content-inner col-xl-12">
+                    e            </div>
+            <div class="post-cover col-xl-12">
+            <div class="post-cover-img-container" onclick="">
+                            </div>
+        </div>
+    </div>
+                
+                <!-- action-->
+<div class="content-action">
+    <!--分类-->
+    <div class="topic-container">
+        <span class="topic-container-items" onclick="event.stopPropagation()">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="container-svg"><circle cx="10" cy="10" r="10" fill="#03A9F5"></circle><circle cx="10" cy="10" r="5" fill="#A0E3FE"></circle></svg>
+        <a href="https://fuck.dog/category/daily/">舔狗日常</a>        </span>
+    </div>
+
+    <div class="d-flex justify-content-between align-items-center">
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="24" height="24" viewBox="0 0 16 16" class="post-icon bi bi-eye"
+                         fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd"
+                                d="M16 8s-3-5.5-8-5.5S0 8 0 8s3 5.5 8 5.5S16 8 16 8zM1.173 8a13.134 13.134 0 0 0 1.66 2.043C4.12 11.332 5.88 12.5 8 12.5c2.12 0 3.879-1.168 5.168-2.457A13.134 13.134 0 0 0 14.828 8a13.133 13.133 0 0 0-1.66-2.043C11.879 4.668 10.119 3.5 8 3.5c-2.12 0-3.879 1.168-5.168 2.457A13.133 13.133 0 0 0 1.172 8z"/>
+                          <path fill-rule="evenodd"
+                                d="M8 5.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4.5 8a3.5 3.5 0 1 1 7 0 3.5 3.5 0 0 1-7 0z"/>
+                    </svg>
+                    426                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-chat-dots" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M2.678 11.894a1 1 0 0 1 .287.801 10.97 10.97 0 0 1-.398 2c1.395-.323 2.247-.697 2.634-.893a1 1 0 0 1 .71-.074A8.06 8.06 0 0 0 8 14c3.996 0 7-2.807 7-6 0-3.192-3.004-6-7-6S1 4.808 1 8c0 1.468.617 2.83 1.678 3.894zm-.493 3.905a21.682 21.682 0 0 1-.713.129c-.2.032-.352-.176-.273-.362a9.68 9.68 0 0 0 .244-.637l.003-.01c.248-.72.45-1.548.524-2.319C.743 11.37 0 9.76 0 8c0-3.866 3.582-7 8-7s8 3.134 8 7-3.582 7-8 7a9.06 9.06 0 0 1-2.347-.306c-.52.263-1.639.742-3.468 1.105z"/>
+                      <path d="M5 8a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0zm4 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0z"/>
+                    </svg>
+                0                </span>
+            </button>
+        </div>
+        <div class="p-2">
+            <button class="button post-action btn-like" data-link="https://fuck.dog/archives/701/"
+                    data-cid="701">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="20" height="20" viewBox="0 0 16 16"
+                         class="post-icon bi bi-heart" fill="currentColor"
+                         xmlns="http://www.w3.org/2000/svg">
+                      <path fill-rule="evenodd"
+                            d="M8 2.748l-.717-.737C5.6.281 2.514.878 1.4 3.053c-.523 1.023-.641 2.5.314 4.385.92 1.815 2.834 3.989 6.286 6.357 3.452-2.368 5.365-4.542 6.286-6.357.955-1.886.838-3.362.314-4.385C13.486.878 10.4.28 8.717 2.01L8 2.748zM8 15C-7.333 4.868 3.279-3.04 7.824 1.143c.06.055.119.112.176.171a3.12 3.12 0 0 1 .176-.17C12.72-3.042 23.333 4.867 8 15z"/>
+                    </svg>
+                                <span class="agree-num">1</span>
+                </span>
+            </button>
+        </div>
+        <div class="p-2 post-address-container">
+            <button class="button post-address">
+                <span class="post-icon" style="display: flex;align-items: center;">
+                    <svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-clock" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M8 15A7 7 0 1 0 8 1a7 7 0 0 0 0 14zm8-7A8 8 0 1 1 0 8a8 8 0 0 1 16 0z"/><path fill-rule="evenodd" d="M7.5 3a.5.5 0 0 1 .5.5v5.21l3.248 1.856a.5.5 0 0 1-.496.868l-3.5-2A.5.5 0 0 1 7 9V3.5a.5.5 0 0 1 .5-.5z"/></svg>
+                    <time>39天前</time>
+                </span>
+            </button>
+        </div>
+    </div>
+</div>            </div>
+        </div>
+        
+    </article>
+
+                                                            </div>
+                <!--分页-->
+                    <div class="page-pagination">
+        <ul class="pagination justify-content-center"><li class="active page-item"><a class="page-link"href="https://fuck.dog/page/1/">1</a></li><li class="page-item"><a class="page-link"href="https://fuck.dog/page/2/">2</a></li><li class="page-item"><span>...</span></li><li class="page-item"><a class="page-link"href="https://fuck.dog/page/104/">104</a></li><li class="next page-item"><a class="page-link"href="https://fuck.dog/page/2/"><svg width="1em" height="1em" viewBox="0 0 16 16" class="bi bi-chevron-double-right" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                          <path fill-rule="evenodd" d="M3.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L9.293 8 3.646 2.354a.5.5 0 0 1 0-.708z"/>
+                          <path fill-rule="evenodd" d="M7.646 1.646a.5.5 0 0 1 .708 0l6 6a.5.5 0 0 1 0 .708l-6 6a.5.5 0 0 1-.708-.708L13.293 8 7.646 2.354a.5.5 0 0 1 0-.708z"/>
+                        </svg></a></li></ul>    </div>
+            </div>
+        </div>
+        
+<aside class="asideBar col w-md w-lg bg-white-only bg-auto no-border-xs" role="complementary">
+    <div id="sidebar">
+        <div class="card d-md-block mycicle">
+            <div class="mycicle-title"><h2>发现圈友</h2></div>
+            <div class="mycicle-content">
+
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/4853/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/0e69581232738c5eb460319ff5ad137f?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">noreengb69<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="4853" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/573/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/4f3ca352f93a88dcb5f09ce828c0d7c8?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">孙盼盼<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="573" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/6052/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/38c5480d6ba8eaa43b03163c8832eaf2?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">柳衍<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="6052" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/336/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/0bc347b987b74f8b4d7a3d7cd355cbf9?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">gjh1001<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="336" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/708/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/3ff2fed67d486d93d61e4ac6e061bfac?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">miewwdz<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="708" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                                    <div class="sc-AxjAm sc-AxirZ kQHfHM bITJVr">
+                        <a href="https://fuck.dog/author/5087/" class="sc-AxjAm sc-AxirZ eGdPrb"><img
+                                    src="//avatar.is.fail/avatar/9ae6a0ca9ef7a45668253c3496f46f62?&s=100" alt="再多一点可爱"
+                                    class="sc-AxjAm jZLHXc">
+                            <div class="sc-AxjAm sc-AxirZ hkyonN">
+                                <div class="sc-AxjAm oDrAC">johned60<span class="badge bg-info m-l-xs text-xs">LV1</span></div>
+                                <div class="sc-AxjAm hHqHSX ezzhLs">太懒了还没有签名</div>
+                            </div>
+                        </a>
+
+                        <div class="sc-AxjAm sc-AxirZ hsyNhw">
+                            <button data-authorid="5087" class="fans-little fan-event">关注                            </button>
+                        </div>
+                    </div>
+                            </div>
+        </div>
+
+        <div class="card d-md-block mycicle">
+            <div class="mycicle-title">
+                <h2>推荐圈子</h2>
+                <a href="https://fuck.dog/metas">
+                    <svg t="1603601049059" class="icon" viewBox="0 0 1024 1024" version="1.1"
+                         xmlns="http://www.w3.org/2000/svg" p-id="3178" width="24" height="24">
+                        <path d="M391.88 600.132c17.667 0 31.988 14.321 31.988 31.987v271.894c0 17.666-14.321 31.987-31.987 31.987H119.987C102.321 936 88 921.679 88 904.013V632.119c0-17.666 14.321-31.987 31.987-31.987h271.894z m463.818 0c17.667 0 31.988 14.321 31.988 31.987v271.894c0 17.666-14.321 31.987-31.988 31.987H583.805c-17.666 0-31.987-14.321-31.987-31.987V632.119c0-17.666 14.321-31.987 31.987-31.987h271.893zM734.374 97.369L926.63 289.626c12.492 12.492 12.492 32.746 0 45.238L734.374 527.12c-12.492 12.492-32.746 12.492-45.238 0L496.88 334.864c-12.492-12.492-12.492-32.746 0-45.238L689.136 97.37c12.492-12.492 32.746-12.492 45.238 0zM391.88 136.314c17.666 0 31.987 14.321 31.987 31.988v271.893c0 17.666-14.321 31.987-31.987 31.987H119.987c-17.666 0-31.987-14.321-31.987-31.987V168.302c0-17.667 14.321-31.988 31.987-31.988h271.894z m319.874 40.22L576.044 312.245l135.711 135.711 135.711-135.711-135.711-135.711z"
+                              p-id="3179" fill="#707070"></path>
+                    </svg>
+                </a>
+            </div>
+            <div class="mycicle-content">
+                <div class="circle-item">
+                <a href="https://fuck.dog/category/daily/" class="circle-item-link">
+                    <img src="https://img.icons8.com/dusk/2x/categorize.png">
+                    <div class="circle-item-link-right">
+                        <div class="circle-item-link-title">舔狗日常</div>
+                        <div class="circle-item-link-info">只是一个默认圈子️</div>
+                    </div>
+                </a>
+            </div>
+            </div>
+        </div>
+
+        <div class="card random-post d-md-block">
+            <h4 class="title">可能感兴趣</h4>
+            <ul class="archive-posts"><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/567/">你会来吗
+你说得话应该不会反悔吧</a>
+ </li><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/384/">赐我个对象</a>
+ </li><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/76/">关注了圈友Flatterer Dog</a>
+ </li><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/134/">未命名文档</a>
+ </li><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/6/">冷</a>
+ </li><li class="archive-post"> <a class="archive-post-title" href="https://fuck.dog/archives/307/"> 究极舔狗日记第一篇</a>
+ </li></ul>        </div>
+    </div>
+</aside>
+
+    </div>
+
+</main></div></div>
+
+
+
+</div> <!--close header app layout-->
+
+
+<footer class="container footer">
+    &copy; 2023    <a class="footer-item" href="https://fuck.dog/">舔狗之家</a>
+            <!--可以去除主题版权信息，最好保留版权信息或者添加主题信息到友链，谢谢你的理解-->
+    <span class="footer-item">&nbsp;|&nbsp;Powered by <a target="_blank" href="http://www.typecho.org">Typecho</a>&nbsp;|&nbsp;Designed by <b title="author info"><a target="_blank" href="https://github.com/gogobody/onecircle">gogobody</a></b></span>
+</footer>
+
+<script crossorigin="anonymous" integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl" src="//lib.baomitu.com/jquery/3.5.0/jquery.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery.form/3.09/jquery.form.min.js"></script>
+<script crossorigin="anonymous" integrity="sha512-iceXjjbmB2rwoX93Ka6HAHP+B76IY1z0o3h+N1PeDtRSsyeetU3/0QKJqGyPJcX63zysNehggFwMC/bi7dvMig==" src="//lib.baomitu.com/twitter-bootstrap/4.5.3/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/jquery.pjax/2.0.1/jquery.pjax.js"></script>
+<script crossorigin="anonymous" integrity="sha384-n9nIL0sJ2A5r4Uaaw1ktxm08jAZ4nwx0X2XFYEYS472Jy0JLYK0E+0yoUtLjAANz" src="https://lib.baomitu.com/prism/1.19.0/prism.min.js"></script>
+
+<script src="https://fuck.dog/usr/themes/onecircle/assets/owo/owo_02.js"></script>
+<script src="https://fuck.dog/usr/themes/onecircle/assets/js/page.min.js"></script>
+<script crossorigin="anonymous" integrity="sha384-Zm+UU4tdcfAm29vg+MTbfu//q5B/lInMbMCr4T8c9rQFyOv6PlfQYpB5wItcXWe7" src="//lib.baomitu.com/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+<script src="https://cdn.bootcdn.net/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+<!-- 鼠标点击特效 -->
+
+<script>smms_url="https://fuck.dog";comment_selector_="#textarea";</script>        <script>smms_node={init:function(){var a='<div id="zz-img-show"></div><div class="zz-add-img "><input id="zz-img-file" type="file" accept="image/*" multiple="multiple"><button id="zz-img-add" type="button"><span class="chevereto-pup-button-icon"><svg class="chevereto-pup-button-icon" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100"><path d="M76.7 87.5c12.8 0 23.3-13.3 23.3-29.4 0-13.6-5.2-25.7-15.4-27.5 0 0-3.5-0.7-5.6 1.7 0 0 0.6 9.4-2.9 12.6 0 0 8.7-32.4-23.7-32.4 -29.3 0-22.5 34.5-22.5 34.5 -5-6.4-0.6-19.6-0.6-19.6 -2.5-2.6-6.1-2.5-6.1-2.5C10.9 25 0 39.1 0 54.6c0 15.5 9.3 32.7 29.3 32.7 2 0 6.4 0 11.7 0V68.5h-13l22-22 22 22H59v18.8C68.6 87.4 76.7 87.5 76.7 87.5z" style="fill: currentcolor;"></path></svg></span><span class="chevereto-pup-button-text">上传</span></button></div>';if(typeof comment_selector_!="undefined"){$(comment_selector_).after(a)}}};smms_node.init();</script>
+        <script src="https://fuck.dog/usr/plugins/SmmsForTypecho/js/comment.min.js"></script><script>userId=-1</script>
+<script src="https://fuck.dog/usr/themes/onecircle/assets/js/onecircle.min.js"></script>
+<script>
+$(document).pjax('a[href^="https://fuck.dog/"]:not(a[target="_blank"], a[no-pjax],form,#id_iframe)', {
+    container: '#pjax-container',//
+    fragment: '#pjax-container',
+    timeout: 8000
+})
+$(document).on('pjax:send',
+    function() {
+        NProgress.start();
+    })
+
+$(document).on('pjax:complete',function (){})
+$(document).on('pjax:end',function (){ NProgress.done();})
+$(document).on('pjax:start', function() {});
+$(document).on('ready pjax:end', function(event) {
+    pjaxInit();
+    if (typeof smms_node!="undefined" && typeof smms!="undefined"){
+        smms_node.init()
+        smms.init()
+    }
+    if (typeof smms!="undefined"){
+        smms.init()
+    }
+})
+</script>
+<!--<script>// 禁止f12-->
+<!--    ((function() {-->
+<!--        var callbacks = [],-->
+<!--            timeLimit = 50,-->
+<!--            open = false;-->
+<!--        setInterval(loop, 1);-->
+<!--        return {-->
+<!--            addListener: function(fn) {-->
+<!--                callbacks.push(fn);-->
+<!--            },-->
+<!--            cancleListenr: function(fn) {-->
+<!--                callbacks = callbacks.filter(function(v) {-->
+<!--                    return v !== fn;-->
+<!--                });-->
+<!--            }-->
+<!--        }-->
+<!--        function loop() {-->
+<!--            var startTime = new Date();-->
+<!--            debugger;-->
+<!--            if (new Date() - startTime > timeLimit) {-->
+<!--                if (!open) {-->
+<!--                    callbacks.forEach(function(fn) {-->
+<!--                        fn.call(null);-->
+<!--                    });-->
+<!--                }-->
+<!--                open = true;-->
+<!--                window.stop();-->
+<!--                alert('不要扒我了');-->
+<!--                window.location.reload();-->
+<!--            } else {-->
+<!--                open = false;-->
+<!--            }-->
+<!--        }-->
+<!--    })()).addListener(function() {-->
+<!--        window.location.reload();-->
+<!--    });-->
+<!--</script>-->
+
+</body>
+</html>
+
+
