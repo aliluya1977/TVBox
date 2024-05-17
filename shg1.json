@@ -14,10 +14,7 @@
 {"key": "影视","name": "TV直播","type": 3,"api": "https://2883.kstore.space/sdtv.js","ext": "https://2883.kstore.space/sdtv.txt","jar": "https://2883.kstore.space/sdtv.jar"},
 {"key": "lf_js_lf_live","name": "电视|直播[js]","type": 3,"api": "./lib/lf_live_min.js","style": {"type": "oval"},   "searchable": 1,"changeable": 0,"quickSearch": 1,"filterable": 1,"ext": "./js/lf_live.txt"},
 {"key": "好趣网","name": "电视 | 好趣网[js]","type": 3,"api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/好趣网.js"},  
-//{"key": "玩偶哥哥","name": "阿里┃玩偶哥哥4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹","jar": "http://www.wya6.cn/tz/wyz.php;md5;6695b4fe705a1eedcae352abe5412640"},
-{"key": "玩偶哥哥","name": "阿里┃玩偶哥哥","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/玩偶哥哥.json","jar": "./lib/ttkx.jar"},
-{"key": "Wogg","name": "玩偶哥哥|网盘","type": 3,"api": "csp_Wogg","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json","jar":"https://8415.kstore.space/Tvbox/jar/PGpg.jar"},  
-  
+
 {"key": "玩偶","name": "阿里夸克┃玩偶哥哥4K","type": 3,"api": "csp_WoGG","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": {"aliToken": "tvfan/token.txt","quarkCookie": "tvfan/cookie.txt","from": "4k|auto|fhd","siteUrl": "https://www.wogg.link/","danMu": "弹"},"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06"},
 {"key": "一青叶我_开心玩偶","name": "阿里┃开心臻享4K","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/kaixin.json","jar":"https://8415.kstore.space/Tvbox/jar/dongchen.jar"},
 {"key": "csp_XYQHikerAL_阿里苏苏","name": "阿里┃苏苏臻享4K","type": 3,"api": "csp_XYQHikerAL","jar": "https://gitee.com/dongchenys/liu/raw/master/jar/xyqwogg.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/alisusu.json"},
