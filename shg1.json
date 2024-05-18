@@ -6,9 +6,8 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
-//{"key": "csp_KungFu404","name": "阿里云设置token","type": 3,"api": "csp_KungFu404","searchable": 1,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt","jar": "http://www.wya6.cn/tz/wyalqd.php"}, 
-//{"key": "网盘配置","name": "阿里云┃配置中心","type": 3,"api": "csp_Config","jar": "http://www.wya6.cn/tz/wypg.php","searchable": 0,"changeable": 0,"ext": "http://www.wya6.cn/tz/pgts.php"},
-{"key": "网盘配置1","name": "网盘及磁力配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"https://8415.kstore.space/Tvbox/jar/ygpg.jar"},
+{"key": "csp_KungFu404","name": "阿里云┃配置中心","type": 3,"api": "csp_Config","jar": "https://8415.kstore.space/Tvbox/jar/Token.jar","searchable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key": "网盘配置","name": "网盘及磁力配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"https://8415.kstore.space/Tvbox/jar/ygpg.jar"},
 {"key": "配置中心ok","name": "东辰┃配置中心","type": 3,"api": "csp_Config","jar": "https://8415.kstore.space/Tvbox/jar/dongchenok.jar","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.43}},
 {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.43},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"},
 {"key": "影视","name": "TV直播","type": 3,"api": "https://2883.kstore.space/sdtv.js","ext": "https://2883.kstore.space/sdtv.txt","jar": "https://2883.kstore.space/sdtv.jar"},
