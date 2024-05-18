@@ -6,7 +6,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
-{"key": "云盘登录","name": "阿里云盘登录","type": 3,"api": "csp_AliYunPan","searchable": 0,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://8415.kstore.space/Tvbox/jar/潇洒spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95},
+{"key": "云盘登录","name": "阿里云盘登录","type": 3,"api": "csp_AliYunPan","searchable": 0,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://8415.kstore.space/Tvbox/jar/潇洒spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"},
 {"key": "网盘配置","name": "网盘及磁力配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"https://8415.kstore.space/Tvbox/jar/ygpg.jar"},
 {"key": "配置中心ok","name": "东辰┃配置中心","type": 3,"api": "csp_Config","jar": "https://8415.kstore.space/Tvbox/jar/dongchenok.jar","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.43}},
 {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.43},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"},
