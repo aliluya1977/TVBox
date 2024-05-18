@@ -6,7 +6,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 "sites":[
-{"key": "csp_KungFu404","name": "阿里云┃配置中心","type": 3,"api": "csp_Config","jar": "https://8415.kstore.space/Tvbox/jar/Token.jar","searchable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt"},
+{"key": "云盘登录","name": "阿里云盘登录","type": 3,"api": "csp_AliYunPan","searchable": 0,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://8415.kstore.space/Tvbox/jar/潇洒spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95},
 {"key": "网盘配置","name": "网盘及磁力配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokenm.json","jar":"https://8415.kstore.space/Tvbox/jar/ygpg.jar"},
 {"key": "配置中心ok","name": "东辰┃配置中心","type": 3,"api": "csp_Config","jar": "https://8415.kstore.space/Tvbox/jar/dongchenok.jar","searchable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.43}},
 {"key": "Wexconfig","name": "🐮配置┃中心🐮","type": 3,"api": "csp_Wexconfig","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.43},"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"},
@@ -188,6 +188,8 @@
 {"key": "csp_xBPQ看戏影视","name": "网站┃看戏影视(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/xBPQ/看戏影视.json","jar": "https://d.kstore.space/download/8415/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
 {"key":"一三九","name":"网站┃一三九[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/一三九.js"},
 {"key": "drpy_js_69美剧","name": "影视 | 69美剧[js]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/69美剧.js"},
+{"key":"drpy_od", "name":"❤🛫欧帝影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js", "ext":"https://qu.ax/UpMx.js"},
+{ "key":"drpy_kb", "name":"❤🛫酷播影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js", "ext":"https://qu.ax/erWZ.js"},
 {"key": "drpy_js_8号影院","name": "影视 | 8号影院[js]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/8号影院.js"},
 {"key": "drpy_js_KOK影视","name": "影视 | KOK影视[js]","type": 3,"api": "./libs/道长drpy2.min.js","ext": "./js/KOK影院.js"},
 {"key": "drpy_js_爱看电影","name": "影视 | 爱看电影[js]","type": 3,"api": "./libs/道长drpy2.min.js","ext": "./js/爱看影院.js"},
