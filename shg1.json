@@ -176,7 +176,7 @@
 {"key":"忍者","name":"网站┃夜猫忍者[jar]","type":3,"api":"csp_YMRZ","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"https://8415.kstore.space/Tvbox/jar/Xymz.jar"},    
 {"key": "虎虎","name": "网站┃虎虎影视(xBPQ)","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./XBPQ/虎虎.json"},
 {"key":"我爱跟剧","name":"网站┃我爱跟剧","type":3,"api":"./js/drpy.min.js","ext":"./js/我爱跟剧.js"},
-{"key":"drpy_js_被窝电影","name":"网站┃私人影院","type":3,"api":"./js/drpy2.min.js","ext":"./XBPQ/被窝电影.js"},
+{"key":"drpy_js_被窝电影","name":"网站┃私人影院","type":3,"api":"./js/drpy2.min.js","ext":"./js/被窝电影.js"},
 {"key":"drpy_js_楚门影院","name":"网站┃楚门影院]","type":3,"api":"./js/drpy2.min.js","ext":"./js/楚门影院.js"},
 {"key":"csp_biubiu_大米星球","name":"网站┃大米伦理星球(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://pan.shangui.cc/f/Qa05fm/大米星球.json","jar":"https://8415.kstore.space/TVBox/jar/XBiubiuLA4.jar"},
 {"key":"drpy_js_孜然影视","name":"网站┃孜然影视伦理[影视js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/孜然影视.js"},
