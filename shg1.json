@@ -135,7 +135,7 @@
 {"key":"鸭奈飞","name":"网站┃奈飞影视┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},
 {"key": "少泽影客（APP）","name": "网站┃少泽影客（APP）","type": 3,"api": "csp_AppYsV2","ext": "https://yk.shaozeyy.com/api.php/app/"},
 {"key": "天天美剧网（APP）","name": "网站┃天天美剧网（APP）","type": 3,"api": "csp_AppYsV2","ext": "https://www.ttmja.com/api.php/app/"},
-{"key":"csp_biubiu_VIP1280","name":"网站┃VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar":"https://8415.kstore.space/jar/XBiubiuLA4.jar"},
+{"key":"csp_biubiu_VIP1280","name":"网站┃VIP1280(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar":"https://d.kstore.space/download/8415/TVBox/jar/XBiubiuLA4.jar"},
 {"key":"drpy_js_两个BT","name":"网站┃影视|两个BT(js)","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"https://notabug.org/aliluya/TVBox/raw/master/js/两个BT.js"},
 {"key":"drpy_js_超前点播","name":"网站┃B站视频(超前点播)[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"https://notabug.org/aliluya/TVBox/raw/master/js/超前点播.js"},
 {"key":"csp_MeiJu69","name":"网站┃69美剧┃app┃","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
