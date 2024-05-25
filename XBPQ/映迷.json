@@ -1,8 +1,7 @@
 {
 "站名":"映迷",
-"分类":"电影$uCCCCS-#连续剧$0CCCCS-#综艺$PCCCCS-#动漫$HCCCCS-",
-"分类url":"https://www.inmi.app/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
-//"分类url":"https://www.inmi.app/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+"分类":"电影$20#连续剧$21#综艺$23#动漫$22",
+"分类url":"https://www.inmi.app/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
 "筛选":{
 "20":[
 {
