@@ -220,6 +220,7 @@
 {"key": "csp_xBPQ看戏影视","name": "网站┃看戏影视(xBPQ)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/xBPQ/看戏影视.json","jar": "https://d.kstore.space/download/8415/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
 {"key":"一三九","name":"网站┃一三九[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/一三九.js"},
 {"key": "drpy_js_69美剧","name": "影视 | 69美剧[js]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/69美剧.js"},
+{"key":"voflix","name":"网站┃voflix影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/102.js"}, 
 {"key":"drpy_od", "name":"❤🛫欧帝影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js", "ext":"https://qu.ax/UpMx.js"},
 { "key":"drpy_kb", "name":"❤🛫酷播影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js", "ext":"https://qu.ax/erWZ.js"},
 {"key": "drpy_js_8号影院","name": "影视 | 8号影院[js]","type": 3,"api": "./libs/drpy2.min.js","ext": "./js/8号影院.js"},
