@@ -1,0 +1,6 @@
+{
+    "站名": "金曼TV",
+    "主页url": "http://jinman2.com",
+    "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#电影解说$20",
+    "分类url": "https://jinman2.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html"
+}
