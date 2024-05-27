@@ -253,7 +253,7 @@
 {"key": "drpy_js_胖虎影视","name": "影视 | 胖虎影视[js]","type": 3,"api": "./libs/道长drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "./js/胖虎.js"},
 {"key": "drpy_js_四个圈儿","name": "影视 | 四个圈儿[js]","type": 3,"api": "./libs/道长drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "./js/四个圈影视.js"},
 {"key": "drpy_js_小白菜儿","name": "影视 | 小白菜儿[js]","type": 3,"api": "./libs/道长drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "./js/小白菜电影.js"},
-{"key": "drpy_js_凌云影视","name": "影视 | 凌云影视[js]","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/凌云影视.js"},
+{"key": "drpy_js_凌云影视","name": "影视 | 凌云影视[js]","type": 3,"api": "./libs/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "./js/凌云影视.js"},
 {"key":"drpy_js_看BZ影视","name":"网站┃看BZ影视[js]","type":3,"api":"./libs/道长drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/看BZ影视.js"},
 {"key":"drpy_js_歪片星球","name":"网站┃歪片星球[js]","type":3,"api":"./js/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/歪片星球.js"},
 {"key":"drpy_js_尘落影视","name":"网站┃尘落影视[js]","type":3,"api":"./js/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/尘落影视.js"},
