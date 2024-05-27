@@ -230,6 +230,7 @@
 {"key": "drpy_js_看了么","name": "影视 | 看了么[js]","type": 3,"api": "./libs/道长drpy2.min.js","ext": "./js/看了么.js"},
 {"key":"视中心","name":"网站┃视中心[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"./js/视中心.js"},
 {"key":"drpy_js_大师兄影视","name":"网站┃大师兄影视[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"./js/大师兄影视.js"},
+{"key": "drpy_js_兄弟影视","name": "影视 | 兄弟影视[js]","type": 3,"api": "./drpy2.min.js","ext": "./js/兄弟影视.js"},
 {"key":"drpy_js_gaze","name":"网站┃注视影视[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"./js/gaze.js"},
 {"key":"drpy_js_中国人","name":"网站┃中国人[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"./js/中国人.js"},
 {"key":"drpy_js_玄天","name":"网站┃玄天[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","ext":"./js/玄天.js"},
