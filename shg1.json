@@ -242,6 +242,7 @@
 {"key":"drpy_js_星辰影院","name":"网站┃星辰影院[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/星辰.js"},
 {"key": "drpy_js_秋霞影院","name": "影视 | 秋霞影院[js]","type": 3,"api": "./libs/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext": "./js/秋霞.js"},
 {"key":"drpy_js_追剧迷","name":"网站┃追剧迷","type":3,"api":"./libs/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/追剧迷.js"},
+{"key":"drpy_js_看看屋","name":"影视 | 看看屋[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/看看屋.js"},
 {"key":"drpy_js_蜥蜴影视","name":"网站┃蜥蜴影视[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/蜥蜴影视.js"},
 {"key":"drpy_js_光棍影院","name":"网站┃光棍影院[js]","type":3,"api":"https://notabug.org/aliluya/TVBox/raw/master/js/drpy2.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/光棍影院.js"},
 {"key":"drpy_js_8号影院","name":"网站┃8号影院[js]","type":3,"api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js","style": {"type": "rect","ratio": 1.597},"ext":"./js/8号影院.js"},
