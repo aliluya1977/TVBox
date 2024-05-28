@@ -153,6 +153,7 @@
 {"key": "暴風1","name": "采集┃暴風资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod","style": {"type": "rect","ratio": 1.398},"searchable": 1,"changeable": 1},
 {"key":"量子资源","name":"采集┃量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 {"key": "非凡","name": "采集┃非凡影视","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","style": {"type": "rect","ratio": 1.398},"searchable": 1,"changeable": 1},
+{"key": "csp_非凡","name": "🌙非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
 {"key":"卧龙资源","name":"采集┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"采集┃樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 //{"key":"易看资源","name":"采集┃易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
