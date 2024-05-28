@@ -64,7 +64,7 @@
    "跳转播放链接": "var urls = decodeURIComponent('&&');",
    "搜索url":"https://s.haokongbu.top/e/search/result/?wd={wd}",
    "分类url": "https://www.haokongbu.top/{cateId}/index_{catePg}.html[https://www.haokongbu.top/{cateId}/]",
-   "分类": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#国产剧$guochanju#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"}},
+   "分类": "动作片$dongzuopian#喜剧片$xijupian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#战争片$zhanzhengpian#剧情片$juqingpian#记录片$m_jlp#动画片$donghuapian#高清$gaoqing#国产剧$guochanju#港剧$gangju#台剧$taiwanju#日剧$riju#韩剧$hanju#美剧$oumeiju#泰剧$taiguoju#海外剧$haiwaiju#微电影$weidianying#冷门电影$lmmovie#冷门电视剧$lmtv"},"jar":"./jar/YoursmileSG.jar"},
 {"key": "csp_MeijuTT","name": "磁力┃美剧天堂","type": 3,"api": "csp_MeijuTT","style": {"type": "rect","ratio": 1.398},"playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://d.kstore.space/download/8415/Tvbox/jar/XYQ1.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16"},
 {"key": "csp_MeijuMi","name": "磁力┃美剧迷","type": 3,"api": "csp_MeijuMi","style": {"type": "rect","ratio": 1.398},"playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://d.kstore.space/download/8415/Tvbox/jar/XYQ1.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16"},
 {"key": "Libvio","name": "磁力┃LIBVIO|网盘","type": 3,"api": "csp_Libvio","style": {"type": "rect","ratio": 1.398},"quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokentemplate.json$$$https://www.libvio.fun/$$$null","jar":"https://8415.kstore.space/Tvbox/jar/PGpg.jar"},
