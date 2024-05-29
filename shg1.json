@@ -158,7 +158,8 @@
 {"key":"drpy_js_两个BT","name":"网站┃影视|两个BT(js)","type":3,"api":"./js/drpy2.min.js","style": {"type": "rect","ratio": 1.398},"ext":"./js/两个BT.js"},
 {"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/B站影视.js"},
 {"key":"csp_MeiJu69","name":"网站┃69美剧┃app┃","api":"csp_AppYsV2","style": {"type": "rect","ratio": 1.398},"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
-
+{"key": "机器人bot","name": "🤖机器┃蓝光┃无广","type": 3,"api": "csp_Ikanbot","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "rarbt","name": "🤖机器┃蓝光┃纯净","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"},
 {"key": "Ikun资源","name": "采集┃Ikun资源","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","style": {"type": "rect","ratio": 1.398},"searchable": 1,"quickSearch": 1},
 {"key": "taopian","name": "🕹️淘片┃采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"filterable": 0},
 {"key": "奇虎资源","name": "🐯┃奇虎┃采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
