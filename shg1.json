@@ -245,7 +245,7 @@
 {"key": "csp_xBPQ看戏影视","name": "网站┃看戏影视(xBPQ)","type": 3,"api": "csp_xBPQ","style": {"type": "rect","ratio": 1.398},"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/看戏影视.json","jar": "https://d.kstore.space/download/8415/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
 {"key":"一三九","name":"网站┃一三九[js]","type":3,"api":"./js/drpy2.min.js","style": {"type": "rect","ratio": 1.398},"ext":"./js/一三九.js"},
 {"key":"drpy_js_热播之家","name":"影视 | 热播之家[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/热播之家.js"},
-{"key":"drpy_js_碟调影视","name":"影视 | 碟调影视[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/碟调影视.js"},
+{"key":"drpy_js_碟调影视","name":"影视 | 碟调影视[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/碟调影视.js"},
 {"key":"voflix","name":"网站┃voflix影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","style": {"type": "rect","ratio": 1.398},"ext":"http://o.nxog.top/m/js/102.js"}, 
 {"key":"drpy_od", "name":"❤🛫欧帝影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js","style": {"type": "rect","ratio": 1.398}, "ext":"https://qu.ax/UpMx.js"},
 { "key":"drpy_kb", "name":"❤🛫酷播影视(墙外)", "type":3, "api":"https://qu.ax/Fozq.js","style": {"type": "rect","ratio": 1.398}, "ext":"https://qu.ax/erWZ.js"},
