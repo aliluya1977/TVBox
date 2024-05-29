@@ -155,7 +155,7 @@
 {"key": "天天美剧网（APP）","name": "网站┃天天美剧网（APP）","type": 3,"api": "csp_AppYsV2","style": {"type": "rect","ratio": 1.398},"ext": "https://www.ttmja.com/api.php/app/"},
 {"key":"csp_biubiu_VIP1280","name":"网站┃VIP1280(XB)","type":3,"api":"csp_XBiubiu","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar":"https://8415.kstore.space/TVBox/jar/XBiubiuLA4.jar"},
 {"key":"drpy_js_两个BT","name":"网站┃影视|两个BT(js)","type":3,"api":"./js/drpy2.min.js","style": {"type": "rect","ratio": 1.398},"ext":"./js/两个BT.js"},
-{"key":"drpy_js_超前点播","name":"网站┃B站视频(超前点播)[js]","type":3,"api":"./js/drpy2.min.js","ext":"./js/超前点播.js"},
+{"key":"drpy_js_B站影视","name":"影视 | B站影视[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/B站影视.js"},
 {"key":"csp_MeiJu69","name":"网站┃69美剧┃app┃","api":"csp_AppYsV2","style": {"type": "rect","ratio": 1.398},"type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 
 {"key": "Ikun资源","name": "采集┃Ikun资源","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/","style": {"type": "rect","ratio": 1.398},"searchable": 1,"quickSearch": 1},
