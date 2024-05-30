@@ -173,7 +173,7 @@
 {"key":"卧龙资源","name":"采集┃卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 {"key":"樱花资源","name":"采集┃樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 //{"key":"易看资源","name":"采集┃易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
-{"key":"看看资源","name":"采集┃看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1,"playUrl": "https://www.dmplay.xyz/d?url="},
+{"key":"看看资源","name":"采集┃看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod?method=seq","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1,"playUrl": "https://www.dmplay.xyz/d?url="},
 {"key":"影图资源","name":"采集┃影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 {"key":"39资源","name":"采集┃39资源","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
 {"key":"闪电资源","name":"采集┃闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/","style": {"type": "rect","ratio": 1.398},"searchable":1,"quickSearch":1},
