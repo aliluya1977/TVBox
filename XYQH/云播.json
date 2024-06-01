@@ -55,7 +55,7 @@
     "地区详情": "<div>◎产　　地&&</div>",
     "演员详情": "<div>◎主　　演&&</div>",
     "简介详情": "<div>◎简　　介&&<br />",
-    "线路列表数组规则": ".m-details:has(.bot plau-ul-list stui-content__playlist clearfix)&&.m-text1",
+    "线路列表数组规则": ".m-details&&.m-text1",
     //"线路列表数组规则": ".m-details&&.m-details",
     "线路标题": "Text",
     "播放列表数组规则": ".container&&.bot plau-ul-list stui-content__playlist clearfix",
