@@ -58,7 +58,7 @@
     "线路列表数组规则": ".h3&&.h3",
     //"线路列表数组规则": ".m-details&&.m-details",
     "线路标题": "Text",
-    "播放列表数组规则": ".container&&.h3",
+    "播放列表数组规则": ".h3&&.h3",
     //"播放列表数组规则": ".container&&.m-text1.bot plau-ul-list stui-content__playlist clearfix",
     "选集列表数组规则": "a",
     "选集标题链接是否Jsoup写法": "1",
