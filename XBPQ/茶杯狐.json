@@ -3,7 +3,7 @@
 				"分类url": "https://www.cupfox.cc/fox/{cateId}-{catePg}.html;;ma",
 				"数组": "class=\"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
 				"图片": "data-original=\"&&\"",
-				"标题": "class=\"fed-list-title fed-font-xiv fed-text-center fed-text-sm-left fed-visible fed-part-eone\" href=\"&&</a>",
+				"标题": "title=&&~播放列表",
 				"链接": "href=\"&&\"",
 				"嗅探词":"m3u8#.m3u8#.mp4#mp4",
 				"副标题": "class=\"fed-list-remarks fed-font-xii fed-text-white fed-text-center\">&&</span>",
