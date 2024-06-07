@@ -1,5 +1,5 @@
 {
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4伦理片$20",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$20",
 				"分类url": "https://www.cupfox.cc/fox/{cateId}-{catePg}.html;;ma",
 				"数组": "class=\"fed-list-item fed-padding fed-col-xs4 fed-col-sm3 fed-col-md2\">&&</li>",
 				"图片": "data-original=\"&&\"",
@@ -15,13 +15,13 @@
 				"搜索链接": "href=\"&&\"",
 				"搜索副标题": "title=*>&&</a>",
 				"搜索后缀": "/video/",
-				"线路数组": "class=\"fed-drop-head fed-padding fed-part-rows\"&& </ul>",
+				"线路数组": "class=\"fed-padding fed-col-xs4 fed-part-eone fed-font-xvi\"&&</ul>",
 				"线路标题": "target=\"_self\">&&</a>",
 				"播放数组": "class=\"fed-part-rows detail-play-list\">&&</li>",
 				"影片类型": "class=\"slash\">&&立即播放",
 				"导演": "导演：&&</div>",
 				"主演": "主演：&&</div>",
-				"简介": "<div class=\"video-info-item video-info-content vod_content\">&&</span>",
+				"简介": "class=\"fed-padding fed-part-both fed-text-muted\">&&</div>",
 				"播放列表": "<a&&</a>",
 				"播放标题": "<span>&&</span>",
 				"播放链接": "href=\"&&\""
