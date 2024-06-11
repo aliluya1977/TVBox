@@ -1,7 +1,7 @@
 {
 "站名":"映迷",
-"分类":"电影$uCCCCS-#连续剧$0CCCCS-#综艺$PCCCCS-#动漫$HCCCCS-#短剧$tCCCCS-",
-"分类url":"https://www.inmi.app/show/{cateId}.html",
+"分类":"电影$uCCCCS-#连续剧$0#综艺$P#动漫$H#短剧$t",
+"分类url":"https://www.inmi.app/show/{cateId}CCCCS-.html",
 "筛选":{
 "20":[
 {
