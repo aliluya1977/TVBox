@@ -4,8 +4,8 @@ muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
 	title:'大米星球',
 	模板:'mxpro',
-	//host:'https://www.dmxq.vip',
-	host:'https://damisrn.com/',
+	host:'https://www.dmxq.vip',
+	//host:'https://damisrn.com/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul&&li:eq(1)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---/pjax/YES.html',
 	url:'/vodshow/fyclassfyfilter.html',
@@ -19,7 +19,7 @@ var rule = {
 		"35":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
 	},
 	class_parse:'li.swiper-slide.navbar-item;span&&Text;a&&href;/(\\d+).html',
-	cate_exclude:'福利',
+	//cate_exclude:'福利',
 	一级:'a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 	推荐:'.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 
