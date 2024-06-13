@@ -18,7 +18,7 @@ var rule = {
 		"35":[{"key":"by","name":"排序","value":[{"n":"时间","v":"time"},{"n":"人气","v":"hits"},{"n":"评分","v":"score"}]}]
 	},
 	class_parse:'li.swiper-slide.navbar-item;span&&Text;a&&href;/(\\d+).html',
-	cate_exclude:'福利',
+	//cate_exclude:'福利',
 	一级:'a.module-poster-item.module-item;a&&title;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 	推荐:'.tab-list.active;a.module-poster-item.module-item;.module-poster-item-title&&Text;.lazyload&&data-original;.module-item-note&&Text;a&&href',
 
