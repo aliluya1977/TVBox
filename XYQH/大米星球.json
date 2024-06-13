@@ -4,7 +4,7 @@
     "UserAgent":"Mozilla/5.0 (Linux; Android 11; Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36",
     "Referer":"",
     "firstpage": "1",
-    "class_url": "https://www.dmxq.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+    "class_url": "https://dami2.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
     "class_name": "电影&电视剧&动漫&综艺&福利",
     "class_value": "20&21&22&23&35",
     "filterdata": {
@@ -505,9 +505,9 @@
     "cat_title": "title=\"&&\"",
     "cat_subtitle": "module-item-note\">&&<",
     "cat_url": "href=\"&&\"",
-    "cat_prefix": "https://www.dmxq.me",
+    "cat_prefix": "https://dami2.me",
     "cat_suffix": "",
-    "search_url": "https://www.dmxq.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
+    "search_url": "https://dami2.me/index.php/ajax/suggest?mid=1&wd={wd}&limit=50",
     "search_mode": "0",
     "jsonpic": "pic",
     "jsonname": "name",
@@ -521,7 +521,7 @@
     "sea_pic": "",
     "sea_title": "",
     "sea_url": "",
-    "search_prefix": "https://www.dmxq.me/voddetail/",
+    "search_prefix": "https://dami2.me/voddetail/",
     "search_suffix": ".html",
     "sea_subtitle": "",
     "force_play": "0",
@@ -548,7 +548,7 @@
     "epi_arr_suf": "/a>",
     "epi_title": "<span>&&<",
     "epi_url": "href=\"&&\"",
-    "epiurl_prefix": "https://www.dmxq.me",
+    "epiurl_prefix": "https://dami2.me",
     "epiurl_suffix": "",
     "Anal_MacPlayer":"0"    
 }
