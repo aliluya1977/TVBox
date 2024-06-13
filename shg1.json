@@ -46,7 +46,7 @@
 {"key": "csp_xpath_yinfans","name": "磁力┃音范丝4K(XP)","type": 3,"api": "csp_XPath", "searchable": 1,"": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/TVBox/master/json/音范丝.json"},
 {"key": "csp_XBPQ_6V","name": "磁力┃新6V4K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar" : "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/bh.jar","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/h/bh.json"},
 {"key": "csp_Mp4Mov","name": "磁力┃Mp4电影","type": 3,"api": "csp_Mp4Mov", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://8415.kstore.space/Tvbox/jar/XYQ1.jar;md5;a21ea6f5dd3b5f922b3a7f54d3bd0f16"},
-{"key":"MP4us","name":"🌙MP4us|磁力","type":3,"api":"csp_XBPQ",
+{"key":"MP4us","name":"MP4us|磁力","type":3,"api":"csp_XBPQ",
             "ext": {
         "标题":"<font*>&&</font>",
                 "数组":"<li>&&</li>",
