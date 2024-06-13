@@ -4,7 +4,8 @@ muban.mxpro.二级.img = '.lazyload&&src';
 var rule = {
 	title:'大米星球',
 	模板:'mxpro',
-	host:'https://www.dmxq.vip',
+	//host:'https://www.dmxq.vip',
+	host:'https://damisrn.com/',
     hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,"ul&&li:eq(1)&&a&&href");print(src);HOST=src',
 	// url:'/vodshow/fyclass--------fypage---/pjax/YES.html',
 	url:'/vodshow/fyclassfyfilter.html',
