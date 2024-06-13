@@ -183,7 +183,8 @@
 {"key":"乐视资源","name":"采集┃乐视采集","type":1,"api":"https://leshiapi.com/api.php/provide/vod/at/json/", "searchable":1,"changeable":1},
 {"key":"ok资源","name":"采集┃ok资源","type":1,"api":"https://api.okzy.org/api.php/provide/vod/from/okm3u8/", "searchable":1,"changeable":1},
 {"key":"金鹰资源","name":"采集┃金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/", "searchable":1,"changeable":1},
-
+{"key":"晴天","name":"☀晴天影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://43.154.162.194/ruifenglb_api.php/v1.vod"},
+   
 {"key":"忍者","name":"网站┃夜猫忍者[jar]","type":3,"api":"csp_YMRZ", "searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"http://rzys.xyz","jar":"https://8415.kstore.space/Tvbox/jar/Xymz.jar"},    
 {"key": "虎虎","name": "网站┃虎虎影视(xBPQ)","type": 3,"api": "csp_XBPQ", "playerType": "1","ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/TVBox/master/XBPQ/虎虎.json"},
 {"key":"我爱跟剧","name":"网站┃我爱跟剧","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/TVBox/master/js/drpy.min.js", "ext":"https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/TVBox/master/js/我爱跟剧.js"},
