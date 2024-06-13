@@ -1,0 +1,14 @@
+{
+        "标题":"<font*>&&</font>",
+                "数组":"<li>&&</li>",
+                "副标题":"rate badge\">&&</span>+|+update_time\">&&</span>",
+                "线路标题":"<h2>&&</h2>[替换:下载地址>>SHG专享]",
+                "播放数组":"download_url&&</ul>",
+                "播放列表":"<a&&</a>[不包含:ed2k]",
+                "线路数组":"download_url&&</ul>",
+                "分类二次截取":"<ul&&</ul>",
+                "分类数组":"<li&&</li>",
+                "分类标题":">&&</a",
+                "分类ID":"/list/&&-1.html",
+        "分类url":"https://m.mp4us.com/list/{cateId}-{catePg}.html;;dm"
+}
