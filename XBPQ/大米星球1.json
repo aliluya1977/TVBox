@@ -26,7 +26,7 @@
 "播放列表":"<a&&/a>",
 "播放标题":"<span>&&</span>",
 "播放链接":"href=\"&&\"",
-"免嗅":"1",
+//"免嗅":"1",
 "分类":"电影$20#电视剧$21#综艺$22#动漫$23#福利$35",
 "分类url":"https://www.dmdy5.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
 "筛选":{
