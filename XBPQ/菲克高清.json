@@ -5,7 +5,7 @@
   "主页url": "https://www.freeok.vip",
   "分类": "动漫&电视剧&电影&综艺",
   "分类值": "3&2&1&4",  
-  "分类url": "https://www.freeok.vip/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
+  "分类url": "https://www.freeok.vip/vod-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html", 
   
   "二次截取":"class=\"module-items&&fixedGroup",   
   "数组": "<a&&no-referrer",
