@@ -9,6 +9,6 @@
                 "影片类型": "<div class=\"module-info-tag\">&&立即播放",
                 "导演": "导演：&&</div>",
                 "主演": "主演：&&</div>",
-                "分类": "电影$movie#电视剧$Series#动漫$cartoon#综艺$variety#综艺$duanju",
+                "分类": "电影$movie#电视剧$Series#动漫$cartoon#综艺$variety#短剧$duanju",
                 "分类url": "https://www.rarbt.fun/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/lang/{lang}/letter/{letter}/year/{year}.html"
             }
