@@ -31,7 +31,7 @@
 	//"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
 	"分类url": "https://zrys.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
-	"分类": "近期影院热播$42#电影$1#剧集$2#综艺$3#动漫$4#短剧$44",
+	"分类": "近期影院热播$42#电影$1#剧集$2#综艺$3#动漫$4#短剧$44#魔盒$31",
 	"筛选": {
 		"1": [
 			{
