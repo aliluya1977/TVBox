@@ -3,7 +3,7 @@
 	"站名": "美剧天堂",
 	"主页url": "https://www.mjtt5.tv/",
 	"热门": "",
-    "分类": "电影$dy#魔幻$mhkh#灵异$lyjs#情感$dsqg#犯罪$fzls#动漫$dmkt#最新更新$new#",
+    "分类": "电影$dy#魔幻科幻$mhkh#灵异惊悚$lyjs#都市情感$dsqg#犯罪历史$fzls#选秀综艺$xxzy#动漫卡通$dmkt#最新更新$new#",
 
 	"分类url": "https://www.mjtt5.tv/{cateId}/index_{catePg}_____{by}_1.html",
 	"数组": "col-xs-2&&</a>",
@@ -29,7 +29,7 @@
 	"播放标题":"title=\"&&\">",
 	"播放链接": "href=\"&&\"",
 	"筛选": {
-		"1": [
+		"dy": [
 			{
 				"key": "cateId",
 				"name": "类型",
@@ -361,7 +361,7 @@
 				]
 			}
 		],
-		"2": [
+		"xxzy": [
 			{
 				"key": "cateId",
 				"name": "类型",
@@ -629,7 +629,7 @@
 				]
 			}
 		],
-		"3": [
+		"dmkt": [
 			{
 				"key": "class",
 				"name": "剧情",
