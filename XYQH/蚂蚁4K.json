@@ -10,10 +10,9 @@
     "首页片单列表数组规则": ".module-item",
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
-    "分类链接": "https://www.mayi4k.com/show/id/{cateId}.html",
-    //"分类链接": "https://www.mayi4k.com/vodshow/{cateId}--------{catePg}---.html",
-    "分类名称": "CC标准&蓝光原盘&4K电影&1080P&剧集&演唱会",
-    "分类名称替换词": "287&269&284&247&246",
+    "分类链接": "https://www.mayi4k.com/vodshow/{cateId}--------{catePg}---.html",
+    "分类名称": "蓝光原盘&4K电影&1080P&剧集&演唱会",
+    "分类名称替换词": "266&269&284&247&246",
     "筛选数据": {},
     //"筛选数据": "ext",
     //{cateId}
