@@ -1,12 +1,12 @@
 {
   "作者": "菜妮丝https://cainisi.cf",
   "站名": "冷曦影视",
-  "主页url": "https://www.lenxitv.cc",
+  "主页url": "https://www.lengxitv.com",
   
-  "分类": "电影&电视剧&综艺&动漫&福利&直播&电影解说&明星&专题",
-  "分类值": "movie&tv&zongyi&dongman&fuli&zhibo&dianyingjieshuo&mx&zt",
+  "分类": "电影&电视剧&综艺&动漫",
+  "分类值": "movie&tv&zongyi&dongman",
   
-  "分类url": "https://www.lenxitv.cc/t/{cateId}-{catePg}.html",
+  "分类url": "https://www.lengxitv.com/t/{cateId}-{catePg}.html",
   
   "数组": "<li class=\"fed-list-item&&</li>",
   "图片": "data-original=\"&&\"",
@@ -22,7 +22,7 @@
   "影片类型": "分类：&&</li>",
   "导演": "导演：&&</li>",
   "主演": "主演：&&</li>",
-  "简介": "剧情介绍</a>;&&<a href=\"",
+  "简介": "剧情介绍</a>：&&<a href=\"",
   
   "线路二次截取": "播放不了请刷新或在下方切换线路&&</ul>",
   "线路数组": "fed-col-md2\">&&</li>",
@@ -41,7 +41,6 @@
   {"n":"恐怖片","v":"kongbupian"},
   {"n":"剧情片","v":"juqingpian"},
   {"n":"战争片","v":"zhanzhengpian"},
-  {"n":"伦理片","v":"lunlipian"},
   {"n":"纪录片","v":"jilupian"},
   {"n":"微电影","v":"weidianying"}]}],
   
@@ -52,10 +51,5 @@
   {"n":"港台剧","v":"gangtaiju"},
   {"n":"日韩剧","v":"rihanju"},
   {"n":"欧美剧","v":"oumeiju"},
-  {"n":"泰国剧","v":"taiguoju"}]}]
-  
-
-  
-  
-  }
+  {"n":"泰国剧","v":"taiguoju"}]}]}
 }
