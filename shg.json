@@ -240,7 +240,7 @@
 {"key":"csp_xBPQ疯狗电影","name":"疯狗电影[XBPQ]","type":3,"api":"csp_xBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/疯狗电影.json","jar":"https://8415.kstore.space/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
 {"key":"csp_xpath_VIP影视","name": "VIP影视[XPF]","type": 3,"api": "csp_XPath", "searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://pan.shangui.cc/f/DgdIz/VIP影视.json"},
 {"key": "蓝光影院","name": "蓝光影院[XYQH]","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/VjNh8/languang.json" },
-{"key": "csp_xBPQ小小影视","name": "小小影视[XBPQ]","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/小小影视.json"},
+{"key": "csp_xBPQ小小影视","name": "小小影视[XBPQ]","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/小小影视.json","jar": "https://8415.kstore.space/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
 {"key":"冷曦影视","name":"冷曦影视[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/冷曦影视.json"},
 {"key":"耐看点播","name":"耐看点播[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/aliluya/TVBox/raw/master/XBPQ/耐看点播.json"},
 {"key":"六六影院","name":"六六影院[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/六六影院.json"},
@@ -250,6 +250,7 @@
 {"key": "qiyue","name": "7️七月影视[XBPQ]","type": 3,"playerType": 2,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://我不是.肥猫.com/json/七月影视.json"},
 {"key": "csp_米爱影视","name": "米爱影视[XBPQ]","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/米爱影视.json"},
 {"key": "csp_xBPQ看戏影视","name": "看戏影视[XBPQ]","type": 3,"api": "csp_xBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/看戏影视.json","jar": "https://8415.kstore.space/TVBox/jar/%E5%BD%B1%E8%A7%863.jar"},
+{"key": "88影视","name": "88影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./master/MaooXP/88影视.json"},
 
    
 {"key":"我爱跟剧","name":"我爱跟剧[js]","type":3,"api":"./js/drpy.min.js", "ext":"./js/我爱跟剧.js"},
