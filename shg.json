@@ -320,15 +320,10 @@
 {"key": "妮可动漫","name": "妮可动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/妮可动漫.js"},
 {"key": "奇米动漫","name": "奇米动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/奇米动漫.js"},
 {"key": "怡萱动漫","name": "怡萱动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/怡萱动漫.js"},
-{"key": "怡萱动漫2","name": "网站┃♻️怡萱动漫","type": 3,"api": " https://github.moeyy.xyz/https://raw.githubusercontent.com/yydfys/yyfx/main/lib/drpy2.min.js", "ext": "https://pan.shangui.cc/f/K7mi6/%E6%80%A1%E8%90%B1.js"},
 {"key": "花子动漫","name": "花子动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/花子动漫.js"},
 {"key": "驴番动漫","name": "驴番动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/驴番动漫.js"},
 {"key": "动漫巴士","name": "动漫巴士","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/动漫巴士.js"},
-{"key": "csp_Dm84","name": "网站┃动漫巴士1","type": 3,"api": "csp_Dm84", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
-{"key": "csp_xpath___动漫巴士","name": "网站┃动漫巴士2","type": 3,"api": "csp_XPath", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/p6GxtL/dm84_2.json"},
-{"key": "csp_Dm84_3","name": "网站┃动漫巴士3[XBPQ]","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/qmzjIG/Dm84_3.json"},
 {"key": "樱花动漫","name": "樱花动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/樱花动漫.js"},
-{"key":"Ying","name":"网站┃🌸樱花动漫","type":3,"api":"csp_Ying", "searchable":1,"quickSearch":1,"filterable":1,"jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
 {"key": "暮暮动漫","name": "暮暮动漫","type": 3,"api": "csp_WebMuTeFun","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.mutean.com"},
 
 
