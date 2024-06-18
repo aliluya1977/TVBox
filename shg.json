@@ -6,7 +6,7 @@
 "sites":[
 {"key": "云盘登录","name": "阿里云盘登录","type": 3,"api": "csp_AliYunPan","searchable": 0,"quickSearch": 0,"filterable": 0,"changeable": 0,"ext": "http://127.0.0.1:9978/file/TVBox/token.txt","jar":"https://8415.kstore.space/Tvbox/jar/潇洒spider.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"},
 {"key": "网盘配置","name": "网盘及磁力配置","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"ext":"./lib/tokentemplate.json","jar":"https://8415.kstore.space/Tvbox/jar/ygpg.jar"},
-{"key": "影视","name": "TV直播","type": 3,"api": "https://2883.kstore.space/sdtv.js","ext": "https://2883.kstore.space/sdtv.txt","jar": "https://2883.kstore.space/sdtv.jar"},
+//{"key": "影视","name": "TV直播","type": 3,"api": "https://2883.kstore.space/sdtv.js","ext": "https://2883.kstore.space/sdtv.txt","jar": "https://2883.kstore.space/sdtv.jar"},
 {"key": "好趣网","name": "电视 | 好趣网[js]","type": 3,"api": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/lib/drpy2.min.js","ext": "https://jihulab.com/yw88075/tvbox/-/raw/main/dr/js/好趣网.js"},  
 {"key": "玩我哥哥","name": "🇹SHG影视[XYQH]","type": 3,"api": "csp_XYQHikerAL","ua": "okhttp/3.15","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/玩我哥哥.json"},
 {"key": "天天开心","name": "云盘｜开心[XYQH]","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/天天开心.json"},
@@ -366,8 +366,8 @@
 {"name": "365","type": 0,"url": "https://chaxun.truechat365.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}}],
 
 "lives":[
-{"name":"live1","type":0,"url":"./live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live3","type":0,"url":"https://pan.shangui.cc/f/Bj2XUp/live3.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"live1","type":0,"url":"./live/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live4","type":0,"url":"https://pan.shangui.cc/f/kygDFR/live4.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live5(精)","type":0,"url":"https://pan.shangui.cc/f/GepbTz/live5.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live6","type":0,"url":"https://pan.shangui.cc/f/lj3QSk/live6.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
