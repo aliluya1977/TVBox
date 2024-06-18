@@ -274,7 +274,6 @@
 {"key": "畅梦影视","name": "畅梦影视[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/畅梦影视.js"},
 { "key":"drpy_kb", "name":"❤🛫酷播影视[js]", "type":3, "api":"https://qu.ax/Fozq.js",  "ext":"https://qu.ax/erWZ.js"},
 {"key": "drpy_js_8号影院","name": "8号影院[js]","type": 3,"api": "./libs/drpy2.min.js", "ext": "./js/8号影院.js"},
-{"key": "drpy_js_KOK影视","name": "KOK影视[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/KOK影院.js"},
 {"key": "drpy_js_爱看电影","name": "爱看电影[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/爱看影院.js"},
 {"key": "看了么","name": "看了么[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/看了么.js"},
 {"key":"视中心","name":"视中心[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/视中心.js"},
