@@ -149,7 +149,7 @@
 {"key": "hanju","name": "🇰🇷天天韩剧[XBPQ]","type": 3,"playerType":2,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/天天韩剧.json"},  
 {"key": "drpy_js_看韩剧","name": "影视|🇰🇷看韩剧[js]","type": 3,"api": "./libs/drpy2.min.js", "ext": "./js/看韩剧.js"},
 {"key": "韩小圈","name": "🇰🇷韩小圈","type": 3,"api": "csp_HanXiaoQuan", "searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"},
-{"key": "韩剧影院","name": "🇰🇷韩剧TV[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/liu/master/json/hanju.json","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/liu/master/jar/dongchen.jar"},
+{"key": "韩剧影院","name": "🇰🇷韩剧TV[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/hanju.json"},
 {"key": "虎虎","name": "虎虎影视[XBPQ]","type": 3,"api": "csp_XBPQ", "playerType": "1","ext": "./XBPQ/虎虎.json"},
 {"key": "孜然影视","name": "孜然影视[XBPQ]","type": 3,"api": "csp_XBPQ", "playerType": "1","ext": "./XBPQ/孜然影视.json"},
 {"key": "csp_影视控","name": "影视控|影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/a/影视控.json"},
