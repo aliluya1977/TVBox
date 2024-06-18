@@ -67,7 +67,7 @@
 {"key":"南瓜影视2","name":"网站┃南瓜影视[js]","type":3,"api":"https://o.nxog.top/m/js/nxog.js","ext":"https://o.nxog.top/m/js/101.js"},
 {"key": "南瓜影视","name": "网站┃南瓜影视2[jar]","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "天天影视","name": "网站┃天天影视[jar]","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"yqk1","name":"网站┃一起看┃js┃","type":3,"api":"./js/yqktv_open.js","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yyfx/main/f.jar"},
+{"key":"yqk1","name":"网站┃一起看┃js┃","type":3,"api":"./js/yqktv_open.js","jar": "./f.jar"},
 {"key": "热播影视","name": "网站┃热播影视[jar]","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "追剧影视","name": "网站┃追剧影视[jar]","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "厂长弹幕","name": "厂长弹幕[jar]","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"},
