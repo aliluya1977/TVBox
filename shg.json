@@ -161,7 +161,7 @@
 
 
 {"key": "meowtv_vsys","name": "威士影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/威士影视.json"},
-{"key": "Auete","name": "奥特直连","type": 3,"api": "csp_Auete", "timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/"},
+{"key": "Auete","name": "奥特直连","type": 3,"api": "csp_Auete", "timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
 
 {"key":"csp_xml_飞速资源","name":"采集飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/", "playUrl":"","searchable":1,"quickSearch":1},
 {"key": "csp_XYQHiker_爱看影院","name": "爱看影院[XYQH]","type": 3,"api": "csp_XYQHiker", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/爱看影院.json" },
@@ -274,7 +274,6 @@
 {"key": "drpy_js_8号影院","name": "8号影院[js]","type": 3,"api": "./libs/drpy2.min.js", "ext": "./js/8号影院.js"},
 {"key": "drpy_js_KOK影视","name": "KOK影视[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/KOK影院.js"},
 {"key": "drpy_js_爱看电影","name": "爱看电影[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/爱看影院.js"},
-//{"key": "drpy_js_看了么","name": "看了么[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/看了么.js"},
 {"key": "看了么","name": "看了么[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/看了么.js"},
 {"key":"视中心","name":"视中心[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/视中心.js"},
 {"key":"drpy_js_大师兄影视","name":"大师兄影视[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/大师兄影视.js"},
