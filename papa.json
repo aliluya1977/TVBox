@@ -1,7 +1,7 @@
 {
 
-"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
-//"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+//"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
 
 "sites":[
 {"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
