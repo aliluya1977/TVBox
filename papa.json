@@ -1,7 +1,12 @@
 {
 
-"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
+//"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
+"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+
 "sites":[
+{"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
+{"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"},
+{"key": "BtSow","name": "🇨🇳BTSow","type": 3,"api": "csp_BtSow","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
 {"key":"飞速资源","name":"飞速资源(切)","type":1,"api":"https://www.feisuzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"易看资源","name":"易看资源(切)","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
