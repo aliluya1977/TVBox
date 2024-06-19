@@ -230,29 +230,31 @@
     {"key":"沙咖影院","name":"🔞沙咖影院","type":3,"api":"csp_XBPQ","jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://sar.sarga.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://sar.sarga.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://sar.sarga.cc/vodtype/{cateId}-{catePg}.html;;z","分类":"中文新作$20#国语视频$21#有码精品$24#动漫专场$23#经典伦理$25#欧美性爱$22"}},
     {"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
             
-        {
+         {
             "key": "我爱AV",
             "name": "我爱AV社区|WO❤️AV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/xyqxbpq.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路数组": "<li&&</li>",
-                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-                "播放标题": ">&&</a",
+                "主页url":"https://vip.woaav.online:13097/",
+                "数组": "class=\"stui-vodlist&&</li>",
+                "图片":"data-original=\"&&\"",
+                "标题":"title=\"&&\"",
+                "链接":"href=\"&&\"",
+                "副标题": "<p>&&</p>",
+                "线路数组": ">&&</a></li>",
+                "线路标题": "\"tab\">&&</a></li>",
+               //"播放标题": ">&&</a",
                 "搜索模式": "1",
                 "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vodtype/&&.html",
-                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
-            }},
+                "分类": "网爆门事件$20#国产精品$21#国产探花$22#国产乱伦$23#绿帽淫妻$24# 明星淫梦$25#美女主播$26#香港三级$27#TS人妖$28#麻豆传媒$29#杏吧传媒$30#兔子先生$31#天美传媒$32#SA国际传媒$33#性世界$34#扣扣传媒$35#果冻传媒$36#星空无限$37#精东影业$38#葫芦影业$39#蜜桃传媒$40#起点传媒$41#性其他片商$42#中文字幕$43#日本有码$44#高清无码$45#精品素人$46#精品动漫$47#AV解说$48#VR专区$49#欧美专区$50#怀旧AV$51#JVID$52#SWAG$53#日本乱伦$54",
+                //"分类url":"https://vip.woaav.online:13097/vodtype/{cateId}-{catePg}.html"
+                "分类url": "https://vip.woaav.online:13097/vodshow/{cateId}--{by}------{catePg}---.html"
+                }},
             { "key": "麻豆",
             "name": "🔞麻豆",
             "type": 3,
