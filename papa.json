@@ -1,7 +1,7 @@
 {
 
-//"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
+//"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
 
 "sites":[
 {"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
@@ -12,7 +12,7 @@
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+{"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
                 "站名": "四虎影院",
                 "主页url": "https://www.4hu.tv/Enter/home.html",
                 "简介": "名称：&&</h3>",
