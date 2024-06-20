@@ -852,9 +852,8 @@
                 "分类数组":"<li>&&</li>",
                 "分类标题":"\">&&</a",
                 "分类ID":"id/&&.",
-        "分类链接":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
-            },"jar":"https://8415.kstore.space/TVBox/jar/新视觉.jar"
-        },
+        "分类url":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
+            }},
 //{"key":"csp_Miss","name":"👠Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "https://notabug.org/aliluya/Mhqtv/raw/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/js/js/Missav.js"},
