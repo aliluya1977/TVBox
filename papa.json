@@ -12,20 +12,27 @@
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
-{"key":"csp_xBPQ-四虎","name":"🏆四虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{
+{
+            "key": "四虎",
+            "name": "🔞四虎影院(科学上网)",
+            "type": 3,
+            "api": "csp_XBPQ",      
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
                 "站名": "四虎影院",
                 "主页url": "https://www.4hu.tv/Enter/home.html",
-                //"分类url": "https://www.4hu.tv/video/{cateId}/index_{catePg}.html",
                 "简介": "名称：&&</h3>",
-                //"二次截取":"class=\"row col&&</div>",
-                "二次截取":"",
-                "数组": " class=\"preview-item\">&&</h3>",
+                "数组": "img class=\"nature&&</dl>",
+                "二次截取": "",
                 "图片": "data-original=\"&&.txt\"+.jpg",
                 "标题": "Base64((d('&&'));</script>",
                 "副标题": "",
                 "链接": "href=\"&&\"",
-                "线路数组": "<div class=\"item\">&&</a>",
-                "线路标题": "write(d('&&'));</script>",
+                "线路数组": "target=\"_blank&&</a[排序:线路二>>]",
+                "线路标题": "Base64(d('&&'));</script>",
                 "播放数组": "item&&</div>",
                 "状态": "分类：</span>&&</p>",
                 "导演": "导演：</span>&&</p>",
@@ -34,11 +41,10 @@
                 "搜索url": "https://www.4hu.tv/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
                 "搜索数组": "<dt>&&</dt>",
                 "搜索标题": "_blank\"&&<",
-                 "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
-                //"分类": "自拍&淫妻作乐&开放青年&精品分享&台湾辣妹&动漫卡通&经典三级&主播&女优&女性向纯爱&女战士&波多野结衣&深田咏美&桥本有菜&苍井空&三上悠亚&吉泽明步&电影&无码中字&SM系列&高清无码&熟女人妻&美颜巨乳&丝袜制服&中文有码&欧美系列",
-                //"分类值": "video/zipai&video/fuqi&video/kaifang&video/jingpin&video/twmn&video/dongman&video/sanji&onlyfans&av&av/nxx&av/giga&av/bdyjy&av/stym&av/qbyc&av/cjk&av/ssyy&av/jzmb&movie&movie/wuma&movie/sm&movie/gaoqing&movie/shunv&movie/meiyan&movie/siwa&movie/youma&movie/oumei"
+                "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
                 "分类url": "https://www.4hu.tv/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu.tv/{cateId}/{class}/]"
-            }},
+            }
+        },
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"lf_js_lf_live","name":"🔞直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},
 {"key":"色播","name": "🔞色播直播","type": 3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/色播.js","searchable": 1,"changeable": 0},
@@ -57,6 +63,17 @@
                 "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
         "分类url": "http://oy.oyxx-1.eu.org/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"
             }
+        },
+  {
+            "key": "csp_XYBQ",
+            "name": "🔞比卡|比卡",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/h/比卡比卡.json"
         },
         {
   "key": "Zuise",
@@ -196,7 +213,33 @@
             "filterable": 1,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/777影院.json"},
         {"key":"csp_XBPQ_花心小妞","name":"🔞花心小妞","type":3,"api":"csp_XBPQ", "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1, "ext":{"发布地址":"hxxn3a.top","请求头":"手机","站名":"花心小妞","主页url":"https://hxxn3a.top/gbook/?shouye","直接播放":"1","数组":"stui-vodlist__box&&</li>","标题":"title=\"&&\"","图片":"data-original=\"&&\"","副标题":"<p>&&</p >","链接":"https://hxxn3a.top/vodplay/+href=\"/voddetail/&&.html\"+-1-1.html","线路数组":"layui-btn-normal play-btn&&</a >","播放数组":"group-box bg-card&&</div>","免嗅":"1","搜索url":"https://hxxn3a.top/vodsearch/{wd}----------{pg}---.html","分类url":"https://hxxn3a.top/vodshow/{cateId}--------{catePg}---.html","分类数组":"<li&&</li>","分类标题":">&&</a >","分类ID":"/vodtype/&&.html\""}}, 
- {
+  {
+  "key": "小幺女|床吧",
+  "name": "🔞小幺女",
+  "type": 3,
+  "playerType": 2,
+  "api": "csp_XBPQ",
+ "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/xyqxbpq.jar",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+    "站名": "小幺女",
+    "主页url": "https://xxynhkaa1.buzz/sort/id/245.html",
+    "数组": "class=\"vod_box\">&&</li>",
+    "图片": "url('&&'",
+    "标题": "title=\"&&\"",
+    "链接": "https://xxynhkaa1.buzz/detail+href='/display&&'",
+    "跳转播放链接": "var playUrl = '&&'",
+    "直接播放": "1",
+    "嗅探词": "index.m3u8",
+    "分类数组": "<a&&</a",
+    "分类标题": "target=\"_blank\">&&</a[不包含:<h3>伦理作品</h3>#<h3>成人动漫</h3>#<h3>国产主播</h3>#<h3>自拍专区</h3>]",
+    "分类ID": "href=\"/sort/id/&&.html\"",
+    "分类url": "https://xxynhkaa1.buzz/type/id/{cateId}/{catePg}.html"
+  }
+},
+  {
             "key": "csp_顶级网曝",
             "name": "🔞顶级网曝",
             "type": 3,
@@ -303,7 +346,9 @@
             "直接播放":"1"
             }
         },
-         {
+  {"key":"花影视","name":"🔞花影视","type":3,"api":"csp_XBPQ","jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>","图片": "data-original=\"&&\"","标题": "<h6 class=\"title\"><a href=*>&&</a>","播放数组":"class=\"item line\">&&</div>","线路数组":"class=\"item line\">&&</div>","分类url":"https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html]","分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"}},
+  {"key":"零太视频","name":"🔞零太视频","type":3,"api":"csp_XBPQ", "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"<div class=\"v-pic&&</a >","图片":"data-src=\"&&\"","图片代理":"1","标题":"title=\"&&\"","副标题":"v-tips\">&&</div>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://ln.lntai.cc/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://ln.lntai.cc/vodsearch/{wd}----------{pg}---.html","分类url":"https://ln.lntai.cc/vodshow/{cateId}--------{catePg}---.html;;z","分类":"精品薄码$20#中文对白$21#中字制服$22#字母翻译$22#经典电影$23#欧美系列$25#动漫专区$24#绝美丝袜$26#丰乳美臀$27#少女制服$28"}},  
+  {
             "key": "csp_XBPQ_疯猫av",
             "name": "🔞疯猫av",
             "type": 3,
@@ -312,6 +357,17 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/疯猫av.json"
+        },
+  {
+            "key": "csp_XBPQ_yyxl",
+            "name": "🔞夜夜新郎",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
         },
         { "key": "x",
             "name": "🔞x合集",
@@ -353,6 +409,34 @@
         "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
     "分类值": "/&3d&amateur&japanese&selfie&western"
         }},
+  {
+            "key": "大师兄影视H版",
+            "name": "🔞大师兄影视|H版",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "playerType": "2",
+            "ext": {
+                "请求头": "手机",
+                "主页url": "http://www.dsxdy.shop/index.php/vodtype/dianying.html",
+                "数组": "class=\"stui-vodlist__box\">&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "",
+                "链接": "href=\"&&\"",
+                "简介": "name=\"description\" content=\"&&>",
+                "线路数组": "class=\"title\">&&</h3>",
+                "线路标题": ">鲨鱼快线<",
+                "播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
+                "播放链接": "href='&&'",
+                "嗅探词": "index.m3u8",
+                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
+                "分类数组": "<a&&</a",
+                "分类标题": ">&&</a",
+                "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
+                "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
+            }
+        },
 {"key": "影视","name": "影视18","type": 1,"api": "https://155api.com/api.php/provide/vod/"}, 
 
 {"key":"csp_njav","name":"🔞njav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
