@@ -846,12 +846,21 @@
 }},
 {"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},
             "ext": {
-                                "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-        "数组":"\"box-item\"&&</em>",
+                "站名": "四虎影院",
+                "主页url": "https://www.xbyc.cc/",
+                "简介": "名称：&&</h3>",
+                "数组":"\"box-item\"&&</em>",
+                "二次截取": "",
+                "图片": "data-original=\"&&.txt\"+.jpg",
+                "标题": "Base64((d('&&'));</script>",
+                "链接": "href=\"&&\"",
+                        
+            "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+       
                 "副标题":"<strong>&&</strong>",
-                "分类数组":"<li>&&</li>",
-                "分类标题":"\">&&</a",
-                "分类ID":"id/&&.",
+                //"分类数组":"<li>&&</li>",
+                //"分类标题":"\">&&</a",
+                //"分类ID":"id/&&.",
         "分类url":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
             }},
 //{"key":"csp_Miss","name":"👠Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
