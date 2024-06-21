@@ -4,8 +4,8 @@
   "主页url": "https://auete.com",
   "起始页": "2",
   
-  "分类": "电影&电视剧&综艺&动漫&其他",
-  "分类值": "Movie&Tv&Zy&Dm&qita",
+  "分类": "电影&电视剧&综艺&动漫&其他&其他",
+  "分类值": "Movie&Tv&Zy&Dm&qita&Music",
   
   "分类url": "https://auete.com/{cateId}{class}/index{catePg}.html[https://auete.com/{cateId}{class}/index.html]",
   
