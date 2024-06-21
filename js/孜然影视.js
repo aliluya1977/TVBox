@@ -2,7 +2,7 @@ muban.mxpro.二级.desc = '.module-info-item:eq(4)&&Text;;;.module-info-item-con
 var rule={
     title:'孜然影视',
     模板:'mxpro',
-    host:'https://zrys1.top',
+    host:'https://zrys.top',
     // url:'/index.php/vod/show/id/fyclass/page/fypage.html',
     url:'/index.php/vod/show/id/fyfilter.html',
     filterable:1,//是否启用分类筛选,
@@ -28,6 +28,6 @@ var rule={
         'User-Agent':'PC_UA',
     },
     class_parse: '.navbar-items li:gt(1);a&&title;a&&href;.*/(\\d+).html',
-    cate_exclude:'福利',
+    //cate_exclude:'福利',
     lazy:'js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=="1"){url=unescape(url)}else if(html.encrypt=="2"){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}',
 }
