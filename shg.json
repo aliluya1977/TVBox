@@ -24,7 +24,9 @@
 {"key": "Wobg1","name": "阿里玩偶表哥[jar]","type": 3,"api": "csp_Wobg", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext":"./lib/tokentemplate.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://cloud.lxweb.cn/f/wxoVS2/wogg.json","jar":"https://8415.kstore.space/Tvbox/jar/bg.jar;md5;fb3f154f8056eb85d209c5b16ff15da6"},
 {"key": "云盘论坛","name": "云盘｜论坛[XYQH]","type": 3,"api": "csp_XYQHikerAL", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/云盘论坛.json"},
 {"key": "校长影视","name": "夸克校长影视[PGpg]","type": 3,"api": "csp_XiaoZhang", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "https://xzyshd.com","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
-{"key": "Ppxzy1","name": "皮皮虾🦐蓝光4K[DCPG]","type": 3,"api": "csp_Ppxzy", "jar": "https://8415.kstore.space/Tvbox/jar/DCPG.jar","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"},
+{"key": "Ppxzy1","name": "阿里夸克皮皮虾🦐蓝光4K[DCPG]","type": 3,"api": "csp_Ppxzy", "jar": "https://8415.kstore.space/Tvbox/jar/DCPG.jar","quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/PG推送.json$$$https://ppxzy.ink$$$null$$$1"},
+{"key": "Moli","name": "磁力夸克HDmoli[PGpg]","type": 3,"api": "csp_Moli", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
+{"key": "Libvio","name": "磁力夸克LIBVIO[PGpg]","type": 3,"api": "csp_Libvio", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokentemplate.json$$$https://www.libvio.fun/$$$null","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
 
 {"key":"布谷tv","name":"磁力布谷4K[XBPQ]","type":3,"api":"csp_XBPQ","timeout":60,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/布谷4K.json"},
 {"key": "顶级4K","name": "磁力顶级4KP2P[wex]","type": 3,"api": "csp_Wexwo4k", "searchable": 1,"changeable": 0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715350111145/wex.txt;md5;70af44508b12e770f67d9ad6cd5eefbc"},
@@ -36,7 +38,6 @@
 {"key":"csp_CandyMuj_haokongbu","name":"💖好恐怖[candymuj]","type":3,"api":"csp_CandyMuj_haokongbu","searchable":1,"quickSearch":1,"filterable":1,"jar": "./candymuj.jar;md5;a5162911df74b1cae8fd7abd767a4a71"},
 {"key":"美剧天堂","name":"美剧天堂[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/美剧天堂.json" },
 {"key":"美剧迷","name":"美剧迷|网盘[PGpg]","type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,"ext":"./lib/tokenm.json$$$https://www.meijumi.net/$$$proxy$$$1","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
-{"key": "Libvio","name": "磁力LIBVIO|网盘[PGpg]","type": 3,"api": "csp_Libvio", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokentemplate.json$$$https://www.libvio.fun/$$$null","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
 {"key": "利播影视","name": "磁力利播影视[jar]","type": 3,"api": "csp_Wexlibhd","searchable": 1,"changeable": 1},
 {"key": "csp_xpath_yinfans","name": "磁力音范丝4K[XP]","type": 3,"api": "csp_XPath", "searchable": 1,"": 1,"filterable": 1,"ext": "./json/音范丝.json"},
 {"key": "csp_XBPQ_6V","name": "磁力新6V4K[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/6V.json"},
@@ -56,7 +57,6 @@
 {"key": "csp_SeedHub","name": "磁力SeedHub[jar]","type": 3,"api": "csp_SeedHub", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "csp_Xunlei8","name": "磁力迅雷吧[jar]","type": 3,"api": "csp_Xunlei8", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "低端影视","name": "磁力低端影视[jar]","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "Moli","name": "磁力HDmoli[PGpg]","type": 3,"api": "csp_Moli", "quickSearch": 1,"changeable": 1,"filterable": 1,"timeout": 60,"ext": "./lib/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./lib/moli.json","jar":"https://gitlab.com/duomv/duo/-/raw/main/pg.jar"},
 {"key":"drpy_js_HDmoli","name":"磁力HDmoli[js]","type":3,"api":"./JS/drpy2.min.js","ext":"./JS/HDmoli.js"},
 
 {"key": "drpy_js_哔哩影视","name": "官网|哔哩影视[js]","type": 3,"api": "./JS/drpy2.min.js", "ext": "./js/哔哩影视.js"},
