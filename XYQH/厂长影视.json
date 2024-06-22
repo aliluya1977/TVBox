@@ -16,6 +16,9 @@
     "筛选数据": "ext",
     "筛选类型名称": "传记&儿童&冒险&剧情&动作&动漫&动画&历史&古装&同性&喜剧&奇幻&家庭&恐怖&悬疑&情色&惊悚&战争&歌舞&武侠&灾难&爱情&犯罪&真人秀&短片&科幻&纪录片&西部&运动&音乐&鬼怪",
     "筛选类型替换词": "movie_bt_tags/chuanji&movie_bt_tags/etet&movie_bt_tags/maoxian&movie_bt_tags/juqing&movie_bt_tags/dozuo&movie_bt_tags/doman&movie_bt_tags/dhh&movie_bt_tags/lishi&movie_bt_tags/guzhuang&movie_bt_tags/tongxing&movie_bt_tags/xiju&movie_bt_tags/qihuan&movie_bt_tags/jiating&movie_bt_tags/kubu&movie_bt_tags/xuanyi&movie_bt_tags/qingse&movie_bt_tags/kingsong&movie_bt_tags/zhanzheng&movie_bt_tags/gw&movie_bt_tags/wuxia&movie_bt_tags/zainan&movie_bt_tags/aiqing&movie_bt_tags/fanzui&movie_bt_tags/zrx&movie_bt_tags/dp&movie_bt_tags/kh&movie_bt_tags/jlpp&movie_bt_tags/xb&movie_bt_tags/yd&movie_bt_tags/yy&movie_bt_tags/鬼怪",
+    "筛选分类名称": "俄罗斯电影&加拿大电影&动画&华语电影&印度电影&国产剧&日剧&日本电影&欧美电影&法国电影&海外剧（其他）&电视剧2&站长推荐&美剧&韩剧2&韩国电影",
+    "筛选分类替换词": "movie_bt_series/eluosidianying&movie_bt_series/jianadadianying&movie_bt_series/dohua&movie_bt_series/huayudianying&movie_bt_series/yindudianying&movie_bt_series/guochanju&movie_bt_series/rj&movie_bt_series/ribendianying&movie_bt_series/meiguodianying&movie_bt_series/faguodianying&movie_bt_series/hwj&movie_bt_series/dianshiju&movie_bt_series/zhanchangtuijian&movie_bt_series/mj&movie_bt_series/hj&movie_bt_series/hanguodianying",
+    
     "分类截取模式": "1",
     "分类列表数组规则": ".mrb&&ul&&li",
     "分类片单是否Jsoup写法": "1",
