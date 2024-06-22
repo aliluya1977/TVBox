@@ -319,9 +319,6 @@
 {"key": "樱花动漫","name": "樱花动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/樱花动漫.js"},
 {"key": "暮暮动漫","name": "暮暮动漫","type": 3,"api": "csp_WebMuTeFun","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.mutean.com"},
    
-{"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
-{"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"},
-{"key": "BtSow","name": "🇨🇳BTSow","type": 3,"api": "csp_BtSow","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
 {"key": "music","name": "音乐|狗狗","type": 3,"api": "csp_Music","searchable": 0,"jar": "https://k.hhyyqq.com/uploads/itvbox/jar/YSZYZ.jar;md5;b7a9c006c3a4985d809c4a1bcd5fa865","changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
