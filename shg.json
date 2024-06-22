@@ -335,10 +335,10 @@
 ],
    
 "parses": [
- {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
+         {
+      "name": "上限万",
+      "type": 1,
+      "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
     },
     {
       "name": "-咸鱼-",
