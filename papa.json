@@ -427,7 +427,7 @@
                 "简介": "name=\"description\" content=\"&&>",
                 "线路数组": "class=\"title\">&&</h3>",
                 "线路标题": ">鲨鱼快线<",
-                \\"播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
+                //"播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
                 "播放链接": "href=\"&&\"",
                 "嗅探词": "index.m3u8",
                 "搜索url": "/vodsearch/{wd}----------{pg}---.html",
