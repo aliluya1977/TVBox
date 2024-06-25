@@ -359,414 +359,52 @@
 {"name":"live","type":0,"url":"https://pan.shangui.cc/f/ldYpUk/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live0","type":0,"url":"http://rihou.cc:555/gggg.nzk","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live1","type":0,"url":"http://120.24.204.74:1888/?explorer/share/file&hash=8eaa3XwtywyAg-02R9sIhwj8jhTViR46btHi7m935rp0-6R7tZscuft_UGBA2aFvmw&name=/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B%E6%96%B0ds.css","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
- {
-            "name": "V4",
-            "type": 0,
-            "url": "http://ko.952788.filegear-sg.me/v4.php",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "哈TV",
-            "type": 0,
-            "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "新视界②线",
-            "type": 0,
-            "url": "http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C2%E7%BA%BF&t=1718628795",
-            "playerType": 2,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "开心频道",
-            "type": 0,
-            "url": "http://ttkx.live:55/lib/kx2024.txt",
-            "ua": "okhttp/3.15",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "IPTV线路",
-            "type": 0,
-            "url": "http://mhq.aibao.us.kg/IPTV.m3u",
-            "playerType": 2,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "159",
-            "type": 0,
-            "url": "http://www.52sw.top:678/play/oj1381/list.php?get=159&t=1718666957",
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "春盈-爱尚",
-            "type": 0,
-            "url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master",
-            "ua": "okhttp/3.15",
-            "playerType": 1,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
-        },
-        {
-            "name": "169焦点",
-            "url": "http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9&t=1718666901",
-            "playerType": 2,
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "159欧华",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://www.52sw.top:678/play/oj1381/list.php?get=159%E6%AC%A7%E5%8D%8E&t=1718666978",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "广东电信",
-            "type": 0,
-            "playerType": 2,
-            "url": "http://mhq.best6.eu.org/gddx.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "http://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "安博",
-            "url": "https://fm1077.serv00.net/anbo/",
-            "logo": "http://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "重庆有线",
-            "url": "http://www.52sw.top:678/play/cqtv.php?output=channel_list",
-            "epg": "http://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "http://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "虎牙",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://www.52sw.top:678/iptv/huya.m3u"
-        },
-        {
-            "name": "斗鱼",
-            "type": 0,
-            "playerType": 1,
-            "url": "http://www.52sw.top:678/iptv/douyu.m3u"
-        },
-        {
-            "name": "斯玛特2",
-            "type": 0,
-            "url": "http://ko.952788.filegear-sg.me/sm.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "浙江移动",
-            "type": 0,
-            "url": "http://www.52sw.top:678/iptv/zjyd.txt",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-            "name": "③晴天专线",
-            "type": 0,
-            "url": "http://rihou.cc:555/qtsd",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "④晴天线路",
-            "type": 0,
-            "url": "https://7220.kstore.space/晴天.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑤天微线路",
-            "type": 0,
-            "url": "http://tvkj.top/tvlive.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑥蓝影兔源",
-            "type": 0,
-            "url": "https://dimaston.github.io/live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑦木鱼线路",
-            "type": 0,
-            "url": "https://6396.kstore.space/vip/木鱼live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑧涛集线路",
-            "type": 0,
-            "url": "https://d.kstore.space/download/6396/vip/99live.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑨野火线路",
-            "type": 0,
-            "url": "https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑩IPTV线路",
-            "type": 0,
-            "url": "http://mywlkj.ddns.net:5212/f/pW3sk/iptv.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑪V6明线路",
-            "type": 0,
-            "url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑫V6阳线路",
-            "type": 0,
-            "url": "https://6396.kstore.space/vip/阳阳pv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑬ipv6线路",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑭开心线路",
-            "type": 0,
-            "url": "http://ttkx.live:55/lib/kx2024.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑮网盘线路",
-            "type": 0,
-            "url": "http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑯梅州线路",
-            "type": 0,
-            "url": "https://103.115.40.138:6164/down/k4Aj0TlH3wax",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑰飞龙线路",
-            "type": 0,
-            "url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑱欧华线路",
-            "type": 0,
-            "url": "https://notabug.org/kan314/dd/raw/main/0426hua159.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑲测试线路",
-            "type": 0,
-            "url": "https://yubox.xyz/live.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "⑳晴天线路",
-            "type": 0,
-            "url": "https://dpaste.org/FGsWR/raw",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②①综合线路",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②②综合二线",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②③综合三线",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②④综合四线",
-            "type": 0,
-            "url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②⑤探探线路",
-            "type": 0,
-            "url": "http://www.lyyytv.cn/yt/zhibo/1.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②⑥范明线路",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②⑦范明电台",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②⑧饭太线路",
-            "type": 0,
-            "url": "https://www.huichunniao.cn/xh/lib/live.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "②⑨肥猫线路",
-            "type": 0,
-            "url": "http://我不是.肥猫.live/TV/tvzb.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③⑩俊于线路",
-            "type": 0,
-            "url": "http://home.jundie.top:81/Cat/tv/live.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③①斗鱼线路",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③②虎牙线路",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③③斗鱼专线",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③④虎牙专线",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-        {
-            "name": "③⑤MV专线",
-            "type": 0,
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
+{"name": "V4","type": 0,"url": "http://ko.952788.filegear-sg.me/v4.php","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "哈TV","type": 0,"url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt","playerType": 2,"ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "开心频道","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","ua": "okhttp/3.15","playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "IPTV线路","type": 0,"url": "http://mhq.aibao.us.kg/IPTV.m3u","playerType": 2,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "159","type": 0,"url": "http://www.52sw.top:678/play/oj1381/list.php?get=159&t=1718666957","ua": "okhttp/3.15","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "春盈-爱尚","type": 0,"url": "https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/hailin/tvboxme/raw/lives%2Ffeihu6.txt?ref=master","ua": "okhttp/3.15","playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
+{"name": "169焦点","url": "http://www.52sw.top:678/play/oj1381/list.php?get=169%E7%84%A6%E7%82%B9&t=1718666901","playerType": 2,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.112114.eu.org/logo/{name}.png"},
+{"name": "159欧华","type": 0,"playerType": 1,"url": "http://www.52sw.top:678/play/oj1381/list.php?get=159%E6%AC%A7%E5%8D%8E&t=1718666978","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.112114.eu.org/logo/{name}.png"},
+{"name": "广东电信","type": 0,"playerType": 2,"url": "http://mhq.best6.eu.org/gddx.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "http://epg.112114.eu.org/logo/{name}.png"},
+{"name": "安博","url": "https://fm1077.serv00.net/anbo/","logo": "http://epg.112114.eu.org/logo/{name}.png"},
+{"name": "重庆有线","url": "http://www.52sw.top:678/play/cqtv.php?output=channel_list","epg": "http://epg.112114.eu.org/?ch={name}&date={date}","logo": "http://epg.112114.eu.org/logo/{name}.png"},
+{"name": "斯玛特2","type": 0,"url": "http://ko.952788.filegear-sg.me/sm.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "浙江移动","type": 0,"url": "http://www.52sw.top:678/iptv/zjyd.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name": "③晴天专线","type": 0,"url": "http://rihou.cc:555/qtsd","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "④晴天线路","type": 0,"url": "https://7220.kstore.space/晴天.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑤天微线路","type": 0,"url": "http://tvkj.top/tvlive.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑥蓝影兔源","type": 0,"url": "https://dimaston.github.io/live.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑦木鱼线路","type": 0,"url": "https://6396.kstore.space/vip/木鱼live.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑧涛集线路","type": 0,"url": "https://d.kstore.space/download/6396/vip/99live.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑨野火线路","type": 0,"url": "https://chuxinya.top/f/v1BuA/%E9%87%8E%E7%81%AB.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑩IPTV线路","type": 0,"url": "http://mywlkj.ddns.net:5212/f/pW3sk/iptv.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑪V6明线路","type": 0,"url": "https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑫V6阳线路","type": 0,"url": "https://6396.kstore.space/vip/阳阳pv6.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑬ipv6线路","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/drangjchen/IPTV/main/M3U/ipv6.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑭开心线路","type": 0,"url": "http://ttkx.live:55/lib/kx2024.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑮网盘线路","type": 0,"url": "http://52pan.top:81/api/v3/file/get/174969/live.txt?sign=thai3ky1iYk1Y6Qbt9W6XOTSkCAqZF0bbdB9emM1rkY%3D%3A0","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑯梅州线路","type": 0,"url": "https://103.115.40.138:6164/down/k4Aj0TlH3wax","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑰飞龙线路","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑱欧华线路","type": 0,"url": "https://notabug.org/kan314/dd/raw/main/0426hua159.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑲测试线路","type": 0,"url": "https://yubox.xyz/live.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "⑳晴天线路","type": 0,"url": "https://dpaste.org/FGsWR/raw","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②①综合线路","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②②综合二线","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②③综合三线","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②④综合四线","type": 0,"url": "https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②⑤探探线路","type": 0,"url": "http://www.lyyytv.cn/yt/zhibo/1.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②⑥范明线路","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②⑦范明电台","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②⑧饭太线路","type": 0,"url": "https://www.huichunniao.cn/xh/lib/live.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "②⑨肥猫线路","type": 0,"url": "http://我不是.肥猫.live/TV/tvzb.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③⑩俊于线路","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③①斗鱼线路","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/douyuyqk.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③②虎牙线路","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/huyayqk.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③③斗鱼专线","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③④虎牙专线","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
+{"name": "③⑤MV专线","type": 0,"url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt","playerType": 2,"ua": "okhttp/3.15","epg": "https://epg.112114.eu.org/?ch={name}&date={date}","logo": "https://epg.112114.eu.org/logo/{name}.png"},
 {"name":"live2","type":0,"url":"http://www.weetai.cn/mtvzb.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live21","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"天天开心","type":0,"url":"http://rihou.vip:55/lib/kx2024.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
@@ -813,7 +451,7 @@
 {"name":"live36","type":0,"url":"https://pan.shangui.cc/f/0wj4fj/live36.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live37","type":0,"url":"https://pan.shangui.cc/f/7by2cM/live37.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
-
+   
    
 "doh": [
 {"name": "Google","url": "https://dns.google/dns-query","ips": ["8.8.4.4","8.8.8.8"]},
