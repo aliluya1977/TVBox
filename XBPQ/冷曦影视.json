@@ -8,7 +8,7 @@
   
   "分类url": "https://www.lengxitv.com/t/{cateId}-{catePg}.html",
   
-  "数组": "<li class=\"fed-list-item&&</li>",
+  "数组": "class=\"fed-list-item&&</li>",
   "图片": "data-original=\"&&\"",
   "标题": "a>&&</a>",
   "链接": "href=\"&&\"",
