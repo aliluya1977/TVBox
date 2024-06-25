@@ -12,6 +12,7 @@
 {"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"快车资源","name":"快车资源(切)","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"1080资源库","name":"1080资源库(切)","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
+{"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {
             "key": "四虎",
             "name": "🔞四虎影院(科学上网)",
@@ -45,7 +46,6 @@
                 "分类url": "https://www.4hu.tv/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.4hu.tv/{cateId}/{class}/]"
             }
         },
-{"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"lf_js_lf_live","name":"🔞直播","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live1.txt"},
 {"key":"色播","name": "🔞色播直播","type": 3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/h/色播.js","searchable": 1,"changeable": 0},
 {"key": "Cg51","name": "🔞51吃瓜","type": 3,"api": "csp_Cg51","searchable": 1,"filterable": 1,"jar": "https://gh.con.sh/https://raw.githubusercontent.com/aliluya1977/yg/main/jar/182.jar"},
@@ -846,7 +846,7 @@
 }},
 {"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},
             "ext": {
-                "站名": "四虎影院",
+                "站名": "天美",
                 "主页url": "https://www.xbyc.cc/",
                 "简介": "名称：&&</h3>",
                 "数组":"\"box-item\"&&</em>",
