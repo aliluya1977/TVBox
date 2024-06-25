@@ -409,7 +409,7 @@
         "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
     "分类值": "/&3d&amateur&japanese&selfie&western"
         }},
-  {
+         {
             "key": "大师兄影视H版",
             "name": "🔞大师兄影视|H版",
             "type": 3,
@@ -418,9 +418,9 @@
             "playerType": "2",
             "ext": {
                 "请求头": "手机",
-                "主页url": "http://www.dsxdy.shop/index.php/vodtype/dianying.html",
-                "数组": "class=\"stui-vodlist__box\">&&</div>",
-                "图片": "src=\"&&\"",
+                "主页url": "http://mydy.site/index.php/vodtype/dianying.html",
+                "数组": "class=\"stui-vodlist__item\">&&</li>",
+                "图片": "data-original=\"&&\"",
                 "标题": "title=\"&&\"",
                 "副标题": "",
                 "链接": "href=\"&&\"",
@@ -428,13 +428,13 @@
                 "线路数组": "class=\"title\">&&</h3>",
                 "线路标题": ">鲨鱼快线<",
                 "播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
-                "播放链接": "href='&&'",
+                "播放链接": "href=\"&&\"",
                 "嗅探词": "index.m3u8",
                 "搜索url": "/vodsearch/{wd}----------{pg}---.html",
                 "分类数组": "<a&&</a",
                 "分类标题": ">&&</a",
                 "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
-                "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
+                "分类url": "http://mydy.site/index.php/vodshow/{cateId}--------{catePg}---.html"
             }
         },
 {"key": "影视","name": "影视18","type": 1,"api": "https://155api.com/api.php/provide/vod/"}, 
