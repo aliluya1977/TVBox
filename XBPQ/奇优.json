@@ -14,7 +14,7 @@
 "搜索链接":"href=\"&&\"",
 "搜索副标题":"<span class=\"pic-text text-right\">&&</span>",
 "搜索后缀":"/view/",
-"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:播放源2>播放源3>播放源4>播放源1]",
+"线路数组":"<a data-toggle=\"tab\"&&/a>[排序:播放源1>播放源2>播放源3>播放源4]",
 "线路标题":">&&<",
 "播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
 "影片年代":"年份：&&</p>",
