@@ -81,6 +81,7 @@
 {"key": "胖虎影视","name": "胖虎影视[jar]","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://physvod.com"},
 {"key": "剧圈圈","name": "剧圈圈影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"ua": "okhttp/3.15","quickSearch": 1,"filterable": 1,"ext": "./XBPQ/剧圈圈.json"},
 //{"key": "剧圈影视","name": "剧圈影视[jar]","type": 3,"api": "csp_Juqq","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "凤凰城美剧","name": "凤凰城美剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/凤凰城美剧.json"},   
 {"key": "忍者影视","name": "忍者影视[jar]","type": 3,"api": "csp_AppRZ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rzys.xyz/"},
 {"key": "毛驴影视","name": "毛驴影视[jar]","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 //{"key": "kk", "name": "可可影视[XBPQ]", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_XBPQ", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/lib/kk.json" },
