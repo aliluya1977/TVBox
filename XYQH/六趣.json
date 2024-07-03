@@ -11,7 +11,7 @@
     "首页片单是否Jsoup写法": "1",
     "分类起始页码": "1",
     "分类链接": "https://cms.715d.com/index.php/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
-    "分类名称": "六趣电影&六趣电视剧&六趣动漫&六趣综艺&六趣短剧",
+    "分类名称": "SHG电影&SHG电视剧&SHG动漫&SHG综艺&SHG短剧",
     "分类名称替换词": "1&2&3&4&5",
     "筛选数据": "ext",
     "筛选子分类名称": "",
