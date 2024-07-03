@@ -27,7 +27,7 @@
 "播放链接":"href=\"&&\"",
 "免嗅":"1",
 "分类":"电影$1#剧集$2#综艺$3#动漫$4",
-"分类url":"https://voflix.fun/show/{cateId}{catelog}-{area}-{by}-{class}-----{catePg}---{year}.html",
+"分类url":"https://voflix.fun/vodshow/{cateId}{catelog}-{area}-{by}-{class}-----{catePg}---{year}.html",
 "筛选":{
 "1":[
 {
