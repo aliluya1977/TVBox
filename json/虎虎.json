@@ -20,9 +20,9 @@
 				"线路标题": "小盒酷玩-+<span>&&</small>",
 				"播放数组": "<div class=\"sort-item\"&&</div>",
 				"影片类型": "class=\"slash\">&&立即播放",
-				"导演": "小盒酷玩-+导演：&&</div>",
-				"主演": "小盒酷玩-+主演：&&</div>",
-				"简介": "小盒酷玩提醒您：请勿相信影片中的广告，以免上当受骗。+<div class=\"video-info-item video-info-content vod_content\">&&</span>",
+				"导演": "导演：&&</div>",
+				"主演": "主演：&&</div>",
+				"简介": "<div class=\"video-info-item video-info-content vod_content\">&&</span>",
 				"播放列表": "<a&&</a>",
 				"播放标题": "<span>&&</span>",
 				"播放链接": "href=\"&&\""
