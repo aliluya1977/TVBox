@@ -52,7 +52,7 @@
     
     "播放列表":"<a&&/a>",
     
-    "分类url":"https://pupvod.com/puptype/{cateId}{catePg}.html;;ak[https://pupvod.com/puptype/{cateId}.html]",
+    "分类url":"https://pupvod.com/puptype/{cateId}{catePg}.html;;ak",
     
     "分类":"动漫$Anime#电影$movie#电视剧$TVshow#综艺$Variety#体育赛事$tiyu",
     
