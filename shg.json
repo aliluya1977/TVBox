@@ -77,7 +77,6 @@
 {"key": "drpy_js_胖虎影视","name": "胖虎影视[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/胖虎.js"},
 {"key": "剧圈圈","name": "剧圈圈影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"ua": "okhttp/3.15","quickSearch": 1,"filterable": 1,"ext": "./XBPQ/剧圈圈.json"},
 {"key": "凤凰城美剧","name": "凤凰城美剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/凤凰城美剧.json"},   
-{"key": "忍者影视","name": "忍者影视[jar]","type": 3,"api": "csp_AppRZ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rzys.xyz/"},
 {"key": "毛驴影视","name": "毛驴影视[jar]","type": 3,"api": "csp_MaoLv","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 {"key": "可可影视","name": "可可影视[jar]","type": 3,"api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "圣城影视","name": "圣城影视[jar]","type": 3,"api": "csp_SC1080","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -298,7 +297,7 @@
 {"key": "樱花动漫","name": "樱花动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/樱花动漫.js"},
 {"key": "暮暮动漫","name": "暮暮动漫","type": 3,"api": "csp_WebMuTeFun","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.mutean.com"},
    
-{"key": "music","name": "音乐|狗狗","type": 3,"api": "csp_Music","searchable": 0,"jar": "https://k.hhyyqq.com/uploads/itvbox/jar/YSZYZ.jar;md5;b7a9c006c3a4985d809c4a1bcd5fa865","changeable": 0,"style": {"type": "rect","ratio": 1.433}},
+{"key": "music","name": "音乐|狗狗","type": 3,"api": "csp_Music","searchable": 0,"jar": "./jar/YSZYZ.jar;md5;b7a9c006c3a4985d809c4a1bcd5fa865","changeable": 0,"style": {"type": "rect","ratio": 1.433}},
 {"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key": "Pandalivetv","name": "😍韩国美女直播","type": 3,"api": "csp_WexPandalivetv", "searchable": 0,"changeable": 0,"jar":"./jar/wex240615.txt;md5;6622c38b0681db3f6636ed592fbe9b49"},
