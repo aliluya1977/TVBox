@@ -235,7 +235,7 @@
 {"key":"csp_XBPQ_短剧吧2","name":"🐞短剧吧2[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/duan8.json"}, 
 
 {"key": "大米星球","name": "大米星球[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/大米星球.js"},
-{"key": "大米1", "name": "大米1┃影视┃xBPQ┃", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_XBPQ", "ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/TVBox/master/XBPQ/大米星球1.json"},
+{"key": "大米1", "name": "大米1┃影视┃xBPQ┃", "type": 3, "searchable": 1, "changeable": 1, "api": "csp_XBPQ", "ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/XBPQ/大米星球1.json"},
 {"key":"我爱跟剧","name":"我爱跟剧[js]","type":3,"api":"./js/drpy.min.js", "ext":"./js/我爱跟剧.js"},
 {"key":"drpy_js_被窝电影","name":"私人影院[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/被窝电影.js"},
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/楚门影院.js"},
@@ -248,7 +248,7 @@
 {"key":"一三九","name":"一三九[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/一三九.js"},
 {"key":"drpy_js_热播之家","name":"热播之家[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/热播之家.js"},
 {"key":"drpy_js_碟调影视","name":"碟调影视[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/碟调影视.js"},
-{"key": "🚀 18哈 | JS","name": "🚀 18哈[js]","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/merge.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.net/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/18ha.js"},
+{"key": "🚀 18哈 | JS","name": "🚀 18哈[js]","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/merge.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/18ha.js"},
 {"key": "欧帝影院","name": "欧帝影院[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/欧帝影院.js"},
 {"key": "畅梦影视","name": "畅梦影视[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/畅梦影视.js"},
 {"key":"drpy_kb", "name":"❤🛫酷播影视[js]", "type":3, "api":"https://qu.ax/Fozq.js",  "ext":"https://qu.ax/erWZ.js"},
