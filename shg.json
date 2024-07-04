@@ -109,6 +109,7 @@
 
 {"key": "XBPQ_Auete","name": "Auete[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./XBPQ/Auete.json"},
 {"key": "XBPQ_小狗","name": "小狗影院[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./json/小狗影院.json"},
+{"key": "XBPQ_思古影院","name": "思古影视[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./json/思古影视.json"},
 {"key": "XBPQ_4kvm","name": "4k影视[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/mygoww/xoxo/main/XBPQ/4kvm.json"},
 {"key": "歪片星球","name": "歪片星球[XYQH]","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/歪片星球.json"},
 {"key": "rarbt","name": "🤖机器蓝光纯净","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php","ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=机器人"},
