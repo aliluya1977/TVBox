@@ -27,7 +27,7 @@
     "播放列表":"<a&&/a>",    
     //"分类url":"https://pupvod.com/puptype/{cateId}{catePg}.html;;ak",    
     "分类url":"https://pupvod.com/puptype/{cateId}{catePg}.html",    
-    "分类":"动漫$Anime#电影$movie#电视剧$TVshow#综艺$Variety#体育赛事$tiyu",    
+    "分类":"动漫$Animep#电影$moviep#电视剧$TVshowp#综艺$Varietyp#体育赛事$tiyup",    
     "筛选":{
     "movie":[
     {"key":"class","name":"剧情","value":[
