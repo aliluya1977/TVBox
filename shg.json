@@ -245,7 +245,7 @@
 {"key":"一三九","name":"一三九[js]","type":3,"api":"./js/drpy2.min.js", "ext":"./js/一三九.js"},
 {"key":"drpy_js_热播之家","name":"热播之家[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/热播之家.js"},
 {"key":"drpy_js_碟调影视","name":"碟调影视[js]","type":3,"api":"./lib/drpy2-yyfx.min.js","ext":"./js/碟调影视.js"},
-{"key": "🚀 18哈 | JS","name": "🚀 18哈[js]","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/merge.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/18ha.js"},
+{"key": "🚀 18哈 | JS","name": "🚀 18哈[js]","type": 3,"api": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/tm/main/source/stable/sites/码上/merge.min.js","searchable": 1,"playerType": 2,"quickSearch": 1,"filterable": 1,"ext": "./js/18ha.js"},
 {"key": "欧帝影院","name": "欧帝影院[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/欧帝影院.js"},
 {"key": "畅梦影视","name": "畅梦影视[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/畅梦影视.js"},
 {"key":"drpy_kb", "name":"❤🛫酷播影视[js]", "type":3, "api":"https://qu.ax/Fozq.js",  "ext":"https://qu.ax/erWZ.js"},
