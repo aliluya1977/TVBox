@@ -134,7 +134,6 @@
 {"key": "韩剧影院","name": "🇰🇷韩剧TV[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/hanju.json"},
 {"key": "虎虎","name": "虎虎影视[XBPQ]","type": 3,"api": "csp_XBPQ", "playerType": "1","ext": "./XBPQ/虎虎.json"},
 {"key": "孜然影视","name": "孜然影视[XBPQ]","type": 3,"api": "csp_XBPQ", "playerType": "1","ext": "./XBPQ/孜然影视.json"},
-{"key": "suying影视","name": "速映影视[XBPQ]","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/suying.json"},
 {"key": "meowtv_vsys","name": "威士影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/威士影视.json"},
 {"key": "Auete","name": "奥特直连","type": 3,"api": "csp_Auete", "timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://auete.pro/","jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
 {"key":"csp_xml_飞速资源","name":"采集飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/", "playUrl":"","searchable":1,"quickSearch":1,"jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
