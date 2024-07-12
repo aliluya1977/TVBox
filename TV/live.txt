@@ -1,4 +1,4 @@
-🛰️港澳台,#genre#
+港澳台,#genre#
 凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视中文台,http://182.149.177.103:9100/udp/239.93.0.162:2192
 凤凰卫视中文台,http://182.149.177.103:9100/udp/239.93.1.9:2192
@@ -1031,7 +1031,7 @@ TRTword,http://165.1.79.200:9000/live.m3u8?c=98
 Movies,mitv://generationnexxxt.com:19806/c6e40b3dec3344909fc0ca9378a7f4c7
 私人影院,mitv://generationnexxxt.com:19806/3cfadd5e9af14d6db652b3c23acd7a7d
 
-🛰️央视综合,#genre#
+央视综合,#genre#
 CCTV1,http://27.40.16.70:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.33&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4233&gAppVersionName=4.2.33&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1715183611097&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=1&gCityCode=DEFAULT&verType=0&Fsv_Tgid=517e65f76ef0fc78&FvSeid=77fd5578ee7feea2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4276&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466552&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
 CCTV1,http://120.87.97.246:8114/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVJJZNDYjNTYW0xrj2atp5krmovGfhet3wgtKVBhIbxM&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141158688&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e96acf29ccb8a&FvSeid=88fe5578aee15bbe&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4298&Fsv_chan_hls_se_idx=60&Fsv_TBt=8468056&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-1-CQ&Fsv_CMSID=GD_CUCC
 CCTV2,http://221.4.143.69:8114/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714141587490&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515e9a069bf67e38&FvSeid=88fe5578aee2f1ef&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=9874&Fsv_chan_hls_se_idx=60&Fsv_TBt=8466752&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-2-CQ&Fsv_CMSID=GD_CUCC
@@ -1304,7 +1304,7 @@ CGTN-俄罗斯语,http://liveru.cgtn.com/1000r/prog_index.m3u8
 CGTN-西班牙语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CCTV移动传媒,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e19038fa74514ab3f00febbcd6de0/1200.m3u8
 
-🛰️卫视综合,#genre#
+卫视综合,#genre#
 CHC动作电影,http://nas.hssvm.com:8888/udp/225.1.1.215:5002
 CHC高清电影,http://nas.hssvm.com:8888/udp/225.1.1.214:5002
 CHC家庭影院,http://nas.hssvm.com:8888/udp/225.1.1.213:5002
@@ -2213,7 +2213,7 @@ CGTN俄语,http://123.13.247.38:4000/rtp/225.1.5.39:1349
 海宁生活服务,http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 
-🛰️北京综合,#genre#
+北京综合,#genre#
 北京卫视,http://1.203.77.170:7788/udp/225.1.8.21:8002
 北京文艺,http://1.203.77.170:7788/udp/225.1.8.22:8002
 北京科教,http://1.203.77.170:7788/udp/225.1.8.105:8002
@@ -2288,7 +2288,7 @@ IPTV少儿动画,http://1.203.77.170:7788/udp/225.1.8.207:9000
 聚鲨生活,http://1.203.77.170:7788/udp/225.1.8.95:8002
 聚鲨国际,http://1.203.77.170:7788/udp/225.1.8.96:8002
 
-🛰️天津综合,#genre#
+天津综合,#genre#
 天津新闻,http://nas.hssvm.com:8888/udp/225.1.1.130:5002
 天津文艺,http://nas.hssvm.com:8888/udp/225.1.1.131:5002
 天津影视,http://nas.hssvm.com:8888/udp/225.1.1.149:5002
@@ -2313,7 +2313,7 @@ IPTV少儿动画,http://1.203.77.170:7788/udp/225.1.8.207:9000
 滨海2,http://nas.hssvm.com:8888/udp/225.1.2.8:5002
 大港油田企业,http://nas.hssvm.com:8888/udp/225.1.2.14:5002
 
-🛰️上海综合,#genre#
+上海综合,#genre#
 新闻综合,http://58.41.27.144:18888/udp/239.45.3.209:5140
 都市频道,http://58.41.27.144:18888/udp/239.45.3.236:5140
 纪实人文,http://58.41.27.144:18888/udp/239.45.3.212:5140
@@ -2367,7 +2367,7 @@ MAX极速汽车,http://58.41.27.144:18888/udp/239.45.3.49:5140
 中央购物,http://58.41.27.144:18888/udp/239.45.3.79:5140
 家有购物,http://58.41.27.144:18888/udp/239.45.1.43:5140
 
-🛰️重庆综合,#genre#
+重庆综合,#genre#
 四川卫视,http://kms.erfiy.com:8884/udp/225.0.4.204:7980
 重庆卫视,http://kms.erfiy.com:8884/udp/225.0.4.187:7980
 重庆新闻HD,http://kms.erfiy.com:8884/udp/225.0.4.188:7980
