@@ -226,7 +226,7 @@
 {"key": "精品短剧","name": "精品短剧[jar]","type": 3,"api": "csp_Wexvipduanju","searchable": 1,"changeable": 1},
 {"key": "良品短剧","name": "良品短剧[jar]","type": 3,"api": "csp_Wexduanjuvip","searchable": 1,"changeable": 1},
 {"key": "星芽短剧","name": "星芽短剧[jar]","type": 3,"api": "csp_AppXY","searchable": 1,"quickSearch": 0,"filterable": 0},
-//{"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj", "searchable": 1,"changeable": 0,"jar": "https://8415.kstore.space/Tvbox/jar/danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"},
+{"key": "无忧短剧","name": "无忧短剧","type": 3,"api": "csp_Duanj", "searchable": 1,"changeable": 0,"jar": "./danmu240714.jar;md5;c395898df1220ec4f3859f240c301f53"},
 {"key":"csp_XBPQ_胖嘟嘟","name":"🐞嘟嘟短剧[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类":"全部$qb#言情$yq#古代$dg#都市$ds","分类url":"https://m.pangdo.com/{cateId}/list_{catePg}.html"}}, 
 {"key":"csp_XBPQ_短剧吧","name":"🐞短剧吧[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/duan1.json"}, 
 {"key":"csp_XBPQ_短剧吧2","name":"🐞短剧吧2[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/duan8.json"}, 
