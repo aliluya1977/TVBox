@@ -17,7 +17,7 @@
 {"key": "南瓜影视","name": "南瓜影视[jar]","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"快看1","name":"👀快看[jar]","type":3,"api":"csp_Kuaikan", "searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_影视控","name": "影视控|影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/影视控.json"},
-{"key": "玩我哥哥","name": "🇹SHG影视[XYQH]","type": 3,"api": "csp_XYQHikerAL","ua": "okhttp/3.15","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/玩我哥哥.json"},
+{"key": "玩我哥哥","name": "🇹SHG影视[XYQH]","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/玩我哥哥.json"},
 {"key": "云盘六趣","name": "阿里｜六趣","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/六趣.json"},
 {"key": "六趣弹幕","name": "夸克｜六趣","type": 3,"api": "csp_Wogg","quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","site": "https://cms.715d.com","danmu": true},"jar": "./danmu.jar;md5;765dcc77b86562dfc48ede664417ac60"},
 {"key": "天天开心","name": "云盘｜开心[XYQH]","type": 3,"api": "csp_XYQHikerAL","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/天天开心.json"},
