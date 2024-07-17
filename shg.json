@@ -176,7 +176,7 @@
 {"key": "csp_XYQHiker_电影盒子","name":"电影盒子[XYQH]","type":3,"api":"csp_XYQHiker", "playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQH/电影盒子.json"},
 
 
-
+{"key": "采集之王","name": "采集之王","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"},
 {"key": "cjzy_快看","name": "采集👁️‍🗨️快看","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/", "playUrl": "","changeable": 1,"playerType":2,"categories": ["国产剧","欧美剧","日本剧","韩国剧","港台剧","泰剧","新马剧","其他剧","海外剧","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","爱情片","犯罪片","科幻片","网络电影","国产动漫","日本动漫","欧美动漫","港台动漫","国产综艺","韩国综艺","日本综艺","欧美综艺","港台综艺","伦理片","热门短剧"]},
 {"key": "Ikun资源","name": "采集Ikun资源","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1,"quickSearch": 1},
 {"key": "taopian","name": "🕹️淘片采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"filterable": 0},
