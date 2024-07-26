@@ -315,7 +315,6 @@
 {"name": "超级并发","type": 3,"url": "Demo"},
 {"name": "超级嗅探","type": 3,"url": "Web"},
 {"name": "推荐","url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
-{"name": "推荐6","url": "http://115.231.220.36:8801/jx/tvbox/zyy.php?url=","type": 1,"ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer": "https://svip.cygc.xyz"}}}, 
 {"name": "4k解析","url": "http://110.40.61.123:7777/api/?key=5r77owG0IxkmKBXli9&url=","type": "1","status": "normal","type_text": "Type 1","status_text": "正常"},
 {
             "name": "线路2",
