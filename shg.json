@@ -101,7 +101,7 @@
 {"key": "视频库","name": "视频库[jar]","type": 3,"api": "csp_WebVidHub","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://vidhub1.cc"},
 {"key": "素白白","name": "素白白[jar]","type": 3,"api": "csp_Subaibai","searchable": 1,"changeable": 1},
 {"key": "机器人","name": "机器人[jar]","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://v.aikanbot.com"},
-{"key": "XBPQ_Auete","name": "Auete[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./XBPQ/Auete.json"},
+\\{"key": "XBPQ_Auete","name": "Auete[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./XBPQ/Auete.json"},
 {"key": "XBPQ_小狗","name": "小狗影院[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./json/小狗影院.json"},
 {"key": "XBPQ_思古影院","name": "思古影视[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./json/思古影视.json"},
 {"key": "XBPQ_4kvm","name": "4k影视[XBPQ]","type": 3,"api": "csp_XBPQ", "ext": "./XBPQ/4kvm.json"},
