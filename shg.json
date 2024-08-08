@@ -26,7 +26,7 @@
 {"key":"yqk1","name":"一起看js","type":3,"api":"./js/yqktv_open.js","jar": "./f.jar"},
 {"key": "热播影视","name": "热播影视[jar]","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "苹果","name": "苹果影视[jar]","type": 3,"api": "csp_LiteApple", "searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "drpy_js_胖虎影视","name": "胖虎影视[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/胖虎.js"},
+//{"key": "drpy_js_胖虎影视","name": "胖虎影视[js]","type": 3,"api": "./libs/道长drpy2.min.js", "ext": "./js/胖虎.js"},
 {"key": "剧圈圈","name": "剧圈圈影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"ua": "okhttp/3.15","quickSearch": 1,"filterable": 1,"ext": "./XBPQ/剧圈圈.json"},
 {"key":"快看1","name":"👀快看[jar]","type":3,"api":"csp_Kuaikan", "searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追忆影视","name": "追忆影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://110.42.7.101:1122/api.php/app/"},
