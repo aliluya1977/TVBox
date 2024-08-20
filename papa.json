@@ -15,7 +15,7 @@
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {
             "key": "四虎",
-            "name": "🔞四虎影院(科学上网)",
+            "name": "🔞四虎影院",
             "type": 3,
             "api": "csp_XBPQ",      
             "playerType": 2,
