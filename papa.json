@@ -77,10 +77,9 @@
             }
         },
 {"key": "SOAV",
-            "name": "🔞SOAV",
+            "name": "🔞SOAV(科学上网)",
             "type": 3,
-            "api": "csp_XBPQ",
-   "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "api": "csp_XBPQ",  
             "style": {
                 "type": "rect",
                 "ratio": 1.5
