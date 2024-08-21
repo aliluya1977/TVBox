@@ -158,29 +158,6 @@
         "分类": "国产精品$20#主播大秀$21#唯美视频$22#口交视频$23#日本有碼$24#日本無碼$25#动漫视频$26#欧美视频$27#日韩视频$28#欧美视频$29#动漫视频$30#伦理影片$31"
     }
 },
-{
-            "key": "18insta",
-            "name": "💗┃💋18INSTA┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.77
-            },
-            "ext": {
-                "数组二次截取": "models\":[&&]",
-                "数组": "{&&}",
-                "图片":"previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
-                "标题": "username\":\"&&\"",
-                "副标题": "id\":\"&&\"",
-                "链接": "hlsPlaylist\":\"&&_+_480p.m3u8",
-                "分类url": "https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"{cateId}\"]]&offset=0;;m",
-                "直接播放": 1,
-                "播放请求头":"手机",
-                "分类": "中国$tagLanguageChinese#乌克兰$tagLanguageUkrainian#日本$tagLanguageJapanese#韩国$tagLanguageKorean#越南$tagLanguageVietnamese#哥伦比亚$tagLanguageColombian"
-            }
-        },
 {"key":"今天gan少女","name":"🔞今天gan少女","type":3,"api":"csp_XBPQ",
 "searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"发布地址":"www.gblw1.buzz",
@@ -1149,7 +1126,7 @@
 "搜索标题": "title=\"&&\"",
 "搜索链接": "href=\"/xjzy/sdplay&&.html\"",
 "搜索模式": "1",
-"搜索url":"https://su-qq.vip/xjzy/vod/search/page/{catePg}/wd/{wd}.html",
+"搜索url":"https://su-qq.vip/xjzy/vod/search.html",
 "搜索链接前缀":"https://su-qq.vip/xjzy/sdplay",
 "搜索链接后缀":"-1-1.html",
 "分类url":"https://su-qq.vip/xjzy/{cateId}-{catePg}.html",
@@ -1175,7 +1152,7 @@
 "搜索链接": "href=\"/cq/k&&.html\"",
 "搜索副标题":"<div class=\"duration\">&&</div>",
 "搜索模式": "1",
-"搜索url":"https://su-qq.vip/cq/vod/search/page/{catePg}/wd/{wd}.html",
+"搜索url":"https://su-qq.vip/cq/vod/search.html",
 "搜索链接前缀":"https://avhh.vip/cq/asplay",
 "搜索链接后缀":"-1-1.html",
 "简介":"<p>&&</p>",
@@ -1327,6 +1304,29 @@
 {"n":"兔女郎直播","v":"tnl"},
 {"n":"花仙子直播","v":"hxz"},
 {"n":"小性感直播","v":"xxg"}]}]}}},
+{
+            "key": "18insta",
+            "name": "💗┃💋18INSTA┃💠",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "ext": {
+                "数组二次截取": "models\":[&&]",
+                "数组": "{&&}",
+                "图片":"previewUrlThumbBig:\"https+://static-cdn.strpst.com/+https://static-cdn.strpst.com/&&\"",
+                "标题": "username\":\"&&\"",
+                "副标题": "id\":\"&&\"",
+                "链接": "hlsPlaylist\":\"&&_+_480p.m3u8",
+                "分类url": "https://zh.18insta.com/api/front/models?primaryTag=girls&sortBy=viewersRating&userRole=guest&groupId=6&limit=20&filterGroupTags=[[\"{cateId}\"]]&offset=0;;m",
+                "直接播放": 1,
+                "播放请求头":"手机",
+                "分类": "中国$tagLanguageChinese#乌克兰$tagLanguageUkrainian#日本$tagLanguageJapanese#韩国$tagLanguageKorean#越南$tagLanguageVietnamese#哥伦比亚$tagLanguageColombian"
+            }
+        },
 {"key": "csp_香蕉废柴网","name": "🏆香蕉废柴网","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
 "站名":"香蕉废柴",
 "主页url":"https://su-qq.vip/fcw/",
