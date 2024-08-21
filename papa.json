@@ -1124,7 +1124,7 @@
 "搜索链接": "href=\"/avjs/paplay&&.html\"",
 "搜索副标题":"<div class=\"duration\">&&</div>",
 "搜索模式": "1",
-"搜索url":"https://su-qq.vip/avjs/vod/search/page/{catePg}/wd/{wd}.html",
+"搜索url":"https://su-qq.vip/avjs/vod/search.html",
 "搜索链接前缀":"https://su-qq.vip/avjs/paplay",
 "搜索链接后缀":"-1-1.html",
 "简介":"<p>&&</p>",
