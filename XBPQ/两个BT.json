@@ -29,7 +29,7 @@
 "搜索后缀":"/movie/",
 "分类":"全部&最新电影&电视剧&热门下载&本月热门&高分电影&国产剧&美剧&日韩剧",
 "分类值":"movie_bt&new-movie&dsj&hot&hot-month&gf&zgjun&meiju&jpsrtv",
-"分类url":"https://www.bttwoo.com/{cateId}/{area}/year/{year}/{class}/page/{catePg}",
+"分类url":"https://www.bttwoo.com/{cateId}/page/{catePg}",
 "筛选":
 {
 "movie_bt":[
