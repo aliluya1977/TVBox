@@ -47,6 +47,7 @@
 {"key": "萌米1","name": "👀萌米App","type": 3,"api": "csp_AppTT", "timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://8415.kstore.space/Tvbox/jar/fan231201.txt;md5;c84c36278bd8bc95a63449a128074be0"},
 
 {"key": "drpy_js_看韩剧","name": "影视|🇰🇷看韩剧[js]","type": 3,"api": "./libs/drpy2.min.js", "ext": "./js/看韩剧.js"},
+{"key": "韩小圈","name": "韩小圈｜APP","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"},
 {"key":"南瓜影视2","name":"南瓜影视2[js]","type":3,"api":"./JS/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key": "蚂蚁","name": "忍者影视[pg1jar] ","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://rzys.xyz","jar": "https://8415.kstore.space/Tvbox/jar/pg1.jar;md5;0f7466ea4508d180115e247bde99ac5b"},  
 {"key":"yqk1","name":"一起看js","type":3,"api":"./js/yqktv_open.js","jar": "./f.jar"},
@@ -70,7 +71,6 @@
 {"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/lib/tokenm.json$$$null$$$1","jar": "https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/yg/main/pg.jar"},
 {"key": "立播弹幕版","name": "OK->🐰立播┃在线","type": 3,"api": "csp_Libvio","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "file://TV/ali_token.txt","cookie": "file://TV/quark_cookie.txt","uc_cookie": "file://TV/uc_cookie.txt","site": "https://libvio.link","danmu": true},"timeout": 30,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
 {"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "http://js.xn--z7x900a.com/PandaQ240824.jar;md5;8ba127f0a52c1a7cfc2185cc4f1392ba"},
-{"key": "韩小圈","name": "韩小圈｜APP","type": 3,"api": "csp_HanXiaoQuan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"},
 {"key": "哔嘀","name": "肥猫->😹┃哔嘀┃影视","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "http://js.xn--z7x900a.com/PandaQ240824.jar;md5;8ba127f0a52c1a7cfc2185cc4f1392ba"},
 {"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true},"jar": "./danmu.jar/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"},
 {"key": "文才","name": "OK->🌺文才┃在线","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
