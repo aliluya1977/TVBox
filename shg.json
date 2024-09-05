@@ -3,7 +3,7 @@
 "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":[
-{"key": "采集之王","name": "采集｜合集","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1"},
+{"key": "采集之王","name": "采集｜合集","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"},
 {"key": "南瓜影视","name": "南瓜影视[jar]","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "荐片","name": "磁力｜荐片[jar]","type": 3,"api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://api2.rinhome.com"},
 {"key": "厂长资源","name": "厂长｜资源[jar]","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czys.pro/"},
