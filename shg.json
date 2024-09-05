@@ -24,7 +24,6 @@
 {"key": "疯狗影视","name": "疯狗｜影视[jar]","type": 3,"api": "csp_FengGo","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "FreeOK","name": "Free｜影视[jar]","type": 3,"api": "csp_FreeOK","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "全网影视","name": "全网｜影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key": "桃子影视","name": "桃子｜影视","type": 3,"api": "csp_Taozi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "明日影视","name": "明日影视[jar]","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1},
 {"key": "啾啾影视","name": "啾啾影视[jar]","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1},
 {"key": "星辰影视","name": "星辰影视[jar]","type": 3,"api": "csp_WexXingchen","searchable": 1,"changeable": 1},
@@ -77,9 +76,7 @@
 {"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true},"jar": "./danmu.jar/danmu.jar;md5;79f4aaa5e0117750d0b141bbd90a260d"},
 {"key": "文才","name": "OK->🌺文才┃在线","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
 {"key": "JOJO","name": "OK->🍭JOJO┃直连","type": 3,"api": "csp_Jiohub","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
-
 {"key": "河马","name": "OK->🦓河马┃在线","type": 3,"api": "csp_Oka","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"ext": "{\"cateUrl\":\"https://www.hemahd.com/tags/{cateId}--------{page}---.html\", \"cate\":\"电影$1#电视剧$2#动漫$3#综艺$4\", \"search\":\"/sou/{search}-------------.html\"}","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
-{"key": "桃子","name": "OK->🍑桃子┃在线","type": 3,"api": "csp_Oka","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10,"ext": "{\"cateUrl\":\"https://www.taozi007.com/show/{cateId}--------{page}---.html\", \"cate\":\"电影$1#剧集$2#动漫$3#综艺$4#短剧$5\",\"playFrom\":\".module-tab-items .module-tab-item span\",\"playUrl\":\".module-list .module-play-list\", \"search\":\"/search/{search}-------------.html\", \"webview\":1}","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724774956066/okjpg.txt;md5;cbb824a6761aa150054da16f244e6b92"},
 {"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu", "searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar": "https://8415.kstore.space/Tvbox/jar/XBiubiuLA4.jar"},
 {"key": "小点","name": "小点影视fan","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "./jar/gd5ic01b6d4922692401eac6018178d033d06"},
 
