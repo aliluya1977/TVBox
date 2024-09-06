@@ -1975,7 +1975,6 @@
 {"key": "暮暮动漫","name": "暮暮动漫","type": 3,"api": "csp_WebMuTeFun","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://www.mutean.com"},
    
 {"key": "music","name": "音乐|狗狗","type": 3,"api": "csp_Music","searchable": 0,"jar": "./jar/YSZYZ.jar;md5;b7a9c006c3a4985d809c4a1bcd5fa865","changeable": 0,"style": {"type": "rect","ratio": 1.433}},
-{"key": "Iktv","name": "KTV","type": 3,"api": "csp_Iktv","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key": "Yinyuetai","name": "音悦台","type": 3,"api": "csp_Yinyuetai","searchable": 1,"changeable": 0,"jar":"https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg.jar"},
 {"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktv","searchable": 1,"changeable": 0,"jar":"./jar/wex240906.txt;md5;1844bdd8027f68cd275aeb67c36472eb"},
 {"key": "Pandalivetv","name": "😍韩国美女直播","type": 3,"api": "csp_WexPandalivetv", "searchable": 0,"changeable": 0,"jar":"./jar/wex240615.txt;md5;6622c38b0681db3f6636ed592fbe9b49"},
