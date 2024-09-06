@@ -1732,7 +1732,7 @@
     "播放列表": "<a&&</a >"}},
 {"key":"csp_BTPiaoHua","name":"磁力新飘花电影网[candymuj]","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar": "./candymuj.jar;md5;a5162911df74b1cae8fd7abd767a4a71"},
 {"key": "磁力熊","name": "磁力｜磁力熊[js]","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/磁力熊.js"},
-{"key": "XBPQ_天堂","name": "🏞️天堂┃电影","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "XBPQ_天堂","name": "天堂┃电影[XBPQ]","type": 3,"api": "csp_XBPQ","ext": {
 "作者":"xl",
 "站名":"电影天堂BT",
 "主页url":"https://www.dy2160.com/",
