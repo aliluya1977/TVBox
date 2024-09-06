@@ -1920,6 +1920,7 @@
 {"key":"csp_XBPQ_短剧吧","name":"🐞短剧吧[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/duan1.json"}, 
 {"key":"csp_XBPQ_短剧吧2","name":"🐞短剧吧2[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/duan8.json"}, 
 
+{"key": "drpy_js_两个BT","name": "影视|两个BT[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/两个BT.js"},
 //{"key": "drpy_js_百忙无果","name": "芒果视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/芒果视频.js"},
 {"key": "drpy_js_奇珍异兽","name": "爱奇艺视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/爱奇艺视频.js"},
 {"key": "drpy_js_优酷","name": "优酷视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/优酷视频.js"},
