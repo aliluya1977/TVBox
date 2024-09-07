@@ -528,6 +528,11 @@
         "分类标题":"classfont\">&&</p>",
         "分类ID":"index.php/vodtype/&&.html",
         "分类url":"https://www.txcyeat.buzz/index.php/vodtype/{cateId}-{catePg}.html;;z"}},
+{ "key": "麻豆","name": "🔞麻豆","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": { 
+            "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
+            "分类": "日本视频$1#麻豆视频$2",
+            "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
+            "直接播放":"1"}},
 {"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
         "搜索链接":"http://8298ck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
         "主页url":"http://8298ck.cc/hs1.php",
@@ -759,22 +764,6 @@
                 //"分类url":"https://vip.woaav.online:13097/vodtype/{cateId}-{catePg}.html"
                 "分类url": "https://vip.woaav.online:13097/vodshow/{cateId}--{by}------{catePg}---.html"
                 }},
-            { "key": "麻豆",
-            "name": "🔞麻豆",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",            
-            "style": {"ratio": 1.7},
-            "ext": { 
-            "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-            "分类": "日本视频$1#麻豆视频$2",
-            "分类url": "http://gcmd.cc/index.php/vod/show/class/{class}/id/{cateId}/page/{catePg}.html",
-            "直接播放":"1"
-            }
-        },
   {"key":"花影视","name":"🔞花影视","type":3,"api":"csp_XBPQ","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>","图片": "data-original=\"&&\"","标题": "<h6 class=\"title\"><a href=*>&&</a>","播放数组":"class=\"item line\">&&</div>","线路数组":"class=\"item line\">&&</div>","分类url":"https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html]","分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"}},
   {"key":"零太视频","name":"🔞零太视频","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":
   {"数组":"class=\"v-pic&&<li>",
