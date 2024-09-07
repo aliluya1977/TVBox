@@ -30,7 +30,7 @@
 {"key": "明日影视","name": "明日影视[jar]","type": 3,"api": "csp_WexMingriys","searchable": 1,"changeable": 1},
 {"key": "啾啾影视","name": "啾啾影视[jar]","type": 3,"api": "csp_Wexjiohub","searchable": 1,"changeable": 1},
 {"key": "星辰影视","name": "星辰影视[jar]","type": 3,"api": "csp_WexXingchen","searchable": 1,"changeable": 1},
-{"key": "xcys","name": "星辰｜影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
+{"key": "xcys","name": "星辰｜影视[XBPQ]","type": 3,"api": "csp_XBPQ","ext": {"分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"}},
 {"key": "纯享影视","name": "纯享影视[jar]","type": 3,"api": "csp_WexF4kvm","searchable": 1,"changeable": 1},
 {"key": "愉悦影视","name": "愉悦影视[jar]","type": 3,"api": "csp_Wexyuyueys","searchable": 1,"changeable": 1},
 {"key": "视频库","name": "视频库[jar]","type": 3,"api": "csp_WebVidHub","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://vidhub1.cc"},
