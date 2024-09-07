@@ -3,8 +3,8 @@
 "spider": "./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 "wallpaper":"https://api.likepoems.com/img/bing",
 "sites":[
-{"key": "hipy_js_腾云驾雾[官]","name": "🌞腾腾┃解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
-{"key": "guoguo","name": "🌞果果┃解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"},
+{"key": "hipy_js_腾云驾雾[官]","name": "🌞腾讯┃4K解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
+{"key": "guoguo","name": "🌞芒果┃4K解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"},
 {"key": "采集之王","name": "采集｜合集","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"},
 {"key": "六六六","name": "六六六｜APP","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " http://122.228.85.203:1000/api.php/app/"},
 {"key": "南瓜影视","name": "南瓜影视[jar]","type": 3,"api": "csp_WexNgys","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -1922,10 +1922,10 @@
 
 {"key": "磁力熊","name": "磁力｜磁力熊[js]","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/磁力熊.js"},
 {"key": "drpy_js_两个BT","name": "影视|两个BT[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/两个BT.js"},
-//{"key": "drpy_js_百忙无果","name": "芒果视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/芒果视频.js"},
+{"key": "drpy_js_百忙无果","name": "芒果视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/芒果视频.js"},
 {"key": "drpy_js_奇珍异兽","name": "爱奇艺视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/爱奇艺视频.js"},
 {"key": "drpy_js_优酷","name": "优酷视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/优酷视频.js"},
-//{"key": "drpy_js_腾云驾雾","name": "腾讯视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/腾讯视频.js"},
+{"key": "drpy_js_腾云驾雾","name": "腾讯视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/腾讯视频.js"},
 {"key": "drpy_js_360影视","name": "360视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/360影视.js"},
 {"key": "drpy_js_菜狗","name": "搜狗视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/搜狗视频.js"},
 {"key": "drpy_js_哔哩影视","name": "哔哩哔哩影视","type": 3,"api": "./JS/drpy2.min.js", "ext": "./js/哔哩影视.js"},
