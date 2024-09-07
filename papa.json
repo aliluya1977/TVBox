@@ -1,7 +1,7 @@
 {
 
 //"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
-"spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider.jar;md5;08627128682cda2802a3c4ab7bc3a375",
+"spider":"./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 
 "sites":[
 {"key":"Taohuazu","name":"🇨🇳🍑🌸族","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60,"jar":"https://8415.kstore.space/Tvbox/jar/pg-18.jar"}, 
@@ -15,7 +15,7 @@
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "四虎","name": "🔞四虎影院","type": 3,"api": "csp_XBPQ","playerType": 2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "站名": "四虎影院",
-                "主页url": "https://www.82dk3sf.com/Enter/home.html",
+                "主页url": "https://www.679fd9.com//Enter/home.html",
                 "简介": "名称：&&</h3>",
                 "数组": "img class=\"nature&&</dl>",
                 "二次截取": "",
@@ -30,11 +30,11 @@
                 "导演": "导演：</span>&&</p>",
                 "主演": "主演：</span>&&</p>",
                 "搜索模式": "1",
-                "搜索url": "https://www.82dk3sf.com/searchs/index.php?page={pg}&keyboard={wd}&classid=0",
+                "搜索url": "https://www.679fd9.com//searchs/index.php?page={pg}&keyboard={wd}&classid=0",
                 "搜索数组": "<dt>&&</dt>",
                 "搜索标题": "_blank\"&&<",
                 "分类": "国产$video#自拍$video/zipai#淫妻作乐$video/fuqi#开放青年$video/kaifang#精品分享$video/jingpin#台湾辣妹$video/twmn#动漫卡通$video/dongman#经典三级$video/sanji#onlyfans主播$onlyfans#女优$av#女性向纯爱$av/nxx#GIGA女战士$av/giga#波多野结衣$av/bdyjy#深田咏美$av/stym#桥本有菜$av/qbyc#苍井空$av/cjk#三上悠亚$av/ssyy#吉泽明步$av/jzmb#电影$movie#无码中字$movie/wuma#SM系列$movie/sm#高清无码$movie/gaoqing#熟女人妻$movie/shunv#美颜巨乳$movie/meiyan#丝袜制服$movie/siwa#中文有码$movie/youma#欧美系列$movie/oumei",
-                "分类url": "https://www.82dk3sf.com/{cateId}/{class}/index_{catePg}.html[firstPage=https://www.82dk3sf.com/{cateId}/{class}/]"}},
+                "分类url": "https://www.679fd9.com//{cateId}/{class}/index_{catePg}.html[firstPage=https://www.679fd9.com//{cateId}/{class}/]"}},
 {"key": "XHP","name": "高清小黄片","type": 3,"api": "csp_XBPQ","ext": {
             "主页url": "http://gqxhp.top/",
             "分类": "高清一区$1#高清二区$2#高清三区$3#高清福利$33",
