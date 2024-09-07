@@ -580,17 +580,23 @@
     "分类数组": "<li&&</li>",
     "分类标题": ">&&/a>",
     "分类ID": "/vodtype/&&.html"}},
-
-{
-            "key": "纤纤影视福利版",
-            "name": "🔞纤纤影视H版",
-            "type": 3,
-            "api": "csp_XBPQ",         
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
+{"key": "csp_91黑料","name": "🔞91黑料","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+                "主页url": "https://kb17.oneoneno8cd345.xyz/one",
+                "首页": "400",
+                "请求头": "User-Agent$PC_UA",
+                "数组": "<a&&</a>[不包含:91网曝黑料网#最近更新]",
+                "二次截取": "<div class=\"videoListBox\"&&el-pagination is-background",
+                "标题": "title\">&&</p>",
+                "副标题": "time\">&&</div>",
+                "链接": "https://kb17.oneoneno8cd345.xyz/v/+href=\"/voddetail/&&/\"+/sid/1/nid/1/",
+                "图片": "data-src=\"&&\"",
+                "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+                "搜索url": "https://kb17.oneoneno8cd345.xyz/s/wd/{wd}/",
+                "分类url": "https://kb17.oneoneno8cd345.xyz/t/{cateId}-{catePg}/;;z",
+                "分类数组": "<a&&</a>",
+                "分类标题": ">&&</a>",
+                "分类ID": "/t/&&/"}},
+{"key": "纤纤影视福利版","name": "🔞纤纤影视H版","type": 3,"api": "csp_XBPQ","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "主页url": "https://m.xian372.top/L/26.html",
                 "请求头": "手机",
                 "编码": "gb2312",
@@ -615,10 +621,8 @@
                 "分类数组": "<a&&</a",
                 "分类标题": ".html\">&&</a[不包含:2#3#4#5#下一页]",
                 "分类ID": "href=\"/L/&&.html\"",
-                "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
-            }
-        },
-        {"key":"2028天天看","name":"🔞2028天天看","type":3,"playerType":2,"api":"csp_XBPQ","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"class=\"active\" style=\"width:70%;\">&&</li>","链接":"href=\"&&\"","直接播放":"1","搜索url":"http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=;;RC","分类":"无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍自慰$10#动漫$5#3P和sm$11#口交颜射$12#写真伦理$13","分类url":"http://2028p.com/vodtype/{cateId}-{catePg}/[http://2028p.com/vodtype/{cateId}/]"}},
+                "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"}},
+{"key":"2028天天看","name":"🔞2028天天看","type":3,"playerType":2,"api":"csp_XBPQ","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"class=\"active\" style=\"width:70%;\">&&</li>","链接":"href=\"&&\"","直接播放":"1","搜索url":"http://2028p.com/vodsearch/----------{pg}---.html?wd={wd}&submit=;;RC","分类":"无码$1#中文av$6#国产$2#制服巨乳$7#欧美$3#人妻乱伦$8#有码$4#日韩$9#自拍自慰$10#动漫$5#3P和sm$11#口交颜射$12#写真伦理$13","分类url":"http://2028p.com/vodtype/{cateId}-{catePg}/[http://2028p.com/vodtype/{cateId}/]"}},
      {
   "key": "m2v",
   "name": "🔞千百撸",
