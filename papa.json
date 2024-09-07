@@ -298,26 +298,22 @@
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
             }
 },
-{
-"key": "女优色库",
-"name": "🔞女优色库",
-"type": 3,
-"api": "csp_XBPQ",
-"jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-"style": {"ratio": 1.7},
-"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"
-},
-{
-            "key": "暗网色库",
-            "name": "🔞暗网",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "style": {
-                "ratio": 1.7
-            },
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/暗网.json"
-        },
+{"key": "女优色库","name": "🔞女优色库","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"},
+{"key": "暗网色库","name": "🔞暗网","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
+    "主页url": "https://awjqub.sbs/layout.html",
+    "数组": "class=\"myui-vodlist__box&&</div>",
+    "图片": "style=\"background: url('&&')",
+    "标题": "title=\"&&\"",
+    "副标题": "<time>&&</time>",
+    "简介": "description\"*content=\"&&火热",
+    "链接": "href='&&'[替换:display>>detail]",
+    "搜索模式": "1",
+    "搜索url": "https://awjqub.sbs/lookup/{wd}/L/{pg}",
+    "分类二次截取": "",
+    "分类数组": "<a&&/a",
+    "分类标题": "title=\"&&\"",
+    "分类ID": "/sort/id/&&.html",
+    "分类url": "https://awjqub.sbs/type/{cateId}/{catePg};;z"}},
 {"key":"吃瓜爆料网","name":"吃瓜爆料网","type":3,"api":"csp_XBPQ","jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://cgblw.com/","数组":"<meta itemprop=\"dateModified&&/h2","图片":"https://tuapi.eees.cc/api.php?category=meinv&type=302","标题":"headline\">&&<","副标题":"content=\"&&\"","链接":"href=\"&&\"","搜索url":"","分类url":"https://www.cgcg7.net/category/{cateId}/{catePg}/;;zDt","分类":"今日吃瓜$jrgb#最热头条$zrtt#网红爆料$whbl#反差爆料$fcbl#聚焦时事$jjss#国产精品$gcjp#校园瓜闻$xygw#吃瓜搞笑$cggx#电影天堂$dytt#领导秘事$ldms#海角论坛$hjlt#暗网猎奇$awlq"}},
 {
       "key": "PPT",
