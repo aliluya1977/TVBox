@@ -86,7 +86,7 @@
   {"key": "SOAV1","name": "🔞SOAV1","type": 3,"api": "csp_XBPQ","style":{"type": "rect","ratio": 1.5},"ext": {
                 "主页url": "https://www.wantav.co/",
                 "搜索url": "https://777080.xyz/?s={wd}",
-                "数组": "data-video-uid=&&</div>",
+                "数组": "class=\"video-img-box&&</p>",
                 "图片": "data-src=\"&&\"",
                 "标题": "alt=\"&&\"",
                 "副标题": "</i>&&</span>",
@@ -98,7 +98,7 @@
         "主页url": "https://www.nice106.xyz/",
         "图片": "src=\"&&\"",
         "简介": "⚠️慢点撸，皮要掉了！！！",
-        "分类url": "https://www.nice106.xyz/index.php/vod/type/id/{cateId}.html",
+        "分类url": "https://www.wantav.co/index/getstylemvs/id/{cateId}/sort/update/page/{catePg}",
         "分类": "中文字幕$1#日本有码$2#日本无码$3#AV解说$4#cosplay$5#黑丝诱惑$6#SWAG$7#自拍偷拍$8#激情动漫$9#网红主播$10#探花系列$11#三级伦理$12#VR视角$13#国产传媒$14#素人搭讪$15#门事件$16"}},
 {"key": "RJAV","name": "🔞RJAV","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://rjav.tv/zh/",
