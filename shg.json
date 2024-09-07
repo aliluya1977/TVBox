@@ -41,6 +41,7 @@
 {"key": "ddys_js","name": "OK->🍄低端┃在线","type": 3,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js","ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt","timeout": 15},
 {"key": "美剧迷","name": "磁力｜美剧迷[jar]","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "天天美剧网（APP）","name": "天天美剧网[APP]","type": 3,"api": "csp_AppYsV2", "ext": "https://www.ttmja.com/api.php/app/"},
+{"key": "yt","name": "宝盒┃4K","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " http://cms-yt.lyyytv.cn/api.php/app/"}, 
 {"key":"drpy_js_69mj","name":"69美剧[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/69美剧.js"},
 {"key": "凤凰城美剧","name": "凤凰城美剧[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
 	"主页url": "https://www.fhcmeiju.com/",
