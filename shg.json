@@ -90,6 +90,7 @@
                 "线路标题": "宝盒专享✨+<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": "宝盒专享✨+>&&</","简介": "✨宝盒提醒：请勿相信视频里的广告！✨+<p>&&</p >","搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
                 "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
+{"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}}, 
 
 {"key":"南瓜影视2","name":"南瓜影视2[js]","type":3,"api":"./JS/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key": "蚂蚁","name": "忍者影视[pg1jar] ","type": 3,"api": "csp_Mayiys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://rzys.xyz","jar": "https://8415.kstore.space/Tvbox/jar/pg1.jar;md5;0f7466ea4508d180115e247bde99ac5b"},  
