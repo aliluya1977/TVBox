@@ -284,28 +284,6 @@
         "分类标题":">&&<",
         "分类ID":"/vod/type/id/&&/",
         "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
-{
-            "key": "avge",
-            "name": "💗┃💋AVge┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://avgle.to",
-                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "class=\"title\"><a*>&&</a >",
-                "链接": "<a href=\"&&\"",
-                "直接播放": "1",
-                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-            }
-},
-{"key": "女优色库","name": "🔞女优色库","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/女优.json"},
 {"key": "暗网色库","name": "🔞暗网","type": 3,"api": "csp_XBPQ","style": {"ratio": 1.7},"ext": {
     "主页url": "https://awjqub.sbs/layout.html",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -344,24 +322,15 @@
         "播放链接": "href=\"&&\"",
         "直接播放":"体育",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
-        "分类url":"https://ptt.red/p/{cateId}?page={catePg}"
-      }
-},
+        "分类url":"https://ptt.red/p/{cateId}?page={catePg}"}},
 {"key":"黑料","name":"🍁黑料网","type":3,"api":"csp_XBPQ","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://155.fun/(T)","短视频":"1","嗅探词":"https://hls.vdtuzv.com/videos3/#.m3u8?","数组":"<a class=\"cursor-pointer&&</a >","图片":"https://tuapi.eees.cc/api.php?category=meinv&type=302","标题":"title\" data-v-a51695bc>&&</div>","副标题":"ishot\" data-v-a51695bc>&&</div>","链接":"href=\"/archives/&&.html\"","链接前缀":"https://g3o9.ycoowhtcj.com/archives/","链接后缀":".html","分类url":"https://g3o9.ycoowhtcj.com/category/{cateId}/{catePg}.html","分类":"独家爆料&网红明星&反差女友&校园政坛&性爱课堂&奇闻异事&热点吃瓜&今日黑料&经典大瓜&黑料历史&每日热瓜","分类值":"9&1&4&2&12&3&7&6&8&10&11"}},
-{"key":"高清xxxx黑料",
-         "name":"🍁高清xxxx黑料",
-         "type":3,
-         "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-         "api":"csp_XBPQ",
-         "searchable":1,
-         "quickSearch":1,
-         "filterable":1,
-         "ext":{"发布地址":"https://xxxxxxav3.com",
+{"key":"高清xxxx黑料","name":"🍁高清xxxx黑料","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"https://xxxxxxav3.com",
          "主页url":"https://xxxxxxav3.com/xxxx",
          "数组":"class=\"item-box\">&&</a","图片":"src=\"&&\"","标题":"title=\"&&\"","副标题":"<small>&&</small>","简介":"description\" content=\"&&|全站",
          "链接":"href=\"&&\"[替换:voddetail>>v]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")",
          "搜索模式":"1","搜索url":"https://xxxxxxav3.com/s/page/{pg}/wd/{wd}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/t/&&/","分类url":"https://xxxxxxav3.com/t/{cateId}-{catePg}/;;z"}},
-{"key":"传媒二区","name":"🍁传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://www.34gaobk.com/index.html","数组":"<div class=\"card mb-0\">&&</a","标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>","简介":"document.title=\'&&\'","直接播放":"1","搜索模式":"1","搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/gaotype/&&.html","分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"},
+{"key":"传媒二区","name":"🍁传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+  "主页url":"https://www.34gaobk.com/index.html","数组":"<div class=\"card mb-0\">&&</a","标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>","简介":"document.title=\'&&\'","直接播放":"1","搜索模式":"1","搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/gaotype/&&.html","分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"},
 {"key": "天空影院H","name": "天空影院┃H版","type": 3,"api": "csp_XBPQ","playerType": "2","ext": {
                 "请求头": "",
                 "发布页": "",
@@ -383,15 +352,8 @@
                 "分类url": "http://tkyy.site/index.php/vodshow/{cateId}--------{catePg}---{year}.html",
                 "分类数组": "<a&&</a",
                 "分类标题": ">&&</a",
-                "分类ID": "href=\"/index.php/vodshow/&&-----------.html\""
-            }
-},
-{"key": "爱豆传媒",
-            "name": "🔞爱豆传媒",
-            "type": 3,
-            "api": "csp_XBPQ",
-    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "ext": {
+                "分类ID": "href=\"/index.php/vodshow/&&-----------.html\""}},
+{"key": "爱豆传媒","name": "🔞爱豆传媒","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://rourou.co/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -400,30 +362,14 @@
                 "标题": "title=\"&&\"",
                 "链接": "href=\"&&\"",
                 "分类url": "https://rourou.co/index.php/vod/type/id/{cateId}/page/{carePg}.html",
-                "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"
-            }
-},
-{
-            "key": "亚色影库",
-            "name": "🔞亚瑟影库",
-            "type": 3,
-            "api": "csp_XBPQ",
-    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "ext": {
+                "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"}},
+{"key": "亚色影库","name": "🔞亚瑟影库","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://www.yasetube.com/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
                 "分类url": "https://www.yasetube.com/video/category/{cateId}/page/{catePg}",
-                "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"
-            }
-},
-{
-            "key": "色最色",
-            "name": "🔞色最色",
-            "type": 3,
-            "api": "csp_XBPQ",
-    "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "ext": {
+                "分类": "女厕偷拍$nvce#海角系列$hj#FC2 PPV$fc2-ppv#Mesubuta系列$me#MILF人妻无码$milf#偷拍自拍$dalu#品牌传媒$madou"}},
+{"key": "色最色","name": "🔞色最色","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://xn--zovv42dba.com/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -596,7 +542,7 @@
     "分类数组": "<li&&</li>",
     "分类标题": ">&&/a>",
     "分类ID": "/vodtype/&&.html"}},
-{"key": "csp_91黑料","name": "🔞91黑料","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+{"key": "csp_91黑料","name": "🔞91黑料(科学上网)","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
                 "主页url": "https://kb17.oneoneno8cd345.xyz/one",
                 "首页": "400",
                 "请求头": "User-Agent$PC_UA",
