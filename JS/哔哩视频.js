@@ -32,7 +32,7 @@ var rule = {
         "Referer": "https://www.bilibili.com",
         "Cookie":"buvid3=4AE65483-AE8B-4B8A-9E70-2ECB290F8012148796infoc; b_nut=1638236210; CURRENT_FNVAL=4048; buvid4=03F9D01F-919E-5301-CAA4-E0D626C40D0223816-022032520-GlymH7ZVG/nfW6G7DmiQwg%3D%3D; rpdid=|(k|YkRlYRmY0J'uY~|kklRYu; fingerprint=bcec6f62cbb8f0328e2988cab1530e3a; buvid_fp_plain=undefined; PVID=1; buvid_fp=bcec6f62cbb8f0328e2988cab1530e3a; DedeUserID=392430248; DedeUserID__ckMd5=92fb669487f062b2; CURRENT_QUALITY=80; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=5; _uuid=761043F107-DE87-633C-363F-8819292710410B14945infoc; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO3317128964866191; b_lsid=B9102CEAF_191731B0EF5; browser_resolution=2492-1286; SESSDATA=5dc6c209%2C1739765039%2C4c250%2A81CjCO1hbhlsG2OBK1ywlf8ElfP4tSvjudU2VLexbRZSqhP0Pvl1chp2xI3Zo-r2Vlv6wSVm92SnRCMGtWODUxQTJMcVR0ekFqNlpVR1dBazBsMDVMWlRZdVZLd1pnb25sVG9ZbEotUEktVFFJbl8xY25pZ3pSYWFpQ2ozSTR4bkJqQ1BtcEVJQmhBIIEC; bili_jct=de1027728bcc9bcbeec1765bdc1c2b10; sid=h55ubmev; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjQ0NzIyNDQsImlhdCI6MTcyNDIxMjk4NCwicGx0IjotMX0.tk7ycdAznYjPId355nkSr2CQrc5YcBS0kAdrMmd01tE; bili_ticket_expires=1724472184"
     },
-    tab_order:['B站','bilibili'],//线路顺序,按里面的顺序优先，没写的依次排后面
+    tab_order:['bilibili','B站'],//线路顺序,按里面的顺序优先，没写的依次排后面
     timeout:5000,
     class_name:'番剧&国创&电影&电视剧&纪录片&综艺&全部&追番&追剧&时间表',
     class_url:'1&4&2&5&3&7&全部&追番&追剧&时间表',
