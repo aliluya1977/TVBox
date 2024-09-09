@@ -1945,7 +1945,7 @@
 {"key": "drpy_js_奇珍异兽","name": "爱奇艺视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/爱奇艺视频.js"},
 {"key": "drpy_js_优酷","name": "优酷视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/优酷视频.js"},
 {"key": "drpy_js_腾云驾雾","name": "腾讯视频","type": 3,"api": "./JS/drpy2.min.js", "ext": "./JS/腾讯视频.js"},
-{"key": "drpy_js_360影视","name": "360视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/360影视.js"},
+{"key": "drpy_js_360影视","name": "360视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/三六零.js"},
 {"key": "drpy_js_菜狗","name": "搜狗视频","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/搜狗视频.js"},
 {"key": "drpy_js_哔哩影视","name": "哔哩哔哩影视","type": 3,"api": "./JS/drpy2.min.js", "ext": "./js/哔哩影视.js"},
 {"key":"茶杯狐2","name": "茶杯狐[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/茶杯狐.js"},
