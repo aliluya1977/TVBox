@@ -2,7 +2,6 @@
     "classes":[
 {"type_name": "推荐","type_id": "推荐"},
 {"type_name": "影视推荐","type_id": "影视推荐"},
-{"type_name": "电影推荐","type_id": "电影推荐"},
 {"type_name": "直播","type_id": "直播"},
 {"type_name": "沙雕动漫","type_id": "沙雕动漫"},
 {"type_name": "沙雕动画","type_id": "沙雕动画"},
