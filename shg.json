@@ -2048,7 +2048,7 @@
 {"name": "4K解析","type": 1,"url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "1080解析","type": 1,"url": "https://jf.lemiaoyun.cn/api/?key=bc1e1c72813140c311929a461d167707&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "666专线","type": 1,"url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
-{"name": "腾讯4K专线","url": "http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=","type": "1"},
+//{"name": "腾讯4K专线","url": "http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=","type": "1"},
 {"name": "XGJ专线","url": "http://43.248.100.147:1122/bba/xgjjson.php?url=","flag": ["BBA"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "XMY专线","url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=","flag": ["NBY"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "LX专线","url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","flag": ["LXTX"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
