@@ -140,7 +140,7 @@
 {"key": "美剧迷","name": "磁力｜美剧迷[jar]","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "天天美剧网（APP）","name": "天天美剧网[APP]","type": 3,"api": "csp_AppYsV2", "ext": "https://www.ttmja.com/api.php/app/"},
 {"key": "美剧天堂","name": "美剧天堂｜磁力","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"美剧天堂","name":"美剧天堂[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":{
+{"key":"mjtt","name":"美剧天堂[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":{
 	"主页url": "https://www.mjtt5.tv/",
 	"热门": "",
     "分类": "电影$dy#魔幻科幻$mhkh#灵异惊悚$lyjs#都市情感$dsqg#犯罪历史$fzls#选秀综艺$xxzy#动漫卡通$dmkt#最新更新$new#",
