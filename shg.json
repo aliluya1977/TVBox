@@ -193,11 +193,9 @@
 {"key": "土豆","name": "土豆臻享4K(阿里夸克)[jar]","type": 3,"api": "csp_Wextudou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/tudouliu.jar"},
 {"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./pg.jar"},
 {"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947"},
-{"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true}},
 {"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu", "searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar": "./jar/XBiubiuLA4.jar"},
 {"key": "小点","name": "小点影视fan","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "./jar/gd5ic01b6d4922692401eac6018178d033d06"},
-
-
+{"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true}},
 {"key": "哔嘀影视","name": "哔嘀影视｜磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "请求头参数": "User-Agent$电脑#Referer$https://www.yjys02.com",
     "网页编码格式": "UTF-8",
