@@ -28,6 +28,7 @@
 {"key": "小苹果弹幕","name": "小苹果｜弹幕","type": 3,"api": "csp_Xpg","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 {"key": "追剧影视","name": "追剧｜APP[jar]","type": 3,"api": "csp_AppZJ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://z.kzjtv.com/"},
 {"key": "大米星球","name": "大米｜APP[jar]","type": 3,"api": "csp_AppDaMi","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "忍者影视","name": "忍者｜APP","type": 3,"api": "csp_AppRZ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rzys.xyz/"},
 {"key":"快看1","name":"👀快看[jar]","type":3,"api":"csp_Kuaikan", "searchable":1,"quickSearch":1,"filterable":1},
 {"key": "追忆影视","name": "追忆影视[jar]","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://110.42.7.101:1122/api.php/app/"},
 {"key": "天天影视","name": "天天影视[jar]","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
