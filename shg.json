@@ -1,7 +1,8 @@
 {
 //"spider": "https://8415.kstore.space/Tvbox/jar/spider240905.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
 "spider": "./spider.jar;md5;4adf1d5aa5fe3706001804de9c74600a",
-"wallpaper":"https://api.likepoems.com/img/bing",
+//"wallpaper":"https://api.likepoems.com/img/bing",
+"wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key": "hipy_js_腾云驾雾[官]","name": "🌞腾讯┃4K解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/tx.js"},
 {"key": "guoguo","name": "🌞芒果┃4K解析","type": 3,"api": "http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "http://www.mpanso.com/%E5%B0%8F%E7%B1%B3/guoguo.js"},
