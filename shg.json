@@ -163,7 +163,6 @@
 {"key": "低端影视","name": "低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "立播影视","name": "立播｜影视","type": 3,"api": "csp_Libvio","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"}},
 {"key":"drpy_js_HDmoli","name":"磁力HDmoli[js]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./JS/HDmoli.js"},
-//{"key": "厂长资源","name": "厂长｜资源[jar]","type": 3, "api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_Xunlei8","name": "磁力迅雷吧[jar]","type": 3,"api": "csp_Xunlei8", "playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1 },
 {"key": "csp_KubaCL","name": "磁力酷吧[jar]","type": 3,"changeable": 0,"searchable": 0,"playerType": 1,"api": "csp_KubaCL"},
 {"key": "New6v","name": "磁力｜New6V[jar]","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
