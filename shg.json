@@ -1545,7 +1545,7 @@
 {"key": "皮皮影视吧","name": "皮皮影视┃4K","type": 3,"api": "csp_XBPQ","playerType": "2","ext": {
   "主页url": "https://www.pipiysb.com/",
   "数组": "<article id=\"post-*\"&&</article>",
-  "图片":"img src=\"&&\"",
+  "图片":"src=www&&\"",
   "标题": "alt=\"&&\"",
   "副标题": "update\">&&</div>+icon-star2\">&&</div>",
   "链接": "href=\"&&\"",
