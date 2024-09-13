@@ -1050,7 +1050,7 @@
 {"key": "夸克团长弹幕","name": "团长｜4K弹幕","type": 3,"api": "csp_Tzfile","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","danmu": true}},
 //{"key": "文才弹幕","name": "文才｜弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 //{"key": "土豆","name": "土豆臻享4K(阿里夸克)[jar]","type": 3,"api": "csp_Wextudou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/tudouliu.jar"},
-{"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./jar/pg.jar"},
+{"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./jar/影巢pg.jar"},
 {"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947"},
 //{"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true}},
 
