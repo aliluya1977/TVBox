@@ -1783,8 +1783,8 @@
 	//"播放列表": "<a&&</a>",
 	//"播放标题": "<span>&&</span>",
 	"播放链接": "href=\"&&\"",
-	"分类url": "https://zrys.top/index.php/vod/show/by/{by}/id/{cateId}/lang/{lang}/year/{year}/page/{catePg}.html",
-	"分类": "近期影院热播$42#电影$1#剧集$2#综艺$3#动漫$4#短剧$44#魔盒$31"}},
+	"分类url": "https://zrys.top/index.php/vod/show/area/{area}/by/{by}//class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
+	"分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$47"}},
 {"key": "meowtv_vsys","name": "威士影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":    {
     "主页url":"https://www.ytshengde.com/",
     "简介":"onclick=\"MyTheme.Layer.Text('剧情简介','&&','500','350')",
