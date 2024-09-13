@@ -1377,20 +1377,6 @@
 //{"key": "萌米1","name": "👀萌米App","type": 3,"api": "csp_AppTT", "timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==","jar": "https://8415.kstore.space/Tvbox/jar/fan231201.txt;md5;c84c36278bd8bc95a63449a128074be0"},
 //{"key":"csp_biubiu_VIP1280","name":"VIP1280(XB)","type":3,"api":"csp_XBiubiu", "searchable":1,"quickSearch":1,"filterable":0,"ext":"./MaooXB2/VIP1280.json","jar": "./jar/XBiubiuLA4.jar"},
 //{"key": "小点","name": "小点影视fan","type": 3,"api": "csp_Xdys", "searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "./jar/gd5ic01b6d4922692401eac6018178d033d06"},
-{"key": "✨YY影视✨","name": "UU|影视","type": 3,"api": "csp_XBPQ","ext": { 
-	        "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://uuys.cc",
-                "二次截取": "module-page&&<div id=\"page\">",
-                "数组": "<a&&</div></div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "链接": "href=\"&&\"",
-                "副标题": "✨SHG专享✨+module-item-note&&</div>",
-                "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
-                "线路标题": "SHG专享✨+<span>&&</span>+【共+<small>&&</small>+集】","播放数组": "module-play-list\"&&</div>","播放标题": "SHG专享✨+>&&</","简介": "✨宝盒提醒：请勿相信视频里的广告！✨+<p>&&</p >","搜索url":"https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
-                "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$2#电视剧$1#综艺$4#动漫$3"}},
 {"key": "白嫖者","name": "白飘|影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"+剧情介绍：&&</p >"}}, 
 {"key": "三米ys","name": "三米｜秒播","type": 3,"api": "csp_XBPQ","ext": {
             "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
@@ -1405,13 +1391,7 @@
 //{"key":"csp_BTPiaoHua","name":"💖磁力新飘花电影网[candymuj]","type":3,"api":"csp_BTPiaoHua","searchable":1,"jar": "./candymuj.jar;md5;a5162911df74b1cae8fd7abd767a4a71"},
 //{"key":"bili","name":"官网B站|Bili[pgjar]","type":3,"api": "csp_Bili", "searchable": 1,"quickSearch": 0,"changeable": 0,"ext":{"type":"推荐#直播#沙雕动漫#沙雕动画#短剧#热门#抖音热歌#经典无损音乐合集#索尼音乐中国#番剧#国创#放映厅#小姐姐#健身#演唱会#电影#电视剧#帕梅拉#纪录片#综艺#鬼畜#音乐#舞曲#白噪音#MV#广场舞#舞蹈#影视#知识#美食#风光#田园#户外#8K#软件教程","cookie":"buvid3=4AE65483-AE8B-4B8A-9E70-2ECB290F8012148796infoc; b_nut=1638236210; CURRENT_FNVAL=4048; buvid4=03F9D01F-919E-5301-CAA4-E0D626C40D0223816-022032520-GlymH7ZVG/nfW6G7DmiQwg%3D%3D; rpdid=|(k|YkRlYRmY0J'uY~|kklRYu; fingerprint=bcec6f62cbb8f0328e2988cab1530e3a; buvid_fp_plain=undefined; PVID=1; buvid_fp=bcec6f62cbb8f0328e2988cab1530e3a; DedeUserID=392430248; DedeUserID__ckMd5=92fb669487f062b2; CURRENT_QUALITY=80; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=5; _uuid=761043F107-DE87-633C-363F-8819292710410B14945infoc; FEED_LIVE_VERSION=V8; LIVE_BUVID=AUTO3317128964866191; b_lsid=B9102CEAF_191731B0EF5; browser_resolution=2492-1286; SESSDATA=5dc6c209%2C1739765039%2C4c250%2A81CjCO1hbhlsG2OBK1ywlf8ElfP4tSvjudU2VLexbRZSqhP0Pvl1chp2xI3Zo-r2Vlv6wSVm92SnRCMGtWODUxQTJMcVR0ekFqNlpVR1dBazBsMDVMWlRZdVZLd1pnb25sVG9ZbEotUEktVFFJbl8xY25pZ3pSYWFpQ2ozSTR4bkJqQ1BtcEVJQmhBIIEC; bili_jct=de1027728bcc9bcbeec1765bdc1c2b10; sid=h55ubmev; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MjQ0NzIyNDQsImlhdCI6MTcyNDIxMjk4NCwicGx0IjotMX0.tk7ycdAznYjPId355nkSr2CQrc5YcBS0kAdrMmd01tE; bili_ticket_expires=1724472184"},"jar": "https://8415.kstore.space/Tvbox/jar/pg.jar"},
 
-{"key": "剧圈圈","name": "剧圈圈影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"ua": "okhttp/3.15","quickSearch": 1,"filterable": 1,"ext":{
-  "分类url": "https://www.jqqzx.cc/vodshow/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[https://www.jqqzx.cc/vodshow/id/{cateId}.html]",
-  "分类": "电影&剧集&动漫&综艺&纪录片",
-  "分类值": "1&juji&dongman&zongyi&jilupian",
-  "简介":"<p>&&</p>",
-  "排序": "时间$time#人气$hits#评分$score",
-  "主页url": "https://www.jqqzx.cc/"}},
+
 {"key": "csp_七新影视","name": "七新影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
   "请求头参数":"手机",
   "网页编码格式":"UTF-8",
