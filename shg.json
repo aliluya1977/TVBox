@@ -1870,18 +1870,17 @@
 
 
   
-{"key":"csp_xml_飞速资源","name":"采集飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/", "playUrl":"","searchable":1,"quickSearch":1,"jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
+//{"key":"csp_xml_飞速资源","name":"采集飞速资源","type":1,"api":"http://fszy1.com/api.php/provide/vod/", "playUrl":"","searchable":1,"quickSearch":1,"jar": "https://8415.kstore.space/TVBox/jar/Yoursmile4.jar;md5;727926544613E9BA8EF43DC2F637E379"},
 {"key": "cjzy_快看","name": "采集👁️‍🗨️快看","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/", "playUrl": "","changeable": 1,"playerType":2,"categories": ["国产剧","欧美剧","日本剧","韩国剧","港台剧","泰剧","新马剧","其他剧","海外剧","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","爱情片","犯罪片","科幻片","网络电影","国产动漫","日本动漫","欧美动漫","港台动漫","国产综艺","韩国综艺","日本综艺","欧美综艺","港台综艺","伦理片","热门短剧"]},
 {"key": "Ikun资源","name": "采集Ikun资源","type": 0,"api": "https://ikunzyapi.com/api.php/provide/vod/at/xml/", "searchable": 1,"quickSearch": 1},
 {"key": "taopian","name": "🕹️淘片采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"filterable": 0},
-{"key": "奇虎资源","name": "🐯奇虎采集","type": 1,"api": "https://caiji.qhzyapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
 {"key": "虎牙","name": "🐯虎牙采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1},
 {"key": "heimuer","name": "采集黑木耳资源","type": 0,"api": "https://xml.heimuer.tv/api.php/provide/vod/at/xml", "playUrl": "https://player.heimuer.tv/index.html?url=","searchable": 1,"quickSearch": 1},
 {"key": "暴風1","name": "采集暴風资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1,"changeable": 1},
 {"key":"量子资源","name":"采集量子资源","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/", "searchable":1,"quickSearch":1},
 {"key": "csp_非凡","name": "采集非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
 {"key":"卧龙资源","name":"采集卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/", "searchable":1,"quickSearch":1},
-{"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable":1,"quickSearch":1,"playUrl": "https://jx.yhzybf.com/player/jx.php?url="},
+{"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list", "searchable":1,"quickSearch":1,"playUrl": "https://jx.yhzybf.com/player/jx.php?url="},
 {"key":"看看资源","name":"采集看看资源","type":1,"api":"https://zy.hikan.xyz/api.php/provide/vod/", "searchable":1,"quickSearch":1,"playUrl": "https://www.dmplay.xyz/decrypt/index?url="},
 {"key":"影图资源","name":"采集影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/", "searchable":1,"quickSearch":1},
 {"key":"39资源","name":"采集39资源","type":1,"api":"https://www.39kan.com/api.php/provide/vod/", "searchable":1,"quickSearch":1},
