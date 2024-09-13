@@ -2319,7 +2319,6 @@
 "parses": [
 {"name": "超级并发","type": 3,"url": "Demo"},
 {"name": "超级嗅探","type": 3,"url": "Web"},
-{"name": "4K解析","type": 1,"url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "1080解析","type": 1,"url": "https://jf.lemiaoyun.cn/api/?key=86950663b3198d25885fdf61501a3366&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "解析","type": 1,"url": "http://39.104.230.177:1122/lxjx/vipvip.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "666专线","type": 1,"url": "http://1.xiaomi666.work.gd/aini10.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
@@ -2342,7 +2341,6 @@
 {"name": "-爱豆bili-","type": 0,"url": "https://jx.aidouer.net/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer": "https://jiejie.uk/"}}},
 {"name": "-剖云-","type": 0,"url": "https://www.kkvip2022.com/vip/jiexi1/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name": "看看","type": 0,"url": "https://jx.m3u8.pw/?url="},
-{"name": "zhuimi","type": 1,"url": "http://103.117.123.51:2121/zhuimi666.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua"]}},
 {"name": "-爱酷-","type": 0,"url": "https://jx.zhanlangbu.com/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}}}],
 
 "lives":[
