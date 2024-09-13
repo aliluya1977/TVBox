@@ -133,7 +133,7 @@
     "播放标题":"<span>&&</span>",
     "播放列表":"<a&&</a>",
     "分类url":"https://sc1080.top/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#bilibli$5#记录片$6#奈飞片库$7#4K片库$8#次元城片库$9"}},
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4#记录片$5#奈飞片库$20"}},
 {"key": "Auete","name": "奥特[XBPQ]","type": 3,"api": "csp_XBPQ", "timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {
   "站名": "Auete",
   "主页url": "https://auete.com",
