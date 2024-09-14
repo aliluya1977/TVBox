@@ -2257,7 +2257,7 @@
 {"name": "DM专线","url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=","flag": ["yhdm","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "盘古解析","url": "https://www.pangujiexi.com/jiexi/?url=","type": 0,"ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"]},"header": {"User-Agent": "Mozilla/5.0"}},
 {"name": "夜幕解析","type": 0,"url": "https://www.yemu.xyz/?url="},
-{"name": "线路1","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+{"name": "线路1","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"]},"header": {"User-Agent": "okhttp/4.1.0"}},
 {"name": "线路2","type": 0,"url": "https://jx.yparse.com/index.php?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
 {"name": "线路3","type": 0,"url": "https://jx.aidouer.net/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36","referer": "https://jiejie.uk/"}}},
 {"name": "线路4","type": 0,"url": "https://www.8090g.cn/?url="},
