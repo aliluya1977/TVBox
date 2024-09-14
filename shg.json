@@ -311,6 +311,7 @@
 {"key": "drpy_js_两个BT","name": "影视|两个BT[js]","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "./js/两个BT.js"},
 {"key": "兄弟影视","name": "兄弟｜影视","type": 3,"api": "csp_Xdys","searchable": 1,"quickSearch": 1,"filterable": 1},	
 {"key": "一起看弹幕","name": "一起看｜弹幕","type": 3,"api": "csp_Yqk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
+{"key":"yqk1","name":"一起看js","type":3,"api":"./js/yqktv_open.js","jar": "./f.jar"},
 {"key": "视频库","name": "视频库[jar]","type": 3,"api": "csp_WebVidHub","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://vidhub1.cc"},
 {"key": "饺子影视","name": "饺子｜影视","type": 3,"api": "csp_Jiaozi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "全网影视","name": "全网｜影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://fm666.qkw1.cc"},	
@@ -1356,7 +1357,6 @@
             "分类url": "http://www.9-here.com/index.php/s/S-id-{cateId}-{catePg}/area/{area}/by/{by}/class/{class}/lang/{lang}/year/{year}.html[http://www.9-here.com/index.php/t/S-{cateId}-{catePg}.html]",
             "分类": "电影$movie#连续剧$drama#动漫$comic#综艺$tvshow"}},
 
-//{"key":"yqk1","name":"一起看js","type":3,"api":"./js/yqktv_open.js","jar": "./f.jar"},
 //{"key": "原创","name": "原创Ray","type": 3,"api": "csp_YCyz","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "./jar/gd5ic01b6d4922692401eac6018178d033d06"},
 //{"key":"csp_CandyMuj_dyls","name":"💖极速影视[CandyMuj]","type":3,"api":"csp_CandyMuj_dyls","searchable":1,"quickSearch":1,"filterable":1,"ext":"./libs/dyls.json","jar": "./candymuj.jar;md5;a5162911df74b1cae8fd7abd767a4a71"},
 //{"key":"csp_CandyMuj_yzzy","name":"💖优质资源[CandyMuj]","type":3,"api":"csp_CandyMuj_yzzy","searchable":1,"quickSearch":0,"filterable":1,"jar": "./candymuj.jar;md5;a5162911df74b1cae8fd7abd767a4a71"},
