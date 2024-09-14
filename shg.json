@@ -81,6 +81,7 @@
   "分类":"动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&欧美剧&日韩剧&国产剧&港台剧&海外剧&动漫&综艺&记录",
   "分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15"}},
 {"key": "南瓜影视","name": "南瓜影视[jar]","type": 3,"type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"ng","name":"南瓜影视[cat]","type":3,"api":"./cat/ng_open.js","jar": "./f.jar"},
 //{"key":"南瓜影视2","name":"南瓜影视2[js]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key": "荐片","name": "磁力｜荐片[jar]","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "哔嘀影视","name": "哔嘀影视｜磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
@@ -161,6 +162,7 @@
     "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv#video/tos#item/video#video_mp4",
     "手动嗅探视频链接过滤词": ".html#=http"}},
 {"key": "低端影视","name": "低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"drpy_js_低端","name":"影视 | 低端[js]","type":3,"api":"./JS/drpy2.min.js","ext":"./js/ddys.js"},
 {"key": "立播影视","name": "立播｜影视","type": 3,"api": "csp_Libvio","searchable": 1,"filterable": 1,"changeable": 1,"ext": {"token": "http://127.0.0.1:9978/file/TVBox/token.txt","cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt"}},
 {"key":"drpy_js_HDmoli","name":"磁力HDmoli[js]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./JS/HDmoli.js"},
 {"key": "厂长资源","name": "厂长｜资源[jar]","type": 3, "api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1},
