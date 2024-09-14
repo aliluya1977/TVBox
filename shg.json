@@ -81,7 +81,7 @@
   "分类":"动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&欧美剧&日韩剧&国产剧&港台剧&海外剧&动漫&综艺&记录",
   "分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15"}},
 {"key": "南瓜影视","name": "南瓜影视[jar]","type": 3,"type": 3,"api": "csp_Nangua","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"./js/ng_open.js","jar": "./f.jar"},
+{"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/cat/ng_open.js","jar": "./f.jar"},
 //{"key":"南瓜影视2","name":"南瓜影视2[js]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key": "荐片","name": "磁力｜荐片[jar]","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "哔嘀影视","name": "哔嘀影视｜磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
