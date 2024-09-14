@@ -295,7 +295,7 @@
 //{"key": "厂长弹幕","name": "厂长｜弹幕","type": 3,"api": "csp_Czzy","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 {"key": "天天影视","name": "天天影视[jar]","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "在线之家","name": "在线｜影视","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext": "./JS/在线之家.js"},
-{"key":"zxzj","name":"在线之家[cat]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/cat/zxzj_open.js","jar": "./f.jar"},
+{"key":"zxzj","name":"在线之家[cat]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/cat/zxzj_open.js","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/f.jar"},
 {"key": "热播影视","name": "热播影视[jar]","type": 3,"api": "csp_AppRB","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "忍者影视","name": "忍者｜APP","type": 3,"api": "csp_AppRZ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://rzys.xyz/"},
 {"key":"快看1","name":"👀快看[jar]","type":3,"api":"csp_Kuaikan", "searchable":1,"quickSearch":1,"filterable":1},
