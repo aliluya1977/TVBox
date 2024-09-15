@@ -84,6 +84,7 @@
 {"key":"nangua","name":"南瓜影视[cat]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/cat/ng_open.js","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/yydfys/yyfx/refs/heads/main/f.jar"},
 //{"key":"南瓜影视2","name":"南瓜影视2[js]","type":3,"api":"https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","ext":"./js/南瓜影视.js"},
 {"key": "荐片","name": "磁力｜荐片[jar]","type": 3,"api": "csp_Jianpian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true}},
 {"key": "哔嘀影视","name": "哔嘀影视｜磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "请求头参数": "User-Agent$电脑#Referer$https://www.yjys02.com",
     "网页编码格式": "UTF-8",
@@ -1057,7 +1058,6 @@
 //{"key": "土豆","name": "土豆臻享4K(阿里夸克)[jar]","type": 3,"api": "csp_Wextudou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/tudouliu.jar"},
 {"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./jar/影巢pg.jar"},
 {"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947"},
-//{"key": "哔嘀弹幕","name": "哔嘀｜弹幕","type": 3,"api": "csp_Bdys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"site": "https://www.yjys02.com","danmu": true}},
 
 {"key": "磁力熊","name": "磁力｜磁力熊[js]","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js", "ext": "./JS/磁力熊.js"},
 {"key": "csp_XYQHiker4klg", "name": "磁力中国蓝光网[XYQH]", "type": 3, "api": "csp_XYQHiker",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":{
@@ -2243,7 +2243,7 @@
 {"name": "1080解析1","type": 1,"url": "https://jxjson.icu/neibu.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "腾讯4K解析","type": 1,"url": "http://39.104.230.177:1122/lxjx/vipvip.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "666专线","type": 1,"url": "http://1.xiaomi666.work.gd/aini10.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
-{"name": "反弹","type": 1,"url": "http://www.mpanso.com/反弹/反弹.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
+//{"name": "反弹","type": 1,"url": "http://www.mpanso.com/反弹/反弹.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "okhttp/4.9.1"}}},
 {"name": "追觅解析","type": 1,"url": "http://103.117.123.51:6523/zhuimi666.php?url=","ext": {"flag": ["qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"]}},
 {"name": "LX专线","url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=","flag": ["LXTX","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "XMY专线","url": "http://121.62.61.51:6888/api/?key=LHypix08ov3mx0Tyd7&url=","flag": ["NBY","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
