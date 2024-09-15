@@ -907,7 +907,38 @@
 {"name": "4K专线","url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=","flag": ["4kvip","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "MX专线","url": "https://jf.hanliu8.cn/api/?key=qEDfo9v5Uk48DVmu6W&url=","flag": ["m78","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "-ik9-","type": 0,"url": "https://yparse.ik9.cc/index.php?url="},
-{"name": "-冰豆-","type": 0,"url": "https://bd.jx.cn/?url="},
+	{
+			"name": "冰豆",
+			"url": "https://bd.jx.cn/?url=",
+			"type": 0,
+			"ext": {
+				"flag": [
+					"qiyi",
+					"imgo",
+					"爱奇艺",
+					"奇艺",
+					"qq",
+					"qq 预告及花絮",
+					"腾讯",
+					"youku",
+					"优酷",
+					"pptv",
+					"PPTV",
+					"letv",
+					"乐视",
+					"leshi",
+					"mgtv",
+					"芒果",
+					"sohu",
+					"xigua",
+					"fun",
+					"风行"
+				]
+			},
+			"header": {
+				"User-Agent": "Mozilla/5.0"
+			}
+},	
 {"name": "play","url": "https://www.playm3u8.cn/jiexi.php?url=","type": 0,"ext": {"flag": [,"qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"]},"header": {"User-Agent": "Mozilla/5.0"}},
 {"name": "OL专线","url": "http://110.40.39.158:5000/api/jiexi/common?Key=7idBzIqEEFyf4AYYXt&url=","flag": ["BTOL","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
 {"name": "BD专线","url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=","flag": ["nmys","qq","腾讯","腾讯视频","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","rx","ltnb","bilibili","1905","xigua","ST4K"],"header": {"User-Agent": "Dalvik/2.1.0"},"type": "1"},
