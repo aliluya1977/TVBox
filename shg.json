@@ -1058,7 +1058,7 @@
 //{"key": "文才弹幕","name": "文才｜弹幕","type": 3,"api": "csp_Jpys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
 //{"key": "土豆","name": "土豆臻享4K(阿里夸克)[jar]","type": 3,"api": "csp_Wextudou","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/tudouliu.jar"},
 {"key":"Hdhive","name":"阿里影巢4K[jar]","type":3,"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$1","jar": "./jar/影巢pg.jar"},
-{"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "http://1.95.79.193/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947"},
+{"key": "csp_Duopan","name": "肥猫->🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://duopan.fun","http://labipan.com","https://mihdr.top"]},"jar": "./jar/PandaQ240913.jar;md5;a4fb2f9478365737ca2bd0ca36e24106"},
 
 {"key": "磁力熊","name": "磁力｜磁力熊[js]","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js", "ext": "./JS/磁力熊.js"},
 {"key": "csp_XYQHiker4klg", "name": "磁力中国蓝光网[XYQH]", "type": 3, "api": "csp_XYQHiker",  "searchable": 1, "quickSearch": 1, "filterable": 1, "ext":{
