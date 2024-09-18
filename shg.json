@@ -17,6 +17,7 @@
 {"key": "drpy_js_哔哩影视","name": "哔哩哔哩影视","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js", "ext": "./js/哔哩影视.js"},
 {"key": "csp_Bili1","name": "🅱️哔哩合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/哔哩合集.json","jar": "./jar/bili.jar"},
 {"key": "采集之王","name": "采集｜合集","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/PizazzGY/TVBox/main/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=../JSON/采集静态.json$1$1"},
+{"key":"T4-caiji","name":"影视-采集","type":4,"api":"https://catbox.n13.club/t4/caiji.php"},
 {"key": "六六六","name": "六六六｜APP","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " http://122.228.85.203:1000/api.php/app/"},
 {"key": "丘丘影视","name": "丘丘｜APP","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": " http://111.173.115.204:2211/api.php/app/"},
 {"key": "新感觉","name": "新感觉｜APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.248.100.147:9891/api.php/app/"},
