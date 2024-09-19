@@ -317,7 +317,7 @@
 {"key": "视频库","name": "视频库[jar]","type": 3,"api": "csp_WebVidHub","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://vidhub1.cc"},
 {"key": "饺子影视","name": "饺子｜影视","type": 3,"api": "csp_Jiaozi","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "全网影视","name": "全网｜影视","type": 3,"api": "csp_Quanwk","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://fm666.qkw1.cc"},	
-{"key": "胖虎影视","name": "胖虎影视","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://physvod.com","jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/TVBox/master/spider240905.jar";md5;5263cb4e5f6d2ca968940edc6e935faf},
+{"key": "胖虎影视","name": "胖虎影视","type": 3,"api": "csp_Panghu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://physvod.com","jar":"https://raw.githubusercontent.com/aliluya1977/PizazzGYTVBox/main/spider.jar";md5;08627128682cda2802a3c4ab7bc3a375},
 {"key": "农民影视","name": "农民影视[jar]","type": 3,"api": "csp_Nongm", "searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "subaiba","name": "素白白[XYQH]","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "规则名": "素白白影视",
