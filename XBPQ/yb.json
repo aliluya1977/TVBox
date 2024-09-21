@@ -1,0 +1,16 @@
+{
+  "主页url":"https://www.yunbo99.com/",
+  "数组":"col-md&&</div>",
+  "图片":"img src=\"&&\"",
+  "链接":"href=\"&&\"",
+  "副标题":"<span>&&</span>",
+  "搜索url":"https://www.yunbo99.com/vodsearch/-------------/?wd=",
+  "搜索模式":"1",
+  "线路数组":"class=\"bot plau-ul-list stui-content__playlist clearfix\"&&</ul>",
+  "线路标题":"title=\"&&\">HD",
+  "播放链接":"href=\"&&\"",
+  "免嗅":"1",
+  "排序": "时间$time#人气$hits#评分$score",
+  "分类url":"https://www.yunbo99.com/vodtype/{cateId}-{catePg}",
+  "分类":"动作片&喜剧片&爱情片&科幻片&恐怖片&剧情片&战争片&欧美剧&日韩剧&国产剧&港台剧&海外剧&动漫&综艺&记录",
+  "分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15"}
