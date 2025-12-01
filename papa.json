@@ -560,7 +560,7 @@
             }},
 //{"key":"csp_Miss","name":"👠Miss AV 墙外〔SP〕","type":3,"api":"csp_Miss","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "https://notabug.org/aliluya/Mhqtv/raw/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://notabug.org/aliluya/Mhqtv/raw/master/js/js/Missav.js"},
+{"key": "dr_Missav","name": "Missav(道长)","type": 3,"api": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/Mhqtv/refs/heads/master/js/lib/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/Mhqtv/refs/heads/master/js/js/Missav.js"},
 {"key":"*色南国资源","name":"*🔞色南国资源","type":1,"api":"https://api.sexnguon.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key": "*AIvin","name": "*🔞AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 { "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
