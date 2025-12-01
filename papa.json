@@ -34,7 +34,15 @@
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"}},
 {"key":"传媒二区","name":"🍁传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-  "主页url":"https://www.34gaobk.com/index.html","数组":"<div class=\"card mb-0\">&&</a","标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>","简介":"document.title=\'&&\'","直接播放":"1","搜索模式":"1","搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/","分类数组":"<a&&/a>","分类标题":">&&<","分类ID":"/gaotype/&&.html","分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"},"jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar"},
+        "主页url":"https://www.34gaobk.com/index.html",
+        "数组":"<div class=\"card mb-0\">&&</a",
+        "标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>",
+        "简介":"document.title=\'&&\'","直接播放":"1",
+        "搜索模式":"1",
+        "搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/",
+        "分类数组":"<a&&/a>","分类标题":">&&<",
+        "分类ID":"/gaotype/&&.html",
+        "分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"}},
 {"key": "爱豆传媒","name": "🔞爱豆传媒","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://rourou.co/",
                 "直接播放": "1",
