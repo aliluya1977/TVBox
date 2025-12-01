@@ -141,42 +141,8 @@
                 "线路数组":"class=\"item line\">&&</div>",
                 "分类url":"https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html]",
                 "分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"}},
-  {
-            "key": "csp_XBPQ_疯猫av",
-            "name": "🔞疯猫av",
-            "type": 3,
-            "api": "csp_XBPQ",            
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/h/疯猫av.json"
-        },
-  {
-            "key": "csp_XBPQ_yyxl",
-            "name": "🔞夜夜新郎",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/夜夜新郎.json"
-        },
-        { "key": "x",
-            "name": "🔞x合集",
-            "type": 3,
-            "changeable": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "csp_XBPQ",             
-            "style": {"ratio": 1.7},
-            "ext":{
-            "搜索url":"https://xpdhj.fun/xpdhj/vod/search/page/{pg}/wd/{wd}.html",
-            "分类":"仓库资源$1#AVXXC$2#AV奥斯卡$3#115资源$4",
-             "分类url": "https://xpdhj.fun/xpdhj/vod/type/id/{cateId}/page/{catePg}.html"
-            }
-        },
+
+
         {
             "key": "csp_XBPQ_奶很大",
             "name": "🔞奶很大",
@@ -186,64 +152,11 @@
             "filterable": 0,
             "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/aliluya1977/yg/main/h/奶很大.json"
         },
-        {
-  "key": "m2v",
-  "name": "🔞千百撸",
-  "type": 3, 
-  "api": "csp_XBPQ",
-  "ext": {
-        "站名": "222av.me",
-        "主页url": "http://041920.222av.me",
-        "首页": "最新课程",
-        "数组": "col-sm-6 col-md-4 col-lg-4&&<div class=\"video-added\">",
-        "链接": "href=\"&&\"",
-        "嗅探词": "http://m3u8.361lu.com/us.php?",
-        "分类url": "/videos/{cateId}?page={catePg};;z",
-        "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
-    "分类值": "/&3d&amateur&japanese&selfie&western"
-        }},
-         {
-            "key": "大师兄影视H版",
-            "name": "🔞大师兄影视|H版",
-            "type": 3,
-            "api": "csp_XBPQ",
-           "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-            "playerType": "2",
-            "ext": {
-                "请求头": "手机",
-                "主页url": "http://mydy.site/index.php/vodtype/dianying.html",
-                "数组": "class=\"stui-vodlist__item\">&&</li>",
-                "图片": "data-original=\"&&\"",
-                "标题": "title=\"&&\"",
-                "副标题": "",
-                "链接": "href=\"&&\"",
-                "简介": "name=\"description\" content=\"&&>",
-                "线路数组": "class=\"title\">&&</h3>",
-                "线路标题": ">鲨鱼快线<",
-                //"播放数组": "ul class=\"stui-content__playlist column10 clearfix\">&&</ul>",
-                "播放链接": "href=\"&&\"",
-                "嗅探词": "index.m3u8",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<a&&</a",
-                "分类标题": ">&&</a",
-                "分类ID": "href=\"/index.php/vodshow/&&-----------.html\"",
-                "分类url": "http://mydy.site/index.php/vodshow/{cateId}--------{catePg}---.html"
-            }
-        },
+
+
 {"key": "影视","name": "影视18","type": 1,"api": "https://155api.com/api.php/provide/vod/"}, 
 
-{"key":"csp_njav","name":"🔞njav","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"数组":"class=\"col-6 col-sm-4 col-lg-3\">&&</div>",
-"图片":"data-preview=\"&&\"",
-"链接":"href=\"&&\"",
-"链接前缀":"https://njav.xyz/zh/",
-"简介":"class=\"detail\">&&</a>",
-"播放数组":"class=\"col&&</div>",
-"播放链接":"iframe*src=\"&&\"",
-"直接播放":"1",
-"搜索url":"https://njav.xyz/zh/search?keyword={wd}",
-"分类url":"https://njav.xyz/zh/{cateId}?page={catePg}",
-"分类":"全新上市$new-release#最近更新$recent-update#推荐影片$recommended#vr影片$vr#今日热门$oday-hot#本周热门$weekly-hot#本月热门$monthly-hot"}},
+
 
         {
             "key": "SMTV",
@@ -266,41 +179,7 @@
                 "页面代理": "127.0.0.1:10072"}
         },
 {"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 },
-{"key":"csp_xBP黄瓜TV","name":"🔞黄瓜TV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"站名":"黄瓜TV",
-"主页url":"https://mcerslkb.xyz/main.html",
-"直接播放":"1",
-"分类":"日韩无码$1068#欧美无码$1069#中文字幕$1070#日韩有码$1071#国产自拍$1072#国产偷拍$1073#卡通动漫$1074#三级剧情$1075#女优$1076#日韩女优$1077#欧美艳星$1078",
-"数组":"class=\"listpic&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":"class=\"vodname\">&&</div>",
-"链接":"href=\"&&\"",
-"副标题":"style=\"color:red\">&&</span>",
-"简介":"title=\"&&\"",
-//"链接前缀":"https://mcerslkb.xyz",
-//"链接后缀":".html",
-"分类url":"https://mcerslkb.xyz/vod/list.html?type_id={cateId}&page={catePg}",
-//"免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
-}},
-  {"key":"csp_xBP女优","name":"🔞女优TV〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-"站名":"黄瓜TV",
-"主页url":"https://mcerslkb.xyz/main.html",
-"直接播放":"1",
-"分类":"波多野吉衣$322#素人$11528#小岛南$11534#古川伊织$3282#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#波多野吉衣$322#欧美艳星$欧美",
-"数组":"class=\"listpic&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":"class=\"vodname\">&&</div>",
-"链接":"href=\"&&\"",
-"副标题":"style=\"color:red\">&&</span>",
-"简介":"title=\"&&\"",
-//"链接前缀":"https://mcerslkb.xyz",
-//"链接后缀":".html",
-//"分类url":"https://mcerslkb.xyz/vod/list.html?type_id={cateId}&page={catePg}",
-"分类url":"https://mcerslkb.xyz/star/detail.html?id={cateId}&page={catePg}",
-//"免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
-}},
+        
 {"key":"csp_xBP色花堂","name":"🔞色花堂〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.xvgdwo.com/index.html",
@@ -326,7 +205,7 @@
 "播放链接前缀":"https://www.xvgdwo.com",
 "分类":"国产精品&日韩亚洲&自拍偷拍&欧美激情&主播视频&中文字幕&日韩无码&动漫成人&推荐视频&同性人妖&巨乳颜射&口交自慰&制服淫穴&换脸AI区&三级综艺&重味3P&强奸乱伦&精品女优&人妻系列&极骚萝莉&HEYZO&独家诱惑&首次少女&高潮喷吹",
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
-"分类url":"https://www.xvgdwo.com/vodtype/{cateId}-{catePg}.html"}},
+"分类url":"https://www.xvgdwo.com/typegaokk/{cateId}-{catePg}.html"}},
  
 {"key":"csp_xBPGAOAB","name":"GAOAB〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"name": "*GAOAA",
