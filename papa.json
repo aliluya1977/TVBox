@@ -42,7 +42,7 @@
         "搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/",
         "分类数组":"<a&&/a>","分类标题":">&&<",
         "分类ID":"/gaotype/&&.html",
-        "分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html[https://www.34gaobk.com/gaotype/{cateId}.html]"}},
+        "分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html"}},
 {"key": "爱豆传媒","name": "🔞爱豆传媒","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://rourou.co/",
                 "直接播放": "1",
