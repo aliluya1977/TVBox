@@ -126,6 +126,7 @@
 {"key": "csp_SaoHuo","name": "🔥┃骚火┃影视","type": 3,"api": "csp_SaoHuo","playerType": 2,"ext": "https://shdy5.us","jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "虎牙","name": "🐯虎牙采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1},
 {"key":"卧龙资源","name":"采集卧龙资源","type":1,"api":"https://collect.wolongzyw.com/api.php/provide/vod/", "searchable":1,"quickSearch":1},
+{"key":"极速资源","name":"采集极速资源","type":1,"api":"https://jszyapi.com/api.php/provide/vod/at/xml", "searchable":1,"quickSearch":1},  
 {"key":"闪电资源","name":"采集闪电资源","type":1,"api":"http://sdzyapi.com/api.php/provide/vod/", "searchable":1,"quickSearch":1},
 {"key": "taopian","name": "🕹️淘片采集","type": 1,"api": "https://taopianapi.com/cjapi/mc/vod/json.html","searchable": 1,"filterable": 0},
 {"key": "暴風1","name": "采集暴風资源","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod", "searchable": 1,"changeable": 1},
