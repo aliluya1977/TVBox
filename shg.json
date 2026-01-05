@@ -141,7 +141,8 @@
 {"key":"暴风采集","name":"采集暴风影音","type":1,"api":"https://app.bfzyapi.com/api.php/provide/vod/", "playUrl":""},
 {"key":"极速资源","name":"采集极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/", "searchable":1,"changeable":1},
 {"key":"金鹰资源","name":"采集金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/", "searchable":1,"changeable":1},
-{"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/?ac=list", "searchable":1,"changeable":1},
+{"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable":1,"changeable":1},
+  
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/楚门影院.js"},
 {"key": "追剧迷","name": "追剧迷[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/追剧迷.js"},
 {"key": "看了么","name": "看了么[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/看了么.js"},
