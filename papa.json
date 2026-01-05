@@ -183,7 +183,7 @@
 {"key":"csp_xBP色花堂","name":"🔞色花堂〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.xvgdwo.com/index.html",
-"数组":"<div class=\"video-img-box  mb-e-20\">&&</div>",
+"数组":"<div class=\"img-box cover-md\">&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"<h6 class=\"title\">&&</a>",
 "链接":"href=\"&&\"",
