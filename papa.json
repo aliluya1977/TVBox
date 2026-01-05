@@ -59,7 +59,7 @@
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
                 "分类url": "https://xn--zovv42dba.com/list-read-id-{cateId}-p-{catePg}",
                 "分类": "国产精品$19#偷拍自拍$20#欧美成人$26#中文无码$23#中文字幕$22#亚洲情色$21#卡通动漫$24#成人伦理$25"}},
-{"key": "18j.tv","name": "🔞18j.tv","type": 3,"api": "csp_XBPQ","ext": {
+{"key": "18j.tv","name": "🔞18j.tv(需翻墙)","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://18j.tv/",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
@@ -82,16 +82,16 @@
         "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"}},
 {"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
         {"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
-        "搜索链接":"http://8991ck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
-        "主页url":"http://8991ck.cc/hs1.php",
-        "链接":"http://8991ck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
+        "搜索链接":"http://9863ck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
+        "主页url":"http://9863ck.cc/hs1.php",
+        "链接":"http://9863ck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
         "简介":"时间：&&<",
         "副标题":"❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
          "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-        "分类url": "http://8991ck.cc/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"}},
+        "分类url": "http://9863ck.cc/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"}},
 {"key":"黄仓库","name":"🔞黄仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
 "站名":"黄仓库",
-"主页url":"http://8991ck.cc/",
+"主页url":"http://9863ck.cc/",
 "数组":"class=\"stui-vodlist__box&&</div>",
 "图片":"data-original=\"&&\"",
 "标题":"title=\"&&\"",
@@ -101,7 +101,7 @@
 "导演":"导演：&&</p>",
 "主演":"主演：&&</p>",
 "简介":"简介：&&</p>",
-"搜索url": "http://8991ck.cc/vodsearch/-------------.html?wd={wd}&submit=",
+"搜索url": "http://9863ck.cc/vodsearch/-------------.html?wd={wd}&submit=",
 "搜索模式":"0",
 "搜索数组":"<li>&&</li>",
 "搜索图片":"data-original=\"&&\"",
@@ -116,7 +116,7 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-"分类url":"http://8991ck.cc/vodtype/{cateId}-{catePg}.html"}},
+"分类url":"http://9863ck.cc/vodtype/{cateId}-{catePg}.html"}},
 {"key": "csp_XYBQ","name": "🔞比卡|比卡","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
     "请求头": "手机",
     "站名": "比卡比卡",
@@ -183,7 +183,7 @@
 {"key":"csp_xBP色花堂","name":"🔞色花堂〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.xvgdwo.com/index.html",
-"数组":"<div class=\"img-box cover-md\">&&</h6>",
+"数组":"<div class=\"img-box cover-md\">&&</a>",
 "图片":"data-original=\"&&\"",
 "标题":"<h6 class=\"title\">&&</a>",
 "链接":"href=\"&&\"",
