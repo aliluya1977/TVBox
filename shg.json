@@ -50,7 +50,7 @@
 //{"key": "哔嘀","name": "哔嘀影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQH/哔嘀影视.json"},
 //{"key": "低端影视","name": "低端｜影视","type": 3,"api": "csp_Ddys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "苹果","name": "🍎苹果影视[jar]","type": 3,"api": "csp_Xpg", "searchable": 1,"quickSearch": 1,"changeable": 1},
-{"key": "原创","name": "☀原创┃不卡","type": 3,"api": "csp_YCyzGuard","timeout": 30,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://coss.yupoo.com/upchat/2025-09-29/1759155532428.jpg;md5;74b0b420eee69168fed20da6a5c4d507"},
+{"key": "原创","name": "☀原创┃秒播","type": 3,"api": "csp_YCyzGuard","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
 {"key": "行动","name": "😌┃行动┃APP┃电视直播","type": 3,"api": "csp_AppQi","ext": "https://ceshi307386.oss-cn-beijing.aliyuncs.com/ceshi421.txt|da61247f5b662597|120","jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "再来","name": "✌️┃再来┃APP","type": 3,"api": "csp_AppQi","ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|101","jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"playerType": "2","api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzymovie.com/","jar":"./jar/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png"},
