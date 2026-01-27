@@ -141,7 +141,7 @@
 {"key":"drpy_js_gaze","name":"注视影视[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/gaze.js"},
 {"key":"drpy_js_美视网","name":"美视网[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/美视网.js"},
 {"key": "四个圈影视","name": "🚗四个圈影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/四个圈影视.json"},
-{"key": "Pandalivetv","name": "😍韩国┃直播😍","type": 3,"api": "csp_WexPandalivetvGuard","searchable": 0,"changeable": 0,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
+//{"key": "Pandalivetv","name": "😍韩国┃直播😍","type": 3,"api": "csp_WexPandalivetvGuard","searchable": 0,"changeable": 0,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktvGuard","searchable": 1,"changeable": 0,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "csp_XBPQ_dmdao","name": "♻️动漫岛[XBPQ]","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"站名": "动漫岛","主页url": "https://www.dmdao.tv","数组": "class=\"stui-vodlist__box\">&&</a","链接": "href=\"&&\"","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "<span class=\"pic-text1 text-right\"><b>&&</b></span>","分类url": "https://www.dmdao.tv/vodshow/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "国产动漫$21#日本动漫$20#欧美动漫$22#剧场电影$23"}},
 {"key": "去看吧","name": "去看吧","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/去看吧.js"},
