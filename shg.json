@@ -3,7 +3,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key": "豆瓣","name": "SHG祝您观影愉快","type": 3,"api": "csp_Douban","searchable": 0},
-{"key": "Zwqf","name": "醉挽｜清风","type": 3,"api": "csp_Zwqf","searchable": 1,"ext": {"url": ".jar/yyutx.php","token": "moyufuck007"},"jar":"./jar/02071536.png;md5;6567dac09ef64fb03f1681f9f9310c95"},
+{"key": "Zwqf","name": "醉挽｜清风","type": 3,"api": "csp_Zwqf","searchable": 1,"ext": {"url": "./jar/yyutx.php","token": "moyufuck007"},"jar":"./jar/02071536.png;md5;6567dac09ef64fb03f1681f9f9310c95"},
 {"key": "Wexokconfig","name": "二小影视专用┃配置中心🐮","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "config","name": "摸鱼┃配置┃中心","type": 3,"api": "csp_Config","jar": "./jar/moyuer.php;md5;2d0a13447c294fea65119f304ff33675","searchable": 0,"quickSearch": 0,"style": {"type": "rect","ratio": 1.61}},
 {"key": "MyDrive","name": "♨️玩偶智能┃云盘配置","type": 3,"api": "csp_MyDriveGuard","changeable": 0,"indexs": 0,"searchable": 1,"style": {"type": "list"},"ext": {"Cloud-drive": "TVBox/Cloud-drive.txt"},"jar":"./jar/moyu.php;md5;45e0cddf276d06a8d22bff07b00a9b76"},
