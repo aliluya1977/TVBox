@@ -43,7 +43,6 @@
 {"key": "Guazi","name": "瓜子｜影视","type": 3,"api": "csp_Guazi","searchable": 1,"jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
 {"key": "Zxzj","name": "在线｜影视","type": 3,"api": "csp_Zxzj","searchable": 1,"ext": "https://www.zxzjhd.com","jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
 {"key": "TvDy","name": "天堂｜影视","type": 3,"api": "csp_TvDy","searchable": 1,"filterable": 1,"jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
-{"key": "韩圈","name": "🦄韩圈┃App","type": 3,"api": "csp_AweSomeGuard","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1,"filterable": 1,"ext": {"sp": "HanXiaoQuan"},"timeout": 60,"jar":"./jar/ok.jpg"},
 {"key": "再来","name": "✌️┃再来┃APP","type": 3,"api": "csp_AppQi","ext": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt|37kj83zs1q16jk6t|101","jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "厂长","name": "🏭┃厂长┃影视","type": 3,"playerType": "2","api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.czzymovie.com/","jar":"./jar/45f1f-8e1ec86c-af10-4091-b096-2ca48c27493e.png"},
 {"key": "csp_Nmys","name": "🎇农民┃秒播🎇","type": 3,"api": "csp_WexNmysGuard","searchable": 1,"changeable": 1,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
