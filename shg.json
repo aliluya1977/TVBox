@@ -35,6 +35,7 @@
 {"key": "立播","name": "🌟立播┃秒播","type": 3,"api": "csp_LibvioGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {"Cloud-drive": "tvfan/Cloud-drive.txt"},"jar":"./jar/fty.jar"},
 {"key": "荐片","name": "🎬┃荐片┃影视","api": "csp_Jianpian","type": 3,"playerType": "2","ext": "https://ev2089.zxbwv.com","jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "荐片1","name": "🐭荐片┃P2P","type": 3,"api": "csp_JPJGuard","timeout": 15,"playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 0,"jar":"./jar/fty.jar"},
+{"key": "Rebo","name": "热播｜APP","type": 3,"api": "csp_AppRJ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": {"url": "http://v.rbotv.cn"},"jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
 {"key": "csp_LiteApple","name": "🍎┃苹果┃影视","type": 3,"api": "csp_LiteApple","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 //{"key": "苹果","name": "🍎苹果┃秒播","type": 3,"api": "csp_LiteAppleGuard","timeout": 10,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
 {"key": "原创","name": "☀原创┃秒播","type": 3,"api": "csp_YCyzGuard","timeout": 15,"playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar":"./jar/fty.jar"},
