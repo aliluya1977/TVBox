@@ -18,7 +18,6 @@
 {"key": "Wexerxiaoziyuan","name": "二小┃4K","type": 3,"api": "csp_WexerxiaoziyuanGuard","searchable": 1,"changeable": 1,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "WexduoduoziyuanGuard","name": "多多┃4K","type": 3,"api": "csp_WexduoduoziyuanGuard","searchable": 1,"changeable": 1,"timeout": 120,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "csp_Duopan","name": "🖍︎┃蜡笔┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["https://feimao666.fun","http://feimao888.fun","https://feimo.fun","http://www.labi88.sbs","http://fmao.site","http://fmao.shop","http://xiaocge.fun"],"threadinfo": {"chunksize": 512,"threads": 16},"url_key": "Duopan2"},"jar":"./jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
-//{"key": "csp_Netfixtv","name": "💌┃️至臻┃影视","type": 3,"api": "csp_Duopan","filterable": 1,"ext": {"site_urls": ["http://xiaomi666.fun","https://xiaomiai.site","https://mihdr.top","https://www.mihdr.top","http://www.miqk.cc","https://www.zhizhenpan.fun"],"url_key": "Netfixtv2","threadinfo": {"chunksize": 512,"threads": 16}},"jar":"https://gitee.com/aliluya1203/TVBox/raw/main/jar/2eb93-9af93e33-5fb2-4ddc-9568-63c1b4a10322.png"},
 {"key": "Wexzhizhen","name": "💓至臻┃4K💓","type": 3,"api": "csp_WexzhizhenGuard","searchable": 1,"changeable": 1,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "Wexnullname","name": "💓无名┃4K💓","type": 3,"api": "csp_WexnullnameGuard","searchable": 1,"changeable": 1,"timeout": 120,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "Wexsayangziyuan","name": "💓撒仰┃4K💓","type": 3,"api": "csp_Wexsayangziyuan","searchable": 1,"changeable": 1,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
@@ -174,5 +173,4 @@
 {"name": "冰茶","type": 0,"playerType": 2,"url": "https://bc.188766.xyz/?ip=&json=true","ua": "bingcha/1.1 (mianfeifenxiang) "},
 {"name":"live","type":0,"url":"./TV/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"live112","type":0,"url":"./live/live.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"live4","type":0,"url":"https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/lib/zb.txt","playerType":1,"epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ]}  
