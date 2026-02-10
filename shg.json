@@ -3,7 +3,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
 "sites":[
 {"key": "豆瓣","name": "SHG祝您观影愉快","type": 3,"api": "csp_Douban","searchable": 0},
-{"key": "Zwqf","name": "腾讯视频","type": 3,"api": "csp_Zwqf","searchable": 1,"ext": {"url": "http://我不是.摸鱼儿.com/api/yyutx.php","token": "moyufuck007"},"jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
+{"key": "Zwqf","name": "腾讯视频","type": 3,"api": "csp_Zwqf","searchable": 1,"ext": {"url": "http://我不是.摸鱼儿.com/api/yyutx.php","token": "moyufuck007"},"jar":"https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260210/o9Gf/fish20101434.png;md5;0f2c4fb20a9efcafed50966e6c1d7210"},
 {"key": "Kan360","name": "360影视","type": 3,"api": "csp_Kan360","searchable": 1,"filterable": 1,"ext": {"filter": "./lib/360.json","fishjx": ["https://jx.xmflv.com/?url="]},"jar":"./jar/fish02101023.png;md5;4f727c425b5aba78a18c2706cacfc5ad"},
 {"key": "Wexokconfig","name": "二小影视专用┃配置中心🐮","type": 3,"api": "csp_WexokconfigGuard","searchable": 0,"changeable": 0,"indexs": 0,"jar":"./jar/2F45D78_773_wex_20251130194603926newMediaImage.png;md5;c2dd706f2afc0f3e4035b3237ecde3f9"},
 {"key": "config","name": "摸鱼┃配置┃中心","type": 3,"api": "csp_Config","jar": "./jar/moyuer.php;md5;2d0a13447c294fea65119f304ff33675","searchable": 0,"quickSearch": 0,"style": {"type": "rect","ratio": 1.61}},
