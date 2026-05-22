@@ -65,25 +65,7 @@
 {"key":"奇优","name":"奇优[XBPQ]","type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/奇优影院.json"},
 {"key": "meowtv_vsys","name": "威士影视[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/威士影视.json"},
 {"key": "机器人","name": "机器人｜影视[jar]","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://v.aikanbot.com"},
-{"key": "韩剧影院","name": "🇰🇷韩剧TV[XBPQ]","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{
-        "主页url": "https://www.hanjukankan.com",
-        "简介": "class=\"sketch hidden-sm hidden-xs\">&&<a href=\"#jq\">详情 <i",
-        "导演": "导演：&&</div>",
-        "主演": "主演：&&</div>",
-        "影片状态": "集数：&&</div>",
-        "影片类型": "module-info-tag\">&&立即播放",
-        "搜索模式": "1",
-        "搜索url": "https://www.hanjukankan.com/search.php?searchword={wd}",
-        "搜索数组": "module-card-item-class\">&&</a>",
-        "搜索标题": "alt=\"&&\"",
-        "搜索副标题": "note\">&&</div>",
-        "搜索图片": "data-original=\"&&\"",
-        "搜索链接": "href=\"&&\"",
-        "线路数组": "data-toggle=\"tab\">&&</a></li>",
-        "线路标题": "韩剧TV（SHG影视）",
-        //"分类url": "https://www.hanjukankan.com/frim/index{cateId}.html",
-        "分类url": "https://www.hanjukankan.com/xvs{cateId}xatxbtxctxdtxetxftxgtxht{catePg}atbtct{year}.html[https://www.hanjukankan.com/xvs{cateId}xatxbtxctxdtxetxftxgtxhtatbtct{year}.html];;ak",
-        "分类": "韩剧$1#韩影$2#韩综$3#其他$4#推荐$5"}},
+
 {"key": "美剧天堂","name": "美剧天堂｜磁力","type": 3,"api": "csp_MeijuTT","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "文采影视","name": "🌼文采┃影视[XBPQ]","type": 3,"api": "csp_XBPQ","changeable": 0,"ext": {
         "主页url": "https://www.hkybqufgh.com/",
@@ -129,8 +111,6 @@
 {"key":"极速资源","name":"采集极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/", "searchable":1,"changeable":1},
 {"key":"金鹰资源","name":"采集金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/", "searchable":1,"changeable":1},
 {"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable":1,"changeable":1},
-//{"key": "cjzy_快看","name": "采集👁️‍🗨️快看","type": 1,"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/", "playUrl": "","changeable": 1,"playerType":2,"categories": ["国产剧","欧美剧","日本剧","韩国剧","港台剧","泰剧","新马剧","其他剧","海外剧","冒险片","剧情片","动作片","动画电影","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","战争片","灾难片","爱情片","犯罪片","科幻片","网络电影","国产动漫","日本动漫","欧美动漫","港台动漫","国产综艺","韩国综艺","日本综艺","欧美综艺","港台综艺","伦理片","热门短剧"]},
-  
   
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/楚门影院.js"},
 {"key": "追剧迷","name": "追剧迷[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/追剧迷.js"},
