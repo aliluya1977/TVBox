@@ -111,19 +111,12 @@
 {"key":"极速资源","name":"采集极速采集","type":1,"api":"https://jszyapi.com/api.php/provide/vod/", "searchable":1,"changeable":1},
 {"key":"金鹰资源","name":"采集金鹰资源","type":1,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/", "searchable":1,"changeable":1},
 {"key":"樱花资源","name":"采集樱花资源","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/", "searchable":1,"changeable":1},
-  
-{"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/楚门影院.js"},
-{"key": "追剧迷","name": "追剧迷[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./js/追剧迷.js"},
 {"key": "看了么","name": "看了么[js]","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/看了么.js"},
-{"key":"drpy_js_gaze","name":"注视影视[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/gaze.js"},
 {"key":"drpy_js_美视网","name":"美视网[js]","type":3,"api":"./JS/drpy2.min.js", "ext":"./js/美视网.js"},
-{"key": "四个圈影视","name": "🚗四个圈影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/四个圈影视.json"},
 //{"key": "Pandalivetv","name": "😍韩国┃直播😍","type": 3,"api": "csp_WexPandalivetvGuard","searchable": 0,"changeable": 0,"jar":"./jar/086049b8ca8bf3b53988e860c89a40dd.txt;md5;105e052a76be2de50e76630da0bde937"},
 {"key": "Iktv","name": "🎤KTV┃音乐🎤","type": 3,"api": "csp_WexIktvGuard","searchable": 1,"changeable": 0,"jar":"./jar/086049b8ca8bf3b53988e860c89a40dd.txt;md5;105e052a76be2de50e76630da0bde937"},
-{"key": "csp_XBPQ_dmdao","name": "♻️动漫岛[XBPQ]","type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"站名": "动漫岛","主页url": "https://www.dmdao.tv","数组": "class=\"stui-vodlist__box\">&&</a","链接": "href=\"&&\"","图片": "data-original=\"&&\"","标题": "title=\"&&\"","副标题": "<span class=\"pic-text1 text-right\"><b>&&</b></span>","分类url": "https://www.dmdao.tv/vodshow/{cateId}/area/{area}/page/{catePg}/year/{year}.html","分类": "国产动漫$21#日本动漫$20#欧美动漫$22#剧场电影$23"}},
 {"key": "去看吧","name": "去看吧","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/去看吧.js"},
 {"key": "喵物次元","name": "喵物次元","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/喵物次元.js"},
-{"key": "花子动漫","name": "花子动漫","type": 3,"api": "./JS/drpy2.min.js","ext": "./JS/花子动漫.js"},
 {"key": "APP商店","name": "APP播放器下载商店","type": 3,"api": "csp_Market","searchable": 0,"changeable": 0,"ext":"./libs/market.json", "jar": "./libs/app.jar"}],
    
 "parses": [
