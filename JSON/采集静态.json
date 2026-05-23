@@ -52,7 +52,7 @@
         "name": "iku喵",
         "url": "http://caiji.ikum.cc:8099",
         "parse_url": "",
-        "cate_exclude": "",
+        "cate_exclude": "电影|连续剧|综艺|动漫",
         "class_name": "H4sIALGjdWYC/yXIOw5AQBRG4d3clVKMgmKEQlBNhiAoiBiPzfjdsQsxmpMvh+MJ+0j2LNh0EJrYbFashKC6t4aQ7deqv38vPaLBKVVPWTu1mo/wE/z5MomTd3KjyMocviDIGLL++wIj0AZ/awAAAA==",
         "class_url": "1&2&3&4&20&21&22&23&24&25&26&27"
     },
