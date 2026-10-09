@@ -352,16 +352,6 @@
             "filterable": 0
         },
         {
-            "key": "爱看",
-            "name": "爱看 • APP",
-            "type": 3,
-            "api": "csp_AiKan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://43.248.117.123:4680"
-        },
-        {
             "key": "咕噜",
             "name": "咕噜 • APP",
             "type": 3,
@@ -402,13 +392,6 @@
                 "sk": "SK-woniu-thanks",
                 "ver": "1"
             }
-        },
-        {
-            "key": "韩圈",
-            "name": "韩圈 • APP",
-            "type": 3,
-            "api": "csp_Hxq",
-            "ext": "http://www.小不点.com/api/2026/fishhxq.php"
         },
         {
             "key": "剧圈99",
@@ -459,26 +442,6 @@
             }
         },
         {
-            "key": "橘汁",
-            "name": "橘汁 • APP",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "OW1WBLFZCLJ0WTNJCDMYEGXWYVP3PT0=",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.mxj.wylcjbxyx",
-                "host": "",
-                "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-                "version": "3.0.2.3",
-                "decrypt": "1"
-            }
-        },
-        {
             "key": "华谊",
             "name": "华谊 • APP",
             "type": 3,
@@ -519,21 +482,6 @@
             }
         },
         {
-            "key": "怀桑",
-            "name": "怀桑 • APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.130:1226",
-                "dataKey": "kj37zs29q22jk96t",
-                "dataIv": "kj37zs29q22jk96t",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
-        {
             "key": "蓝鹰",
             "name": "蓝鹰 • APP",
             "type": 3,
@@ -561,35 +509,6 @@
                 "dataIv": "oW5UxZ5kWVr1DI69",
                 "init": "initV122",
                 "ua": "okhttp/3.10.0"
-            }
-        },
-        {
-            "key": "奇奇",
-            "name": "奇奇 • APP",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/603.txt",
-                "dataKey": "FTgP4Gq8zPiqbt7M",
-                "dataIv": "FTgP4Gq8zPiqbt7M",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0",
-                "search": "searchList8"
-            }
-        },
-        {
-            "key": "世界",
-            "name": "世界 • APP",
-            "type": 3,
-            "api": "csp_AppGet",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "https://appcms.4ksj.app",
-                "dataKey": "O3K6rYx75Q4xtiIE",
-                "dataIv": "O3K6rYx75Q4xtiIE"
             }
         },
         {
@@ -728,34 +647,10 @@
             "genre": "shortdrama"
         },
         {
-            "key": "世界影视",
-            "name": "世界 • 影视",
-            "type": 3,
-            "api": "csp_HkybSpider",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "壹壹影视",
-            "name": "壹壹 • 影视",
-            "type": 3,
-            "api": "csp_YiYs",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
             "key": "瓜子影视",
             "name": "瓜子 • 影视",
             "type": 3,
             "api": "csp_Gz360"
-        },
-        {
-            "key": "山楂影视",
-            "name": "山楂 • 影视",
-            "type": 3,
-            "api": "csp_PianKu8"
         },
         {
             "key": "飞娱影视",
@@ -823,33 +718,11 @@
             }
         },
         {
-            "key": "永乐影视",
-            "name": "永乐 • 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
-                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#剧情片$12#战争片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43",
-                "分类url": "https://www.ylys.tv/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
-            }
-        },
-        {
             "key": "剧圈影视",
             "name": "剧圈 • 影视",
             "type": 3,
             "api": "csp_XYQHiker",
             "ext": "./XYQHiker/剧圈影视.json"
-        },
-        {
-            "key": "1905",
-            "name": "1905 • 影视",
-            "type": 3,
-            "api": "csp_Web1905",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
         },
         {
             "key": "番社动漫",
@@ -908,30 +781,6 @@
             }
         },
         {
-            "key": "方舟动漫",
-            "name": "方舟 • 动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.cyfz.top",
-                "dataKey": "e72cdfd629e8895d",
-                "dataIv": "e72cdfd629e8895d"
-            }
-        },
-        {
-            "key": "曼波动漫",
-            "name": "曼波 • 动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.omofun1.top",
-                "dataKey": "66dc309cbeeca454",
-                "dataIv": "66dc309cbeeca454"
-            }
-        },
-        {
             "key": "咕咕动漫",
             "name": "咕咕 • 动漫",
             "type": 3,
@@ -960,20 +809,6 @@
                 "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
                 "倒序": "1"
             }
-        },
-        {
-            "key": "路漫漫",
-            "name": "路漫漫 • 动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/路漫漫.js"
-        },
-        {
-            "key": "去看吧",
-            "name": "去看吧 • 动漫",
-            "type": 3,
-            "api": "./js/drpy2.min.js",
-            "ext": "./js/去看吧.js"
         },
         {
             "key": "荐片",
@@ -1259,30 +1094,6 @@
             }
         },
         {
-            "key": "呦呦DJ",
-            "name": "呦呦 • DJ",
-            "type": 3,
-            "api": "csp_Djuu",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "轮回DJ",
-            "name": "轮回 • DJ",
-            "type": 3,
-            "api": "csp_Djlh",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            }
-        },
-        {
             "key": "蜻蜓FM",
             "name": "蜻蜓 • FM",
             "type": 3,
@@ -1344,45 +1155,6 @@
             }
         },
         {
-            "key": "童趣",
-            "name": "童趣 • 儿童",
-            "type": 3,
-            "api": "csp_TongQu",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "兔小贝",
-            "name": "兔小贝 • 儿童",
-            "type": 3,
-            "api": "csp_TuXiaoBei",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "贝乐虎",
-            "name": "贝乐虎 • 儿童",
-            "type": 3,
-            "api": "csp_BeiLeHu",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
             "key": "爱听音乐",
             "name": "爱听 • 音乐",
             "type": 3,
@@ -1390,19 +1162,6 @@
             "quickSearch": 0,
             "changeable": 0,
             "api": "./py/爱听音乐.py"
-        },
-        {
-            "key": "网络直播",
-            "name": "网络 • 直播",
-            "type": 3,
-            "api": "csp_ALLLive",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
         },
         {
             "key": "哔哩哔哩音乐",
@@ -1467,118 +1226,6 @@
                 "n": "哔哩小品",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "哔哩哔哩戏曲",
-            "name": "哔哩 • 戏曲",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "n": "哔哩戏曲",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "少儿教育",
-            "name": "少儿 • 教育",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/少儿教育.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "小学课堂",
-            "name": "小学 • 课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/小学课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "初中课堂",
-            "name": "初中 • 课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/初中课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "高中课堂",
-            "name": "高中 • 课堂",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": {
-                "json": "./json/高中课堂.json",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
-            },
-            "style": {
-                "type": "rect",
-                "ratio": 1.618
-            }
-        },
-        {
-            "key": "急救教学",
-            "name": "急救 • 教学",
-            "type": 3,
-            "api": "csp_FirstAid",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 3.8
-            },
-            "gridview": "0-0-4.1"
-        },
-        {
-            "key": "养生堂",
-            "name": "养生 • 知识",
-            "type": 3,
-            "api": "csp_YST",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
             "style": {
                 "type": "rect",
                 "ratio": 1.618
