@@ -1251,8 +1251,7 @@
                 "ratio": 1.618
             }
         },
-        {"key": "采集之王","name": "采集｜合集","type": 3,"api": "./JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "./JS/采集之王.js?type=url&params=./JSON/采集静态.json$1$1","jar":"./spider.jar"},
-{"key": "采集之王1","name": "采集｜合集1","type": 3,"api": "https://gh-proxy.org/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://gh-proxy.org/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JS/采集之王.js?type=url&params=https://gh-proxy.org/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JSON/采集静态.json$1$1"},
+{"key": "采集之王","name": "采集｜合集","type": 3,"api": "https://gh-proxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JS/drpy2.min.js","searchable": 1,"quickSearch": 1,"ext": "https://gh-proxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JS/采集之王.js?type=url&params=https://gh-proxy.com/https://raw.githubusercontent.com/aliluya1977/TVBox/refs/heads/master/JSON/采集静态.json$1$1"},
         {
             "key": "版本信息",
             "name": "版本 • 信息",
