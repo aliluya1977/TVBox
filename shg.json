@@ -31,11 +31,22 @@
             "api": "csp_LocalFile"
         },
         {
-            "key": "预告",
-            "name": "新片 • 预告",
+            "key": "哔哩合集",
+            "name": "哔哩 • 合集",
             "type": 3,
-            "api": "csp_YGP",
-            "searchable": 0
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "n": "哔哩合集",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+            }
         },
                 {
             "key": "玩偶",
@@ -549,24 +560,6 @@
                 "site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
                 "dataKey": "88689667dce61725",
                 "dataIv": "88689667dce61725"
-            }
-        },
-        {
-            "key": "哔哩合集",
-            "name": "哔哩 • 合集",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.433
-            },
-            "ext": {
-                "n": "哔哩合集",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
         {
