@@ -377,6 +377,7 @@
                 "sign": "ddtvf65f3a83d6d9ad6f"
             }
         },
+{"key": "csp_非凡","name": "采集非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
         {
             "key": "马猴影视",
             "name": "马猴 • APP",
