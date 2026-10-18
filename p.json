@@ -1,16 +1,15 @@
 {
 
 //"spider": "https://8415.kstore.space/Tvbox/jar/papapg.jar",
-"spider":"./spider.jar;md5;5263cb4e5f6d2ca968940edc6e935faf",
+"spider":"./jar/spider.jar",
 
 "sites":[
-{"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"},
-{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"CK资源","name":"采集CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/", "playUrl":"","searchable":1,"quickSearch":1},
 {"key": "XMVideo","name": "🔞熊猫视频","type": 3,"api": "csp_XMVideo","searchable": 1,"filterable": 1,"jar": "./182.jar"},
 {"key":"色播","name": "🔞色播直播","type": 3,"api":"./js/色播.js","searchable": 1,"changeable": 0},
-
+{"key": "BtSearch","name": "🇨🇳BT搜索","type": 3,"api": "csp_BtSearch","searchable": 1,"changeable": 1,"timeout": 60,"ext": "null$$$null$$$1","jar":"./jar/pg-18.jar"},
+{"key":"红牛资源","name":"红牛资源(切)","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "PPT","name": "❤️‍🔥〔PPT丨XP™〕","type": 3,"api": "csp_XBPQ","ext": {
         "首页":"电视剧$30",
         "数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
