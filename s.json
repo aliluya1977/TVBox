@@ -21,6 +21,7 @@
 {"key":"色播","name": "🔞色播直播","type": 3,"api":"./js/色播.js","searchable": 1,"changeable": 0},
 { "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
 {"key": "滴滴资源","name": "👠滴滴资源","type": 0,"api": "https://api.ddapi.cc/api.php/provide/vod/at/xml", "searchable": 0,"quickSearch": 0, "filterable": 0 },
+//{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key": "大地专场","name": "🔞大地采集","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "玉兔专场","name": "🔞玉兔采集","type": 1,"api": "https://apiyutu.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "美少女","name": "*🔞美少女","type": 0,"api": "https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0,"filterable": 1},
@@ -95,8 +96,7 @@
         "线路标题": "div class=\"oneVideo-body\"&&</div>",
         "分类url": "https://airav.io/{cateId}/{catePg}.html",
         "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"}},
-//{"key":"didizy.com","name":"💕滴滴(直连)","type":1,"api":"https://api.ddapi.cc/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-        {"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
+{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
         "搜索链接":"https://222.ahrck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
         "主页url":"https://222.ahrck.cc/hs1.php",
         "链接":"https://222.ahrck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
