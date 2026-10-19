@@ -32,6 +32,7 @@
 {"key":"zp059","name":"🔞番号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":0},
 {"key": "KpgxdyE", "name": "🔞黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 {"key": "森林","name": "🔞采集.森林资源","type": 1,"api": "https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable": 1},
+{"key": "影视","name": "影视18","type": 1,"api": "https://155api.com/api.php/provide/vod/"},
 {"key": "9号资源","name": "🔞9号资源","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "PPT","name": "❤️‍🔥〔PPT丨XP™〕","type": 3,"api": "csp_XBPQ","ext": {
         "首页":"电视剧$30",
@@ -131,44 +132,7 @@
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
 "分类url":"http://hscangku.com/vodtype/{cateId}-{catePg}.html"}},
-{"key": "csp_XYBQ","name": "🔞比卡|比卡","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
-    "请求头": "手机",
-    "站名": "比卡比卡",
-    "主页url": "https://pika.bikaq.cc/",
-    "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\">&&</i>",
-    "标题": "title=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    "免嗅": "1",
-    "播放数组": "hl-plays-list hl-sort-list clearfix\"&&</ul>",
-    "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
-    "搜索url": "https://pika.bikaq.cc/vodsearch/{wd}----------{pg}---.html",
-    "嗅探词": ".m3u8#.mp4",
-    "分类url": "https://pika.bikaq.cc/vodtype/{cateId}-{catePg}.html",
-    "分类数组": "<li&&</li>",
-    "分类标题": ">&&/a>",
-    "分类ID": "/vodtype/&&.html"}},
-{"key":"花影视","name":"🔞花影视","type":3,"api":"csp_XBPQ",
-        "ext":{"数组": "col-6 col-sm-4 col-lg-3\">&&</div></div>",
-                "图片": "data-original=\"&&\"",
-                "标题": "<h6 class=\"title\"><a href=*>&&</a>",
-                "播放数组":"class=\"item line\">&&</div>",
-                "线路数组":"class=\"item line\">&&</div>",
-                "分类url":"https://11gaokk.com/typegaokk/{cateId}_{catePg}.html[https://11gaokk.com/typegaokk/{cateId}.html]",
-                "分类":"日韩$2#巨乳$7#中文$4#口交$8#制服$9#无码$11#女优$18#人妻$19#独家$22#潮吹$24#三级$12"}},
 
-
-        {
-            "key": "csp_XBPQ_奶很大",
-            "name": "🔞奶很大",
-            "type": 3,
-            "api": "csp_XBPQ",    
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://gh.sixyin.com/https://raw.githubusercontent.com/aliluya1977/yg/main/h/奶很大.json"
-        },
-
-
-{"key": "影视","name": "影视18","type": 1,"api": "https://155api.com/api.php/provide/vod/"}, 
 
 
 
@@ -192,8 +156,6 @@
                 "分类url": "https://hsex.icu/{cateId}_list-{catePg}.htm;;RC",
                 "页面代理": "127.0.0.1:10072"}
         },
-{"key":"虎牙","name":"🔞虎牙采集","type":1,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable":1,"quickSearch":1 },
-        
 {"key":"csp_xBP色花堂","name":"🔞色花堂〔xBPQ〕","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.xvgdwo.com/index.html",
@@ -220,66 +182,7 @@
 "分类":"国产精品&日韩亚洲&自拍偷拍&欧美激情&主播视频&中文字幕&日韩无码&动漫成人&推荐视频&同性人妖&巨乳颜射&口交自慰&制服淫穴&换脸AI区&三级综艺&重味3P&强奸乱伦&精品女优&人妻系列&极骚萝莉&HEYZO&独家诱惑&首次少女&高潮喷吹",
 "分类值":"1&2&15&3&16&4&11&14&5&6&7&8&9&10&12&13&17&18&19&20&21&22&23&24",
 "分类url":"https://www.xvgdwo.com/typegaokk/{cateId}_{catePg}.html[https://www.xvgdwo.com/typegaokk/{cateId}.html]"}},
- 
-{"key":"csp_xBPGAOAB","name":"GAOAB〔xBPQ〕","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":
-{"name": "*GAOAA",
-  "url": "https://33gaoak.com/",
-  "User": "空",
-  "shouye": "1",
-  "fenlei": "国产视频$/gaotype/25_#日本无码$/gaotype/20_#日本有码$/gaotype/9_#中文字幕$/gaotype/2_#三级电影$/gaotype/1_#巨乳系列$/gaotype/3_#人妻激情$/gaotype/8_#欧美极品$/gaotype/18_#制服诱惑$/gaotype/16_#自拍偷拍$/gaotype/17_#强奸乱伦$/gaotype/14_#绝美少女$/gaotype/13_#首次亮相$/gaotype/12_#HEY诱惑$/gaotype/5_#独家DMM$/gaotype/4_#网红主播$/gaotype/6_#日韩精品$/gaotype/10_#激情口交$/gaotype/11_#动漫电影$/gaotype/15_#极骚萝莉$/gaotype/19_#HEYZO$/gaotype/21_#高潮喷吹$/gaotype/22_#自慰颜射$/gaotype/23_",
-  "houzhui": ".html",
-  "shifouercijiequ": "1",
-  "jiequqian": "blank\">百人牛牛，美女陪干！不爽就来干</a>",
-  "jiequhou": "<div class=\"box-page\">",
-  "jiequshuzuqian": "class=\"video-pic loading",
-  "jiequshuzuhou": "player",
-  "tupianqian": "original=\"",
-  "tupianhou": "\"",
-  "biaotiqian": "title=\"",
-  "biaotihou": "\"",
-  "lianjieqian": "href=\"",
-  "lianjiehou": "\"",
-  "sousuoqian": "/gaosearch/-/?wd=",
-  "sousuohou": "&limit=500",
-  "sousuohouzhui": "/gaotype/",
-  "ssmoshi": "1",
-  "sousuoshifouercijiequ": "1",
-  "jspic": "空",
-  "jsname": "空",
-  "jsid": "空",
-  "ssjiequqian": "blank\">百人牛牛，美女陪干！不爽就来干</a>",
-  "ssjiequhou": "<div class=\"box-page\">",
-  "ssjiequshuzuqian": "class=\"video-pic loading",
-  "ssjiequshuzuhou": "player",
-  "sstupianqian": "original=\"",
-  "sstupianhou": "\"",
-  "ssbiaotiqian": "title=\"",
-  "ssbiaotihou": "\"",
-  "sslianjieqian": "href=\"",
-  "sslianjiehou": "\"",
-  "bfshifouercijiequ": "0",
-  "bfjiequqian": "空",
-  "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"item line\">",
-  "bfjiequshuzuhou": "</div>",
-  "zhuangtaiqian": "target=\"_blank\">",
-  "zhuangtaihou": "</a><i",
-  "daoyanqian": "class=\"data\">类型：",
-  "daoyanhou": "</p>",
-  "zhuyanqian": "class=\"data\">主演：",
-  "zhuyanhou": "</p>",
-  "juqingqian": "<h1>",
-  "juqinghou": "</h1>",
-  "bfyshifouercijiequ": "0",
-  "bfyjiequqian": "空",
-  "bfyjiequhou": "空",
-  "bfyjiequshuzuqian": "<a",
-  "bfyjiequshuzuhou": "/a>",
-  "bfbiaotiqian": ">",
-  "bfbiaotihou": "<",
-  "bflianjieqian": "href=\"",
-  "bflianjiehou": "\""
-}},
+
 {"key": "csp_xBPQ_香蕉AV解说","name": "🏆香蕉AV解说","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":
 {"站名":"AV解说",
 "主页url":"https://su-qq.vip/avjs/",
@@ -551,26 +454,8 @@
 "分类值": "ui-VIPzhuanqu&ui-toupaixilie&ui-guochanzipai&ui-ribenyouma&ui-ribenwuma&ui-chengrendongman&ui-hanguozonghe&ui-VRzhuanqu&ui-oumei",
 "免嗅":"0"
 //"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma"
-}},
-{"key":"天美","name":"🔞天美|doll","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},
-            "ext": {
-                "站名": "天美",
-                "主页url": "https://www.xbyc.cc/",
-                "简介": "名称：&&</h3>",
-                "数组":"\"box-item\"&&</em>",
-                "二次截取": "",
-                "图片": "data-original=\"&&.txt\"+.jpg",
-                "标题": "Base64((d('&&'));</script>",
-                "链接": "href=\"&&\"",
-                        
-            "搜索链接":"http://www.xbyc.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
-       
-                "副标题":"<strong>&&</strong>",
-                //"分类数组":"<li>&&</li>",
-                //"分类标题":"\">&&</a",
-                //"分类ID":"id/&&.",
-        "分类url":"http://www.xbyc.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;mz"
-            }}
+}}
+
 
 ],
 
