@@ -45,7 +45,8 @@
             },
             "ext": {
                 "n": "哔哩合集",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
+                "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt",
+                "json": "./lib/75389dca9afadd4614e9713765ff17.txt"
             }
         },
             {
