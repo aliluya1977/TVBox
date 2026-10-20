@@ -58,16 +58,6 @@
         "直接播放":"体育",
         "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
         "分类url":"https://ptt.red/p/{cateId}?page={catePg}"}},
-{"key":"传媒二区","name":"🍁传媒二区","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
-        "主页url":"https://www.34gaobk.com/index.html",
-        "数组":"<div class=\"card mb-0\">&&</a",
-        "标题":"atl=\"&&\"","副标题":"img-tag\">&&</div>",
-        "简介":"document.title=\'&&\'","直接播放":"1",
-        "搜索模式":"1",
-        "搜索url":"https://www.34gaobk.com/gaosearch/{wd}-/page/{pg}/",
-        "分类数组":"<a&&/a>","分类标题":">&&<",
-        "分类ID":"/gaotype/&&.html",
-        "分类url":"https://www.34gaobk.com/gaotype/{cateId}_{catePg}.html"}},
 {"key": "爱豆传媒","name": "🔞爱豆传媒","type": 3,"api": "csp_XBPQ","ext": {
                 "主页url": "https://rourou.co/",
                 "直接播放": "1",
@@ -96,14 +86,7 @@
         "线路标题": "div class=\"oneVideo-body\"&&</div>",
         "分类url": "https://airav.io/{cateId}/{catePg}.html",
         "分类": "最新發行$recent/1#最熱門$popular/2#最多觀看$mostviewed/3#最新影片$newest/4#女優專區$actress/5#類型一覽$type/6#AV影評$review/7#遊戲專區$game/8"}},
-{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
-        "搜索链接":"https://444.ahrck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html",
-        "主页url":"https://444.ahrck.cc/hs1.php",
-        "链接":"https://444.ahrck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]",
-        "简介":"时间：&&<",
-        "副标题":"❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
-         "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-        "分类url": "https://444.ahrck.cc/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"}},
+//{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {"搜索链接":"https://444.ahrck.cc/hs1.php?u=/vodsearch/{wd}----------{pg}---.html","主页url":"https://444.ahrck.cc/hs1.php","链接":"https://444.ahrck.cc/hs1.php?u=+href=\"&&\"[替换:?>>&]","简介":"时间：&&<","副标题":"❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<","分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22","分类url": "https://444.ahrck.cc/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"}},
 {"key":"黄仓库","name":"🔞黄仓库","type":3,"api":"csp_XBPQ","style":{"ratio":1.7},"ext": {
 "站名":"黄仓库",
 "主页url":"https://444.ahrck.cc/",
