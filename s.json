@@ -1,5 +1,5 @@
 {
-"spider":"./182.jar",
+"spider":"./Yoursmile.jar",
 
 "sites":[
 {"key": "虎牙","name": "🐯虎牙采集","type": 1,"api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8","searchable": 1,"quickSearch": 1},
