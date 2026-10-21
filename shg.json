@@ -48,21 +48,22 @@
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
-            {
-      "key": "bili",
-      "name": "🅱哔哔┃合集🅱",
+    {
+      "key": "Bili",
+      "name": "🅱哔哔合集┃弹幕",
       "type": 3,
       "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "style": {
         "type": "rect",
-        "ratio": 1.433
+        "ratio": 1.597
       },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
       "ext": {
-        "json": "./lib/75389dca9afadd4614e9713765ff17.txt"},
-        "jar":"./jar/wrx.jpg;md5;c3bb107baf51fc8f90daf950c539727f"},
+        "json": "./lib/bilibili.txt"
+      },
+        "jar":"./jar/fty.jar;md5;448a9f26f33109f6aa148971c3adab46"},
                 {
             "key": "玩偶",
             "name": "玩偶 • 4K",
