@@ -405,6 +405,7 @@
             }
         },
 {"key": "csp_非凡","name": "采集非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
+{"key": "vip","name": "vip影视™〕","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/vip.json"},
         {
             "key": "马猴影视",
             "name": "马猴 • APP",
@@ -421,29 +422,6 @@
                 "ver": "1"
             }
         },
-{"key": "PPT","name": "❤️‍🔥〔PPT丨XP™〕","type": 3,"api": "csp_XBPQ","ext": {
-        "首页":"电视剧$30",
-        "数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-        "图片":"src=\"&&\"",
-        "标题": "alt=\"&&\"",
-        "副标题": "class=\"badge badge-success\">&&</span>",
-        "链接": "href=\"&&\"",
-        "搜索url": "https://ptt.red/node/search?title={wd}",
-        "搜索数组":"col-4 item p-0 pr-1\">&&class=\"card-body&&</div",
-        "搜索副标题": "class=\"badge badge-success\">&&</span>",
-        "多线二次截取": "class=\"tabbable fullwidth\">&&</div",
-        "多线数组": "class=\"nav-item\">&&</li",
-        "多线链接": "href=\"&&\"",
-        "多线链接前缀": "https://ptt.red",
-        "多线链接后缀": "",
-        "线路数组":"class=\"nav-item\">&&</li",
-        "线路标题": "title=\"&&\"",
-        "播放数组": "默认--class=\"mb-2 fullwidth\">&&</div>||电影--class=\"nav-item\">&&</li",
-        "播放标题": ">&&</a >",
-        "播放链接": "href=\"&&\"",
-        "直接播放":"体育",
-        "分类": "电影$1#电视剧$3#综艺$2#动漫$4#短剧$66#体育$53",
-        "分类url":"https://ptt.red/p/{cateId}?page={catePg}"}},
         {
             "key": "剧圈99",
             "name": "剧圈 • APP",
