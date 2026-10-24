@@ -406,6 +406,16 @@
         },
 {"key": "csp_非凡","name": "采集非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
 {"key": "vip","name": "vip影视™","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/vip.json"},
+ {
+            "key": "hanjukk",
+            "name": "韩剧看看",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./XYQH/韩剧看看.json"
+        },
         {
             "key": "马猴影视",
             "name": "马猴 • APP",
