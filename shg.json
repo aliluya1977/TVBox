@@ -47,6 +47,7 @@
 {"key": "茉莉","name": "茉莉 • APP","type": 3,"api": "csp_AppGet","searchable": 1,"changeable": 1,"ext": {"site": "https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt","dataKey": "88689667dce61725","dataIv": "88689667dce61725"}},
 {"key": "哔哩视频","name": "哔哩 • 视频","type": 3,"api": "csp_BiliYS","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
 {"key": "三六零","name": "三六零 • 视频","type": 3,"api": "csp_SP360"},
+{"key": "py_libvio","name": "LIBVIO[py]","type": 3,"api": "./py/libvio.py","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "红果短剧","name": "红果 • 短剧","type": 3,"api": "./py/红果短剧.py","genre": "shortdrama"},
 {"key": "七猫短剧","name": "七猫 • 短剧","type": 3,"api": "csp_ShortQimao","genre": "shortdrama"},
 {"key": "河马短剧","name": "河马 • 短剧","type": 3,"api": "csp_ShortHema","genre": "shortdrama"},
