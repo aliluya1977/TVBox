@@ -405,76 +405,6 @@
             }
         },
 {"key": "csp_非凡","name": "采集非凡|资源","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XBPQ/非凡资源网.json"},
-{"key": "Auete","name": "奥特[XBPQ]","type": 3,"api": "csp_XBPQ", "timeout": 15,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": {
-  "站名": "Auete",
-  "主页url": "https://auete.com",
-  "起始页": "2",
-  "分类": "电影&电视剧&综艺&动漫&其他",
-  "分类值": "Movie&Tv&Zy&Dm&qita",
-  "分类url": "https://auete.com/{cateId}{class}/index{catePg}.html[https://auete.com/{cateId}{class}/index.html]",
-  "数组": "<li class=\"li data-href=&&</li>",
-  "副标题": "hdtag\">&&<",
-  "搜索模式": "1",
-  "搜索url": "/search.php?searchword={wd}",
-  "搜索数组": "mb-0\">&&</a>",
-  "搜索图片": "https://cainisi.cf/暂无封面.jpg",
-  "搜索标题": "text-danger\">&&<",
-  "搜索链接": "data-href=\"&&\"",  
-  "影片地区": "地区:&&</p>",
-  "影片类型": "分类:&&</p>",
-  "导演": "导演:&&</p>",
-  "主演": "主演:&&</p>",
-  "简介": "</a><p>&&</p>",  
-  "线路数组": "<i class=\"icon-film\">&&small>",
-  "线路标题": "SHG专享+>&&<[替换:『*』>>空#：>>空]",  
-  "播放数组": "</h2><ul>&&</ul>",
-  "筛选":{
-"Movie":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"喜剧片","v":"/xjp"},
-  {"n":"动作片","v":"/dzp"},
-  {"n":"爱情片","v":"/aqp"},
-  {"n":"科幻片","v":"/khp"},
-  {"n":"恐怖片","v":"/kbp"},
-  {"n":"惊悚片","v":"/jsp"},
-  {"n":"战争片","v":"/zzp"},
-  {"n":"剧情片","v":"/jqp"}]}],
-"Tv":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"美剧","v":"/oumei"},
-  {"n":"韩剧","v":"/hanju"},
-  {"n":"日剧","v":"/riju"},
-  {"n":"泰剧","v":"/yataiju"},
-  {"n":"网剧","v":"/wangju"},
-  {"n":"台剧","v":"/taiju"},
-  {"n":"国产","v":"/neidi"},
-  {"n":"港剧","v":"/tvbgj"},
-  {"n":"外剧","v":"/waiju"},
-  {"n":"英剧","v":"/yingju"}]}],
-"Zy":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"国综","v":"/guozong"},
-  {"n":"韩综","v":"/hanzong"},
-  {"n":"美综","v":"/meizong"}]}],
-"Dm":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"动画","v":"/donghua"},
-  {"n":"日漫","v":"/riman"},
-  {"n":"国漫","v":"/guoman"},
-  {"n":"美漫","v":"/meiman"}]}],
-"qita":[
-  {"key":"class","name":"剧情","value":[
-  {"n":"全部","v":""},
-  {"n":"记录片","v":"/Jlp"},
-  {"n":"经典片","v":"/Jdp"},
-  {"n":"经典剧","v":"/Jdj"},
-  {"n":"网大电影","v":"/wlp"},
-  {"n":"国产老电影","v":"/laodianying"}]}]}
-}},
 {"key": "vip","name": "vip影视™","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./XBPQ/vip.json"},
  {
             "key": "hanjukk",
@@ -704,277 +634,31 @@
             "api": "csp_ShortXingya",
             "genre": "shortdrama"
         },
-        {
-            "key": "果果短剧",
-            "name": "果果 • 短剧",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8",
-                "分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"
-            },
-            "genre": "shortdrama"
-        },
-        {
-            "key": "瓜子影视",
-            "name": "瓜子 • 影视",
-            "type": 3,
-            "api": "csp_Gz360"
-        },
-        {
-            "key": "飞娱影视",
-            "name": "飞娱 • 影视",
-            "type": 3,
-            "api": "csp_Feiyu"
-        },
-        {
-            "key": "独播影视",
-            "name": "独播 • 影视",
-            "type": 3,
-            "api": "csp_Duboku"
-        },
-        {
-            "key": "厂长影视",
-            "name": "厂长 • 影视",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://cz01.vip"
-        },
-        {
-            "key": "金牌影视",
-            "name": "金牌 • 影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
-        {
-            "key": "骚火影视",
-            "name": "骚火 • 影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "ext": "https://shdy5.us"
-        },
-        {
-            "key": "枫叶影视",
-            "name": "枫叶 • 影视",
-            "type": 3,
-            "api": "csp_FengYe",
-            "ext": "https://www.vip1949.com/"
-        },
-        {
-            "key": "爱看机器人",
-            "name": "爱看 • 影视",
-            "type": 3,
-            "api": "csp_Ikanbot",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "面包影视",
-            "name": "面包 • 影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
-                "分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47",
-                "简介": "简介：&&"
-            }
-        },
-        {
-            "key": "剧圈影视",
-            "name": "剧圈 • 影视",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "ext": "./XYQHiker/剧圈影视.json"
-        },
-        {
-            "key": "番社动漫",
-            "name": "番社 • 动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://dora.xiaoxinbk.com/",
-                "数组": "class=\"card-img-bili\"&&</a>",
-                "标题": "alt=\"&&\"",
-                "图片": "data-url=\"&&\"",
-                "链接": "href=\"&&\"",
-                "线路标题": "mt-0\">&&</h3>",
-                "播放数组": "class=\"card-body button-list\"&&</div>",
-                "播放列表": "<a&&a>",
-                "播放链接": "href=\"&&\"",
-                "播放标题": ">&&</",
-                "分类url": "https://www.dora-video.cn/search/sy/?niandai={year}&cat={class}&tag={cateId}&gaojijiansuo=1&zhuangtai={by}",
-                "分类": "全部$0#动画$20#剧场版$21#MV$22#预告片$23#直播$27#同人$25#民间$26#目录$28#中篇$30",
-                "剧情": "哆啦A梦新番$1#新哆啦A梦 台湾配音$2#哆啦A梦剧场版$3#最新预告片$6#剧场版集合$7#哆啦A梦MV$4#哆啦A梦七小子集合$11#生日特别篇$19#哆啦A梦生日特别篇$12#哆啦美生日特别篇$14#大雄生日特别篇$13#静香生日特别篇$15#胖虎生日特别篇$16#小夫生日特别篇$17#24小时直播$24#哆啦A梦中篇附映$29#哆啦A梦大山版 - 哆啦a梦1979版国语旧版 - 旧版$31#哆啦A梦大山修复&补档区$32#藤子·F·不二雄【其它动画】$33",
-                "排序": "全部$0#完结$2#连载$1#待定$-1"
-            },
-            "style": {
-                "type": "list"
-            }
-        },
-        {
-            "key": "双星99",
-            "name": "双星 • 动漫",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://111.180.139.119:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "f66f65db127e48449f073c2c6eb0f993",
-                "versionName": "6.4.9",
-                "name": "双子星动漫",
-                "package": "com.haiwang.liangxia.my.ym",
-                "buildNumber": "2001",
-                "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-            }
-        },
-        {
-            "key": "漫国动漫",
-            "name": "漫国 • 动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppSy",
-            "ext": {
-                "url": "http://114.66.27.208:806",
-                "siteKey": "rectangleadsadxa",
-                "listKey": "aassddwwxxllsx1x",
-                "parsesKey": "aassddwwxxllsx1x"
-            }
-        },
-        {
-            "key": "咕咕动漫",
-            "name": "咕咕 • 动漫",
-            "type": 3,
-            "searchable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.gugu3.com",
-                "dataKey": "nKfZ8KX6JTNWRzTD",
-                "dataIv": "nKfZ8KX6JTNWRzTD"
-            }
-        },
-        {
-            "key": "巴士动漫",
-            "name": "巴士 • 动漫",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8",
-                "分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html",
-                "分类": "国漫$1#日漫$2#欧美动漫$3#电影$4",
-                "数组": "class=\"item\">&&</li>",
-                "简介": "剧情：&&</p>",
-                "标题": "title=\"&&在线观看\"",
-                "副标题": "desc\">&&</span>",
-                "图片": "data-bg=\"&&\"",
-                "搜索url": "https://dmbus.cc/s----------.html?wd={wd}",
-                "倒序": "1"
-            }
-        },
-        {
-            "key": "荐片",
-            "name": "荐片 • 磁力",
-            "api": "csp_JianPian",
-            "type": 3
-        },
-        {
-            "key": "七味",
-            "name": "七味 • 磁力",
-            "type": 3,
-            "api": "csp_QnMp4",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com"
-        },
-        {
-            "key": "New6v",
-            "name": "New6V • 磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
-        {
-            "key": "美剧迷",
-            "name": "美剧迷 • 磁力",
-            "type": 3,
-            "api": "csp_MeijuMi",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "迅雷吧",
-            "name": "迅雷吧 • 磁力",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://xunlei8.me"
-        },
-        {
-            "key": "电影港",
-            "name": "电影港 • 磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XYQHiker/电影港.json"
-        },
-        {
-            "key": "阿里云盘",
-            "name": "阿里 • 云盘",
-            "type": 3,
-            "api": "csp_PanAli",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "夸克网盘",
-            "name": "夸克 • 网盘",
-            "type": 3,
-            "api": "csp_PanQuark",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-        },
-        {
-            "key": "UC网盘",
-            "name": "UC • 网盘",
-            "type": 3,
-            "api": "csp_PanUC",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list",
-                "ratio": 1.433
-            }
-},
+{"key": "果果短剧","name": "果果 • 短剧","type": 3,"api": "csp_XBPQ","ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类": "重生$1#穿越$2#爽剧$3#言情$4#都市$5#古装$6#悬疑$7#剧情$8","分类url": "https://www.mochadj.com/i/{cateId}-{catePg}.html"},"genre": "shortdrama"},
+{"key": "瓜子影视","name": "瓜子 • 影视","type": 3,"api": "csp_Gz360"},
+{"key": "飞娱影视","name": "飞娱 • 影视","type": 3,"api": "csp_Feiyu"},
+{"key": "独播影视","name": "独播 • 影视","type": 3,"api": "csp_Duboku"},
+{"key": "厂长影视","name": "厂长 • 影视","type": 3,"api": "csp_Czsapp","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://cz01.vip"},
+{"key": "金牌影视","name": "金牌 • 影视","type": 3,"api": "csp_Jpys","ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"},
+{"key": "骚火影视","name": "骚火 • 影视","type": 3,"api": "csp_SaoHuo","ext": "https://shdy5.us"},
+{"key": "枫叶影视","name": "枫叶 • 影视","type": 3,"api": "csp_FengYe","ext": "https://www.vip1949.com/"},
+{"key": "爱看机器人","name": "爱看 • 影视","type": 3,"api": "csp_Ikanbot","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "面包影视","name": "面包 • 影视","type": 3,"api": "csp_XBPQ","ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","分类url": "https://v.aiwule.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影$20#电视剧$21#动漫$23#综艺$22#短剧$47","简介": "简介：&&"}},
+{"key": "剧圈影视","name": "剧圈 • 影视","type": 3,"api": "csp_XYQHiker","ext": "./XYQHiker/剧圈影视.json"},
+{"key": "番社动漫","name": "番社 • 动漫","type": 3,"api": "csp_XBPQ","ext": {"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","主页url": "https://dora.xiaoxinbk.com/","数组": "class=\"card-img-bili\"&&</a>","标题": "alt=\"&&\"","图片": "data-url=\"&&\"","链接": "href=\"&&\"","线路标题": "mt-0\">&&</h3>","播放数组": "class=\"card-body button-list\"&&</div>","播放列表": "<a&&a>","播放链接": "href=\"&&\"","播放标题": ">&&</","分类url": "https://www.dora-video.cn/search/sy/?niandai={year}&cat={class}&tag={cateId}&gaojijiansuo=1&zhuangtai={by}","分类": "全部$0#动画$20#剧场版$21#MV$22#预告片$23#直播$27#同人$25#民间$26#目录$28#中篇$30","剧情": "哆啦A梦新番$1#新哆啦A梦 台湾配音$2#哆啦A梦剧场版$3#最新预告片$6#剧场版集合$7#哆啦A梦MV$4#哆啦A梦七小子集合$11#生日特别篇$19#哆啦A梦生日特别篇$12#哆啦美生日特别篇$14#大雄生日特别篇$13#静香生日特别篇$15#胖虎生日特别篇$16#小夫生日特别篇$17#24小时直播$24#哆啦A梦中篇附映$29#哆啦A梦大山版 - 哆啦a梦1979版国语旧版 - 旧版$31#哆啦A梦大山修复&补档区$32#藤子·F·不二雄【其它动画】$33","排序": "全部$0#完结$2#连载$1#待定$-1"},"style": {"type": "list"}},
+{"key": "双星99","name": "双星 • 动漫","type": 3,"api": "csp_App99","ext": {"host": "http://111.180.139.119:19987/app/bn","LoginPath": "/app/log","appkey": "f66f65db127e48449f073c2c6eb0f993","versionName": "6.4.9","name": "双子星动漫","package": "com.haiwang.liangxia.my.ym","buildNumber": "2001","buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"}},
+{"key": "漫国动漫","name": "漫国 • 动漫","type": 3,"searchable": 1,"api": "csp_AppSy","ext": {"url": "http://114.66.27.208:806","siteKey": "rectangleadsadxa","listKey": "aassddwwxxllsx1x","parsesKey": "aassddwwxxllsx1x"}},
+{"key": "咕咕动漫","name": "咕咕 • 动漫","type": 3,"searchable": 1,"api": "csp_AppGet","ext": {"url": "https://www.gugu3.com","dataKey": "nKfZ8KX6JTNWRzTD","dataIv": "nKfZ8KX6JTNWRzTD"}},
+{"key": "巴士动漫","name": "巴士 • 动漫","type": 3,"api": "csp_XBPQ","ext": {"请求头": "User-Agent$MOBILE_UA#Accept$text/html#accept-language$zh-CN,zh;q=0.8","分类url": "https://dmbus.cc/show-{cateId}--{by}-{class}--{year}-{catePg}.html","分类": "国漫$1#日漫$2#欧美动漫$3#电影$4","数组": "class=\"item\">&&</li>","简介": "剧情：&&</p>","标题": "title=\"&&在线观看\"","副标题": "desc\">&&</span>","图片": "data-bg=\"&&\"","搜索url": "https://dmbus.cc/s----------.html?wd={wd}","倒序": "1"}},
+{"key": "荐片","name": "荐片 • 磁力","api": "csp_JianPian","type": 3},
+{"key": "七味","name": "七味 • 磁力","type": 3,"api": "csp_QnMp4","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.qwshow.com,https://www.qwmkv.com,https://www.qwfilm.com,https://www.qwfun.com,https://www.qnnull.com,https://www.qnnull.com"},
+{"key": "New6v","name": "New6V • 磁力","type": 3,"api": "csp_New6v","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.xb6v.com"},
+{"key": "美剧迷","name": "美剧迷 • 磁力","type": 3,"api": "csp_MeijuMi","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key": "迅雷吧","name": "迅雷吧 • 磁力","type": 3,"api": "csp_Xunlei8","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://xunlei8.me"},
+{"key": "电影港","name": "电影港 • 磁力","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQHiker/电影港.json"},
+{"key": "阿里云盘","name": "阿里 • 云盘","type": 3,"api": "csp_PanAli","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
+{"key": "夸克网盘","name": "夸克 • 网盘","type": 3,"api": "csp_PanQuark","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
+{"key": "UC网盘","name": "UC • 网盘","type": 3,"api": "csp_PanUC","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
 {"key": "百度网盘","name": "百度 • 网盘","type": 3,"api": "csp_PanBaidu","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
 {"key": "迅雷云盘","name": "迅雷 • 云盘","type": 3,"api": "csp_PanXunlei","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
 {"key": "光鸭云盘","name": "光鸭 • 云盘","type": 3,"api": "csp_PanGuangya","searchable": 0,"filterable": 0,"changeable": 0,"style": {"type": "list","ratio": 1.433}},
