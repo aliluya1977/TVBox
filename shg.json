@@ -7,6 +7,7 @@
 {"key": "豆瓣","name": "豆瓣 • 首页","type": 3,"api": "csp_Douban","searchable": 0},
 {"key": "配置中心","name": "配置 • 中心","type": 3,"api": "csp_Config","searchable": 0,"changeable": 0,"indexs": 0,"style": {"type": "rect","ratio": 1.618}},
 {"key": "本地","name": "本地 • 视频","type": 3,"api": "csp_LocalFile"},
+{"key": "py_maple","name": "枫叶[py]","type": 3,"api": "./py/maple.py","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"sitesIndex": 0}},
 {"key": "哔哩合集","name": "哔哩 • 合集","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 0,"changeable": 0,"style": {"type": "rect","ratio": 1.433},"ext": {"n": "哔哩合集","cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"}},
 {"key": "Bili","name": "🅱哔哔合集┃弹幕","type": 3,"api": "csp_BiliGuard","style": {"type": "rect","ratio": 1.597},"searchable": 1,"quickSearch": 0,"changeable": 0,"ext": {"json": "./lib/bilibili.txt"},"jar":"./jar/fty.jar;md5;448a9f26f33109f6aa148971c3adab46"},
 {"key": "玩偶","name": "玩偶 • 4K","type": 3,"api": "csp_Wogg","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"site": ["https://www.wogg.live","https://woggpan.888484.xyz","https://wogg.xxooo.cf","https://woggpan.xxooo.cf"]},"timeout": 60},
