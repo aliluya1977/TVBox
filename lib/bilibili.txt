@@ -3,7 +3,7 @@
 {"type_name": "推荐","type_id": "推荐"},
 {"type_name": "影视推荐","type_id": "影视推荐"},
 {"type_name":"动漫","type_id":"动漫合集"},
-{"type_name":"演唱会","type_id":"演唱会"},
+{"type_name":"演唱会","type_id":"演唱会超清"},
 {"type_name":"解说","type_id":"解说"},
 {"type_name": "直播","type_id": "直播"},
 {"type_name": "热门","type_id": "热门"},
